@@ -5,7 +5,7 @@ Build a single self-contained HTML campaign site from a folder of Markdown.
 Reads `site-content/` (world, characters, npcs, locations, factions, sessions,
 story), resolves [[wiki-links]] between pages, computes two-way "Mentioned in"
 backlinks, embeds images as base64 and an offline search index, and writes one
-file — `campaign_site.html` — with a Saga20-style sidebar, search, and per-entity
+file - `campaign_site.html` - with a Saga20-style sidebar, search, and per-entity
 pages. No server, no dependencies: double-click to open, zip to share, or upload
 the single file to a host later.
 
@@ -30,12 +30,12 @@ CAMPAIGN_TAGLINE = "An epic, cosmic saga in a dying, god-touched world."
 DM_NAME = "Krimson"
 PLAYERS = ["Felix", "Lark", "Billy", "Aeska", "Calder"]
 HOME_INTRO = [
-    "Saelunere is an orb adrift in an endless void — a world shaped by four gods "
+    "Saelunere is an orb adrift in an endless void - a world shaped by four gods "
     "and broken when one of them was slain. Twenty-eight years after the Theocide, "
     "the spilled blood of the mother goddess still corrupts the land, and the "
     "survivors cling to seven walled cities beneath a starless dark.",
     "This is the chronicle of the five who will shape what comes next.",
-    "— faithfully scribed by Claude, humble keeper of this wiki.",
+    "- faithfully scribed by Claude, humble keeper of this wiki.",
 ]
 
 # Sidebar section order + labels. Key = entity `type` (and default folder name).
@@ -70,7 +70,7 @@ TYPE_LABEL = {
 
 
 def type_label(p):
-    """Display label for a page's type chip — `label:` frontmatter overrides it."""
+    """Display label for a page's type chip - `label:` frontmatter overrides it."""
     return p.meta.get("label") or TYPE_LABEL.get(p.type, p.type)
 
 
@@ -246,7 +246,7 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
         line = lines[i]
         s = line.strip()
 
-        # Fenced code block — emit raw/escaped, no inline or wiki-link processing.
+        # Fenced code block - emit raw/escaped, no inline or wiki-link processing.
         if s.startswith("```"):
             flush_para(); flush_bq()
             i += 1
@@ -649,7 +649,7 @@ def _count_descendants(roots, children):
 def _dir_items(roots, children):
     out = []
     for r in roots:
-        summ = f' — <span class="dir-sum">{html.escape(r.summary)}</span>' if r.summary else ""
+        summ = f' - <span class="dir-sum">{html.escape(r.summary)}</span>' if r.summary else ""
         kids = children.get(r.id)
         sub = f'<ul class="dir-sub">{_dir_items(kids, children)}</ul>' if kids else ""
         out.append(f'<li><a href="#{r.id}">{html.escape(r.title)}</a>{summ}{sub}</li>')
@@ -675,7 +675,7 @@ def section_overview_html(key, label, plist, resolver, content_dir):
         bits = ", ".join(
             f"{html.escape(g)} ({_count_descendants(grouped[g], children)})"
             for g in group_order)
-        lead = f"{len(plist)} entries across {len(group_order)} groups — {bits}."
+        lead = f"{len(plist)} entries across {len(group_order)} groups - {bits}."
     else:
         lead = f"{len(plist)} entries."
 
@@ -1106,7 +1106,7 @@ def build():
     }
     previews_json = json.dumps(previews, ensure_ascii=False)
 
-    # Image array (each unique image once) — must be after page_html is built
+    # Image array (each unique image once) - must be after page_html is built
     # so every <img data-img> has been registered.
     images_json = json.dumps(_img_registry)
 
@@ -1120,7 +1120,7 @@ def build():
         "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n"
         "<meta charset=\"utf-8\">\n"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
-        f"<title>{html.escape(SITE_TITLE)} — {html.escape(SITE_SUBTITLE)}</title>\n"
+        f"<title>{html.escape(SITE_TITLE)} - {html.escape(SITE_SUBTITLE)}</title>\n"
         "<style>\n" + CSS + "\n</style>\n</head>\n<body>\n"
         '<aside class="sidebar">\n'
         f'<a class="brand" href="#home">{html.escape(SITE_TITLE)}</a>\n'
@@ -1137,7 +1137,7 @@ def build():
     out_path = base / OUTPUT_FILE
     out_path.write_text(out, encoding="utf-8")
     size_kb = out_path.stat().st_size / 1024
-    print(f"Built {OUTPUT_FILE} ({size_kb:.0f} KB) — {len(ordered)} pages")
+    print(f"Built {OUTPUT_FILE} ({size_kb:.0f} KB) - {len(ordered)} pages")
     for key, label in SECTIONS:
         n = len(pages_by_section.get(key, []))
         if n:

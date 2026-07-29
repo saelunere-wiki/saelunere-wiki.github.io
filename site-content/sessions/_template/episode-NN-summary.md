@@ -1,13 +1,13 @@
 ---
 type: session
-name: Episode NN — Summary
+name: Episode NN - Summary
 parent: Episode NN
 session: NN
 order: 1
 summary: The key events of Episode NN.
 ---
 
-# Episode NN — Summary
+# Episode NN - Summary
 
 ## Key events
 

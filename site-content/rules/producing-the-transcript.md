@@ -13,7 +13,7 @@ The transcript is the raw material for everything else. It's made with **Whisper
 (OpenAI Whisper transcription + speaker diarization, which adds the
 `[SPEAKER_00]:` labels). This page is the recipe for each session; the one-time
 install and Hugging Face token setup are in
-[WhisperX — Full Setup](#rules-whisperx-setup).
+[WhisperX - Full Setup](#rules-whisperx-setup).
 
 ## Pipeline
 
@@ -53,5 +53,5 @@ account:
 | `403 / gated repo` during diarization | Accept the pyannote model terms on Hugging Face, then log in |
 | `CUDA out of memory` | Use `--model small`, or `--device cpu` |
 | `WinError 2 ffmpeg` | Install FFmpeg inside the same environment |
-| One person split across several `SPEAKER_XX` | Normal — map them all to the same person |
+| One person split across several `SPEAKER_XX` | Normal - map them all to the same person |
 | Two people merged into one speaker | Rerun with a higher `--min_speakers` |

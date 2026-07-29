@@ -15,4 +15,4 @@ Sons, she forms the uneasy coalition currently representing
 
 ## Relationships
 
-- **Uneasy coalition with** [[Harriford Torman]] — co-representing the Union
+- **Uneasy coalition with** [[Harriford Torman]] - co-representing the Union

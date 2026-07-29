@@ -9,7 +9,7 @@ summary: Year 756. A 400-day year of four 100-day seasons named for the gods, ea
 # The Calendar & Seasons
 
 - **Current year:** 756
-- **The corruption began:** 728 (after the death of [[Aelia]] — see [[The Theocide]])
+- **The corruption began:** 728 (after the death of [[Aelia]] - see [[The Theocide]])
 - **Year length:** 400 days
 - **Each season:** 100 days
 
@@ -24,7 +24,7 @@ summary: Year 756. A 400-day year of four 100-day seasons named for the gods, ea
 
 ## Dates
 
-Dates are written as **[Season] [Day]** — for example, *Aela 22* is the 22nd day
+Dates are written as **[Season] [Day]** - for example, *Aela 22* is the 22nd day
 of Aela.
 
 ## Festival Days (Day 00)

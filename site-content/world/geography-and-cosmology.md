@@ -3,7 +3,7 @@ type: world
 name: Geography & Cosmology
 group: Cosmology & History
 order: 2
-summary: Saelunere is an orb floating in a void, sealed by the firmament — no sun, no moon, only light that grows and fades.
+summary: Saelunere is an orb floating in a void, sealed by the firmament - no sun, no moon, only light that grows and fades.
 ---
 
 # Geography & Cosmology

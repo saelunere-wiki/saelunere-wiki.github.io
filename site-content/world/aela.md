@@ -9,7 +9,7 @@ summary: Aasimar-like people born after the Theocide, marked by angelic, light-b
 
 # Aela
 
-Aasimar — known as Aela — are one of the two races that emerged after the
+Aasimar - known as Aela - are one of the two races that emerged after the
 [[The Theocide|theocide]] of [[Aelia]]. They are named for their innate angelic
 qualities and light-bearing skills, which remind people of the mother goddess
 herself.

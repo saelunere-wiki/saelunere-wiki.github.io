@@ -4,7 +4,7 @@ name: The Faith of the Four Kin
 aliases: [Aelia, Erethan, Salador, Yuna, Valar, The Four Kin, Four Kin]
 group: Cosmology & History
 order: 0
-summary: The creation myth — four divine siblings who made the world, and the jealous cousin who poisoned it.
+summary: The creation myth - four divine siblings who made the world, and the jealous cousin who poisoned it.
 ---
 
 # The Faith of the Four Kin
@@ -47,10 +47,10 @@ cold frost to bring the harvest seasons.
 
 ## The Four Kin
 
-- **Aelia** — the warrior of light; the mother goddess. Slain in [[The Theocide]].
-- **Erethan** — bringer of life, set against death.
-- **Salador** — master of water and the tides.
-- **Yuna** — bearer of flame, warmth, and the harvest.
-- **Valar** — the jealous cousin; origin of night, darkness, and evil.
+- **Aelia** - the warrior of light; the mother goddess. Slain in [[The Theocide]].
+- **Erethan** - bringer of life, set against death.
+- **Salador** - master of water and the tides.
+- **Yuna** - bearer of flame, warmth, and the harvest.
+- **Valar** - the jealous cousin; origin of night, darkness, and evil.
 
-The four seasons are named for the Kin — see [[The Calendar & Seasons]].
+The four seasons are named for the Kin - see [[The Calendar & Seasons]].

@@ -2,7 +2,7 @@
 type: location
 name: The Bellows
 parent: Parvo
-summary: Parvo's undercity — a maze of pipework and tunnels, home to engineers and criminals alike.
+summary: Parvo's undercity - a maze of pipework and tunnels, home to engineers and criminals alike.
 ---
 
 # The Bellows

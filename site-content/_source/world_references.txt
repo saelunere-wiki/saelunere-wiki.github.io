@@ -25,10 +25,10 @@ There is no sun or moon in the sky, with light simply growing over time of day a
 ──────────────────────────────────────
 
 🌦️ Seasons
-• Aela  (Spring) — Named after the mother goddess
-• Ember (Summer) — Named for the fires of Yuna
-• Terr  (Autumn) — Named for Erethan’s earth
-• Tide  (Winter) — Named for the storms of Salador
+• Aela  (Spring) - Named after the mother goddess
+• Ember (Summer) - Named for the fires of Yuna
+• Terr  (Autumn) - Named for Erethan’s earth
+• Tide  (Winter) - Named for the storms of Salador
 
 ──────────────────────────────────────
 
@@ -39,9 +39,9 @@ There is no sun or moon in the sky, with light simply growing over time of day a
 ──────────────────────────────────────
 
 🎉 Festival Days (Day 00)
-• Aela 00  — Everbring   (Growth and Life)
-• Ember 00 — Highbreath  (Joy and Freedom)
-• Terr 00  — Harvestfest (Plenty and Abundance)
-• Tide 00  — Frostmorn   (Remembrance)
+• Aela 00  - Everbring   (Growth and Life)
+• Ember 00 - Highbreath  (Joy and Freedom)
+• Terr 00  - Harvestfest (Plenty and Abundance)
+• Tide 00  - Frostmorn   (Remembrance)
 
 ────────────────────────────────────── 

@@ -4,28 +4,28 @@ name: Writing the Story
 label: Guide
 group: For the Archivist
 order: 5
-summary: How to write an episode's Story chapter — narrative prose, no dice, readable as a book.
+summary: How to write an episode's Story chapter - narrative prose, no dice, readable as a book.
 ---
 
 # Writing the Story
 
-The Story (`sessions/episode-NN/episode-NN-story.md`) is the **narrative chapter** —
+The Story (`sessions/episode-NN/episode-NN-story.md`) is the **narrative chapter** -
 written so someone who wasn't at the table can read it like a book. It is optional
 and made after the Summary.
 
-First read [Canon & Discipline](#rules-canon-and-discipline) — those rules apply in
+First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply in
 full, especially the per-scene presence ledger and citing every line of dialogue.
 
 ## Voice
 
 - **Third person, past tense**, staying close to one point of view per scene
   (usually whoever is acting most).
-- **Even, readable cadence** — what a competent novelist would do with the
+- **Even, readable cadence** - what a competent novelist would do with the
   material. Scene-paced and dialogue-driven, not purple.
 - Section breaks with `---` only; no headings inside the chapter.
 - For the chosen tone / author palette, see [Style & Voice](#rules-style-and-voice).
 
-## No mechanics — outcomes only
+## No mechanics - outcomes only
 
 The dice never appear in the prose. Translate every roll into what happened:
 
@@ -53,5 +53,5 @@ points, etc.). In-world money and named items are fine. Grep the draft for these
 - [ ] No NPC named who wasn't named on tape.
 - [ ] No banned mechanics terms (grep the list above).
 - [ ] No retrofitted dialogue and no sanitised fumbles.
-- [ ] No invented backstory — every reference traces to a character/world page.
+- [ ] No invented backstory - every reference traces to a character/world page.
 - [ ] Length matches the session's density; no padding.

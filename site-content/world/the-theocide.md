@@ -11,7 +11,7 @@ summary: 28 years ago the goddess Aelia was slain; her blood corrupted the world
 Twenty-eight years ago, [[Aelia]] died.
 
 Every person watched as the warrior of light was cut down, a black gash opening
-her from shoulder to hip. It took many months — a slow and agonizing death
+her from shoulder to hip. It took many months - a slow and agonizing death
 witnessed by those below. At first they hoped it was just a flesh wound, until
 the cut became a ravine, dark ichor pouring out for weeks until it covered the
 sky in days of eclipse.
@@ -36,7 +36,7 @@ leak inside. Rain turned pure black, acrid and withering. Whole cities died
 overnight, the air heavy with choking black dust, their corpses riddled with grey
 veins and mutations.
 
-People survived, as they always do — some through protective magics, others
+People survived, as they always do - some through protective magics, others
 through great feats of engineering, others still purely on luck and
 determination. Over time, the survivors gathered to the safest places and built
 on what was left. Seven of those refuges endured: [[The Seven Cities]].
@@ -45,7 +45,7 @@ on what was left. Seven of those refuges endured: [[The Seven Cities]].
 
 The first child born after the cry of the gods was an Aasimar. From that point
 onwards, all children born were either Aasimar or Tieflings, seemingly at
-random — known as [[Aela]] or [[Darkin]].
+random - known as [[Aela]] or [[Darkin]].
 
 ## Living memory, or a story
 

@@ -15,4 +15,4 @@ Company, he forms the uneasy coalition currently representing
 
 ## Relationships
 
-- **Uneasy coalition with** [[Julie Longfellow]] — co-representing the Union
+- **Uneasy coalition with** [[Julie Longfellow]] - co-representing the Union

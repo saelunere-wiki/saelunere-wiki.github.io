@@ -3,7 +3,7 @@ type: faction
 name: The Water Company
 group: Guilds
 status: City Council guild
-summary: Keeper of Parvo's scarce clean water; tries to stay neutral in council politics — a thankless job.
+summary: Keeper of Parvo's scarce clean water; tries to stay neutral in council politics - a thankless job.
 ---
 
 # The Water Company

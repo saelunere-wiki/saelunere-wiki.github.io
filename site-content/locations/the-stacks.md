@@ -2,7 +2,7 @@
 type: location
 name: The Stacks
 parent: Parvo
-summary: Homes built up the side of Parvo's warm central chimney — vertical, insular communities of the poorer classes.
+summary: Homes built up the side of Parvo's warm central chimney - vertical, insular communities of the poorer classes.
 ---
 
 # The Stacks
@@ -22,7 +22,7 @@ it does in the regular groundside districts below.
 While travelling all the way up to the highest buildings can be a tiresome feat,
 some residents have everything they need in the Stacks and rarely travel down,
 creating insular communities high above the bustle. This close to the constantly
-operating essence engine, the air is humid and thick with a misty runoff — not
+operating essence engine, the air is humid and thick with a misty runoff - not
 quite pollutant, not quite pure. For this reason, and the awkwardness of vertical
 navigation, the houses here are less in demand and tend to be inhabited by the
 poorer parts of the city and the waves of refugees who arrived after

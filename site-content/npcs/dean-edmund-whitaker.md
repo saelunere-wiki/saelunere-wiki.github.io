@@ -14,7 +14,7 @@ Dean of [[The College of Arcanographers]], and its representative on
 
 ## Relationships
 
-- *(To be filled as the party learns them — e.g. ties to player characters,
+- *(To be filled as the party learns them - e.g. ties to player characters,
   and his standing among the guilds on [[The City Council]].)*
 
 ## Fun to know
