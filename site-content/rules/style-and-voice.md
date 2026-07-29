@@ -22,6 +22,9 @@ Clean, readable storybook prose: third person, past tense, scene-paced and
 dialogue-driven. Clear over clever. This is the safe default and what the Story
 chapters use unless a palette is chosen below.
 
+**No em dashes.** Use a regular hyphen, a comma, or split into two sentences
+instead. A house style preference, not up for debate per palette.
+
 ## Author palette (optional)
 
 The prose can deliberately mimic a particular author's style — the previous

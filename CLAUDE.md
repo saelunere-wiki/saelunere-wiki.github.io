@@ -29,6 +29,9 @@ optional story chapters.
 - **Character stat sheets are intentionally left off** the shared site (players
   shouldn't see each other's builds). Can be added later if wanted — see
   `site-content/README.md`.
+- **No em dashes** in any written content (chat replies included) - use a
+  regular hyphen, a comma, or split into two sentences instead. House style
+  preference from the DM; em dashes read as an AI tell.
 
 ## Sessions / episodes structure
 
