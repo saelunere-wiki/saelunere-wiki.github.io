@@ -1,0 +1,22 @@
+HOW TO ADD A NEW EPISODE
+========================
+
+1. Copy this whole "_template" folder and rename it to the next episode,
+   e.g. "episode-02".  (Folders starting with "_" are ignored by the site
+   builder, which is why this template never shows up on the website.)
+
+2. Rename the three markdown files inside:
+      episode-NN.md          -> episode-02.md
+      episode-NN-summary.md  -> episode-02-summary.md
+      episode-NN-story.md    -> episode-02-story.md
+
+3. In each file, replace "NN" with the episode number in BOTH the frontmatter
+   (name:, session:) and the body heading.
+
+4. Drop the raw WhisperX transcript into the episode's "transcript/" folder.
+
+5. Write the Summary (and optionally the Story), then run:
+      python build_site.py
+
+The episode will appear in the Sessions section, with its Summary and Story
+nested underneath it.

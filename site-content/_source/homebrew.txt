@@ -1,0 +1,25 @@
+Skills
+
+Splitting the Arcana and History skills up - So whenever you have a chance to gain proficiency in either, you have to choose which subset of the skill you will get proficiency in. 
+
+History will be split into:
+
+History (Ancient) - This is the history of the world before theocide including it's geography, society, technology and the study of things potentially 'lost' following the fall.
+
+History (Municipal) - This is the history of Parvo, mostly focused on it's transformation from an Essence Plant into the city it is today. Includes checks about the layout of the city, it's districts and it's people
+
+History (Politics)  - More up to date knowledge on who is who, which factions have power where, connections, schemes and areas of control within the city. (There is an option here to use Charisma as the base ability rather than Intelligence for this skill, if it fits the character)
+
+--- 
+Arcana will be split into:
+
+Arcana (Engineering) - Practical uses of magic, particularly essence machinery and understanding magical technology from everyday items to powerful artifacts. Since the majority of 'technology' has a magical element, this covers most machinery used in the city.
+
+Arcana (Arcanography) - Magic as a science, understanding how magic and essence connect and work within the world, a lesser understanding of specific item usage but a better understanding of why the systems function overall.
+
+--- 
+Spells
+
+Detect Magic  - Removed - With magic being far more prevelant and innately presence in all beings, an Arcana (Arcanography) check will function in the same way as this spell and can be performed by anyone. 
+
+(There may be more changes and tweaks coming to certain spells) 

@@ -1,0 +1,7 @@
+Put the raw WhisperX output for Episode 1 in this folder
+(e.g. the speaker-diarized .txt transcript, and the speaker_map if you make one).
+
+These files are NOT published to the website — they're just the raw source you
+work from when writing episode-01-summary.md and episode-01-story.md.
+
+You can delete this placeholder file once the real transcript is here.
