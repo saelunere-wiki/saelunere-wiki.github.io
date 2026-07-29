@@ -14,6 +14,9 @@ beyond a pure power source. They generally lack respect from the other guilds du
 to the theoretical nature of their studies, and are largely uninvolved in
 politics, buried in their work instead. They hold a seat on [[The City Council]].
 
+The College admits students ad hoc, with no fixed terms. When a seat frees up, a
+professor interviews a candidate to fill it.
+
 - **Dean:** [[Dean Edmund Whitaker]]
 
 ## The Spire

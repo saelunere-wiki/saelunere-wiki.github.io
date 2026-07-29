@@ -13,6 +13,9 @@ with the creation and maintenance of Essence Cores — the devices that power an
 run [[Constructs]]. It is a powerful faction, given the essential nature of
 constructs in the city and the more "mysterious" quality of their functionality.
 
+It operates semi-independently of the Engineers. The two share goals and the
+Corewrights are broadly supportive, but they are not under GoE command.
+
 - **Corewright:** [[Kerwin Aberford]]
 
 ## The Spire

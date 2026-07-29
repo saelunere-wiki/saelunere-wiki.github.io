@@ -21,6 +21,10 @@ up too much space or resources to keep in [[Parvo]].
 
 They are run by Essence Cores, which are the remit of [[The Corewright's Association]].
 
+Nothing that uses a core is truly cheap, and a recycled core costs less than a
+new one. That is why breaking, repairing, and recovering constructs is such
+steady work in Parvo.
+
 ## Common types
 
 Although there are many variations and specializations, four types are seen in

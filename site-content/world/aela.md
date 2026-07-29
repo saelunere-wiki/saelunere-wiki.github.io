@@ -19,4 +19,7 @@ with radiant light, or to be shrouded in a dark shroud. They resemble humans but
 often exhibit "angelic" qualities such as glittering freckles, luminous eyes, or
 radiant skin tones.
 
+Just as some older folk tie Darkin features to the evil of Valar, others link the
+radiant light of the Aela to [[Aelia]] herself.
+
 See also their counterpart, the [[Darkin]].
