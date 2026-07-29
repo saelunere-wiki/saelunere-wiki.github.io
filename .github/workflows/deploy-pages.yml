@@ -29,7 +29,7 @@ jobs:
       - name: Validate content — no secrets, no leftover DM-only markers
         run: |
           set -e
-          if grep -rniE "DM[ _-]?ONLY|DO NOT PUBLISH|HIDDEN MOTIVE|FUTURE PLOT|PRIVATE NOTE" site-content/; then
+          if grep -rnE "DM[ _-]?ONLY|DO NOT PUBLISH|HIDDEN MOTIVE|FUTURE PLOT|PRIVATE NOTE" site-content/; then
             echo "::error::Found a secret/DM-only marker in site-content/ — aborting deploy."
             exit 1
           fi
