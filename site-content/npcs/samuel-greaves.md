@@ -11,5 +11,3 @@ summary: Director of the Water Company.
 
 Director of [[The Water Company]], striving to keep the supply of clean water
 above the factionalism of [[The City Council]].
-
-*Details to come.*

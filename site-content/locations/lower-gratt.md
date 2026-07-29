@@ -8,5 +8,3 @@ summary: One of the seven cities that survived the fall.
 # Lower Gratt
 
 One of [[The Seven Cities]] that survived [[The Theocide]].
-
-*Details to come.*

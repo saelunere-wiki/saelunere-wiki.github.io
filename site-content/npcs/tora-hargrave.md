@@ -10,5 +10,3 @@ summary: Leads the Toolmaker's Guild within the Craftwork Consortium.
 # Tora Hargrave
 
 Leads the Toolmaker's Guild within [[The Craftwork Consortium]].
-
-*Details to come.*
