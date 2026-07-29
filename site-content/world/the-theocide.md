@@ -26,7 +26,7 @@ shadows dwelt uncomfortably, plants withered, and the land greyed. All the while
 Aelia's corpse lay floating out in the void, slowly getting smaller and smaller
 as she drifted away.
 
-![Aelia adrift in the void](aelia-in-the-void.png)
+![Aelia adrift in the void](_images/aelia-in-the-void.webp)
 
 ## The Rain of Blood
 

@@ -18,7 +18,7 @@ The city is roughly circular, a consequence of its once-planned construction. It
 features a number of districts, named over time as the population swelled with
 refugees fleeing the outside.
 
-![The districts of Parvo](parvo-districts.png)
+![The districts of Parvo](_images/parvo-districts.webp)
 
 ## History
 

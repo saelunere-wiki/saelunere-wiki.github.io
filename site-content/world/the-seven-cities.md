@@ -24,7 +24,7 @@ Seven cities survived the fall:
 - [[High Grat]]
 - [[Lower Gratt]]
 
-![Map of Saelunere](saelunere-map.png)
+![Map of Saelunere](_images/saelunere-map.webp)
 
 ## Where they sit (the map)
 

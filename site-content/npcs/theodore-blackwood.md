@@ -5,6 +5,7 @@ aliases: [Theo, Theo Blackwood]
 faction: The Guild of Engineers
 status: Chief Essence Transfer Supervisor
 pronouns: he/him
+portrait: _images/theodore-blackwood.webp
 summary: Charismatic guild spokesperson and reformist politician - the party's connection in Parvo.
 ---
 
@@ -34,6 +35,8 @@ power lying in the hands of the biggest guilds. While still a small movement, hi
 standing in the labouring communities and his general charisma have built a
 following for his ideas among the Stacks and the less politically mobile
 communities of the city.
+
+![Theodore Blackwood](_images/theodore-blackwood-full.webp)
 
 ## Relationships
 
