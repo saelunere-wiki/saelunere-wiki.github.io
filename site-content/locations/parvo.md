@@ -11,7 +11,7 @@ Parvo, a city of spires, surrounds the chimney of a power plant powered by a hug
 essence engine. The poorer districts have built up over time with their buildings
 backing onto the chimney, its warmth a free comfort through ever-colder nights.
 Richer residents build towers further from the chimney, the outer ring of the
-city being the most sought-after — as far as possible from the humidity and
+city being the most sought-after - as far as possible from the humidity and
 pollution of the centre.
 
 The city is roughly circular, a consequence of its once-planned construction. It
@@ -36,7 +36,7 @@ runoff. The engineers within were quick to patch roofs and add shelter over the
 industrial buildings, creating a contained space where very little corruption
 could seep in through rainfall.
 
-Parvo became a safe haven, and the surrounding settlements quickly flooded in —
+Parvo became a safe haven, and the surrounding settlements quickly flooded in -
 the engineering guilds that had worked in the facility unwilling, or simply
 unable, to turn them away. It is one of [[The Seven Cities]].
 
@@ -44,14 +44,14 @@ unable, to turn them away. It is one of [[The Seven Cities]].
 
 The city reads as a series of rings, from the dead centre out to the wall.
 
-- **The central chimney** — the colossal essence-plant chimney at the dead centre
-- [[The Stacks]] — the poorest district; homes built up the sides of the warm chimney
-- [[The Core]] — the ring of districts inside the Furlong; industry and government
-- [[The Furlong]] — the great ring road, carrying the Circular tram
-- [[The Outlines]] — everything between the Furlong and the outer wall, where [[The Spires]] and the mansions stand
-- **The outer curtain wall** — the hard edge of the city, and the reason it survived
+- **The central chimney** - the colossal essence-plant chimney at the dead centre
+- [[The Stacks]] - the poorest district; homes built up the sides of the warm chimney
+- [[The Core]] - the ring of districts inside the Furlong; industry and government
+- [[The Furlong]] - the great ring road, carrying the Circular tram
+- [[The Outlines]] - everything between the Furlong and the outer wall, where [[The Spires]] and the mansions stand
+- **The outer curtain wall** - the hard edge of the city, and the reason it survived
 
-Beneath all of it runs [[The Bellows]], the undercity of pipework and tunnels —
+Beneath all of it runs [[The Bellows]], the undercity of pipework and tunnels -
 not another ring but a layer, running under every district above.
 
 ## Governance

@@ -7,7 +7,7 @@ summary: The outermost and most desirable ring of Parvo, between the Furlong and
 
 # The Outlines
 
-Everything between [[The Furlong]] and the outer curtain wall — the outermost and
+Everything between [[The Furlong]] and the outer curtain wall - the outermost and
 most desirable ring of [[Parvo]], where the air is clearest and furthest from the
 chimney's runoff.
 

@@ -9,9 +9,9 @@ summary: One of Parvo's biggest guilds; masters of essence machinery, and the gu
 # The Guild of Engineers
 
 The Guild of Engineers is one of the biggest in [[Parvo]], and the same guild that
-built and ran the original essence plant before [[The Theocide]] — it has carried
+built and ran the original essence plant before [[The Theocide]] - it has carried
 the name unchanged. They encompass everything related to essence machinery in the
-city — from maintenance and renewal to innovation — and hold a seat on
+city - from maintenance and renewal to innovation - and hold a seat on
 [[The City Council]].
 
 - **Head Engineer:** [[Dr. Mannsfield T. Tammerton]]
