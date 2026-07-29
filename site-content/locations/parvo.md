@@ -42,10 +42,17 @@ unable, to turn them away. It is one of [[The Seven Cities]].
 
 ## Districts
 
-- [[The Bellows]] — the undercity of pipework and tunnels
-- [[The Stacks]] — homes built up the warm central chimney
-- [[The Furlong]] — the great ring road and the Circular tram
-- [[The Spires]] — the towers of the rich and powerful
+The city reads as a series of rings, from the dead centre out to the wall.
+
+- **The central chimney** — the colossal essence-plant chimney at the dead centre
+- [[The Stacks]] — the poorest district; homes built up the sides of the warm chimney
+- [[The Core]] — the ring of districts inside the Furlong; industry and government
+- [[The Furlong]] — the great ring road, carrying the Circular tram
+- [[The Outlines]] — everything between the Furlong and the outer wall, where [[The Spires]] and the mansions stand
+- **The outer curtain wall** — the hard edge of the city, and the reason it survived
+
+Beneath all of it runs [[The Bellows]], the undercity of pipework and tunnels —
+not another ring but a layer, running under every district above.
 
 ## Governance
 

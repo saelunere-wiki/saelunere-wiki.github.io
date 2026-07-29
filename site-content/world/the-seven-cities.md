@@ -25,3 +25,15 @@ Seven cities survived the fall:
 - [[Lower Gratt]]
 
 ![Map of Saelunere](saelunere-map.png)
+
+## Where they sit (the map)
+
+- **Parvo** - the **hub**, at the southern foot of the central massif. Compasses point at it.
+- **High Grat** - upland, a short way edgeward of Parvo toward the northern rim.
+- **Lower Gratt** - further edgeward along that same road, near the northern coast (High = upland, Lower = downhill).
+- **Malatch** - edgeward on the counterwise flank (inland-ish, upper-left of the disc).
+- **Orloc** - on the eastern coast, edgeward and turnwise of the Gratts.
+- **Janarad** - on the southern coast, further turnwise - a genuine **port** city.
+- **Humbra** - on the southwestern coast, edgeward on the counterwise flank.
+
+Going **turnwise** (clockwise) around the rim: Lower Gratt -> Orloc -> Janarad -> Humbra -> Malatch, and round again.

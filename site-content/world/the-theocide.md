@@ -46,3 +46,7 @@ on what was left. Seven of those refuges endured: [[The Seven Cities]].
 The first child born after the cry of the gods was an Aasimar. From that point
 onwards, all children born were either Aasimar or Tieflings, seemingly at
 random — known as [[Aela]] or [[Darkin]].
+
+## Living memory, or a story
+
+For **Humans** - everyone born before 728 - the Theocide is **living memory**, and a raw one. They watched the sky open and heard the Godswail, and to them twenty-eight years is no time at all. For the **Aela and Darkin**, every one of whom was born after it, it is simply **a story about a world before they existed**. The generational gulf is real: the young cannot feel what the old cannot forget.

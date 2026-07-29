@@ -60,3 +60,15 @@ dangerous-looking conical heads. Many guild enforcers use Howls as guard dogs an
 enforcement tools, especially suited to hunting targets through the narrow turns
 of [[The Bellows]] and [[The Stacks]]. As expensive designs, they are less common
 in poorer neighbourhoods.
+
+## The four common types
+
+There are many variations and specialisations, but four types are seen in day-to-day life.
+
+**Bullyboy** - quadrupedal beasts of burden, most often likened to a horse or an ox. Large bodies, four legs, and **no head**: instead, set between the shoulders of the front legs, a large circular disc serves as both lamp and every sensory organ they have. They are the **least intelligent** of the constructs, usually standing completely idle until given very simple commands, and are used for haulage and as traction engines.
+
+**Gladhand** - something between a spider and a crab, roughly the size of a wash basket, with ten legs arranged symmetrically around a circular torso and two stalk-like antenna "eyes." Their dexterity makes them ideal for climbing buildings and working gantries and ceilings where a person struggles. Their spindly limbs are fragile, which makes them relatively precious and the most maintenance-hungry of the common models.
+
+**Scratcher** - named for the sound of their small metal feet on Parvo's floors. Rodent-like, usually foot-sized, and made chiefly to **carry messages**. Fast, able to slip through small gaps and run along walls and gutters, with intelligence enough to navigate the city's complicated streets. Eyes at both ends of a torpedo-shaped torso, and six little legs.
+
+**Howl** - the most intelligent and advanced of the common models. Very similar to dogs (which are still common in the city), with lithe, muscular hound-like bodies and dangerous-looking conical heads. Many guild enforcers use Howls as **guard dogs and enforcement tools**, especially suited to hunting a target through the narrow turns of [[The Bellows]] and [[The Stacks]]. An expensive design, so less common in poorer neighbourhoods.

@@ -37,3 +37,22 @@ Each season opens with a festival on its zeroth day:
 | Highbreath | Ember 00 | Joy and Freedom |
 | Harvestfest| Terr 00  | Plenty and Abundance |
 | Frostmorn  | Tide 00  | Remembrance |
+
+## The week
+
+Time is also counted in **ten-day weeks** - a season is exactly ten weeks, a year forty. The names are ancient (the week was fixed some seven hundred years ago) and worn down since. With no sun or moon, they are drawn from the [[The Faith of the Four Kin|Four Kin]], their jealous cousin [[The Theocide|Valar]], and the phases of the daily light:
+
+- **1. Aelsdae** - Aelia, mother of light
+- **2. Ersdae** - Erethan, second of the Kin
+- **3. Wexdae** - the waxing light
+- **4. Lumesdae** - the light at its full
+- **5. Varsdae** - Valar, the jealous dark; ill-omened
+- **6. Vesdae** - the failing light
+- **7. Yunsdae** - Yuna, fire
+- **8. Depsdae** - the Deep sea
+- **9. Salsdae** - Salador, tide and storm
+- **10. Kinsdae** - the Four Kin together; **the rest day**
+
+**Kinsdae** is the one day of rest: nine on, one off. It is observed city-wide, but loosely - like a western Sunday, most trades stand down while plenty still work it. The well-off take more; a single Kinsdae is the labourer's lot.
+
+Because the week divides the season exactly, **day 00 - each season's festival - always lands on a Kinsdae.** The four festivals are the grandest rest days of the year, the tenth Kinsdae of their season writ large.

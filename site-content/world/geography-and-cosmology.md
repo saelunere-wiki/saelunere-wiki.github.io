@@ -21,3 +21,14 @@ source. Stars are visible in the sky far off in the void, though nothing is know
 of their purpose or origin.
 
 For how time is reckoned in this world, see [[The Calendar & Seasons]].
+
+## The compass - a disc, not a globe
+
+Saelunere is a spinning disc-world. The continent nearly fills the disc, wrapped in a world-sea - the **ring-sea** - inside the rim. A compass needle does not point to a pole; it points **hubward**, toward the centre of the disc, where the great central mountain massif stands at the world's heart.
+
+- **Hubward** - toward the centre (replaces "north").
+- **Edgeward** (or Rimward) - toward the rim / the ring-sea (replaces "south").
+- **Turnwise** - the direction of the orb's spin, clockwise viewed from above (replaces "west").
+- **Counterwise** - against the spin, anticlockwise (replaces "east").
+
+The orb's rotation drives the ring-sea's **tides** but does not move the needle. Every major river rises in the central massif and runs **edgeward** to the sea.
