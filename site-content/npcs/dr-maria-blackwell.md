@@ -11,5 +11,3 @@ summary: Surgeon General of the Institute of Physikers.
 
 Surgeon General of [[The Institute of Physikers]], and its representative on
 [[The City Council]].
-
-*Details to come.*

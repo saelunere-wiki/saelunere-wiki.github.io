@@ -11,5 +11,3 @@ summary: Corewright of the Corewright's Association, keepers of the Essence Core
 
 Corewright of [[The Corewright's Association]], the sub-guild responsible for the
 Essence Cores that power [[Constructs]].
-
-*Details to come.*

@@ -11,5 +11,3 @@ summary: Leader of the up-and-coming Wainwright's Guild.
 
 Leads [[The Wainwright's Guild]], the up-and-coming cartwrights who oversaw the
 implementation of the Circular on [[The Furlong]].
-
-*Details to come.*
