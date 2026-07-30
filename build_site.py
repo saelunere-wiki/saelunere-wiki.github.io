@@ -832,6 +832,26 @@ figure img{max-width:100%;height:auto;border-radius:8px;box-shadow:var(--shadow)
   margin:1.5rem auto;box-shadow:var(--shadow)}
 /* Maps and large diagrams: keep them comfortably within the reading column */
 .page-body p>img:only-child{max-width:min(560px,100%)}
+
+/* Click-to-enlarge overlay: zoom and pan, for maps with small labels */
+.page-body img,figure img,.avatar-img,.portrait img{cursor:zoom-in}
+#lightbox{position:fixed;inset:0;z-index:200;display:none;
+  background:rgba(0,0,0,.93);touch-action:none;overflow:hidden}
+#lightbox.open{display:block}
+#lightbox img{position:absolute;top:0;left:0;transform-origin:0 0;
+  max-width:none;max-height:none;margin:0;border-radius:0;box-shadow:none;
+  cursor:grab;user-select:none;-webkit-user-drag:none}
+#lightbox.grabbing img{cursor:grabbing}
+#lb-close{position:fixed;top:.7rem;right:1rem;z-index:201;
+  background:rgba(0,0,0,.45);color:#fff;border:1px solid rgba(255,255,255,.28);
+  border-radius:8px;font-size:1.5rem;line-height:1;padding:.25rem .6rem;
+  cursor:pointer;font-family:inherit}
+#lb-close:hover{background:rgba(0,0,0,.75)}
+#lb-hint{position:fixed;bottom:.9rem;left:50%;transform:translateX(-50%);
+  z-index:201;color:rgba(255,255,255,.8);font-size:.78rem;letter-spacing:.02em;
+  background:rgba(0,0,0,.5);padding:.32rem .8rem;border-radius:999px;
+  pointer-events:none;white-space:nowrap}
+@media (max-width:600px){#lb-hint{font-size:.7rem}}
 hr{border:none;border-top:1px solid var(--rule);margin:2rem 0}
 
 /* Wiki links */
@@ -1039,6 +1059,100 @@ JS_TEMPLATE = r"""
     var ix = +imgs[n].getAttribute('data-img');
     if(IMAGES[ix]) imgs[n].src = IMAGES[ix];
   }
+
+  // Click-to-enlarge. Opens a full-screen overlay you can zoom and pan, so the
+  // small labels on the maps are actually readable.
+  (function(){
+    var box=document.createElement('div'); box.id='lightbox';
+    var im=document.createElement('img'); im.alt='';
+    var closeBtn=document.createElement('button'); closeBtn.id='lb-close';
+    closeBtn.innerHTML='×'; closeBtn.setAttribute('aria-label','Close');
+    var hint=document.createElement('div'); hint.id='lb-hint';
+    box.appendChild(im); box.appendChild(closeBtn); box.appendChild(hint);
+    document.body.appendChild(box);
+
+    var scale=1,minScale=1,tx=0,ty=0,natW=0,natH=0;
+    var dragging=false,sx=0,sy=0,moved=false;
+
+    function apply(){
+      im.style.transform='translate('+tx+'px,'+ty+'px) scale('+scale+')';
+    }
+    function fit(){
+      var vw=window.innerWidth,vh=window.innerHeight;
+      if(!natW||!natH) return;
+      minScale=Math.min(vw/natW,vh/natH,1);
+      scale=minScale;
+      tx=(vw-natW*scale)/2; ty=(vh-natH*scale)/2;
+      apply();
+    }
+    function updHint(){
+      hint.textContent=Math.round(scale*100)+'%  ·  scroll to zoom, drag to '+
+        'pan, double-click to reset, Esc to close';
+    }
+    function zoomAt(cx,cy,factor){
+      var ns=Math.max(minScale,Math.min(scale*factor,8));
+      if(ns===scale) return;
+      tx=cx-(cx-tx)*(ns/scale); ty=cy-(cy-ty)*(ns/scale);
+      scale=ns; apply(); updHint();
+    }
+    function open(src){
+      im.src=src;
+      var probe=new Image();
+      probe.onload=function(){
+        natW=probe.naturalWidth; natH=probe.naturalHeight;
+        box.classList.add('open'); fit(); updHint();
+      };
+      probe.src=src;
+    }
+    function shut(){ box.classList.remove('open'); im.src=''; }
+
+    document.addEventListener('click',function(e){
+      var t=e.target;
+      if(!t||t.tagName!=='IMG'||box.contains(t)) return;
+      if(!t.closest||!t.closest('.page-body,figure,.avatar,.portrait')) return;
+      e.preventDefault(); open(t.currentSrc||t.src);
+    });
+    closeBtn.addEventListener('click',function(e){ e.stopPropagation(); shut(); });
+    box.addEventListener('click',function(e){
+      if(e.target===closeBtn) return;
+      if(moved){ moved=false; return; }
+      shut();
+    });
+    box.addEventListener('wheel',function(e){
+      e.preventDefault();
+      zoomAt(e.clientX,e.clientY,e.deltaY<0?1.15:1/1.15);
+    },{passive:false});
+    box.addEventListener('dblclick',function(e){
+      e.preventDefault();
+      if(scale>minScale*1.05){ fit(); updHint(); }
+      else zoomAt(e.clientX,e.clientY,3);
+    });
+    box.addEventListener('pointerdown',function(e){
+      if(e.target===closeBtn) return;
+      dragging=true; moved=false; sx=e.clientX-tx; sy=e.clientY-ty;
+      box.classList.add('grabbing');
+      try{ box.setPointerCapture(e.pointerId); }catch(err){}
+    });
+    box.addEventListener('pointermove',function(e){
+      if(!dragging) return;
+      tx=e.clientX-sx; ty=e.clientY-sy;
+      if(Math.abs(e.movementX||0)+Math.abs(e.movementY||0)>2) moved=true;
+      apply();
+    });
+    box.addEventListener('pointerup',function(){
+      dragging=false; box.classList.remove('grabbing');
+    });
+    window.addEventListener('keydown',function(e){
+      if(!box.classList.contains('open')) return;
+      if(e.key==='Escape'){ shut(); }
+      else if(e.key==='+'||e.key==='='){ zoomAt(innerWidth/2,innerHeight/2,1.3); }
+      else if(e.key==='-'){ zoomAt(innerWidth/2,innerHeight/2,1/1.3); }
+      else if(e.key==='0'){ fit(); updHint(); }
+    });
+    window.addEventListener('resize',function(){
+      if(box.classList.contains('open')) fit();
+    });
+  })();
 })();
 """
 
