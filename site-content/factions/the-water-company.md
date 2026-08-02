@@ -34,4 +34,6 @@ Its neutrality was a decision made in those first years, and made out of fear. W
 
 For the poor, **getting water is as hard as getting food**. Clean water is bought, and what the Company supplies does not reach everyone equally.
 
+The scarcity is specifically of *clean* water. Water for washing, laundry, and the rest is easy enough to come by, and nobody drinks it (see [[Water & Hygiene]]).
+
 The alternative is to **boil it** - which is safer, and which means first finding water worth boiling. In practice that means **waste water**, and the business of collecting it is exactly as unpleasant as it sounds. It is ordinary, unremarkable, and quietly humiliating: a household that boils is a household that could not buy.
