@@ -2,8 +2,9 @@ One page per session, in the order they were played. Each episode is a folder
 containing the **Summary**, the scannable record of what happened, and
 optionally a **Story**, the same events written as a narrative chapter.
 
-The raw session transcripts live alongside them in the repository. They are not
-published to this site, but anyone with repository access can read them.
+The raw session transcripts are kept in the repository alongside each episode.
+They are not part of this site, but they are public and anyone can read them, or
+work from them. Each episode page links to its own.
 
 | Episode | Played | In world |
 |---|---|---|
