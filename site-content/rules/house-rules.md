@@ -43,4 +43,6 @@ proficiency in either, choose **which subset** you gain proficiency in.
   in all beings, an *Arcana (Arcanography)* check functions in the same way as
   this spell and can be performed by anyone.
 
+- **Revivify, Resurrection - Removed.** Death is permanent.
+
 *(More changes and tweaks to certain spells may be coming.)*

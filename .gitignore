@@ -22,9 +22,17 @@ proposed-updates/
 *.srt
 *.vtt
 
-# Raw per-episode WhisperX output — source material only, never published
+# Raw per-episode WhisperX output. Committed on purpose, so that players and the
+# DM all work from the same source rather than passing files around. The builder
+# only ever reads *.md, so none of this appears on the website - it lives in the
+# repository only. Note the repository is public: anything here is public too.
+#
+# Committed:  the readable .txt, the timestamped .srt, and the speaker map.
+# Kept out:   the word-level .json (~6MB per episode) and the redundant .vtt.
 site-content/sessions/*/transcript/*
-!site-content/sessions/*/transcript/PLACE_WHISPERX_OUTPUT_HERE.txt
+!site-content/sessions/*/transcript/*.txt
+!site-content/sessions/*/transcript/*.srt
+!site-content/sessions/*/transcript/speaker_map.json
 
 # Secrets and credentials
 *.token

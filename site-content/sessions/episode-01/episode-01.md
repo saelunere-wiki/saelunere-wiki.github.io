@@ -3,7 +3,7 @@ type: session
 name: Episode 1
 session: 1
 order: 0
-date:
+date: 2026-08-07
 summary: First session - to be filled in after the game.
 ---
 
@@ -11,7 +11,8 @@ summary: First session - to be filled in after the game.
 
 > *Session record. Replace the placeholders below after the game.*
 
-- **Date played:** _TBD_
+- **Date played:** 7 August 2026
+- **In world:** Terr 00, 756 - Kins Day, and [[The Calendar & Seasons|Harvest Fest]], the last day of autumn
 - **In attendance:** _TBD_
 - **In brief:** _TBD_
 
