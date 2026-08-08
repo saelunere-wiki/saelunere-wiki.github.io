@@ -33,3 +33,10 @@ Pale stone and dark ironwork interweave all the way up: deep ribs and flutes run
 Despite this, it is clearly a **working building**. Vent stacks and service galleries are left plainly visible where another guild might have buried them - the whole tower carries the low constant sound of machinery through its stone. Imposing and grandiose, yet retaining the function of being the hub of engineering in the city.
 
 The topmost level is an **open-air plaza**, flagged and balustraded, open to the sky at the highest point in the city - and **shielded by magic**. Protected from wind and weather, the rain stops at a line you cannot see, and Parvo lies underneath from the curtain wall to the chimney. It is the guild's one extravagant gesture, and nobody who has been up there forgets it. The Head Engineer's quarters occupy the levels beneath it.
+
+## The Guardsmen Brigade
+
+The guild's own uniformed force, in **black and gold**. They carry **essence
+carbines**. Three of them, under [[Sergeant Tanner]], reached [[Oblong Square]]
+within minutes of [[Theodore Blackwood]]'s death and moved to take witnesses back
+to the spire.

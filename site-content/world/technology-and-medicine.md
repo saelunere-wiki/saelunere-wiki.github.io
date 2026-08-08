@@ -20,6 +20,15 @@ Medicine is **quite advanced, because of magic**. An injury that would kill a pe
 For all that, **prosthetics remain crude**. The technology to control essence-core machinery **through nerve endings does not exist**, so replacement limbs are simple, mechanical, and **unpowered**. Someone who loses an arm gets a functional tool, not a working hand.
 
 
+## Essence firearms
+
+Guild forces carry weapons that use an **essence core to drive a bolt** far harder
+and faster than any bow or crossbow could. The **essence pistol** is the sidearm;
+the **essence carbine** is the heavier shoulder weapon the
+[[The Guild of Engineers|Guild of Engineers']] Guardsmen Brigade carries, and its
+first shot can be overcharged before it needs to recharge. They are guild
+equipment, and rare in anyone else's hands.
+
 ## Magic and who gets to use it
 For the poorer parts of the city, the limits on magic are **material components and education** - not law, and not birth. Nothing stops a poor Parvosian from using magic. What stops them is that they cannot afford the materials and have no way to learn new spells. Building essence machinery is gated the same way: it takes knowledge *and* access to cores.
 

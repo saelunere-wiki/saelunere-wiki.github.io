@@ -3,10 +3,10 @@ type: npc
 name: Theodore Blackwood
 aliases: [Theo, Theo Blackwood]
 faction: The Guild of Engineers
-status: Chief Essence Transfer Supervisor
+status: Deceased - killed Terr 00, 756
 pronouns: he/him
 portrait: _images/theodore-blackwood.webp
-summary: Charismatic guild spokesperson and reformist politician - the party's connection in Parvo.
+summary: Charismatic guild spokesperson and reformist politician, shot dead at Harvest Fest.
 ---
 
 # Theodore Blackwood
@@ -35,6 +35,21 @@ power lying in the hands of the biggest guilds. While still a small movement, hi
 standing in the labouring communities and his general charisma have built a
 following for his ideas among the Stacks and the less politically mobile
 communities of the city.
+
+## His death
+
+**Theo was killed at Harvest Fest, Terr 00 756.** Speaking from a stage in
+[[Oblong Square]], he allowed that the guilds had done great things when the fate
+of humanity rested on them, but that this was over thirty years ago, and put
+forward a new idea: a vote, for the leadership and the future of [[Parvo]], in
+which every Parvosian gets a say.
+
+He was shot through the chest mid-sentence and fell from the back of the stage.
+The wound was far beyond a pistol or an essence crossbow and no healing would
+take; Felix and Lark both reached him and he was already dead. From the way he
+fell, the shot came from the direction of [[The Core|the Core]], away from
+[[The Stacks]]. Lark counted four guild spires with clean sightlines onto the
+stage.
 
 ![Theodore Blackwood](_images/theodore-blackwood-full.webp)
 
