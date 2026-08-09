@@ -3,6 +3,7 @@ type: character
 name: Billiam Buckman
 race: Darkin
 pronouns: he/him
+portrait: _images/billiam-buckman.webp
 summary: Player character - Billiam Buckman.
 ---
 

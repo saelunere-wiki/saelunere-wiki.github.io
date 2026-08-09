@@ -3,6 +3,7 @@ type: character
 name: Calder Flynn
 race: Darkin
 pronouns: he/him
+portrait: _images/calder-flynn.webp
 summary: Player character - Calder Flynn.
 ---
 

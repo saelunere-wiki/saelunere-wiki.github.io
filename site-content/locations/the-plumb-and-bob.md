@@ -11,3 +11,5 @@ A tavern on [[Oblong Square]], at the south edge of [[The Stacks]] where it meet
 The name comes from the builder's **plumb-bob** - a weight on a line, for finding true vertical - that still hangs behind the bar, left by the founder, a pipeman and builder for whom the tool was his trade. **"True and level"** is the house's unofficial motto.
 
 The proprietor is **Harl Mott**, a heavyset, slow-moving man who keeps the place exactly as it has always been.
+
+![The Plumb and Bob](_images/the-plumb-and-bob.webp)

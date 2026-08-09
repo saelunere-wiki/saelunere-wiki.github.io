@@ -3,6 +3,7 @@ type: character
 name: Lark
 race: Aela
 pronouns: she/her
+portrait: _images/lark.webp
 summary: Player character - Lark.
 ---
 

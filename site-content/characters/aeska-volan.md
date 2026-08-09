@@ -3,6 +3,7 @@ type: character
 name: Aeska Volan
 race: Aela
 pronouns: he/him
+portrait: _images/aeska-volan.webp
 summary: Player character - Aeska Volan.
 ---
 

@@ -3,6 +3,7 @@ type: character
 name: Felix Klaudius
 race: Darkin
 pronouns: he/him
+portrait: _images/felix-klaudius.webp
 summary: Player character - Felix Klaudius.
 ---
 
