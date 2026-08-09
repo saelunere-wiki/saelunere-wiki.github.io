@@ -179,7 +179,10 @@ def md_inline(text, base_dir, image_loader):
         link_text, href = m.group(1), m.group(2)
         if href.startswith("#"):
             return f'<a href="{href}">{link_text}</a>'
-        return f'<a href="{html.escape(href)}">{link_text}</a>'
+        # The whole site is one page, so anything that leaves it opens in a new
+        # tab rather than throwing the reader out of where they were.
+        return (f'<a href="{html.escape(href)}" target="_blank" '
+                f'rel="noopener">{link_text}</a>')
 
     text = re.sub(r"\[([^\]]+?)\]\(([^)]+?)\)", link_repl, text)
     return text
