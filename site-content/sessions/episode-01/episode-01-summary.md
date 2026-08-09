@@ -30,7 +30,7 @@ summary: Theodore Blackwood is shot dead mid-speech at Harvest Fest, and five st
 - **They went to ground at the Plumb and Bob.** Aeska paid Harl **10 ducats** to have never seen them. Harl agreed happily, being no friend of the guilds, and offered to tell anyone asking that it was [[The Below Boys]].
 - **Introductions.** Felix had been Theo's secretary about a year. Calder had known him four or five years and credits him with opening doors. Lark admired him and says he was there when she needed someone. For Billiam he was an acquaintance of his father who got him a job. Only Felix is guild.
 - **Aeska explained himself.** He gave his full name as **Aeska Volan**, son of the Volan family, his father second in command to [[Dr. Tammerton]] and himself raised to succeed Tammerton, until he was **disowned**. Theo was a friend during his guild years, though they had not spoken in two. His read: only a handful of guards were sent where there should have been an army, and the officer showed no interest in the dead man. He thinks it was planned.
-- **The arrangement.** Everyone works their own contacts and meets again at the Plumb and Bob on **Wex Day**, three days on.
+- **The arrangement.** Everyone works their own contacts and meets again at the Plumb and Bob on **Wexdae**, three days on.
 
 ## NPCs, locations, factions
 
@@ -58,4 +58,4 @@ summary: Theodore Blackwood is shot dead mid-speech at Harvest Fest, and five st
 - **Why the officer was not surprised**, and why the guild sent three men to the assassination of its own senior staff.
 - **Whether Calder is being framed.** He burned one body, and something unseen burned a second immediately after.
 - **The escaped guardsman**, and what he reports.
-- **Wex Day at the Plumb and Bob.**
+- **Wexdae at the Plumb and Bob.**

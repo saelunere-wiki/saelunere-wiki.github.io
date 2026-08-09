@@ -185,12 +185,49 @@ def md_inline(text, base_dir, image_loader):
     return text
 
 
+# Inline footnotes, written ^[like this]. Collected per page and rendered as a
+# numbered list at the foot of it. Used by the Story chapters for spell notes.
+_FOOTNOTES = []
+
+
+def stash_footnotes(raw):
+    """Pull ^[...] out of the source and leave a marker the escaper won't touch."""
+    def take(m):
+        _FOOTNOTES.append(m.group(1))
+        return "\x01FN%d\x01" % len(_FOOTNOTES)
+
+    return re.sub(r"\^\[((?:[^\[\]]|\[[^\]]*\])*)\]", take, raw)
+
+
+def restore_footnotes(text):
+    def put(m):
+        n = int(m.group(1))
+        return (f'<sup class="fn-ref" id="fnref{n}">'
+                f'<a href="#fn{n}">{n}</a></sup>')
+
+    return re.sub(r"\x01FN(\d+)\x01", put, text)
+
+
+def footnotes_html(base_dir, image_loader, resolve):
+    """Render and clear the notes collected for the current page."""
+    if not _FOOTNOTES:
+        return ""
+    items = []
+    for i, body in enumerate(_FOOTNOTES, 1):
+        inner = render_inline(body, base_dir, image_loader, resolve)
+        items.append(f'<li id="fn{i}">{inner} '
+                     f'<a class="fn-back" href="#fnref{i}">&#8617;</a></li>')
+    _FOOTNOTES.clear()
+    return '<ol class="footnotes">' + "".join(items) + "</ol>"
+
+
 def render_inline(raw, base_dir, image_loader, resolve):
+    raw = stash_footnotes(raw)
     raw = protect_wikilinks(raw)
     smart = smartquote(raw)
     escaped = html.escape(smart)
     inlined = md_inline(escaped, base_dir, image_loader)
-    return render_wikilinks(inlined, resolve)
+    return restore_footnotes(render_wikilinks(inlined, resolve))
 
 
 def is_table_sep(line):
@@ -316,12 +353,14 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
         para.append(s); i += 1
 
     flush_para(); flush_bq()
+    out.append(footnotes_html(base_dir, image_loader, resolve))
     return "\n".join(out)
 
 
 def plain_text(md_text):
     """Strip markdown/frontmatter to plain text for the search index."""
-    t = re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", md_text)
+    t = re.sub(r"\^\[((?:[^\[\]]|\[[^\]]*\])*)\]", r" \1 ", md_text)
+    t = re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", t)
     t = re.sub(r"[#*`>_\-]", " ", t)
     t = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", t)
     t = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", t)
@@ -858,6 +897,15 @@ hr{border:none;border-top:1px solid var(--rule);margin:2rem 0}
 .wl{color:var(--link);border-bottom:1px solid transparent}
 .wl:hover{border-bottom-color:var(--link);text-decoration:none}
 .wl-missing{color:var(--muted);border-bottom:1px dotted var(--muted);cursor:help}
+
+/* Footnotes: ^[like this] in the source, collected at the foot of the page */
+.fn-ref{font-size:.7em;line-height:0}
+.fn-ref a{text-decoration:none;padding:0 .12em}
+ol.footnotes{margin:2.2em 0 0;padding:1.1em 0 0 1.3em;border-top:1px solid var(--rule);
+  font-size:.88em;color:var(--muted)}
+ol.footnotes li{margin:.5em 0}
+ol.footnotes li:target{color:var(--text)}
+a.fn-back{text-decoration:none;opacity:.55}
 
 /* ---------- Homepage hero ---------- */
 .home-hero{max-width:44rem;margin:0 auto;text-align:center;padding:1.5rem 0 1rem}

@@ -46,6 +46,12 @@ jobs:
         run: |
           mkdir -p dist
           cp campaign_site.html dist/index.html
+          # Story chapters are also typeset as PDFs. Serve them alongside the
+          # site so a page can link to one and it opens in the browser, rather
+          # than sending readers to GitHub to download it.
+          mkdir -p dist/reading
+          find site-content -name '*.pdf' -exec cp {} dist/reading/ \; || true
+          ls -la dist/reading || true
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
