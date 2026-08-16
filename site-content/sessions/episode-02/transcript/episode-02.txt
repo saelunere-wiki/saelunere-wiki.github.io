@@ -1,0 +1,2391 @@
+[SPEAKER_05]: Recording is on.
+[SPEAKER_05]: Please introduce yourselves.
+[SPEAKER_01]: Hello, I am Eska.
+[SPEAKER_02]: Hello, I am William.
+[SPEAKER_02]: Hello, this is Calder speaking.
+[SPEAKER_02]: Hello, I'm Felix.
+[SPEAKER_05]: I am Lark.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Great.
+[SPEAKER_00]: So music go.
+[SPEAKER_00]: So previously then, if this.
+[SPEAKER_00]: Wait a minute.
+[SPEAKER_04]: God damn it.
+[SPEAKER_00]: Nothing is working now.
+[SPEAKER_00]: Give me one second.
+[SPEAKER_00]: I think because it's crashed so many times, it's fucked.
+[SPEAKER_00]: Oh, sure.
+[SPEAKER_01]: Well, maybe just sat there.
+[SPEAKER_00]: Ten minutes of connecting the bot and unconnecting the bot.
+[SPEAKER_00]: OK, bot is here.
+[SPEAKER_00]: Good.
+[SPEAKER_00]: Bot is talking.
+[SPEAKER_00]: Good.
+[SPEAKER_00]: Bot is playing music.
+[SPEAKER_00]: Good.
+[SPEAKER_00]: OK. Now don't touch it.
+[SPEAKER_00]: And we're off.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: So.
+[SPEAKER_00]: Previously then, you five all found yourselves in Oblong Square, a square between the core and the stacks, which was hosting Harvest Fest.
+[SPEAKER_00]: It was the last day of the autumn month and Harvest Fest was in full swing, a celebratory festival that for all various reasons, you guys ended up celebrating it or turning up to Oblong Square at least to see what was happening there.
+[SPEAKER_00]: You all found or some of you, well other than Felix, you all found out that Theo, a mutual friend of all of you, was due to speak at Oblong Square and so you all decided to stick around and listen out for him.
+[SPEAKER_00]: Felix on the other hand actually was with Theo escorting him to the square.
+[SPEAKER_00]: Felix
+[SPEAKER_00]: Yeah, helped Theo to set himself up and Theo began a speech talking about a potential change for the city something that his He had planned or had been talking about in secret.
+[SPEAKER_00]: This is the first time that he kind of brought it out into the public light However midway through his speech there was a loud
+[SPEAKER_00]: Magical bang, I will say, the noise, not only sort of like you would expect a gunpowder shot or something in our world, but this was more along the lines of a magical blast of some kind that hit Theo in the chest.
+[SPEAKER_00]: As far as you can tell, killing him
+[SPEAKER_00]: before he hit the ground.
+[SPEAKER_00]: He landed in a pool of his own blood and four of you rushed towards him as the crowd all desperately fled following the shot.
+[SPEAKER_00]: As you guys arrived, I think Lark arrived first, but attempted to heal him.
+[SPEAKER_00]: Felix was there as well.
+[SPEAKER_00]: Nobody could actually heal him.
+[SPEAKER_00]: He had already passed away too quickly.
+[SPEAKER_00]: And Aska, a mysterious bard who had been playing in the Plum and Bob,
+[SPEAKER_00]: stood alongside watching the events as the crowd cleared out.
+[SPEAKER_00]: Aske actually took the initiative and tried to get everyone to get out of the Oblong Square and away from the potential incoming guards and various suspicions that might be brought upon you all.
+[SPEAKER_00]: However, that didn't quite work and
+[SPEAKER_00]: Although you were eventually persuaded by Asuka in general or Lark persuading Billy by force to leave the square, unfortunately you didn't manage to make it out of the square in time before a selection of Guild of Engineers guardsmen arrived to respond to the emergency call.
+[SPEAKER_00]: On arrival, Felix declared that he was a member of the Guild of Engineers and actually tried to pull rank on some of these guards, ending up with a tense confrontation that was kind of a little bit up in the air, but was brought to violence when suddenly clutching his head, the sergeant of the guards appeared to take a
+[SPEAKER_00]: hostile attack, I guess, a spell of some kind.
+[SPEAKER_00]: He grabbed his head in pain and that started off a combat whereby he shot Billy twice in the back, who was running away at the time, and combat ensued which required you guys to dispatch two of the three guards, the third managing to escape.
+[SPEAKER_00]: The sergeant was killed by Calder
+[SPEAKER_00]: shooting fireballs across the square at him and the unconscious other guard who was on the ground in the middle of the square suddenly began to ignite or his armor began to heat up and he died of wounds caused by the spell.
+[SPEAKER_00]: You guys had been told earlier by Asuka to meet at the Pummel Bob if things went south, which they obviously had.
+[SPEAKER_00]: Oh, I should say that during this, a magical performance also rendered a number of the guardsmen incoherent and unable to act for a short while, allowing you to overcome them, which appeared to come from Asuka.
+[SPEAKER_00]: And you indeed did follow him into the Plum and Bob, where you barred the doors and had a meeting trying to establish who everybody was, what was going on and what the next steps were.
+[SPEAKER_00]: After Asger went ahead and spilt his life story back to everyone, at least to explain why he was so intent on this and also why he was so reticent to actually deal with any of these guards, given his wanted status, he explained the situation.
+[SPEAKER_00]: You guys kind of chipped in with various parts of your own stories, but you all agreed that probably best to get out of the Plum and Bob before any other guards came looking.
+[SPEAKER_00]: and to split up and head back to your various places of sleep and work etc to continue the day as normal and see what you could find out.
+[SPEAKER_00]: You guys agreed to meet back at the Plum and Bob in two days time from the following day.
+[SPEAKER_00]: So, with that in mind,
+[SPEAKER_00]: is now the first day of tide.
+[SPEAKER_00]: The winter month begins and you five wake up in your various abodes and places.
+[SPEAKER_00]: I think we will start with Felix.
+[SPEAKER_00]: So just for some context what we're gonna do is we're gonna sort of speed through this a little bit because if I did if I do a full sort of
+[SPEAKER_00]: one-on-one thing with everyone.
+[SPEAKER_00]: That's basically going to be the whole session.
+[SPEAKER_00]: So I think we will just kind of speed through and sort of summarize what you guys have been doing in your two-day downtime before you guys come back and meet at the Pullman Bob, but we will cover some important stuff, get some decisions from you guys.
+[SPEAKER_00]: Of course, if there are things that are secret, I think I've said this anyway before, but if there are things that are secret that you think basically the
+[SPEAKER_00]: what's the word the decider should be if it's something that your character would never tell the party unless they really trusted them and like after you know
+[SPEAKER_00]: few weeks of like trusting them or something then don't mention it in your stories here.
+[SPEAKER_00]: If it's something about like well I work at this place like you would probably tell that to a stranger even if they were like oh where do you work so that's not really like going to be a big secret that you need to hide from the rest of the party but if it's something that you would generally keep secret as a character then obviously don't mention it in these sort of one-on-ones if you need to DM me you can do that with the slash whisper space
+[SPEAKER_00]: GM so you can say something to me if you want to keep it really secret and realize oh shit I actually need to mention this but don't want to say it in front of the whole party that's fine but generally the day-to-day stuff I think is fine and then you guys just need to remember that in character you don't necessarily know these details about each other right so we will start with Felix though
+[SPEAKER_00]: Felix, you wake up in your tenant block in the core and head to your regular day's work, I assume.
+[SPEAKER_00]: You want to keep up your sort of regular appearance, your routine and head into the spire as you would normally, right?
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: You head inside and you head into the elevator that you always take up to your floor in the middle of the spire, same place that Theo worked.
+[SPEAKER_00]: You basically have an office alongside Theo's office and you are, you know, essentially just helping him with all the admin work, secretary duties, that sort of stuff.
+[SPEAKER_00]: So you head into that office, but as you arrive up at Theo's office, there is a bustle and a load of extra people that you don't recognize, like people who are in guild uniforms that
+[SPEAKER_00]: don't normally work on this floor you don't normally ever you don't know who they are you haven't seen them before etc but you do see one person that you recognize which is kind of your boss not necessarily Theo's boss but she deals with like the secretaries and the admin side of things so she's there her name is Chief Secretary Spernhold she looks like this and she's there kind of trying to deal with this like
+[SPEAKER_00]: hustle and bustle of a bunch of people who shouldn't be in the office and she's trying to sort of push them away and she's like, please, please, there's no need for any of this.
+[SPEAKER_00]: I've locked his office and we'll be going through the correct procedures for someone who has unfortunately passed away.
+[SPEAKER_00]: Oh look, it's Felix now, his secretary.
+[SPEAKER_00]: You can deal with him directly.
+[SPEAKER_00]: I'll be in my office and she's sort of like, is very
+[SPEAKER_00]: overwhelmed and kind of pushes her way out of the crowd and a bunch of these guys turn to you, you can make insight checks.
+[SPEAKER_00]: with a nine.
+[SPEAKER_00]: These people look pretty officious and not particularly happy but they look like also a mix of both sort of like clerical people and guardsmen like have come with them you know.
+[SPEAKER_00]: So what do you want to do?
+[SPEAKER_00]: Your office is locked.
+[SPEAKER_00]: You kind of walk up to the door and it's locked like yours is a side office off Theo's so Theo's office is locked as well at this point.
+[SPEAKER_03]: show what all you guys are doing here.
+[SPEAKER_00]: One of them turns to you and says, well, we've just got orders to look through the deceased's belongings to ensure that there are no guild
+[SPEAKER_00]: Secrets or anything that might fall into the wrong hands following his change of position Obviously somebody will need to be promoted to this position and we just want to make sure that there's nothing in there that Could fall into the wrong hands or outside of the the correct Seniority within the guild.
+[SPEAKER_03]: I'm sure you understand Yeah, I can understand that Do I have to look through everything?
+[SPEAKER_00]: Well, if you want to assist us with the search, yes, that would be actually excellent.
+[SPEAKER_00]: Your chief secretary lady locked the office.
+[SPEAKER_00]: Have you got a key there?
+[SPEAKER_00]: You would have a key, yeah.
+[SPEAKER_00]: You have a key, it's just whether or not you want to let these guys into Theo's office or not, because she's locked it and walked off.
+[SPEAKER_03]: Yes, I do have a key.
+[SPEAKER_00]: perfect they sort of immediately push their way in alongside you and you can see Theo's office that you've seen many times is very kind of organized and etc you see immediately that the sort of clerical guys split up the guards just stay by the door but the clerical guys split up and immediately start looking through stuff searching through various files and and stuff like that do you want to do anything here in particular yourself
+[SPEAKER_03]: I will also look through the stuff, but I'll stay a bit closer to the cleric.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: So you can make an investigation check.
+[SPEAKER_00]: damn okay you made a character who's really good at being a clerical administrator um yeah you know exactly where everything is filed away that's your job you know exactly where the the stuff is um so the
+[SPEAKER_00]: A big sort of open question is, what exactly are you looking for here?
+[SPEAKER_00]: Is there something particular that you want to focus on, something you're trying to find?
+[SPEAKER_00]: With a natural 20, I mean, I'll basically tell you whatever you want, but you have to tell me what you want to know.
+[SPEAKER_00]: say this you know all of his like basic maintenance job files and stuff are all there and there's nothing interesting about that right like you can potentially be looking if there's anything else going on
+[SPEAKER_05]: so sad we didn't have like a video recording of because mage just hit himself with a tape measurement yeah did anyone notice and the tool is just cracking
+[SPEAKER_03]: I'm trying to find the specific things that they, the guards and such, are trying to find and maybe something about if Theo has some enemies or swords.
+[SPEAKER_00]: Yeah, so you're sort of preempting the clerics as they kind of go to look for, sorry, clerics, not clerics, but the clerks as they go to look for something because, yeah, you know where everything is and you kind of like can do that sort of, oh, I'll help you with that kind of thing and pull these things off and kind of look like you're helping, but actually trying to avoid that.
+[SPEAKER_00]: And you see that the clerks here are
+[SPEAKER_00]: I would say don't seem to be looking for something particular.
+[SPEAKER_00]: They are doing what they said they were doing, which is checking to see if there's any, like, bad stuff basically amongst all these files and anything, you know, secret that he's trying to hide and stuff and you don't find anything particularly secret here.
+[SPEAKER_00]: In terms of enemies and that sort of things, you, looking through all this stuff, believe that
+[SPEAKER_00]: If Theo has any records or anything non-guild related or related to like personal grievances and stuff like that, he probably keeps it at home and he doesn't trust it to be here at the guild.
+[SPEAKER_00]: So I think with the Natural 20 you can tell that in his office there is like specifically nothing incriminating, it's all above board, it's all just the normal reports, the exact kind of stuff you would expect to find and none of it is kind of kept, nothing weird is kept here or secret is kept here.
+[SPEAKER_00]: So you start to sort of like help with these clerks and clear the office out etc and after a couple of hours they leave and the chief secretary comes back in and she says, now Felix this is an odd situation obviously your current role I don't believe that you've been with us long enough to immediately move into Theo's position here although you
+[SPEAKER_00]: currently know the most about his work, so we would ask that you sit in as a sort of interim chief maintenance for Essence transfer, just for a couple of weeks until things are sorted.
+[SPEAKER_00]: Would you be okay with that?
+[SPEAKER_03]: Yeah, I'll do that.
+[SPEAKER_00]: Perfect, perfect.
+[SPEAKER_00]: I'll let you sort of take over this, because it's now like a mess from everybody kind of looking through everything.
+[SPEAKER_00]: And yes, you continue doing what you're doing, whatever it is you all do here.
+[SPEAKER_00]: And I'll make the arrangements to facilitate a transfer, etc.
+[SPEAKER_00]: But thank you very much for this.
+[SPEAKER_00]: I must say, I'm
+[SPEAKER_00]: I'm very troubled to hear that you were present last night.
+[SPEAKER_00]: It must be very hard for you.
+[SPEAKER_03]: Yes, yes, indeed.
+[SPEAKER_03]: I'm sorry, it was so close to me when it happened, sir.
+[SPEAKER_00]: That's horrible.
+[SPEAKER_00]: Horrible to hear.
+[SPEAKER_00]: Theo was a great employee here.
+[SPEAKER_00]: If you need to take an hour or two off, you're more than welcome to do that.
+[SPEAKER_00]: Of course, take a long lunch.
+[SPEAKER_03]: Thank you.
+[SPEAKER_00]: And you work out the rest of the day.
+[SPEAKER_00]: The rest of the day, they're kind of filling in the reports, trying to work out what's going on.
+[SPEAKER_00]: You can just make a straight intelligence roll.
+[SPEAKER_00]: Yeah, you kind of don't have a clue what's going on.
+[SPEAKER_00]: You don't have the engineering background to understand what like you understand what Theo does and you know how to file the reports and stuff, but you don't physically understand like what the machines and stuff.
+[SPEAKER_00]: You know, it's like if you were the secretary to like an aeronautical engineer and then they're like, OK, now tell us what to do to build the planes.
+[SPEAKER_00]: And you're like, I have no clue.
+[SPEAKER_00]: So you just kind of like start to work through files, trying to work out what's happening, et cetera.
+[SPEAKER_00]: And the day goes fairly cleanly through and you head home.
+[SPEAKER_00]: So your first day is complete and you get paid and you also must pay your cost of lifestyle.
+[SPEAKER_00]: So update that.
+[SPEAKER_00]: I don't have here exactly how much that is for you, but you do get your day's wages and you get your, and you have to pay your day's cost.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Just to check how much that was.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: But you can also update it after we finish this because the next day, the next morning, you wake up in your tenement again to find a letter has been pushed under the door.
+[SPEAKER_00]: Oh, I'm going to read that letter.
+[SPEAKER_00]: You open it up and it is...
+[SPEAKER_00]: Mr. Claudius, it is with our regret to inform you that you have been immediately terminated from the Guild of Engineers.
+[SPEAKER_00]: Your services are no longer required following the
+[SPEAKER_00]: the unfortunate passing of Mr. Theo Blackwell as his aide and secretary and indeed appointed by him himself, your service is no longer required.
+[SPEAKER_00]: We thank you for your time.
+[SPEAKER_00]: You were also evicted from this guild-owned tenement block and are expected to leave by the end of the day.
+[SPEAKER_00]: Thank you.
+[SPEAKER_03]: Ah.
+[SPEAKER_03]: Well.
+[SPEAKER_03]: I will go first to the head secretary where I talked to you yesterday about to ask about this, if she knows anything.
+[SPEAKER_00]: Yeah, you go to the bottom of the spire.
+[SPEAKER_00]: but as you arrive at the spire you're kind of you would normally walk through, in fact I'll show you guys the bottom of the spire because we have a cool picture for that.
+[SPEAKER_00]: You arrive at the bottom of the spire and you head in through the kind of very officious doors that the way that you normally would as you go to walk through to one of the essence elevators that's there one of the guards kind of puts his hand out and says
+[SPEAKER_00]: Sorry, sir.
+[SPEAKER_00]: Mr. Claudius, was it you're no longer permitted access to the spire as you're no longer employed here?
+[SPEAKER_03]: Why am I being terminated as I got some sort of promotion yesterday?
+[SPEAKER_00]: I really couldn't say so, I just worked the doors, but any complaints can be obviously made to our human resources department.
+[SPEAKER_00]: Expect a six to eight week working reply on that, but of course, please feel free.
+[SPEAKER_03]: Can't I talk to someone now?
+[SPEAKER_00]: I can put in a request for you who would you like to speak to?"
+[SPEAKER_00]: And it was, yeah, Chief Secretary Spernhold was the person.
+[SPEAKER_00]: He kind of walks away and you see he cast a little sending spell.
+[SPEAKER_00]: He kind of walks away from you, casts a sending spell, mutters to himself, and then kind of comes back and he says,
+[SPEAKER_00]: I'm sorry to inform you that Chief Secretary Spernholt no longer is employed by the Guild of Engineers and so your request has unfortunately fallen on deaf ears, so to speak.
+[SPEAKER_00]: Thanks for your time.
+[SPEAKER_03]: All right, I'll leave then.
+[SPEAKER_00]: So you walk out kind of a little bit dazed and confused.
+[SPEAKER_00]: What do you think you do for the rest of the day here before the evening, kind of assuming you're heading to the Plum and Bob to meet everyone?
+[SPEAKER_03]: I think I'll go to Theo's house.
+[SPEAKER_00]: OK, yeah, cool.
+[SPEAKER_00]: You head to Theo's house, which is in the stacks.
+[SPEAKER_00]: And I don't know if you've ever been there before necessarily.
+[SPEAKER_00]: What do you think?
+[SPEAKER_00]: can decide.
+[SPEAKER_03]: Maybe you want to something.
+[SPEAKER_00]: Maybe to sort of help him pick something up or to do some job for him but I don't think you're so sort of good friends with him that you would regularly visit his house or something like that but you do know where it is so you head to his house and it is relatively high up the stacks so you spend the day kind of like moving up and down the having to climb some ladders move up some ramps and sort of that sort of stuff and you see it is a small but
+[SPEAKER_00]: pretty well attended very well repaired like very it looks very neat and tidy some of the houses in the stacks you know don't have as much kind of care and attention taken to them but this one does and but it is dark the windows are you know there's no lights on and the door is closed and uh there's nothing kind of happening as you arrive all doors properly locked so
+[SPEAKER_03]: I'll try to picklock it with a knife.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you just kind of like jam the lock.
+[SPEAKER_00]: As you go to push the knife into the lock, the door freaks open.
+[SPEAKER_00]: It was not locked and it was barely closed.
+[SPEAKER_03]: I'll head inside to close the door behind me.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Inside is a complete mess, it has been ransacked, shit is everywhere, stuff is thrown all over the place.
+[SPEAKER_00]: It's dark in here but with darkvision etc you can see enough to see that yeah, clearly somebody has done a once-over on this place as well.
+[SPEAKER_00]: You can make a investigation check though.
+[SPEAKER_00]: With the 14, you think it's pretty thorough, the job that they've done here.
+[SPEAKER_00]: Your main kind of issue is you're not 100% sure what you're looking for.
+[SPEAKER_00]: It's not like if you came here specifically to find a particular thing, you might be able to kind of track down whether they found it or not.
+[SPEAKER_00]: But you don't really know what you would be looking for here, but you just can see that it's a big mess.
+[SPEAKER_03]: Yeah.
+[SPEAKER_00]: I will say that you also hear the sort of hustle and bustle outside of the stacks.
+[SPEAKER_00]: I mean, Felix's house is in a nice-ish area.
+[SPEAKER_00]: Sorry, not Felix.
+[SPEAKER_00]: Theo's house is in a nice-ish area here, but there are people walking outside constantly here.
+[SPEAKER_00]: It is busy and it's still during the day.
+[SPEAKER_00]: It's the afternoon.
+[SPEAKER_00]: So staying too long will undoubtedly
+[SPEAKER_00]: start getting some people to think like what's going on in that house.
+[SPEAKER_00]: People, Theo's neighbors and stuff will, you know, potentially see you as well.
+[SPEAKER_00]: So you don't have a lot of time here without being potentially discovered.
+[SPEAKER_03]: I'll just maybe quickly look if he has some sort of diary or something.
+[SPEAKER_00]: direct yeah sure you can make another investigation check I will say this one with disadvantage the place is a mess and you don't really know where you would be even looking for something like that but absolutely get looking
+[SPEAKER_00]: Unfortunately not.
+[SPEAKER_00]: And as you are sort of like looking through some stuff, there's a sort of tentative little knock on the doorframe and an old lady pokes her head in and she goes, Dio?
+[SPEAKER_05]: Dio, is that you?
+[SPEAKER_03]: No, I'm Felix.
+[SPEAKER_03]: I'm his secretary.
+[SPEAKER_03]: I had to search something for him.
+[SPEAKER_00]: Make a persuasion check.
+[SPEAKER_00]: nice she says right right I didn't see him come home last night you know he normally comes and knocks knocks on my door and then says hi you know we have a little chat and he didn't come home last night so I was a little worried and now oh it's it's quite a mess in here was it was that you're doing no worse apparently someone was before me here hmm
+[SPEAKER_00]: Yeah, I heard some noises last night in the house.
+[SPEAKER_00]: That's why I thought maybe he had, you know, just perhaps he'd been drinking or something like that.
+[SPEAKER_00]: But he didn't come and see me.
+[SPEAKER_00]: But, right, right.
+[SPEAKER_03]: Did you see who went in here?
+[SPEAKER_00]: No, no, I heard some noises though.
+[SPEAKER_00]: It was a couple of people at least.
+[SPEAKER_00]: I thought maybe Theo had some friends or something arrive, and yes, I expected to see him this morning not looking, you know, looking worse for wear.
+[SPEAKER_00]: It was Harvestfest after all, so it wasn't too unexpected, but yes.
+[SPEAKER_03]: Yeah, okay.
+[SPEAKER_03]: I do have to leave now, so...
+[SPEAKER_00]: Oh, yes.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: You should have sort of like push past her.
+[SPEAKER_00]: She's like kind of like, huh?
+[SPEAKER_00]: As you as you kind of make your way out.
+[SPEAKER_00]: And you do see as you kind of push your way out, there's a couple of people sort of standing and looking at the house as well as there's a bit of a commotion here.
+[SPEAKER_00]: And this is obviously a tight knit community of people.
+[SPEAKER_00]: They all know it's Theo's house.
+[SPEAKER_00]: They all see you kind of like quickly slip out and kind of push away past and kind of get out of here.
+[SPEAKER_00]: But you do have the impression that they probably saw your face.
+[SPEAKER_00]: and or at least they saw that somebody else was here as well as you kind of quickly sneak off down into the stacks and then that evening I assume you head to the Plum and Bob unless there's anything else you want to do with your day here no I'm just heading there sure then you will need to pay another day's
+[SPEAKER_00]: pay please for the second day and you do not get paid.
+[SPEAKER_00]: I'm afraid.
+[SPEAKER_00]: so we haven't worked out where you're sleeping tonight but you do have to sort of pay for your day's food and stuff like that as you would normally so yeah your costs might even go up but for now you pay your day's cost and we will move on to lark
+[SPEAKER_00]: So, the morning begins in...
+[SPEAKER_05]: I actually think before the... Tuesday, what is it?
+[SPEAKER_05]: What was it called?
+[SPEAKER_05]: Thursday is the... No, Alesday is Monday.
+[SPEAKER_05]: Yes.
+[SPEAKER_00]: Alesday is Monday.
+[SPEAKER_00]: It is currently Alesday.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I think Lark, as she would head home during the night or towards the place of accommodation, she would actually sacrifice her sleep and go to a bathhouse near the place and clean herself there and clean her clothes.
+[SPEAKER_05]: And she's a regular there because, well, that's where she cleans herself.
+[SPEAKER_05]: And
+[SPEAKER_05]: so she would do that and then she would head to her bunk.
+[SPEAKER_00]: Sure, you make a constitution saving frame.
+[SPEAKER_05]: Yeah, I was gonna just say that I could just take a point of exhaust and because I think she... Yeah, well, yeah, go on, go on.
+[SPEAKER_05]: Sorry, constitution?
+[SPEAKER_00]: Yeah, I was going to make you get you to make a check to see if you're able to sort of like get a decent amount of sleep after doing all that.
+[SPEAKER_00]: But you can just take the point of exhaustion if you want.
+[SPEAKER_05]: That's fine.
+[SPEAKER_05]: She's having trouble sleeping.
+[SPEAKER_05]: She's just cold sweat and can't get the image out of her head and just struggling through the night and has to wake up in the morning to do a delivery job.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you wake up after a horrible night's sleep.
+[SPEAKER_00]: exhaustion you wake up in the in the brass line depot ready to basically do your first day shift or your Ales day shift, I guess, which for you is taking a particular run that you do
+[SPEAKER_00]: Every single ales day you take a particular set of packages from one side of the city to the other So this is like kind of routine work for you.
+[SPEAKER_00]: You know how to do it.
+[SPEAKER_00]: It's not difficult to do It's the straightforward stuff But before you set out you can do something if you want or obviously you can it's not going to take you all day So you can you have some time to do stuff during the day if you want?
+[SPEAKER_05]: I think she heads to work tired and she plans to talk to Mira after work.
+[SPEAKER_00]: So you come back after your shift at work and you go and see your boss Mira who is
+[SPEAKER_00]: And you kind of head up to her office as you would normally.
+[SPEAKER_00]: She doesn't go out on deliveries anymore, so she is kind of at her office most of the day.
+[SPEAKER_00]: And as you come back from your shift, you kind of approach up like outside the office.
+Yep.
+[SPEAKER_05]: Mira would know that Lark goes to see Theo's speeches every now and then, because she goes every time she can, so she would know Theo as well, surely.
+[SPEAKER_00]: Whether Mira knows Theo... Only by reputation from you potentially mentioning him, yeah.
+[SPEAKER_00]: But I don't think she knows him physically.
+[SPEAKER_05]: Yeah, that's what I mean.
+[SPEAKER_05]: Lark knocks on her door.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: She walks in, she's really big eye-bags, looks like she's been crying and just exhausted, walks in in front of a table.
+[SPEAKER_00]: You were right.
+[SPEAKER_00]: Was it those fellow boys again?
+[SPEAKER_05]: No.
+[SPEAKER_05]: Mr. Theodore, Theodore Blackwood, he's dead.
+[SPEAKER_05]: They killed him.
+[SPEAKER_05]: I was there.
+[SPEAKER_05]: Dead?
+[SPEAKER_05]: Yeah.
+[SPEAKER_00]: That's the... That guy that you like, right?
+[SPEAKER_00]: The guy that you go and... You like his speeches and that?
+[SPEAKER_00]: I wasn't into politics much myself.
+[SPEAKER_05]: Yeah, I was there.
+[SPEAKER_05]: I witnessed it.
+[SPEAKER_05]: And he...
+[SPEAKER_05]: They just killed him.
+[SPEAKER_00]: And... Who killed him?
+[SPEAKER_05]: I don't know yet.
+[SPEAKER_05]: There were only a few people who stayed and everyone else just ran and I stayed there and and then his guild came and Mira I want to I want to assist them finding out what happened to him I know I'm asking a lot but
+[SPEAKER_05]: What I'm saying that I think I need to take...
+[SPEAKER_05]: I think I need to take time off from brass line duties.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: This was this business at Oblong Square, right?
+[SPEAKER_00]: I heard about it today, but I didn't know who it was and what happened.
+[SPEAKER_00]: Details are scarce.
+[SPEAKER_00]: You wanna... What are you gonna do?
+[SPEAKER_00]: Investigate... You a detective now?
+[SPEAKER_05]: No.
+[SPEAKER_05]: I don't know, but...
+[SPEAKER_05]: Assassinated?
+[SPEAKER_05]: I'm sure.
+[SPEAKER_05]: So I just feel like it's wrong if it's just gonna be brushed under the rug like that.
+[SPEAKER_05]: And I feel like I need to help because I was just one of the few people there who saw it.
+[SPEAKER_05]: And I don't know how I can help, but I just, I just need to be there.
+[SPEAKER_00]: Well, look, I'm not gonna tell you what to do.
+[SPEAKER_00]: But I'll give you some advice.
+[SPEAKER_00]: Don't get involved with those guild a lot if you can avoid it.
+[SPEAKER_00]: Sounds like you're already more involved than you should be.
+[SPEAKER_00]: But yeah, we can we can do without you for a couple of days.
+[SPEAKER_05]: I think.
+[SPEAKER_05]: I don't want to sound...
+[SPEAKER_05]: I know I'm asking a lot here again, but I think I can give you a week advance of payment of my accommodation and if I don't come back in like a week, you can rent out my bank to someone else.
+[SPEAKER_05]: I don't mean I won't want to come back, I just don't know what's gonna happen, so...
+[SPEAKER_05]: Tomorrow I can still work for Earth Day and it will be my last day of work and after that I just need to find out what happened.
+[SPEAKER_00]: She thinks for a second.
+[SPEAKER_00]: Make a persuasion check.
+[SPEAKER_01]: Face.
+[SPEAKER_00]: This campaign is all about bringing your employment woes into roleplay.
+[SPEAKER_00]: That's what everyone wants, right?
+[SPEAKER_01]: To do their jobs in roleplay.
+[SPEAKER_01]: Yes, the first natural one.
+[SPEAKER_01]: Let's go.
+[SPEAKER_01]: That's where you are.
+[SPEAKER_01]: The first.
+[SPEAKER_00]: What a role for it.
+[SPEAKER_00]: She says, look, I tried my best to help you out, but at the end of the day, I'm not your mother.
+[SPEAKER_00]: pussyfoot you around if you want to go you can go but you ain't getting your bunk I mean I need that for another employee I can't hold it for you and I can't hold the position if you go in you're going look if there's if we don't find anyone by the end of the week and you want to come back I'm glad you take you take you on but you know I've got a business to run here and I can't be hand down for a
+[SPEAKER_05]: for 9 or 10 days just because you think you're a detective.
+[SPEAKER_05]: I just...
+[SPEAKER_05]: It's the least I can do, I feel like.
+[SPEAKER_05]: Everything that Theo has been talking about and what happened during King's Day, it's everything that was wrong in this city.
+[SPEAKER_05]: And if I don't do anything, I'm just...
+[SPEAKER_05]: There was no point in going to listen to him and everything...
+[SPEAKER_05]: The work he's done is gonna be just brushed under the rug.
+[SPEAKER_05]: I'm sorry, Mira.
+[SPEAKER_05]: And thank you for keeping me here this long.
+[SPEAKER_05]: And she's gonna take off the brass line pin from the pocket and just hand it over to her.
+[SPEAKER_05]: And I don't want you to risk getting involved in this either, so thank you.
+[SPEAKER_05]: I understand.
+[SPEAKER_00]: Yeah, Mirri looks sad as you hand over your kind of symbol of employment and she takes it and puts it in a drawer on her desk and she says,
+[SPEAKER_00]: Look, if you don't get yourself killed with whatever it is you're following, then come back, alright?
+[SPEAKER_00]: But otherwise, I wish you the best.
+[SPEAKER_00]: Just be careful, alright?
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: Thank you.
+[SPEAKER_05]: She leaves.
+[SPEAKER_05]: Sad.
+[SPEAKER_05]: But sure.
+[SPEAKER_00]: I think you can stay that night in the depot you worked today anyway, so that's fine.
+[SPEAKER_05]: Oh, and she's gonna say, like, I'll still bring out tomorrow's delivery.
+[SPEAKER_05]: Don't worry about it.
+[SPEAKER_05]: That's just gonna, like, complete tomorrow's job.
+[SPEAKER_00]: Yes, you're gonna finish tomorrow as well.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Yeah, you can do that.
+[SPEAKER_00]: You get today's wage and you also pay today's costs.
+[SPEAKER_03]: And then...
+[SPEAKER_00]: No, it's somewhere in your sheet, I don't remember exactly.
+[SPEAKER_00]: I'll figure it out afterwards.
+[SPEAKER_00]: Yeah, find it in a minute.
+[SPEAKER_00]: But on the second day, what you want you to do other than your deliveries, again, it's a pretty straightforward day for you normally.
+[SPEAKER_05]: I clean out my bunk and
+[SPEAKER_05]: She doesn't know anything about this situation and where to go and what to do in advance, so she's just kind of maybe collecting herself and collecting some courage in herself, getting her stuff clean and tidied and like ready.
+[SPEAKER_05]: Ready for anything that's coming.
+[SPEAKER_00]: Yeah, you got like the kind of like the bindle, you know, where you put all your stuff in there in a sheet and like tie it around yourself.
+[SPEAKER_00]: So you've got like barely any stuff, but you're like a ready to go kind of thing.
+[SPEAKER_00]: And you look out into, you know, across the stacks from the depot and stuff on your and your at the end of the day, you get paid again and you pay your costs again.
+[SPEAKER_00]: So you get two X the two tick the two things.
+[SPEAKER_00]: But yeah, you kind of look back a little sadly at the bunk that has been your home for a little while and kind of walk out into
+[SPEAKER_00]: the stacks towards the poem of Bob to potentially meet other people and see what's going to happen.
+[SPEAKER_05]: I'm homeless again.
+[SPEAKER_00]: Welcome.
+[SPEAKER_00]: Billy, you're up next here.
+[SPEAKER_00]: You wake up in your home.
+[SPEAKER_00]: I think
+[SPEAKER_00]: you are on a sort of late morning shift on a on an ales day so your parents have already left for their various work jobs so the house is empty for you but you can get up sort of do your normal routine head to work if you want or if you want to do something else let me know yeah i figured either i would speak to my parents um but if they're not there i would just go to work and see if um see if i can talk to shrep know about what happened
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah, you can head to your work.
+[SPEAKER_00]: So you head to, I will also show a picture of this if I have it somewhere.
+[SPEAKER_00]: Wait, did I not?
+[SPEAKER_00]: Oh, well, I do have the picture, but it's not uploaded.
+[SPEAKER_00]: One second.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: You head into the...
+[SPEAKER_00]: Just on the edge of the core, still technically in the stacks where you work.
+[SPEAKER_00]: No, marks are silver.
+[SPEAKER_00]: So a gold is a ducker, a mark is a silver, but it's 25 silver if you went off the previous metric system.
+[SPEAKER_00]: And then a penny is 25 pennies, basically.
+[SPEAKER_00]: 25 copper, like that.
+[SPEAKER_00]: yeah four marks is a docket basically yeah you wouldn't call it 25 silver but you know what i mean like it's a quarter of a gold a quarter of a docket is a mark
+[SPEAKER_00]: So yeah, you head to Claringbone's yard, which is where you indeed work.
+[SPEAKER_00]: And heading inside, you can see a couple of the other boys are already there doing their work, scrapping down some of the stuff here.
+[SPEAKER_00]: And you would normally, as we established anyway, I think, expect to go and chat to Shrapnel first before you shift anyway.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you go and find Shrapnel.
+[SPEAKER_00]: He is in his office.
+[SPEAKER_00]: You can...
+[SPEAKER_00]: Where is he?
+[SPEAKER_00]: There we go.
+[SPEAKER_00]: Does that work, by the way?
+[SPEAKER_00]: Do you guys see that?
+[SPEAKER_00]: Or does it just pop up for [Billy]?
+[SPEAKER_00]: I guess not.
+[SPEAKER_01]: Yeah, it doesn't work for us then.
+[SPEAKER_00]: So when I hit show to all players, it only shows two players who have it in their journal.
+[SPEAKER_00]: So that's gone.
+[SPEAKER_00]: Oh, well, well, you guys get to see Shrapnel now anyway, but technically you shouldn't see this, but yeah, I didn't know how it worked.
+[SPEAKER_00]: So fine.
+[SPEAKER_00]: But I was expecting to show you guys the NPCs like it's fine.
+[SPEAKER_00]: Obviously you don't know who this is, but this is what it looks like in this scene.
+[SPEAKER_00]: So you see Shrapnel and he is sat behind the desk.
+[SPEAKER_00]: Kind of he looks up at you and he goes, oh Billy.
+[SPEAKER_04]: Hi Shrapnel.
+[SPEAKER_04]: Good morning.
+[SPEAKER_04]: Um, um, I mean, you look rough.
+[SPEAKER_04]: Yeah.
+[SPEAKER_00]: Didn't, didn't you, didn't you hear?
+[SPEAKER_00]: Oh, that business oblong square.
+[SPEAKER_00]: Um, that bit, that business oblong square.
+[SPEAKER_04]: sure I heard about it but what's it got to do with with you well by business you know like that that Theodore Blackwood was killed right Theodore Blackwood yeah yeah I've heard of him I think it was yeah yeah so he was um
+[SPEAKER_04]: well he was a friend of my father but more importantly I was there when it happened and yeah it was it was kind of a crazy night and well that's also what I wanted to talk to you about a bit we
+[SPEAKER_04]: With a few others, we tried to help Theodore, but it was already too late.
+[SPEAKER_04]: But then some of the guys from the Guild of Engineering came by and they took his body and they just kind of...
+[SPEAKER_04]: It seems like they were trying to cover it up, even though it was such a public murder, I guess.
+[SPEAKER_04]: Yeah, this guy's gone.
+[SPEAKER_04]: Since the strange things have happened, you know, like with the last week with the guys coming here, I just, I feel like something bad is going on and I don't really know what to do about it.
+[SPEAKER_00]: Well, look, you're young, right?
+[SPEAKER_00]: The guild's messing around with everyone's business.
+[SPEAKER_00]: That's nothing new in this city, I'll tell you, but...
+[SPEAKER_00]: I mean, that Theo was a guild man himself, right?
+[SPEAKER_00]: Guild of Engineers himself, I think, if I know who you're talking about.
+[SPEAKER_00]: Yeah, actually, he was the one who helped me get this job, so... Oh, right, friend of a friend, yeah, sure, sure.
+[SPEAKER_00]: well yeah he um look it's not crazy for the uh for the guild to want to sort of deal with their deal with their uh incidents themselves so the fact that they turned up first i mean that don't surprise me honestly uh the fact they took his body i mean who else is going to take it what are they going to do leave it to be looted and robbed by whoever finds it first right i mean someone's got to deal with it uh
+[SPEAKER_00]: So I don't know what you're expecting really, but don't sound too crazy to me.
+[SPEAKER_04]: Well, maybe.
+[SPEAKER_04]: Maybe I'm thinking more of it than it is.
+[SPEAKER_00]: Well, look, don't get me wrong.
+[SPEAKER_00]: Someone's shot in the middle of a speech in the middle of a public square and harvest fest.
+[SPEAKER_00]: I mean, something's wrong with that.
+[SPEAKER_00]: That's for sure, right?
+[SPEAKER_00]: But I just...
+[SPEAKER_00]: I don't know, maybe I've seen too many things go south when it comes to the guilds and their involvement and stuff, but don't surprise me to hear that there was a bit of trouble with the guilds following it.
+[SPEAKER_04]: Right, okay.
+[SPEAKER_04]: Well, I guess I'll just get to work then.
+[SPEAKER_04]: I guess Baelium doesn't really think he's getting anywhere with the strepno.
+[SPEAKER_00]: Yeah, make an insight check.
+[SPEAKER_00]: I think what you see as a kind of shocking turn of events and maybe multiple things happening that you've seen recently that seem bad for you can just tell for shrapnel he's got that like war veteran type of I've seen this shit before type of thing and this is probably just one in a line of many incidents that's either happened to him or happened to people he knows over
+[SPEAKER_00]: 20 years so for him, it's like not that big a deal even though for you obviously and for Billy It's like the first major thing that's happened.
+[SPEAKER_00]: So he just kind of Yeah, he doesn't seem like that shocked and he's kind of like a little bit over it and kind of like Here we go again kind of situation Yeah, I guess for the rest
+[SPEAKER_04]: of the day I would be early just working.
+[SPEAKER_04]: And if I have the chance to speak to either my father or my mother, I'll talk more about what happened.
+[SPEAKER_04]: I would ask my mother if she was at the festival.
+[SPEAKER_04]: I know I'd ask my father if he heard of anything strange happening at the college.
+[SPEAKER_00]: We're gonna get you to make some luck checks.
+[SPEAKER_00]: Just roll two d20s.
+[SPEAKER_00]: And you want high.
+[SPEAKER_00]: High luck.
+[SPEAKER_00]: medium look.
+[SPEAKER_00]: Okay, a 13 and a 6, so it's like two separate ones.
+[SPEAKER_00]: The 13 for your mother, she is at home when you get home, and you ask her about the festival, she says, oh no, I was working at the Institute that night, I was on call, so I didn't get a chance to really do much with the festivities.
+[SPEAKER_00]: You look rough, and she sort of pinches your cheeks, like, did you get enough sleep there?
+[SPEAKER_00]: You weren't out partying all night with all your friends at the Harvest Fest, were you?
+[SPEAKER_04]: Of course I was.
+[SPEAKER_04]: What else am I supposed to do on Arvis test?
+[SPEAKER_00]: Well I'm glad to hear it.
+[SPEAKER_00]: It's good to have a strong social life my boy.
+[SPEAKER_04]: So you you haven't heard of what happened?
+[SPEAKER_00]: Oh yes terrible business with Theo wasn't it?
+[SPEAKER_00]: Yes your father's friend.
+[SPEAKER_00]: Yes I didn't I didn't I didn't realize
+[SPEAKER_00]: Well, I suppose you do know him decently well.
+[SPEAKER_00]: Yeah, horrible to hear that.
+[SPEAKER_00]: Yes, all the other nurses were chatting about it, you know, at the Institute.
+[SPEAKER_00]: We sort of expected him to maybe be brought to the Institute, you know, for healing.
+[SPEAKER_00]: And it seems like everybody sort of, well, waited around and nothing happened.
+[SPEAKER_00]: He never turned up.
+[SPEAKER_00]: I don't know.
+[SPEAKER_00]: Was it really that serious?
+[SPEAKER_04]: From what I heard, he was...
+[SPEAKER_04]: He was...
+[SPEAKER_04]: He was instantly dead from what happened.
+[SPEAKER_00]: Oh dear, oh dear.
+[SPEAKER_00]: And you were there, were you?
+[SPEAKER_00]: Did you see it happen?
+[SPEAKER_04]: I saw it from a distance.
+[SPEAKER_04]: But I didn't really...
+[SPEAKER_00]: She just like, I think, grabs you in like a hug and like sort of pats your head a little bit, and she's like, there, there, it's okay.
+[SPEAKER_00]: Horrible things can happen in the city, you know.
+[SPEAKER_00]: A city like this, you've got to really be strong, Billy, you know?
+[SPEAKER_00]: Like, as long as you weren't hurt, and you know, obviously horrible business with Theo, and like I say, we hate to hear about this sort of thing, but as long as you weren't hurt,
+[SPEAKER_00]: Yeah, I think you win Do you want to tell your mother about your injuries or not?
+[SPEAKER_04]: I feel like I was healed so I don't know like surely there's some like visible Yeah, I think it's kind of like a scarred over sort of yeah, I would probably not Okay, then make a deception check You wouldn't lie to your mother would you
+[SPEAKER_01]: Well, I would.
+[SPEAKER_01]: Mothers.
+[SPEAKER_01]: Mothers always know.
+[SPEAKER_01]: Because I've learned from her.
+[SPEAKER_01]: Oh damn.
+[SPEAKER_01]: Oh shit.
+[SPEAKER_00]: You sort of hold in the wince as she sort of grabs you and like immediately you can just feel in the back of your like ribs the gunshot wounds essentially what they are, but you kind of hold the wince in and kind of don't say anything as she's hugging you.
+[SPEAKER_04]: Yeah, I kind of like spring up like, have you spoken to dad?
+[SPEAKER_00]: Oh, your father, I honestly haven't seen him in a couple of days.
+[SPEAKER_00]: He's been sleeping at the office.
+[SPEAKER_00]: She kind of looks down.
+[SPEAKER_00]: Yeah, lots of really important work he said that he's got on some kind of project or something he's working on very important stuff.
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: I feel, well,
+[SPEAKER_04]: I wish he was home more, you know.
+[SPEAKER_00]: Yes, yeah, I mean... Look, it's been a tough couple of months for us, Billy.
+[SPEAKER_00]: I think you understand that.
+[SPEAKER_00]: You're doing great work, you know, working at the... at Claren Bones and everything, and getting your feet under you, and... Look, don't let all of this... Well, don't let everything at home here to, you know, really...
+[SPEAKER_00]: impact you too hard, okay?
+[SPEAKER_00]: We're doing all right and we'll keep working at it and, you know, your father will come around.
+[SPEAKER_00]: Yeah, I'm sure once his big project is finished, you know, we'll have some more time and he'll be back around.
+[SPEAKER_04]: Yeah, I hope so.
+[SPEAKER_04]: Maybe I'll try and visit the college.
+[SPEAKER_04]: Maybe I can
+[SPEAKER_00]: Maybe he'll come outside and talk to me Sure, yeah Sure, yeah, I'm sure he'll be able to make time if you you know, you could maybe try and visit him tomorrow maybe I wouldn't I wouldn't I wouldn't go too late, you know him he might be I'd be sleeping or yeah Yeah, well, I'll try You had to
+[SPEAKER_00]: sleep i guess and yeah with the six with that other luck check your father does not return tonight well maybe mom has prepared some food oh yeah yeah definitely she's she's cooked um as soon as you arrive back home she's already here she's yeah she's cooked up uh pork and beans you know the classic uh nice classic british uh
+[SPEAKER_00]: British food is Stacks food, I think.
+[SPEAKER_00]: And yeah, she prepares you a meal and at least you get to sit down and eat with her and everything and you do get your pay from...
+[SPEAKER_00]: Um, you get your, yeah, you get your pay and you pay your costs for the day.
+[SPEAKER_00]: And then the question is just what do you want to do tomorrow outside of going to work?
+[SPEAKER_00]: We just assume that you go to work unless you want to do anything else back at work.
+[SPEAKER_00]: I assume you spend the day doing work, but.
+[SPEAKER_04]: I, I think, uh, William is curious if, um,
+[SPEAKER_04]: If his father knows anything, like you must have heard something and...
+[SPEAKER_04]: Sorry, yeah, yeah.
+[SPEAKER_04]: So I'm hoping to maybe visit and see if he can come outside to talk or... Because I don't think they'll let me in just...
+[SPEAKER_00]: would this be during so if we say that you have a day shift would this be after your shift like five o'clock something like that or you want to go in the evening or you want to go in the morning first thing i would go after the shift you know okay yeah cool uh you head to the college of archonographers um
+[SPEAKER_00]: Do you think this is a place that Billy has visited since being there?
+[SPEAKER_00]: Before might might be the first time Since a while.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah so I think you don't necessarily recognize the secretary at the door or anything like that and you come in and She says
+[SPEAKER_00]: Yes, can I help you young sir?
+[SPEAKER_04]: I'm here to see Benjamin Buckman.
+[SPEAKER_00]: Yes, let me check his availability for you.
+[SPEAKER_00]: You can make an investigation check.
+[SPEAKER_04]: Yep.
+[SPEAKER_00]: No.
+[SPEAKER_00]: She looks down the ledger and says, Professor Buckman is, I'm afraid, off-site today, working on some sort of project.
+[SPEAKER_00]: So I'm afraid he's not available to take visitors.
+[SPEAKER_04]: Off-site?
+[SPEAKER_04]: Yes.
+[SPEAKER_00]: Do we know where?
+[SPEAKER_00]: I'm afraid...
+[SPEAKER_00]: I'm not at liberty to divulge his work preferences to someone who has just walked in off the street.
+[SPEAKER_04]: Well, it's the thing.
+[SPEAKER_04]: I'm his son and he had asked me to bring him something that he needed for work.
+[SPEAKER_04]: He forgot his
+[SPEAKER_04]: Lunchbox.
+[SPEAKER_00]: He knew it.
+[SPEAKER_00]: Sir, it's five o'clock.
+[SPEAKER_00]: We're far past lunch.
+[SPEAKER_00]: That's why it's so important.
+[SPEAKER_00]: You have tallied in your duties.
+[SPEAKER_00]: You are delayed, sir, but you can make a deception check.
+[SPEAKER_04]: Come on, come on.
+[SPEAKER_01]: Yes, getting it out of the way.
+[SPEAKER_00]: Billy, sorry, Billiam, wasn't it?
+[SPEAKER_00]: I have, yes, I have heard of your short tenure here at the college and I understand you were a disappointment then and you're a disappointment now as you appear to have not only
+[SPEAKER_00]: failed to deliver your charge to your father and you have failed to convince me that I should even entertain this request so please be gone.
+[SPEAKER_04]: Well at least I don't forget my lunchboxes!
+[SPEAKER_04]: I guess I'll move out.
+[SPEAKER_00]: You leave with sadness.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So the second day you can also get paid, you can also do your cost.
+[SPEAKER_00]: Do you want to do anything else in the evening other than head to the Plum Bob?
+[SPEAKER_04]: No.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: then yeah, you get your payment, you get your 2x pay, your 2x costs, and we will move on to Calder.
+[SPEAKER_00]: So you wake up in your dorm.
+[SPEAKER_00]: in the college, in the spire itself, the dorms are in the spire and you are in the College of Archonographers on the first day.
+[SPEAKER_00]: I think you probably have a much more or a much less structured schedule for a day, but you are obviously expected to, I don't think there's like set lectures, this is not like a full kind of university type of situation, it's more of a kind of individual tutoring and maybe you have some certain things you're working on or some
+[SPEAKER_00]: thesis you're writing or something like that.
+[SPEAKER_00]: So what do you want to do with your day here?
+[SPEAKER_02]: Yeah, I think I would be doing my research and my studies and writing the thesis a little bit and making all those marks to the notebook that I carry with me.
+[SPEAKER_02]: That is also the spell book.
+[SPEAKER_02]: And then also copying the most important things to a secondary, essentially backup copy on my dorm.
+[SPEAKER_00]: then yeah you have a particularly i'll just add you have a particularly chill uh you've had a particularly chill kind of couple of days other than obviously the theo incident but i mean like at work at the college because your professor has been off site doing some sort of project for a period of time yeah yeah so i mean
+[SPEAKER_02]: Calder would have, you know, doing the research and then would have wanted to go to consult his supervisor, professor.
+[SPEAKER_00]: Yeah, but you know that he was offsite last week for a couple of days and as you go to find him, the same sort of officious secretary says,
+[SPEAKER_00]: Professor Bookman, I'm afraid, is off-site today, Calder.
+[SPEAKER_00]: As far as I understand, he is off-site indefinitely until the project is complete over at the Guild of Engineers.
+[SPEAKER_00]: So until that happens, he's informed me to inform you that you are free to continue your work as you see fit, and he will return post-haste.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: Well, that will slow down the work a little bit.
+[SPEAKER_02]: I would have wanted to ask a couple of questions.
+[SPEAKER_02]: That's unfortunate.
+[SPEAKER_00]: Of course, if you wish to leave a message, I can have that sent to him.
+[SPEAKER_02]: Yeah, is there any good way to...
+[SPEAKER_00]: I mean, do you have sending or message?
+[SPEAKER_02]: I don't have a...
+[SPEAKER_02]: So that's why I would be like some letter or something.
+[SPEAKER_00]: Oh yeah, then she can definitely... She will definitely have like sending or something like that if you wish to get a message to him.
+[SPEAKER_00]: But if you want to just leave a letter, then...
+[SPEAKER_00]: Basically, she'll just have it delivered to wherever he is.
+[SPEAKER_02]: Yeah, I think I would want to write a letter about the current research project and talking about finding the orthogonal basis of the different elemental space, dimension, and then while doing all that, and then slipping at the end part,
+[SPEAKER_02]: And then something weird happened in the harvesting festival.
+[SPEAKER_02]: You also know Theo.
+[SPEAKER_02]: He got assassinated I guess with something very peculiar weapon I would say.
+[SPEAKER_02]: It's nothing like normal regular pistol.
+[SPEAKER_02]: in the sense of scientific minds, and it's very curious, so I wonder if you know anything about this.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So you put all that together in a letter, address to him and leave it with her.
+[SPEAKER_00]: She says, yes, I'll have a courier send this to the Guild of Engineers where he is currently working, and hopefully they'll be able to get that to him.
+[SPEAKER_00]: Maybe expect a reply tomorrow or in a couple of days, I'm not sure.
+[SPEAKER_02]: Okay, thank you very much.
+[SPEAKER_02]: And I start to leave and say just have a good day.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: And then you spend your evening.
+[SPEAKER_00]: I probably spend.
+[SPEAKER_02]: Yeah, I probably spent the evening in the in the college just doing the basic research and then then I don't know just listening around if anybody
+[SPEAKER_02]: says anything like hearing basically trying to listen any rumors if if you know yeah you can make an investigation check pick events so yeah yeah academics minds are curious about mysteries i would say investigation you say investigation yeah or perception but i think and probably the same for you but
+[SPEAKER_00]: nice um yeah with the investigation check you listen out for some rumors and things that are indeed some of the professors and things at the college are talking about the event just as a as a recent news event type of thing but i think what you get from this the important part of information you get from this is that people don't seem to really uh have the information that you have that it was a peculiar weapon that
+[SPEAKER_00]: took him out because nobody really knew or saw that other than you guys that checked the body and then obviously
+[SPEAKER_00]: potentially the guild or whatever but it's not a public thing that like oh he was assassinated with some powerful weapon or something like that right people just think that he was like maybe shot by someone in the crowd who didn't like him or you know it doesn't it's not coming across as like some big assassination plot the way they talk about it it feels more like a a murder in the you know maybe he had some bad debts and somebody decided to shoot him that kind of thing right it doesn't
+[SPEAKER_00]: doesn't come across as like a professional hit like you know it to be or at least you wouldn't as far as you understand it to be okay okay yeah after that then i would i would
+[SPEAKER_02]: Yeah, also because Professor is not over there, then I don't also need to be there that much.
+[SPEAKER_02]: Meaning that I would probably then start to go home also to see my parents, how they are doing over there.
+[SPEAKER_02]: And then I probably also would go to see Orson at some point as well.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: Yeah, sure.
+[SPEAKER_00]: So you head back to your home, which you don't sleep in, but are obviously welcome there.
+[SPEAKER_00]: Do I have your parents on here?
+[SPEAKER_00]: I do.
+[SPEAKER_00]: You head in and I have a picture actually for your parents.
+[SPEAKER_02]: This is actually the first time I see the pictures.
+[SPEAKER_00]: This is the first time you see your parents?
+[SPEAKER_00]: Yes, first time you've ever seen your parents.
+[SPEAKER_00]: Do I have a picture of your parents?
+[SPEAKER_00]: I don't think I...
+[SPEAKER_00]: No, I don't have a picture of your parents right now.
+[SPEAKER_00]: I did one.
+[SPEAKER_00]: Where is it?
+[SPEAKER_01]: We need to see it.
+[SPEAKER_01]: We need to see his parents.
+[SPEAKER_00]: Yes, it's very important.
+[SPEAKER_00]: They're so important that even Calder has never met them.
+[SPEAKER_01]: Yeah, they are great.
+[SPEAKER_00]: OK, let me just add one there.
+[SPEAKER_01]: Your parents are long lost.
+[SPEAKER_02]: Yeah, they're vanished.
+[SPEAKER_01]: They vanished somewhere in Crimson's database.
+[SPEAKER_00]: Yeah, the problem with having so much art and so much stuff is actually hard to find.
+[SPEAKER_02]: I have to say the art that you have done is very cool, like this art from Billy's story.
+[SPEAKER_02]: It reminded me of like a Peaky Blinder series.
+[SPEAKER_00]: Yeah, the background and stuff, yeah.
+[SPEAKER_00]: I still need to just like slowly build up all the different environments as well.
+[SPEAKER_00]: This, I mean, this particular session, other than obviously these one-on-ones being a bit weird, but one of the things with this is like, I don't have any
+[SPEAKER_00]: idea what you guys are going to do.
+[SPEAKER_00]: So in terms of preparing particular places and stuff, you know, it's difficult because, you know, that's why I, that's why I'm trying to sort of build everything in the background so that the options for wherever you go exist.
+[SPEAKER_00]: And therefore I can always facilitate it.
+[SPEAKER_00]: But right now it's a little hard to just work out exactly
+[SPEAKER_00]: So you head home to see Johan and Vanessa, who are both at home in the house that they've lived in for a long time.
+[SPEAKER_00]: The house inside is full of like
+[SPEAKER_00]: mechanical equipment like tools and that kind of thing it's like half workshop half house but that is how they both prefer it they have both been on shift like all day basically working at the forges so they are like sooty and they're all covered in like
+[SPEAKER_00]: the work grime and that kind of thing that you'd expect but they look happy and smiling as they see you arrive as well and Johan says oh oh it is um great to see you Golda it's been what like a whole day yeah
+[SPEAKER_00]: It feels like we've never met before.
+[SPEAKER_00]: Indeed, I almost didn't recognize you.
+[SPEAKER_00]: But no, seriously, how long do you think it's been since you've kind of been back to your... How long do you think it's been since, like, I don't know if Kolder visits his parents all the time?
+[SPEAKER_00]: Is it weekly?
+[SPEAKER_02]: Is it like... Yeah, I think like weekly or something like that.
+[SPEAKER_02]: So once a week, roughly like that, yeah.
+[SPEAKER_00]: Oh, cold, I'll put on some food, your mother says as she kind of rushes.
+[SPEAKER_00]: We've already eaten, but you know, you're a growing boy, you're a growing boy, here, here.
+[SPEAKER_00]: And she starts to put on some food as well for you.
+[SPEAKER_00]: Please, take it, come and sit down.
+[SPEAKER_00]: And yes, have you been to Sea Orson?
+[SPEAKER_00]: He always talks about you, you know.
+[SPEAKER_02]: Not yet.
+[SPEAKER_02]: I plan to go to visit and see him.
+[SPEAKER_02]: Do you know if he's having a good or clear day?
+[SPEAKER_00]: He's had a good couple of days, actually, yes.
+[SPEAKER_00]: We go and see him every day and make sure that he's doing alright, you know.
+[SPEAKER_00]: He's...
+[SPEAKER_00]: Yes, well, I mean, I can't say he's doing great, but you know, he's here and there.
+[SPEAKER_02]: Yeah, okay, that's good.
+[SPEAKER_02]: That's good to hear.
+[SPEAKER_02]: And how it's going for you?
+[SPEAKER_02]: Like, I bet you guys know what happened yesterday?
+[SPEAKER_02]: The news?
+[SPEAKER_00]: Yes, yes.
+[SPEAKER_00]: horrible, horrible stuff.
+[SPEAKER_00]: People are saying that Theo had some sort of criminal connections and that he was attacked by some sort of gang or people are saying the the blowboys were involved.
+[SPEAKER_00]: Did you hear that?
+[SPEAKER_00]: And the father kind of goes, yes, I also heard that.
+[SPEAKER_00]: I'm trying not to laugh.
+[SPEAKER_00]: It's like the American dad.
+[SPEAKER_00]: It's like the American dad voice.
+[SPEAKER_00]: What's the guy called from Family Guy?
+[SPEAKER_01]: Oh, Peter.
+[SPEAKER_00]: Yeah, I've heard horrible stuff about him being involved in all sort of criminal dealings and that sort of stuff.
+[SPEAKER_02]: Yeah, I mean, there are so many of these different rumors going on over there, but I don't know.
+[SPEAKER_02]: I'm not buying the criminal connections very much.
+[SPEAKER_02]: I mean, you also need to tell how he is.
+[SPEAKER_02]: Just try to make the world a better place.
+[SPEAKER_00]: Yes, I was really surprised to hear it.
+[SPEAKER_00]: Honestly, I never took him as a criminal.
+[SPEAKER_00]: He's a good, upstanding citizen, as far as I'm aware.
+[SPEAKER_00]: I didn't take those rumors to be true, but that's what people are saying.
+[SPEAKER_00]: That's what I'm hearing from him, from everyone, all the lads down at the Forge are talking about it.
+[SPEAKER_00]: What about you?
+[SPEAKER_00]: You know anything about it?
+[SPEAKER_00]: I mean, you knew Theo?
+[SPEAKER_02]: Yeah, I don't know anything yet.
+[SPEAKER_02]: I mean, I was there when that happened and I saw... You were there when it happened?
+[SPEAKER_00]: Yeah, I mean, yeah.
+[SPEAKER_00]: Oh my God.
+[SPEAKER_02]: I mean, you were right?
+[SPEAKER_02]: Physically, yes.
+[SPEAKER_02]: I mean, it was very, very...
+[SPEAKER_00]: Yeah, well, horrible, horrible stuff.
+[SPEAKER_00]: Oh, OK, well, I mean, that changes everything.
+[SPEAKER_00]: I mean, I didn't realize you were at the square at the Harvest Festival.
+[SPEAKER_00]: I mean, you don't expect to see that kind of thing on a festival night like that.
+[SPEAKER_00]: And she looks very sad and sort of distraught just to hear that you were there, to hear that it happened at all, to talk about it.
+[SPEAKER_02]: And yeah, I just keep saying all those, like what happened over there.
+[SPEAKER_02]: Maybe leaving out the part of the guards and fighting against them, but talking about what happened there.
+[SPEAKER_02]: I don't know, it feels so super weird that I want to try to figure out what actually happens because I don't buy for a single second that it was some criminal connections.
+[SPEAKER_02]: It's some sort of weird guild stuff ongoing, I feel like.
+[SPEAKER_00]: And your dad says, well, just don't get too involved with that sort of stuff, you know?
+[SPEAKER_00]: It's dangerous.
+[SPEAKER_00]: to be shot in the middle of a street in public?
+[SPEAKER_00]: I mean, whoever's doing that has got some clear grudge or something.
+[SPEAKER_00]: I don't want you getting involved, Calder.
+[SPEAKER_02]: I promise to be safe.
+[SPEAKER_02]: I promise to be safe, and if it happens to be too dangerous or too involved, then I back off, yeah?
+[SPEAKER_00]: Make a persuasion check.
+[SPEAKER_00]: He says Don't you go lying to me, okay I know you well enough to know that you will get involved if things pique your interest and I mean, that's what makes you so bright, you know, so clever
+[SPEAKER_00]: I'm very proud of you, but I don't want you throwing away your scholarship and throwing away your position at the college for some trifles of criminality in the stacks, okay?
+[SPEAKER_00]: You've worked really hard to be where you are and I'd hate to see you lose it.
+[SPEAKER_00]: So just be careful, okay?
+[SPEAKER_02]: Yeah, I'll be careful.
+[SPEAKER_02]: I'll let you know if it goes too bad.
+[SPEAKER_00]: Don't let me know if it goes bad.
+[SPEAKER_00]: Let's make sure it goes well, okay?
+[SPEAKER_01]: Your mother won't worry.
+[SPEAKER_00]: She says, look, you better go and see Austin before it gets too late, okay?
+[SPEAKER_00]: The food was good.
+[SPEAKER_00]: Yes, yes, I'm glad you enjoyed it.
+[SPEAKER_00]: Pork and beans, you know, it's a favourite right here.
+[SPEAKER_00]: And you head to just next door where Orson lives.
+[SPEAKER_02]: Yeah, and while going over there, I take the...
+[SPEAKER_02]: You know, I pack the scolar cape away and I take another regular cape and then the... How do you call it?
+[SPEAKER_02]: The mask?
+[SPEAKER_02]: The respirator mask and goggles to the backpack as well.
+[SPEAKER_02]: And then I go to... Oh, you mean you pick them up from your house?
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: Yeah, yeah, yeah, sure.
+[SPEAKER_00]: I thought you were going to put them on.
+[SPEAKER_02]: No, no, no, no.
+[SPEAKER_02]: I picked them up at the house and put them on my backpack or something.
+[SPEAKER_00]: Sure, you take them with you.
+[SPEAKER_00]: Okay, cool.
+[SPEAKER_00]: So you arrived to see Orson.
+[SPEAKER_00]: Yeah, you know your parents sort of look after him.
+[SPEAKER_00]: The music is...
+[SPEAKER_01]: Very, very...
+[SPEAKER_00]: epic for meeting an old man who you go to see here you go in and you see this small sort of it's like a side house you know like they call them like grandma flats that sort of thing it's like a side house on the Flynn's household where Orson lives and
+[SPEAKER_00]: You see this very old, uh, wizened old man.
+[SPEAKER_00]: Lots of books in this, in this, like, shack.
+[SPEAKER_00]: It's basically, like, floor-to-ceiling books, and then a small bed, and, uh, scrolls and things open everywhere.
+[SPEAKER_00]: And he is, um, sat at one small table with a candle, uh, reading a book as you walk in.
+[SPEAKER_00]: But he kind of looks up at you, sort of, um, absentmindedly, um, and then gets a big smile on his face as he sees you, and he says,
+[SPEAKER_02]: It's been so long.
+[SPEAKER_02]: Yeah, it's been a week.
+[SPEAKER_02]: A week?
+[SPEAKER_02]: No, surely, it's been months.
+[SPEAKER_00]: Have it?
+[SPEAKER_00]: No, you saw him last week, I think.
+[SPEAKER_00]: Yeah, yeah, I know.
+[SPEAKER_00]: You must tell me how it's going in the college.
+[SPEAKER_00]: You must be the Dean by now.
+[SPEAKER_02]: Not yet, I mean I hope to finish my project soon and then I start to show the notations to him as well and getting him curious again and the excitement again.
+[SPEAKER_00]: Yeah, and I think you spend some time discussing these like magical theories with him as soon as you start discussing kind of these complicated magical Problems his he's like fully focused on it and knows exactly what you're talking about and you can have this great conversation with him But then as soon as you kind of go back to more mundane things his like memory is clearly slipping and he is clearly Kind of struggles to kind of keep hold of the conversation outside of these really things and he he looks at you after a little while and he says
+[SPEAKER_00]: Now, Calder, you must tell me, you haven't been teleporting anywhere, have you?
+[SPEAKER_02]: I know.
+[SPEAKER_00]: Of course not.
+[SPEAKER_02]: Of course not.
+[SPEAKER_00]: Good, good, good, good, good, good.
+[SPEAKER_00]: You know, we wouldn't want anything bad to happen.
+[SPEAKER_02]: Indeed, indeed.
+[SPEAKER_02]: I mean, you...
+[SPEAKER_00]: I must teach you one of those teleportation spells one of these days, you know?
+[SPEAKER_00]: I'll teach you.
+[SPEAKER_02]: Yeah, yeah, yeah, yeah.
+[SPEAKER_02]: I mean, I'm looking for it.
+[SPEAKER_00]: Yeah, see, I know all kinds.
+[SPEAKER_02]: You've been teaching so many things.
+[SPEAKER_00]: Yes, yes, well, you must learn.
+[SPEAKER_00]: It's very important, you know, very important in this day and age to understand everything that goes on.
+[SPEAKER_00]: You know, I myself, I know a few teleportation spells.
+[SPEAKER_00]: I'll have to teach you one one day.
+[SPEAKER_02]: I think, yeah, oh yeah, I mean, absolutely.
+[SPEAKER_02]: Next time, you know, I have a little bit more time, so then...
+[SPEAKER_00]: Right, yes.
+[SPEAKER_00]: Next time I'll teach you some.
+[SPEAKER_00]: Yes, yes, great, great.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And he starts to kind of look back towards the stuff.
+[SPEAKER_00]: Do you want to ask him anything or talk to him about anything in particular here?
+[SPEAKER_02]: I would be asking him if he's familiar with any sort of magical projectiles or weapons, in the academic sense of mine.
+[SPEAKER_02]: I don't want to tell anything about the murder, assassination, but more explaining the residuals, what I saw.
+[SPEAKER_00]: I think you can make an archonography check.
+[SPEAKER_00]: as you attempt to explain to him what the relevance of anything is that you're talking to him about.
+[SPEAKER_00]: 16, yeah, sure.
+[SPEAKER_00]: You start to talk to him and he goes, oh, interesting problem to project a essence blast over such a long distance.
+[SPEAKER_00]: And accurately as well.
+[SPEAKER_00]: Accurately, yes, quite a feat, quite a feat.
+[SPEAKER_00]: He starts to draw some diagrams and things and you talk about it more with him, you know, back and forth on this theoretical stuff.
+[SPEAKER_00]: And you come to the conclusion that, yes, probably it's possible.
+[SPEAKER_00]: And he sort of says, and yes, I think with enough power, really, it's all about sort of getting enough energy into the projectile to keep it fast and steady and accurate.
+[SPEAKER_00]: So you'd need a lot of, you'd need access to a lot of essence cores and a lot of money.
+[SPEAKER_00]: That would be expensive to build something like that.
+[SPEAKER_00]: Wouldn't just happen in the basement of some old house somewhere, you know?
+[SPEAKER_00]: But, well, you never know these days.
+[SPEAKER_00]: People are getting brighter and brighter, you know?
+[SPEAKER_00]: True, true, true, true.
+[SPEAKER_02]: But okay, that's good to know.
+[SPEAKER_02]: It's sort of confirmed what I have been thinking, that it's very, you know, it's very complicated and requires a lot of skill and money to build such devices.
+[SPEAKER_00]: Definitely, definitely, yes, yes.
+[SPEAKER_00]: Why are you asking me about this anyway?
+[SPEAKER_00]: Odd thing to bring up.
+[SPEAKER_02]: Yeah, but I mean, I saw some afterwards of this, such a device, and then I heard some loud bang, and then I have heard some rumors, et cetera, so I don't want to work based on the rumors, so I, you know, it's nicer to actually... Good, the scientific method, very important, very important.
+[SPEAKER_00]: Yes, yes, good.
+[SPEAKER_00]: I'm glad you're learning well.
+[SPEAKER_00]: Yes, yes.
+[SPEAKER_00]: How are things at the university?
+[SPEAKER_00]: You dean yet?
+[SPEAKER_02]: Yeah, almost.
+[SPEAKER_02]: I need to finish first my thesis.
+[SPEAKER_02]: But it's, you know, looking at the candle you have over there, it's starting to get a little bit late.
+[SPEAKER_02]: So I think it's time for you to go to sleep.
+[SPEAKER_02]: Yes.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Going to get the rest.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Well, look, good to see you, Kolde.
+[SPEAKER_00]: Don't let it be so long next time, you know?
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: Next week.
+[SPEAKER_04]: Next week.
+[SPEAKER_02]: Next week.
+[SPEAKER_02]: And then you can teach me the new spells.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Don't talk about teleportation.
+[SPEAKER_00]: I'll teach you one.
+[SPEAKER_00]: I'll teach you some teleportation spells next time.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: He kind of, yeah, like he looks a bit worn out after your discussion.
+[SPEAKER_00]: He heads to bed and goes to sleep and kind of you leave him to do whatever you wish.
+[SPEAKER_00]: In the evening, if there's any.
+[SPEAKER_02]: Yeah, I will.
+[SPEAKER_02]: I will then leave out and
+[SPEAKER_00]: change clothes and start to go listen some more rumors in the streets so to say cool um so your that's your first day you don't get paid uh
+[SPEAKER_00]: but you have costs to pay.
+[SPEAKER_00]: So anything you want to do in the second day.
+[SPEAKER_02]: Or maybe I do the final parts on the second day, so the first day is not so crowded, but yeah.
+[SPEAKER_00]: Yeah, sure.
+[SPEAKER_00]: You have lots of free time, given that your professor is not there and stuff as well, so you can spend time going to the taverns or local areas as well, listening for rumors or whatever else.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: And then you head to the Plum and Bob on the second day as well, so you just have another cost from the second day to mark down.
+[SPEAKER_00]: And then finally, we are on to Asuka.
+[SPEAKER_00]: So, you wake up in the Plum and Bob.
+[SPEAKER_00]: With Harle.
+[SPEAKER_00]: Not with Harle, wait.
+[SPEAKER_01]: Hold on.
+[SPEAKER_00]: One second.
+[SPEAKER_00]: One second.
+[SPEAKER_01]: Harle's got his arm around you.
+[SPEAKER_00]: You and him had been drinking into the... No, no.
+[SPEAKER_00]: You wake up and you come downstairs to find Harle is already preparing the bar and getting everything ready.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Okay, so I would say good morning, Harle.
+[SPEAKER_01]: So, wild night, huh?
+[SPEAKER_00]: You can be sure about that.
+[SPEAKER_00]: Yeah, not seen that much excitement in a while.
+[SPEAKER_00]: Theo though, god.
+[SPEAKER_00]: I mean, I didn't want to come out and get involved or anything, right?
+[SPEAKER_00]: But he was dead, right?
+[SPEAKER_01]: From what I can gather from the other people who were here, also from what we have seen, I can pretty sure say that he's
+[SPEAKER_01]: No longer for this world.
+[SPEAKER_00]: Right, right.
+[SPEAKER_01]: Well, R.I.P.
+[SPEAKER_01]: You haven't happened to hear anything recently, right, about this?
+[SPEAKER_01]: Because it looks to me like there's more than just an assassination happening here.
+[SPEAKER_00]: So this is still like literally the morning.
+[SPEAKER_00]: that you woke up so he hasn't seen anyone because the bar's not even been open yet right so he hasn't had a chance to talk to anyone about it or anything but if you're asking no i mean like if if he's heard like any any rumors going around of like any type of uh yeah like anything related to him yeah sure sure uh then he says uh nah i mean you know theo's been coming here every week right um he's uh he's been
+[SPEAKER_00]: holding some talks and things back there eight points at the back room.
+[SPEAKER_00]: He comes every year's day and has a talk or something.
+[SPEAKER_00]: I don't pay attention honestly and people pay me to just keep my head down and they use the back room for whatever they want.
+[SPEAKER_00]: I don't ask any questions so no idea what he was talking about in there.
+[SPEAKER_00]: I heard a few people come and go that lark girl
+[SPEAKER_00]: What was around here last night as well, she's a regular at these meetings.
+[SPEAKER_00]: So she probably told you more than I can about him, but that's really the only thing I know about Theo.
+[SPEAKER_00]: He just comes in, does his job.
+[SPEAKER_00]: He's, you know, friendly with everyone.
+[SPEAKER_00]: But I ain't heard a bad word said about him, honestly.
+[SPEAKER_01]: Well, besides the Lark Group, are there any other persons of interest who sprang out to you?
+[SPEAKER_00]: No, not really.
+[SPEAKER_00]: Those other three, I wouldn't say they're regulars.
+[SPEAKER_00]: Maybe one or two of them have been in here once or twice, but I don't know anything about them.
+[SPEAKER_01]: Yeah, I mean the people who Theo are meeting with.
+[SPEAKER_01]: That's what I meant.
+[SPEAKER_00]: Oh, um, it's a mixed bag.
+[SPEAKER_00]: Uh, most of them look like people from the core, the stacks don't look like we get any of them sort of fancy noble lot in here really.
+[SPEAKER_00]: Um, sort of common, common patrons that we get here.
+[SPEAKER_00]: I think some of them turn up and they, uh, don't know what's happening necessarily and they see something interesting and they go and listen.
+[SPEAKER_00]: And there's a few more regulars that come by, but, um, I mean, I could point them out in a crowd, but I don't know anything about them.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, like I said yesterday, you know my relationship with Theo.
+[SPEAKER_01]: Like I said yesterday, we need to keep this on the down low.
+[SPEAKER_01]: And I'm going to get to the bottom of this, but I would appreciate any help.
+[SPEAKER_01]: So if you hear anything, if you see anybody talking or acting suspicious with this situation, you will let me know, right?
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Mum's the word on this sort of stuff.
+[SPEAKER_00]: And if I hear anything, I'll keep my ear out tonight.
+[SPEAKER_00]: People will be chatting all about it tonight.
+[SPEAKER_00]: I tell you, once it fills up in here, there'll be no shorter rumors.
+[SPEAKER_00]: So I'll keep my ear up for you for sure.
+[SPEAKER_00]: And look, he was, you know, I wouldn't say it was necessarily a friend of mine, but a regular customer nonetheless.
+[SPEAKER_00]: And I want to do my best to help him out.
+[SPEAKER_00]: And if you're looking into it, then I'll help you out as well.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well,
+[SPEAKER_01]: The only thing I would ask is, I know I'm asking a lot, but I only ask that you keep your doors open to me.
+[SPEAKER_01]: Even the doors that are not used regularly for the customers, if you know what I mean.
+[SPEAKER_01]: Because I will do some investigation of myself.
+[SPEAKER_01]: Look, the other lots are coming back here in a few days, so I could question them then.
+[SPEAKER_01]: But for now, I have some business to attend to.
+[SPEAKER_01]: It would be very helpful if you could keep your doors open for me.
+[SPEAKER_00]: Make a persuasion check.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Natural one.
+[SPEAKER_00]: You have advantage, I believe.
+[SPEAKER_01]: Yeah, I think so, yeah.
+[SPEAKER_00]: You should have advantage though, no?
+[SPEAKER_01]: Do I?
+[SPEAKER_01]: Or is it performance check that I have?
+[SPEAKER_00]: Or is it performance checks, not persuasion checks?
+[SPEAKER_01]: I think it's...
+[SPEAKER_01]: I'm just gonna do a performance check just for... Yeah, yeah, it's performance checks.
+[SPEAKER_01]: Oh, performance checks, yeah, that makes sense.
+[SPEAKER_00]: Yeah, with the 18 he goes...
+[SPEAKER_00]: Alright, yeah, look, he reaches under the bar and he pulls out like a small iron key that he hands to you and he says, this is for the back door, alright?
+[SPEAKER_00]: Can't give you the front door key because I've only got one, but you can come and go as you please out the back.
+[SPEAKER_00]: Just don't drag any shit in here that, you know, might incriminate me, alright?
+[SPEAKER_00]: I don't want to get involved any more than I have to with the guilds.
+[SPEAKER_00]: I've had enough of that in my life.
+[SPEAKER_00]: So just look, you can use the place, but try and keep me out of it, all right?
+[SPEAKER_01]: Yes, I appreciate this.
+[SPEAKER_01]: And, you know, we share the same interest.
+[SPEAKER_01]: Guild wise, I do not want to get involved in the guild either, but you just know I appreciate this.
+[SPEAKER_00]: Big fancy noble, are you?
+[SPEAKER_00]: That was interesting.
+[SPEAKER_01]: Because he was in the room when you said this.
+[SPEAKER_00]: That was interesting to hear.
+[SPEAKER_00]: I mean, that explains a lot, that does explains a lot.
+[SPEAKER_00]: But look, I ain't about to get in the way of no fancy nobles like yourself, my lord.
+[SPEAKER_00]: You can come and go as you please and I won't say anything about it.
+[SPEAKER_01]: Yes, let's just say that that's one of the biggest parts that I would like to keep secret if possible.
+[SPEAKER_01]: Understood.
+[SPEAKER_01]: I just know I appreciate this and I will not bring any unnecessary trouble this way.
+[SPEAKER_01]: As long as I can help it.
+[SPEAKER_00]: Yeah, and what do you do for the rest of the day?
+[SPEAKER_01]: The first thing that Asuka would want to do is to head to Tio's house because he knows Tio enough that he knows that Tio is... Yeah, I guess what you just said before like that Tio wouldn't keep like personal things in the guild but like at home.
+[SPEAKER_01]: So Asuka's first thoughts would be to go and investigate Tio's house.
+[SPEAKER_00]: Yeah, you head to Theo's house, easy enough to go there and you will have known, it might be a year, like a couple of years since you've been there, but nothing has changed really when you turn up, it is a smartly presented house.
+[SPEAKER_00]: Lights are off inside and it's sort of dark and unused it looks like, yeah.
+[SPEAKER_01]: Yeah, so he's going to try, so Esca will try to
+[SPEAKER_01]: We'll first check the surroundings to see if anybody's keeping check on the house.
+[SPEAKER_01]: Does he see anything?
+[SPEAKER_00]: Yeah, make a perception check.
+[SPEAKER_01]: Perception... Oh, and just before I say this, he'll use one bardic inspiration on himself.
+[SPEAKER_01]: Sure.
+[SPEAKER_01]: Perception.
+[SPEAKER_00]: I don't think you can inspire yourself.
+[SPEAKER_01]: Oh, I can?
+[SPEAKER_00]: No, I think it's another creature not not yourself You can inspire others through words musical dance.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_00]: I'm pretty sure that's a thing.
+[SPEAKER_00]: Yeah, I don't think you got that.
+[SPEAKER_05]: He doesn't use with like certain abilities and stuff Yeah, I think it's I think it's the um
+[SPEAKER_00]: It just makes sense that you can't inspire yourself with your own music or inspiring words like, come on, I've got this.
+[SPEAKER_00]: You have a cat?
+[SPEAKER_05]: Is it new?
+[SPEAKER_00]: I don't have a cat.
+[SPEAKER_04]: It's not his cat.
+[SPEAKER_05]: Oh, I'm so happy we saw it the first time.
+[SPEAKER_01]: It just walks in here like he was complete.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: Um, but yes, I don't, I didn't realize I have this.
+[SPEAKER_01]: I mean, it's not much, but it's still something that should be built in, I think.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: So you add half your proficiency to any ability check that uses a skill proficiency you lack.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: So if you roll, just try and roll a skill that you're not proficient in, it should show the details.
+[SPEAKER_01]: Does it work with the half proficient as well?
+[SPEAKER_01]: That's the half proficient thing, right?
+[SPEAKER_01]: Or yeah.
+[SPEAKER_00]: So just, just roll a skill that you're not proficient in and we can just check it works.
+[SPEAKER_00]: So anything that's like... Yeah, so your provision, it adds a plus one for you to that.
+[SPEAKER_01]: Oh my God, the new sheet's amazing.
+[SPEAKER_00]: Yeah, yeah.
+Wow.
+[SPEAKER_00]: With a 13 you look around, there's plenty of people around, it's early morning.
+[SPEAKER_00]: There's people in the neighborhood that walk around here relatively regularly.
+[SPEAKER_00]: You can see that there are neighboring houses close enough that they could sort of see the area anyway out of their windows.
+[SPEAKER_00]: So there are people around, but none of them strike you as like suspicious people to be looking around or suspiciously kind of keeping an eye on Theo's house from what you can see.
+[SPEAKER_01]: Okay, I will then look for an opportunity and when there's like less people around to see if the door is open.
+[SPEAKER_00]: Yeah, you try the door and it is locked.
+[SPEAKER_01]: Yeah, I don't think I would have any lockpicks or anything like that as a part.
+[SPEAKER_00]: No, you can try to make a thieves tools check with no proficiency, but you would need something to try and pick the lock to do that.
+[SPEAKER_00]: Alternatively, you can just break the door down.
+[SPEAKER_01]: Yeah, I would try to.
+[SPEAKER_01]: lockpick the door with the dagger that I have.
+[SPEAKER_00]: Sure, you're just trying to jimmy the lock, essentially.
+[SPEAKER_00]: You can make a thieves tools check, but that's basically just going to be a dexterity check, no proficiency for you.
+[SPEAKER_01]: Just do a dexterity check, it's just the same.
+[SPEAKER_01]: Dexterity, yeah.
+[SPEAKER_01]: Do I click on this thing?
+[SPEAKER_01]: Yeah, I think so.
+[SPEAKER_00]: Okay, there we go.
+[SPEAKER_00]: Yeah, an eight.
+[SPEAKER_00]: You jam your dagger in there and get it in between the door frame and the door.
+[SPEAKER_00]: You can't pick the log, but you could now just put all your weight on the dagger and basically break it.
+[SPEAKER_01]: Yeah, yeah, I'll do that.
+[SPEAKER_00]: Okay, you push and crank and crunch the lock opening.
+[SPEAKER_00]: The door swings open and inside it is a mess.
+[SPEAKER_00]: Everything has been thrown everywhere.
+[SPEAKER_00]: There's been, you know, clearly somebody has rushed through here searching for everything and looking for something in particular.
+[SPEAKER_00]: You can make an investigation check as well, I think.
+[SPEAKER_01]: Yeah, I will investigate the mess after closing the door.
+[SPEAKER_01]: Yeah, I was going to say Felix checks it the second day, so it shouldn't be open now.
+[SPEAKER_00]: Yeah, Felix checks it after you.
+[SPEAKER_00]: You've broken the law.
+[SPEAKER_00]: It all makes perfect sense.
+[SPEAKER_01]: Wow, you're so good.
+[SPEAKER_01]: You're such a good DM, man.
+[SPEAKER_00]: It all lines up perfectly.
+[SPEAKER_00]: You can make an investigation check.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: With a 14, I guess the question is what are you looking for?
+[SPEAKER_00]: You kind of said the same thing, I guess, as Felix was looking for, which is potentially files and a journal or some kind of information, right?
+[SPEAKER_01]: You're not looking for anything in particular or...
+[SPEAKER_01]: I think Eska would be a little bit more precise because he heard that Theodore was talking about
+[SPEAKER_01]: specific plans and things like that.
+[SPEAKER_01]: But he knows that, like, theater has been
+[SPEAKER_01]: involved in more in other things than Felix might know I'm not sure if like Eska has more like knowledge of things that Felix would wouldn't necessarily know so I guess like he would look for the odd things like for example he knows that Theodore wouldn't leave like personal stuff at the at the guild he would keep them here so I guess he'll be looking more towards that looking for that kind of stuff yeah yeah
+[SPEAKER_00]: Yeah, I think the issue for you probably is that it has been a couple of years since you've really interacted with Theo.
+[SPEAKER_00]: So whilst you might have known, he might have told you about some things in the past that he was working on outside of Guild of Engineers stuff.
+[SPEAKER_00]: These days, you wouldn't know what they would be because it's been too long, right?
+[SPEAKER_00]: But yeah, looking through with a 14, I think you
+[SPEAKER_00]: probably find the absence of things here like the the you do find a couple of spots where you think there probably was more here that has been taken away so you don't find like a journal or something like that or particular files you just find an absence of those files presumably already stolen or taken away okay yeah
+[SPEAKER_01]: Yeah, I guess like after searching, because after searching the whole house and not finding anything, I guess for Eska, it would make sense now to, yeah, to just leave and just wait on more information after the evening when, because I forgot his name, Hau has told him that he would like to listen in, so then
+[SPEAKER_01]: He will also perform in the evening and also try to get more information that way.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah, do you want to make a stealth check to leave?
+[SPEAKER_00]: Yes, I would try that.
+[SPEAKER_00]: You kind of try and slip away through the crowd as you leave the house You are not sure whether anybody clocked you necessarily being here or not unlike Felix who kind of was confronted in the house You are not sure whether anybody even saw that you arrived in the first place But you get out and you yeah, you spend the day you wait until the evening.
+[SPEAKER_00]: Are you planning on playing?
+[SPEAKER_00]: At the Plum and Bob tonight you could do if you wish like I'm sure
+[SPEAKER_01]: Yeah, I will.
+[SPEAKER_01]: But it won't be a whole night's performance.
+[SPEAKER_01]: I'm sure he has shifts of people coming and going, so I would just do one shift.
+[SPEAKER_01]: Because I would try to gather more information as well.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: So that evening, the tavern is buzzing, there are people all around.
+[SPEAKER_00]: You can just start by making a performance check here.
+[SPEAKER_00]: With a 19 you make three marks for the evening performing here which is a little higher than you maybe expect especially on like an Ales Day after Harvest Fest but you think that people are kind of like still a little bit shocked from the
+[SPEAKER_00]: previous night's events and are feeling kind of like they need to splash out and drink and you know party a little bit more than you would normally after a previous harvest night so it's a particularly good evening and you do hear a bit you can make your own investigation check first before you speak to Harle as well just to see what kind of things you can have it or put or
+[SPEAKER_00]: uh persuasion uh sorry perception but i think that'll be the same for you anyway but um yeah perception investigation basically the same in the situation
+[SPEAKER_00]: Nice, okay.
+[SPEAKER_00]: So you're playing along and you've done this a lot in the past.
+[SPEAKER_00]: You have like the ability to be basically sort of autopilot playing for the crowd whilst training your ears to listen in to conversations that are happening.
+[SPEAKER_00]: People are just thinking that like,
+[SPEAKER_00]: Nobody's listening to them because you're basically just playing alongside them.
+[SPEAKER_00]: Actually, you can hear their conversation fine and you're paying attention to it.
+[SPEAKER_00]: So you overhear people talking.
+[SPEAKER_00]: It's a similar sort of stuff about rumours about why Theo might have been targeted.
+[SPEAKER_00]: Again, this rumour that spreads around about the fact that he maybe had some bad debts, criminal contacts, somebody had a grudge against him and that's why he was killed, that sort of thing.
+[SPEAKER_00]: It's similar to Calder's part where people are not really talking about the fact that it was particularly odd or professional or something like that because people just generally, everybody like fled and most people think that he was shot from the crowd by someone who just smuggled a pistol close up and shot him.
+[SPEAKER_00]: people do seem to think it was like an essence weapon because of the sound not for example a fireball from a wizard or something right so people kind of understand it was an essence weapon but that kind of also doesn't narrow it down because really anyone if they tried hard enough could get their hands on an essence weapon and shoot him from close range so people have all these kind of theories about different criminal people that might have been involved etc but you know obviously from your context that that seems less likely
+[SPEAKER_00]: Also with the 23 I think you kind of hear people discussing a little bit about what
+[SPEAKER_00]: Whether there's gonna be like a funeral, whether he had any family, like who would take care of the body afterwards, like what happened to the body?
+[SPEAKER_00]: Like people are, you know, nobody kind of knows what would happen and nobody would know who to ask because he doesn't have like a family or like, oh, you know, are you doing a service for him or something like that?
+[SPEAKER_00]: So everybody's kind of a little confused and a lot of people here are friends or acquaintances of the Oso.
+[SPEAKER_00]: They would have wanted to go to a funeral or done something like a service for him or whatever, but
+[SPEAKER_00]: Nobody really kind of knows what's happening and everyone's a bit confused and don't know who to ask about that kind of thing So you hear that little murmuring as well during the night And I think honestly with the 23 you speak to Harlan he comes back with the same sort of stuff You know, you don't he hasn't gained any more information than you have you've been able to pick up everything this this night that you I kind of do I do kind of want to ask how like
+[SPEAKER_01]: Esco would want to know if Hao can spot anyone who's... Because Hao mentioned that he recognizes some people who are in the meetings with Teo.
+[SPEAKER_01]: There are some of them he would recognize if he can see them.
+[SPEAKER_01]: So Esco would want to ask him like, so Hao, listen, about the people who frequently visits the meeting from Teo, can you point any of them out here?
+[SPEAKER_00]: um make a just make a look check i think for me to start with where's oh wait it's one of them wait where's luck oh it's just uh just a d20 oh there's no specific stack it's just a d20 and how you roll on it yeah looking around hal says
+[SPEAKER_00]: It's very busy in the tavern and he says like honestly, I haven't seen anyone That springs to mind, but it could that one of these lot could have been there Look, I just I don't take a roll call or anything, right?
+[SPEAKER_00]: I'm not you know, I'm not picking up on particular types of people or I can get their names so Kind of hard for me to say if any of these people particularly look Are particularly regular members
+[SPEAKER_00]: Certainly a few faces it could be, I've seen them around before.
+[SPEAKER_00]: You can make an insight check.
+[SPEAKER_00]: okay with the 13 you try and sort of scan the crowd as well to see if there's any one acting particularly odd or anything like that but you don't see anyone here that really brings to mind acting any differently or any weirder than anyone else okay
+[SPEAKER_01]: Yeah, okay, no, I don't have anything.
+[SPEAKER_00]: Can I ask, I guess, is Asuka...
+[SPEAKER_00]: talking to any of the patrons here or only Hal and only overhearing or are you making yourself sort of known to be asking questions?
+[SPEAKER_01]: Well yeah, no no well for now it's only Hal because yeah Escar of course wants to keep as low of a profile as possible so if he would have gotten information from Hal that somebody specific is here then he'll make contact but
+[SPEAKER_01]: Since he couldn't get any information, I guess he'll just have to keep it at that and just continue with the night.
+[SPEAKER_00]: Yeah, makes sense.
+[SPEAKER_00]: Anything else you want to achieve this night?
+[SPEAKER_01]: Yeah, I guess like what he could do is like if there are tenants who are speaking other languages that he could cast comprehend language on himself and see if he could pick out any like specific conversations that might be of interest, but I don't know if that's...
+[SPEAKER_00]: There isn't really any other regular conversational languages.
+[SPEAKER_00]: So comprehensive languages in this case for you is only going to be useful to decipher the sort of written stuff most of the time, or potentially if you sort of discover other secret languages and stuff like that.
+[SPEAKER_00]: But there isn't like, there's only one language spoken in Parvo.
+[SPEAKER_01]: No, then the knife just progresses as normal, as like the standard.
+[SPEAKER_00]: Yeah, so you pay your costs up for the first day and then the second day rolls around as well.
+[SPEAKER_00]: Do you have any goals for your second day?
+[SPEAKER_01]: What the costs are again?
+[SPEAKER_00]: Yeah, I mean you can do it sort of later on as well.
+[SPEAKER_01]: Paying one mark per day for food and others.
+[SPEAKER_01]: Okay, so one mark.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I guess what Eska would maybe do for the second day is he would try to find out more information about the... well, specifically Billiom, because everyone else seems very trusting to him except for Billiom.
+[SPEAKER_01]: So I guess he would find out more information on Billiom.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: How do you want to go about that?
+[SPEAKER_01]: Is there somewhere particularly weird?
+[SPEAKER_01]: Yeah, he doesn't really have any information on Vilyam, right?
+[SPEAKER_00]: No, you have his description, his name.
+[SPEAKER_00]: I don't know if he gave you his surname or not.
+[SPEAKER_00]: No, he didn't say much.
+[SPEAKER_05]: He didn't even say his real name, he just said Billy.
+[SPEAKER_05]: You can call him Billy.
+[SPEAKER_00]: So I would say you can just make a generic investigation check around sort of you're just like asking people in the stacks that you know and that sort of stuff.
+[SPEAKER_00]: It will be a high DC because you don't know very much to like use.
+[SPEAKER_00]: But if you manage to get a good result, maybe.
+[SPEAKER_00]: No, unfortunately not.
+[SPEAKER_00]: Yeah, there's too many people, the description is too limited.
+[SPEAKER_00]: You don't have enough information really to find out about him, unfortunately.
+[SPEAKER_00]: You could try, you could talk to the others if you want.
+[SPEAKER_01]: Yeah, I think, I think then if he, I think Felix might be a little bit difficult because Felix is, well, he knows that Felix is with the guild.
+[SPEAKER_01]: So, yeah.
+[SPEAKER_00]: and unless like unless he has he still has some contacts and he trusts who works at the guild i don't know if that's the case but um so to cover this because yeah actually one of the uh people that we talked about working at the guild i think uh which is Tobin i think he still works at the guild and he was always the one who was like
+[SPEAKER_00]: the most loyal to you when you were there and he was like so if you trusted anyone there it would be him but you haven't made contact in two years kind of you've been keeping away completely intentionally so oh okay it's sort of a case of like if yeah if you wanted to try and contact someone at the guild you have a name of someone who was always on your side sort of thing but you don't know how
+[SPEAKER_01]: That does change the situation because if that's the case, then after trying to get information from Theo's house and also trying to get information from the Plum & Bob, I guess he would spend his second day trying to get a message out to Tobin.
+[SPEAKER_01]: Because I think he would know where Tobin lives and I guess he would know where Tobin lives.
+[SPEAKER_00]: So Tobin will live in a guild tenement block in the core.
+[SPEAKER_00]: This much you know.
+[SPEAKER_00]: During the day he'll be at work.
+[SPEAKER_00]: During the evening you could potentially find him somewhere at his house or at somewhere maybe if he's at a tavern or something like that.
+[SPEAKER_00]: But again it's been two years and you don't even know if he necessarily still lives there.
+[SPEAKER_00]: So you would have to go and sort of track him down if you want to do that.
+[SPEAKER_01]: Yeah, I guess he the first thing he would do is get a message to how and ask him or just tell him in the morning like hey listen I Could you get me information on this particular?
+[SPEAKER_01]: Person so then he would ask like how to ask around see if anybody knows Tobin to see if he's visited any other other like yeah pubs or bars or whatever that's in the in the area and
+[SPEAKER_01]: And yeah, I guess he could then do some investigating himself, but I'm not sure how far that would get him.
+[SPEAKER_00]: So you talked to Harle, and Harle says, yeah, I'll ask around for you, maybe tonight, I guess, as well, when the bar fills up.
+[SPEAKER_00]: But I haven't heard of anyone by that name, particularly, but I'll ask around.
+[SPEAKER_00]: Maybe some people know someone called Tobin with that description.
+[SPEAKER_00]: Sure.
+[SPEAKER_01]: Okay, and how?
+[SPEAKER_01]: You know, keep this a secret, right?
+[SPEAKER_00]: I got you, I got you, don't worry.
+[SPEAKER_01]: Yeah, okay.
+[SPEAKER_01]: Yeah, so then, so I guess he'll...
+[SPEAKER_01]: Yeah, I think he'll make that his focus for now.
+[SPEAKER_00]: So you want to go out and physically look for him yourself as well, or you want to open the heart and track him down first?
+[SPEAKER_01]: Yeah, I think it'll be a bit too risky for Eska to try and actually like go ask around because he kind of want to keep on the down low.
+[SPEAKER_01]: Especially what happened.
+[SPEAKER_05]: He's pretty far away from the plum and bob to go to even for a long time.
+[SPEAKER_00]: Yeah, I mean, but you could spend the whole, for a whole day you could go.
+[SPEAKER_00]: Also, the core is kind of the whole area, so you don't know.
+[SPEAKER_05]: Oh, sorry, I thought you were talking about furlough.
+[SPEAKER_00]: No, so like he lives in a guild tenement in the core, but what Asuka doesn't know necessarily is where.
+[SPEAKER_00]: So you're right, it could be like in the far northwest.
+[SPEAKER_00]: But the thing is, if he works at the Guild of Engineers, then he would probably be in a guild tenement near the Guild of Engineers spire, right?
+[SPEAKER_00]: That would make sense.
+[SPEAKER_00]: So not that far from the boom and bop.
+[SPEAKER_00]: You guys actually know that the Guild of Engineers spire is right here.
+[SPEAKER_00]: If you click on it, you get a cool picture.
+[SPEAKER_00]: Yes, it does nice so you guys know the guild of engineers spire Yeah, I cannot say anything
+[SPEAKER_00]: Yeah, maybe you guys don't necessarily know, but those of you like Felix and Asker would definitely know that the Guild of Engineers is here.
+[SPEAKER_00]: And so the Plumber Bob is over here, so if you lived in a guild tenement near, like it's probably only limited to this area, because if you lived all the way up in the northwest, it would take you forever to get to work every day, right?
+[SPEAKER_00]: So you can narrow it down by sort of assuming, but you still don't know exactly where he lives, and you need to kind of listen out for information and stuff from him.
+[SPEAKER_01]: Yeah, and I guess I'll share that with Hao as well.
+[SPEAKER_01]: I'll share like, okay, he's a good engineers person, so he probably lives in this area.
+[SPEAKER_00]: So you have a bit of a description of him, you have his name, Tobin Marsh.
+[SPEAKER_00]: The problem being that you don't know after two years if he even still works there, what his current position is, all of these kind of things.
+[SPEAKER_00]: But if you were able to get in contact with him, he would potentially be useful.
+[SPEAKER_01]: Yeah, Eska and the situation is desperate enough that Eska needs to try.
+[SPEAKER_01]: So he's like, you know what, I'll just expand my options and see if I can actually get it.
+[SPEAKER_00]: Nice.
+[SPEAKER_00]: So you put some feelers out for this guy as well.
+[SPEAKER_00]: Anything else you want to do with it, with the day, you can also perform.
+[SPEAKER_00]: Well, you can't perform at night necessarily because you're going to, maybe you will, but we'll, everyone will.
+[SPEAKER_01]: No, there's not much else except to stay low.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you do what you can during the day.
+[SPEAKER_00]: You look for Billy as well, or try and find some information about Billy and find nothing.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: And then the night rolls around.
+[SPEAKER_00]: all of you converge on the pom-a-bob, which we will do in a minute after we take a break here, because that seems to be a little bit of time.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Crimson, could I maybe have... Oh, no, I'm not.
+[SPEAKER_01]: I'm just... Yeah, I'll share the screen.
+[SPEAKER_01]: I'm just like, oh, it's going to fuck up the whole layout that I have.
+[SPEAKER_01]: But just imagine that it's like...
+[SPEAKER_01]: So, yeah, you got like the... Crimson is going to be up here.
+[SPEAKER_01]: Wow.
+[SPEAKER_01]: And there's got like the pictures of people here.
+[SPEAKER_01]: This is the playing field.
+[SPEAKER_01]: And then I'll add your character pictures on these squares.
+[SPEAKER_01]: So yeah, if I'm not streaming, then it fits the whole thing.
+[SPEAKER_01]: Because with Discord, I can't just cut stuff and put it in there.
+[SPEAKER_01]: I have to do the layout.
+[SPEAKER_01]: So yeah, it's kind of dumb.
+[SPEAKER_01]: But yeah, it should work.
+[SPEAKER_01]: And it's great.
+[SPEAKER_01]: It's like you've got your play field.
+[SPEAKER_01]: You can see the roles here.
+[SPEAKER_01]: You can see the chat here, and these characters.
+[SPEAKER_01]: Quince is going to be here so he can lay everything out.
+[SPEAKER_00]: I deleted that.
+[SPEAKER_00]: I deleted that drawing, but it's still on your picture.
+[SPEAKER_00]: Oh, really?
+[SPEAKER_00]: Oh, it's gone now.
+[SPEAKER_01]: Oh, no, it's gone.
+[SPEAKER_01]: Yeah, I guess I have to update it.
+[SPEAKER_01]: Yeah, cool.
+[SPEAKER_01]: Yeah, so yeah, it's very nice.
+[SPEAKER_01]: Yeah.
+[SPEAKER_04]: Wow.
+[SPEAKER_00]: right yeah
+[SPEAKER_00]: So you guys arrive then at various times.
+[SPEAKER_00]: Asuka is already, I think, there first at the Pullman Bob.
+[SPEAKER_00]: It is a busy tavern evening, maybe not as busy on the second day after Harvest Fest as people sort of start to recover from the festival.
+[SPEAKER_00]: The rest of you arrive one by one here.
+[SPEAKER_00]: I guess we will just roll a dice to see who arrives first.
+[SPEAKER_05]: How much do you think I should spend if Lark would have gone to a food stall to buy like a couple of cans of beans and beef jerky?
+[SPEAKER_00]: Beans and pork.
+[SPEAKER_00]: Beans, pork and beans, yeah.
+[SPEAKER_00]: You mean pork jerky, not beef jerky.
+[SPEAKER_00]: Is this for a couple of days, you mean to like...
+[SPEAKER_05]: I'd say like... To like tide you over.
+[SPEAKER_00]: It's not just for the day, right?
+[SPEAKER_00]: Because you have a cost per day for your food already.
+[SPEAKER_05]: I'll buy like four cans and four packs of beef jerky.
+[SPEAKER_00]: Yeah, I think basically your day cost, because it wasn't including anything other than your day-to-day stuff, if you want to pay a hedge you just have to pay that daily cost for a couple more days and then you won't pay it in the future.
+[SPEAKER_00]: So you can upfront your payments if you want, like that.
+[SPEAKER_00]: But it sort of depends on where you're going to sleep tonight and whether you have to pay for accommodation, stuff like that as well.
+[SPEAKER_00]: So it might just be easier to just assume that you've done that.
+[SPEAKER_00]: And then on a daily basis, we do the costs anyway and change it depending on what happens.
+[SPEAKER_00]: So I think it's fine.
+[SPEAKER_00]: Like you can have done that, but we'll still just do it on a daily rate because otherwise it stuff have to do maths or the rest of it's too complicated.
+[SPEAKER_00]: So yeah, I'm going to roll a dice and we will go from the from the discord.
+[SPEAKER_00]: So alphabetical number three is Felix.
+[SPEAKER_00]: All right, first.
+[SPEAKER_00]: So
+[SPEAKER_00]: Wait, that's right, isn't it?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah, I'm not counting Aska.
+[SPEAKER_00]: I'm not counting Aska because he's already there.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So Aska is playing in the corner when you arrive, Felix.
+[SPEAKER_00]: The bar is relatively full, but there's plenty of tables and space to take a table or something if you want as well.
+[SPEAKER_00]: But you kind of push the door open and look around.
+[SPEAKER_00]: And yeah, what do you want to do first up?
+[SPEAKER_03]: I'm just going to look for an empty table and sit there.
+[SPEAKER_00]: sure yeah there's like some corner booths and stuff you can find a table and sit down um you're just gonna wait are you getting a drink uh i'll get the drink sure you uh strong drink harle says to you um yeah he pours you a strong drink and he says uh oh you're uh askers
+[SPEAKER_00]: friend right uh yes he said you lot might be here uh i mean grab a table but uh if you want to use the back room there's no one in it tonight uh i was gonna ask her no if you want a bit of privacy i uh sort of like winks like i know a bit you know i'll go to the back room then
+[SPEAKER_00]: Sure, sure.
+[SPEAKER_00]: He hands you your drink and points you towards it.
+[SPEAKER_00]: So you can go into the back room, which is a little bit darker.
+[SPEAKER_00]: It's kind of like one of these places where you might play cards, like a private room kind of situation as well.
+[SPEAKER_00]: He sends you through to there and you sort of wait around.
+[SPEAKER_00]: Next to arrive is... Calder.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: I guess so.
+[SPEAKER_02]: Yeah, I just walk in and then then do I say do I see Felix or can I see the room from here?
+[SPEAKER_02]: No, it's not open.
+[SPEAKER_00]: So basically you don't see Felix Asker is playing in the corner.
+[SPEAKER_00]: You don't see anything else in.
+[SPEAKER_02]: Yeah, okay, if I see Asuka in the corner, I think I will just go to the bar and get one small beer, I guess.
+[SPEAKER_00]: And yeah, the same thing as when you're at the bar, Harle will say to you like, yeah, you are one of Asuka's friends, right?
+[SPEAKER_02]: Yeah, yeah.
+[SPEAKER_00]: Yeah, yeah, you lot are in the back room today.
+[SPEAKER_00]: He's like, being like really overly conspiratorial and unnecessarily like, you know, you guys get in the back room.
+[SPEAKER_00]: So he sends you through with a wink and a nudge.
+[SPEAKER_02]: Yeah, I give him a little bit of a side eye like, okay, man.
+[SPEAKER_02]: And I go.
+[SPEAKER_02]: Sends you through as well.
+[SPEAKER_00]: And then that just leaves, oh no, there's two luck.
+[SPEAKER_00]: Yeah, I think I did definitely.
+[SPEAKER_00]: Two with it ready, three with it ready.
+[SPEAKER_05]: Okay, Lark enters and first she just quickly glances around to see like who are in the bar, how many people, and if she recognizes the people from the King's Day.
+[SPEAKER_00]: Yeah, you don't see any of the party here.
+[SPEAKER_00]: You do see, however, alongside Asuka, somebody in this bar is familiar to you.
+[SPEAKER_00]: His name is Barry.
+[SPEAKER_00]: He looks like this.
+[SPEAKER_00]: You have seen him at Theo's meetings before, and that's why you recognize him.
+[SPEAKER_00]: But he's just sitting alone at the bar drinking.
+[SPEAKER_05]: He's sitting alone.
+[SPEAKER_00]: Yeah.
+[SPEAKER_05]: And Asuka is there?
+[SPEAKER_00]: Wait, is his name Killer Man?
+[SPEAKER_01]: His name is actually Killer Man.
+[SPEAKER_00]: Yes, it's the non-suspicious Barry Killer Man.
+[SPEAKER_05]: Sorry, was Asuka in the bar?
+[SPEAKER_00]: Asuka is playing in the corner as the bard of the tavern.
+[SPEAKER_00]: He's playing his lune right now, like performing.
+[SPEAKER_05]: In that case, Lark is just gonna go to a far table alone near to see Eska and listen to him playing.
+[SPEAKER_00]: Okay, yeah, cool.
+[SPEAKER_00]: But you don't go up and get a drink or speak to Harle at all?
+[SPEAKER_05]: No.
+[SPEAKER_05]: Or she will greet Harle like this, but...
+[SPEAKER_00]: Okay, yeah.
+[SPEAKER_00]: Then you sit down.
+[SPEAKER_00]: Harle's gonna come over and he's got like a flagging veil.
+[SPEAKER_00]: and he puts it down and he puts it down on like a coaster and then he sort of like winks and nods really over the top and then heads back to the bar.
+[SPEAKER_05]: She's like this, like she's expecting like she has to do something, pay something, but she'll just... Yeah, he doesn't ask for any payment.
+[SPEAKER_00]: He just kind of drops, he puts it on the table for you and kind of walks off.
+[SPEAKER_05]: She will start zipping, but very lightly.
+[SPEAKER_05]: sure um you as you pick it up on the coaster is written back room okay he's he's enjoying the shit out of this guy he's enjoying this so much oh she stares at it for a little bit and takes the ale with her it's like huge ale in her hand she starts uh walking towards the back room door
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: And you opened up the back room door as well.
+[SPEAKER_00]: And as this is all sort of happening as well, Billy, you are the last one to arrive here.
+[SPEAKER_04]: Yeah, I guess I kind of enter a bit.
+[SPEAKER_04]: I don't know what the word is.
+[SPEAKER_04]: Like I'm not trying to attract any attention, but mostly just because I'm kind of uncertain of being in a bar.
+[SPEAKER_04]: So just kind of slowly moving, trying to figure out if there's anyone there that I recognize.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: And yeah, you again only see Asuka in the corner actually performing at the moment and you see a scattering of other patrons in the bar, but no one that you recognize outside of that.
+[SPEAKER_04]: other than Harlow on the bar that you do recognize.
+[SPEAKER_04]: So then I might feel like maybe I'm early and kind of move towards the bar and kind of see if Harlow recognizes me.
+[SPEAKER_00]: Yeah, if you go up to buy a drink from him, he'll sort of see you and go, Oh, Billy, wasn't it?
+[SPEAKER_04]: Yeah, that's right.
+[SPEAKER_04]: Can I have a juice or something?
+[SPEAKER_00]: We've got some pressed apple juice, if you like.
+[SPEAKER_00]: We normally use it for the cider, but... That sounds good.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: He kind of pours it out and he hands you the glass and he goes, you know, it's much better if you drink this in the back room.
+[SPEAKER_00]: Tastes better.
+[SPEAKER_04]: What do you mean it tastes better there?
+[SPEAKER_04]: Why would it taste better there?
+[SPEAKER_00]: It's just more private, you know, in the back room.
+[SPEAKER_00]: so uh people don't overhear you drinking it oh i guess like i guess that makes sense i'm kind of just happy to be out of the crowd so i'll go there
+[SPEAKER_00]: So Asuka, you've obviously watched all of this happen.
+[SPEAKER_00]: Continue to, you continue to perform and stuff as all this happens, but you now see that sort of all of the four have arrived and are in the room.
+[SPEAKER_00]: So you can sort of slip away from the performance once you finish your song up and head in there as well.
+[SPEAKER_00]: So the five of you are now in the back room of the Plum and Bob here, kind of.
+[SPEAKER_00]: standing around awkwardly I guess or depending on what you're doing with various drinks and things as you arrive into the back room and Asuka then is the last one to join you and closes the door and it is like a little muffled as once you close the door it feels a little bit more private and a little bit more conspiratorial as well I suppose.
+[SPEAKER_05]: What's everyone doing?
+[SPEAKER_00]: Nice weather!
+[SPEAKER_00]: Yeah, I think everyone kind of like stands around slightly awkwardly until Asuka walks in as well.
+[SPEAKER_01]: Yeah, exactly.
+[SPEAKER_01]: I think Asuka will walk in, you'll lock the door and then you'll tell them all to sit down.
+[SPEAKER_01]: So, sit.
+[SPEAKER_02]: So how's everyone doing?
+[SPEAKER_02]: Everyone's still alive?
+[SPEAKER_01]: Before we get to that, let's start with the most important thing.
+[SPEAKER_01]: I've now told you who I am and what my motives are.
+[SPEAKER_01]: I think it's time that you start talking as well.
+[SPEAKER_01]: So I look to anyone who would start.
+[SPEAKER_05]: Larkin is very unsurely holding the huge, like, ale drink in her hands and just, like, slowly descending to the chair, like, oh, is this...
+[SPEAKER_05]: The sort of energy is different for her now.
+[SPEAKER_04]: I guess William is just gonna hide in his cup.
+[SPEAKER_00]: Yeah, are you directing that to anyone in particular, Eskar?
+[SPEAKER_00]: Or is it just generally hungry?
+[SPEAKER_01]: No, it starts off generally, but as he sees that, nobody's actually willing to talk.
+[SPEAKER_05]: I think, wait, I think if no one's talking in five seconds, Lark will start talking.
+[SPEAKER_01]: Oh, OK, then, yeah, then Eskar will wait.
+[SPEAKER_05]: If everyone else is quiet for that amount, then she will...
+[SPEAKER_05]: Okay.
+[SPEAKER_00]: Yeah, an awkward silence.
+[SPEAKER_05]: She jumps up with the keg, like, drink in her hand and she goes like, Oh, okay.
+[SPEAKER_05]: Um, everyone, hello.
+[SPEAKER_05]: Um, I'm Lark.
+[SPEAKER_05]: I'm, I'm a courier for the Breastline crew.
+[SPEAKER_05]: Or I was, I was a courier.
+[SPEAKER_05]: Um, well, does anyone drink ale?
+[SPEAKER_05]: Because I don't think I can finish this.
+[SPEAKER_05]: She just gives it to like anyone.
+[SPEAKER_03]: Yeah, just give it to me.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Mr. Volen and she turns to Eska.
+[SPEAKER_05]: Or I mean, Mr. Eska, sorry.
+[SPEAKER_05]: I guess you want to...
+[SPEAKER_01]: Yes, let's keep it at Eska.
+[SPEAKER_05]: If you don't mind.
+[SPEAKER_05]: I came here because I want to assist.
+[SPEAKER_05]: I want to assist finding out what happened and... Well, since...
+[SPEAKER_05]: There's only a handful of us.
+[SPEAKER_05]: I think it's a necessity for me to be involved and help somehow.
+[SPEAKER_05]: Even though I don't know what I can actually do and her shoulders start to hunch up a little bit and her hands are going in front of her chest.
+[SPEAKER_05]: I'm pretty fast, I can climb quite well and I'm pretty handsy.
+[SPEAKER_05]: I can carry stuff into places if you're sort of looking for any person like that, maybe I can help.
+[SPEAKER_05]: And she's just standing there holding her hands in front of her.
+[SPEAKER_01]: Well, from what I've seen, it looks like you can handle yourself pretty well, seeing the way you kind of whack that guard into oblivion.
+[SPEAKER_01]: But the biggest question I have is, what is your relationship with Theo?
+[SPEAKER_01]: Because you were one of the first to rush to him
+[SPEAKER_01]: and to see if he's okay.
+[SPEAKER_05]: At this point, first, before she answers, she's just like very awkwardly looking at everybody's faces and she wants to like sort of read everyone what they might be thinking in these few seconds or what they are like doing.
+[SPEAKER_00]: You can make an insect check.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Väinö, oh hi, ja menet pois.
+[SPEAKER_00]: I would say a 14 is decent, I'm not going to make everyone contest the role necessarily, but I would say you guys can see a 14 and you can tell me what you think Lark sees or what opinion you have of Lark that she would see with a 14.
+[SPEAKER_00]: A decent insight check but not the biggest.
+[SPEAKER_04]: I would guess from the moment Billy walks in, he's probably more drawn to Lark than anyone else.
+[SPEAKER_04]: So he's kind of still feeling untrusting of the others and mostly of Asuka.
+[SPEAKER_02]: Yeah, I think Caldor, you can read a little bit similar as well.
+[SPEAKER_02]: I feel like Caldor feels or looks a little bit tensed because I mean it's a lot of information we essentially give for bunch of random people and then commanded by this one guy feels odd to Caldor, so to say.
+[SPEAKER_02]: See, he seems to trust Clark.
+[SPEAKER_05]: Me?
+[SPEAKER_02]: Yeah, like you know, I don't... Or you see that Calder is not too suspicious about you, so to say.
+[SPEAKER_03]: For me, you can cheer, have a bad day, and just drinking your ill completely.
+[SPEAKER_03]: A nice tester.
+[SPEAKER_00]: In the cups.
+[SPEAKER_01]: I guess with Escar, what you can see is that he really wants to actually know what you have to tell him.
+[SPEAKER_05]: he's just sitting in front of you looking at you like you know come on yeah give me an answer she gets really nervous like checks everyone around and she sees like eska expecting and some some sort of answer to this question and she starts like stuttering all the things she's saying out loud now but
+[SPEAKER_05]: Um, I- and also because, like, you could see that she's pretty sharp today because she has actually prepared for this moment.
+[SPEAKER_05]: She has gotten- she's also carrying quite a lot of stuff on her compared to the King's Day and looks quite, well, clean and sharp.
+[SPEAKER_05]: However, now that she starts to answer, her mind sort of goes back to the King's Day events and she starts to say a little bit more quiet.
+[SPEAKER_05]: Um, so I don't know Theo that well, or I didn't know him, but I've been going to his speeches and, well, actually I met him the first time
+[SPEAKER_05]: when I was a child and I was working in the bellows and that's where he sort of gave me a word of courage and that's where I remembered him from that point on and as I saw him start to give out these speeches and I just started listening to him and
+[SPEAKER_05]: Basically, I just stand by all the things that he is or, well, what he has told and been speaking about.
+[SPEAKER_05]: He, well, he has also assisted me a little bit in
+[SPEAKER_05]: sort of self-defense if you could say so just we were not friends and she she's like saying that word very unsurely because she doesn't know what it really means but and answers that yeah that's that's how i knew him i guess can i do an insight check sure
+[SPEAKER_05]: Do I have to contest this?
+[SPEAKER_00]: Yeah, I think if it's specifically against you, I think you can do either persuasion or deception, but you don't have to tell us which one you do.
+[SPEAKER_05]: Can I whisper it to you, Crimson?
+[SPEAKER_00]: Yeah, if you whisper it to me, I won't see which one you're doing.
+[SPEAKER_00]: Very persuasive.
+[SPEAKER_00]: Basically, with a natural... Well, no, I can say you got a natural 20.
+[SPEAKER_00]: I don't have to say whether you got a natural 20, whether persuasive or deceptive.
+[SPEAKER_00]: But with a natural 20, you completely just believe Lars telling the truth.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: No doubt in your mind, you don't think she has the capacity to lie in this situation.
+[SPEAKER_00]: Cool.
+[SPEAKER_05]: I hope I can assist in any way I can.
+[SPEAKER_05]: And she bows to a 90 degree angle.
+[SPEAKER_01]: Okay, listen, I'm not a lord anymore.
+[SPEAKER_01]: You don't need to bow to me.
+[SPEAKER_01]: It's not necessary.
+[SPEAKER_01]: We just keep this here and you know, it seems that whatever has happened has kind of brought us together, whether you like it or not.
+[SPEAKER_01]: But I'm actually more interested in you.
+[SPEAKER_01]: Felix, was it your name?
+[SPEAKER_01]: Seeing as you seem to be pretty close to Theo in his last moments.
+[SPEAKER_01]: Yeah, what is your story and what is your relationship with Theo?
+[SPEAKER_03]: Well, I worked with him for the last year.
+[SPEAKER_03]: I was his secretary.
+[SPEAKER_03]: So that's why I knew him.
+[SPEAKER_01]: Okay, and was your relationship more than work or is it just
+[SPEAKER_01]: Just colleagues?
+[SPEAKER_03]: Mostly work, yeah.
+[SPEAKER_03]: But yeah, we see each other always at work because our offices are next to each other.
+[SPEAKER_01]: Okay, so you are actually... How much of the guild
+[SPEAKER_01]: How much of the Guild of Engineers do you know, like people-wise, operations-wise?
+[SPEAKER_01]: You take care of things for Theo regularly, I assume?
+[SPEAKER_03]: Oh yeah, I'm his secretary, so I always worked with him.
+[SPEAKER_00]: I think, yeah, and I think Felix, you know very well your particular department and the department that Theo worked in, which
+[SPEAKER_00]: forgotten the exact name of the department but yeah the maintenance department generally and it's like something more specific for the maintenance department as well so you know very well that section and your own section and that's kind of how you know as well Asker the guild works quite compartmentally as in you know people know their area their particular job very well and they know each other in their jobs but you don't necessarily ever get a chance to know
+[SPEAKER_00]: what's happening across the whole guild because it's just such a big company and people it's not a lot of inter-team stuff other than for you Asuka obviously you were being sort of prepped so you got like an overview of everything whereas somebody like Felix probably only knows the specifics of his area yeah and I guess that Asuka would would still know that as well that he would know that like somebody who's a secretary for someone from a particular
+[SPEAKER_00]: area would only know things from that area and not like yeah you can make a make a politics make a politics check okay um yes yeah i mean that's yeah that's what you know you know that people only know their kind of their own areas within the guild like okay generally yeah um
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Can I also check if Felix is telling the truth by insight?
+[SPEAKER_01]: Because he says like, no, we have work relationship.
+[SPEAKER_00]: You can roll persuasion or deception to me, Felix, as well.
+[SPEAKER_01]: You can roll an insight.
+[SPEAKER_01]: Good luck with this.
+[SPEAKER_01]: Good insight.
+[SPEAKER_01]: Is this the second natural one?
+[SPEAKER_00]: It's a natural one.
+[SPEAKER_00]: You don't think that Felix is telling you all of the truth.
+[SPEAKER_00]: um yeah he seems like he's had a really shit day as well that might be related to it or not yeah and he's been drinking so he's been drinking he definitely like you know the things he said are true you guess but you think there's more to it than that can i also do inside check on felix because larry is now sitting down and he's she's just like looking at the face of anyone who's speaking really closely and just trying to see what
+[SPEAKER_00]: I will say with Felix's role, you can see the same thing.
+[SPEAKER_00]: You don't need to make it inside check.
+[SPEAKER_03]: It's natural one, it doesn't matter.
+[SPEAKER_01]: Felix is like, yeah, we're just colleagues, you know.
+[SPEAKER_00]: Nothing, nothing, we're fine.
+[SPEAKER_00]: Yeah, no, I think what it is that you see on Felix's face is the idea that, because I want to be clear that he's telling the truth about the things that he said, but there's more to it than just what he said.
+[SPEAKER_00]: So he's not lying, but he's holding things back, you know?
+[SPEAKER_00]: So, yeah, you can take from that what you will.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I mean, I guess it's pretty low accurate as well.
+[SPEAKER_01]: Like, Eska knows that, like,
+[SPEAKER_01]: Well, I don't know.
+[SPEAKER_01]: He doesn't know Felix, but he knows that if you're this close and you're in this situation, it's more than just being business partners.
+[SPEAKER_01]: Otherwise, you wouldn't have stayed with the body when he died.
+[SPEAKER_01]: So I guess like, like Esca has like in general an idea of like, okay, these people have more to do with Theodore than, than, than like just, you know, oh, I happen to saw him once in, in like a pub or something.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: So it's, it's his directive now to actually try to see if he could pry more information out of it.
+[SPEAKER_01]: But, uh, okay.
+[SPEAKER_01]: Well, um,
+[SPEAKER_01]: Felix, I guess, yeah, we might have to chat a little bit more later on, seeing as you're the one with the most, well, as of right now, the most information about the guild that I can see.
+[SPEAKER_01]: So, yeah, we might have to chat a bit later.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And you.
+[SPEAKER_01]: Kaldr was your name, I think.
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_02]: Kaldr Flynn.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: What is your situation with Deodorant?
+[SPEAKER_01]: What is your relationship with him?
+[SPEAKER_02]: I mean, he was very good, good.
+[SPEAKER_02]: I would say he was very good friend of mine or good friend of mine.
+[SPEAKER_02]: And then my parents knew him as well, but mostly
+[SPEAKER_02]: They just have been helping so much.
+[SPEAKER_02]: For me, like, I don't know, I got a position in the colleagues, for example, because he knew one professor over there, Professor Benjamin Hookman.
+[SPEAKER_02]: And then I was able to get research student positions under him, et cetera.
+[SPEAKER_02]: He have helped me otherwise as well.
+[SPEAKER_02]: And then I have been hearing like rumors about that, you know, there would be under some criminal organization.
+[SPEAKER_02]: That's why he had been killed.
+[SPEAKER_02]: So I don't, I don't believe that.
+[SPEAKER_02]: And I would also want to know the truth.
+[SPEAKER_02]: What is actually going on.
+[SPEAKER_04]: I guess I just wouldn't believe it.
+[SPEAKER_04]: As he hears that name, Benjamin Buckman, he will be responding to Calder.
+[SPEAKER_04]: Wait, you work with Benjamin Buckman?
+[SPEAKER_02]: Yeah, he's a very smart man.
+[SPEAKER_02]: Very nice, nice person.
+[SPEAKER_02]: Do you know him?
+[SPEAKER_04]: Yeah, how long have you been working with him?
+[SPEAKER_02]: Roughly like two, three years.
+[SPEAKER_02]: Something like that.
+[SPEAKER_02]: Couple years.
+[SPEAKER_04]: I guess that makes sense.
+[SPEAKER_02]: I'm sorry, I'm a little bit lost.
+[SPEAKER_04]: Has he ever told you about his previous apprentice before you?
+[SPEAKER_02]: Not really.
+[SPEAKER_04]: I used to be at the college with him before you and I knew that someone else started working with him.
+[SPEAKER_04]: So I guess that's you then.
+[SPEAKER_05]: I'm looking at them having a conversation and trying to read their faces like what is this conversation about and can I do an inside chat?
+[SPEAKER_05]: Yeah, I think Eska would do the same as well.
+[SPEAKER_05]: Mind your expressions on both faces.
+[SPEAKER_01]: Because like Eska did not expect William to say anything at all until he goes up to him and all of a sudden William's like, hey, what up?
+[SPEAKER_01]: Nice.
+[SPEAKER_00]: Nice yeah, so again, I don't think you guys need to necessarily make contested checks because this is just a general vibe of the conversation, but I think the question would just be to call that and Billy's you have this conversation like are you Holding anything back or not telling the full truth or lying about anything in particular
+[SPEAKER_02]: as you guys discuss this?
+[SPEAKER_02]: Yeah, I think Calder wouldn't be lying at all because I don't think the professor would have said anything to me about the previous... Yeah, I think you might know that he had a previous apprentice because a sudden spot opened up and you were able to get that spot.
+[SPEAKER_00]: So you knew that much, but that's it.
+[SPEAKER_00]: He's never talked to you about the apprentice or anything, that's for sure.
+[SPEAKER_00]: Billy?
+[SPEAKER_04]: I think that Billy is not, he is holding back a little bit.
+[SPEAKER_04]: He's not lying, but not like, I guess he's holding back, trying to hold back that he is Billy and Buckman.
+[SPEAKER_04]: So he's just kind of trying to pretend like being an apprentice was all he is, right?
+[SPEAKER_00]: Or all he wants, even though there's more to it.
+[SPEAKER_00]: A quick question in between Grimmson.
+[SPEAKER_01]: How much knowledge of the
+[SPEAKER_01]: of the college, does Eske have?
+[SPEAKER_01]: Has he had any dealings before when he was in the guild?
+[SPEAKER_01]: Or is it just like something like, okay, we focus on the guild and we don't worry about the other factions?
+[SPEAKER_00]: So this name Professor Buckman is familiar to you, Eske.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: from the college that's probably the only interaction you've ever had with anyone from the college and it was a situation where I think your father actually specifically told you that they are not that interested in the college because the college is all theoretical and the guild of engineers is practical right so it was that kind of thing where you haven't really ever had to deal with them and you get the impression that the guild of engineers doesn't really
+[SPEAKER_00]: want to deal with the college but but but i but i know of them because my father tells me like hey yeah deal with them and yeah yeah i think you had you probably have had an education in all of the guilds to some extent so you know a little bit about all the guilds because it kind of would be necessary
+[SPEAKER_00]: So you know the basics about the college, you know about what it is and all that sort of stuff as well, and you know the kind of dealings that the Guild of Engineers has with them, which is not much.
+[SPEAKER_05]: Lark sees Billy pretty, again, a little bit uncomfortable and holding back something and then she glances at Eska and looking at him like if he looks scary or anything that he would be making Billy uncomfortable.
+[SPEAKER_05]: She's just checking out Eska's vibe, if he's looking scary.
+[SPEAKER_01]: Eska has a little tiny moment of like, oh, I recognize the name, the embankment.
+[SPEAKER_01]: But yeah, like Grimm just said, he doesn't really know anything else.
+[SPEAKER_01]: So that's the only thing that, maybe just a little, little moment of like, I recognize that name, but that's it.
+[SPEAKER_00]: So Billy says, yeah, that you used to be the apprentice to Professor Buckman before.
+[SPEAKER_00]: You guys want to continue what you were talking about there?
+[SPEAKER_04]: Yeah, I think Billy is going to be like, he almost forgets that he's trying to not say things because he's so interested in this guy Calder and like what he's doing with his father.
+[SPEAKER_04]: So, well,
+[SPEAKER_04]: Caller, do you then also like join him on projects?
+[SPEAKER_02]: Depends on a little bit of what projects, like currently he's in the, how do you call it, like a field trip, you know, on the project elsewhere.
+[SPEAKER_02]: And I'm not directly involved in that one, but I mean, for example, the thesis is one of his another project that I'm doing as well.
+[SPEAKER_02]: Right.
+[SPEAKER_04]: Well, yeah, he did mention.
+[SPEAKER_04]: Well, I mean, he should notice that he's kind of saying too much.
+[SPEAKER_04]: I mean, I heard of anyway.
+[SPEAKER_04]: And I kind of turned to Asuka now, trying to deviate from the conversation.
+[SPEAKER_04]: um i'm billy as i said um i don't really know about you asked about motivations and i don't know if i really understand what you mean by that but i i work at the scrapyard with the
+[SPEAKER_04]: recycling stations and well I noticed that there are some some members of the guilds that are starting to act differently and not always in a good way and then this happened with Theo and I guess that
+[SPEAKER_04]: Because of that I'm now kind of curious about what's going on and I just want to figure out if there is some sort of corruption spreading in the guilds.
+[SPEAKER_04]: So that's why I came here today.
+[SPEAKER_01]: Yeah, Eska's not gonna let you go for that.
+[SPEAKER_01]: So, um, Eska's going to say, well, uh, William, uh, this is the most talkative I've seen you, uh, uh, since, uh, ever.
+[SPEAKER_01]: And, uh, let's just say,
+[SPEAKER_01]: Let's just say that, you know, before I ask you about Theo, let me ask you about this Billion Buckman.
+[SPEAKER_01]: Oh, sorry, not Billion Buckman, Professor Buckman.
+[SPEAKER_04]: Basically, everybody says Billy except probably his parents and maybe official government stuff.
+[SPEAKER_01]: Yeah, OK, OK. No, but I was referring to the conversation that you had with Calder.
+[SPEAKER_01]: So I guess Esco would like try to pry into that.
+[SPEAKER_01]: Then he would say,
+[SPEAKER_01]: Well, Billy, was it?
+[SPEAKER_01]: Let's just say I haven't seen you talk this much since the time that we know each other.
+[SPEAKER_01]: And it seems that the motivation for you to start talking this much was when Calder mentioned Professor Buckman.
+[SPEAKER_01]: So before I ask about your relationship with Theo, may I ask what
+[SPEAKER_01]: What your relationship is with this Professor Buckman?
+[SPEAKER_04]: Well, as I said, I used to be an apprentice with Professor Buckman, but that was a few years ago, because, well, I mean,
+[SPEAKER_04]: college wasn't really a good place for me because i don't really like books as much and i'm not really good with reading so i i have tried to find a different job and eventually eventually it was theodore who helped me get my job at the scrapyard
+[SPEAKER_02]: I think Kaldor would ask at some point then, like, so while you were working over there, were you then part of those projects as well?
+[SPEAKER_02]: Like, were you leaving to, like, for example, another professor?
+[SPEAKER_04]: No, I was just basically studying magic and essence, but I don't, I didn't really learn too much, I guess.
+[SPEAKER_04]: Because yeah, I'm not...
+[SPEAKER_04]: I'm just not that smart, maybe.
+[SPEAKER_05]: Can I try to decipher what kind of age would Billion be?
+[SPEAKER_05]: But I don't know if I could, Lark could like, try to read this from his like, stance or like, is this something...
+[SPEAKER_00]: I mean, how accurate you want to go?
+[SPEAKER_00]: Yeah, I mean, you know...
+[SPEAKER_04]: You both guess like he's younger than what he really is.
+[SPEAKER_04]: When I tried to create William, I was thinking of making a 15 or 16-year-old, but I didn't feel comfortable bringing a child into the D&D, so I made him 19.
+[SPEAKER_04]: But I guess he kind of acts like he's 16 or 17.
+[SPEAKER_04]: Yeah, okay.
+[SPEAKER_04]: So I think you'd say he... Yeah.
+[SPEAKER_05]: She's guessing now that he's like a teenager, like 16.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Okay, that's fine.
+[SPEAKER_00]: you do know that to go to university or to go to the college well maybe Lark doesn't know this actually but generally to go to the college is kind of not until you are like 18 so you wouldn't have gone to the college you know like just the same as university in our world etc right if you know someone's been to university for a couple of years you know they have to be in most cases normally 18, 19, 20 something like that but maybe Lark doesn't necessarily know that
+[SPEAKER_00]: Definitely you definitely think he's on the younger end of the sort of somewhere between something and 28 which you guys all
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: And then, then Caldera says to Billy still that, okay, I think I still would want to continue talking with you at some point of this, what you actually did over there.
+[SPEAKER_02]: It's, it's fascinating topic, but then before I forget, then I turn to Aeska and I would want to ask Aeska, because I think last time you,
+[SPEAKER_02]: I don't remember exactly what you said.
+[SPEAKER_02]: Did you say that you were disowned by the family?
+[SPEAKER_01]: No, that's the only part I didn't mention.
+[SPEAKER_01]: I just said that...
+[SPEAKER_01]: I told you guys last time that I was the son and I was supposed to be the upbringing of the next Dr. Tamerton or whatever.
+[SPEAKER_01]: But I just told you that I don't have any contact with my family anymore.
+[SPEAKER_01]: I didn't tell you that I was disowned.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: You said you were kicked out of the guild, but you didn't say you were disowned by your family or anything like that.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: Because there was something that I, you know, at that point wanted to ask, but then it was not a good time.
+[SPEAKER_02]: So I think I would now then be asking about the, like, curious about the relationship of the guild.
+[SPEAKER_02]: I think you said that you were kicked, I believe.
+[SPEAKER_02]: Can I ask why?
+[SPEAKER_02]: It sounds like kind of radical.
+[SPEAKER_02]: I mean, you are part of the Volan family as well, so.
+[SPEAKER_01]: Let's just say for now that I like, well, part of the part of me, it kind of feels what Billy, but really he says, the guilt.
+[SPEAKER_01]: Let's just say for now that it's not, it wasn't for me.
+[SPEAKER_01]: It was not
+[SPEAKER_01]: the direction that I wanted to go into.
+[SPEAKER_01]: And therefore there were some disagreements where, and yeah, I was kicked.
+[SPEAKER_01]: So yeah, it's a long story, but we'll get to that once we need to get to that.
+[SPEAKER_03]: And they will kick you out for no reason.
+[SPEAKER_03]: And they will kick you out for no reason.
+[SPEAKER_00]: Felix talks from personal experience.
+[SPEAKER_00]: Just before that, Felix, make a politics check.
+[SPEAKER_00]: OK, you don't know anything about any of this.
+[SPEAKER_00]: Not your department.
+[SPEAKER_05]: Not your department.
+[SPEAKER_00]: He's still drinking.
+[SPEAKER_00]: He's still drinking.
+[SPEAKER_01]: He keeps going.
+[SPEAKER_00]: Yeah, so Felix says, yeah, they will kick you out for any reason or no reason.
+[SPEAKER_01]: Yeah, and I guess like Eska would realize is that Felix no longer works there anymore.
+[SPEAKER_01]: Yes, yes.
+[SPEAKER_01]: Well, in any case, yeah, like I said before, I
+[SPEAKER_01]: Some reason we were brought together, I saw all of you standing around where everyone else ran away.
+[SPEAKER_01]: So it doesn't matter what your reasons are, I would like to get to the bottom of this.
+[SPEAKER_01]: Yeah, so any help would be very, very useful.
+[SPEAKER_01]: Yeah, so if any of you have any information that you could share, that would be helpful.
+[SPEAKER_02]: well yeah i don't know based on the what i could gather up with the well what i was able to get her up was that people people don't really know there are so many different rumors like i said like there are some rumors that uh there was part of some criminal activity etc but then i feel like most of the
+[SPEAKER_02]: discussions were on the side of the weapon so to say or the way that it was utilized because it's so different to like normal pistols that and I look at William like you know it's it's it was much more
+[SPEAKER_02]: damageful and it requires some very big skills to make as a weapon and a lot of money as well.
+[SPEAKER_02]: I'm sorry, I don't think that is... Lark is trying to get...
+[SPEAKER_05]: Yes, Lark.
+[SPEAKER_05]: Yes, Lark.
+[SPEAKER_05]: Oliver, now she's having a really hard time just being loud enough and she actually stands up again, which doesn't make her much taller from the chair she's sitting on.
+[SPEAKER_05]: Well, 150 is not that short, but it's a bit short.
+[SPEAKER_05]: Anyway, she goes...
+[SPEAKER_05]: of what happened on King's Day.
+[SPEAKER_05]: I just want to address something and maybe going forward as well.
+[SPEAKER_05]: I don't usually
+[SPEAKER_05]: like to be violent but i feel like that situation was necessary to defend ourselves from from the enforcers it surprised me how violent they were but it's not something i regularly get into and i just want to point that out she sits back down
+[SPEAKER_01]: Well, yes, I definitely can understand.
+[SPEAKER_01]: I myself am not a very violent type as well, either.
+[SPEAKER_01]: However, judging from the actions of these guards and the fact that they only sent...
+[SPEAKER_01]: I think they arrived pretty quickly, right, Bingen?
+[SPEAKER_01]: They arrived right after, like, really quickly.
+[SPEAKER_01]: Or it was normal times.
+[SPEAKER_00]: They arrived...
+[SPEAKER_00]: Yeah, they arrived a little faster than you would have expected, but there was an alarm raised by people in the area, so it's not sure whether...
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: It's not like they were right on scene instantly, but it's not like they took a long time either.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Well, yes, from what I know about, well, when I was still there about these gods, this is not generally how they normally respond to a situation like this.
+[SPEAKER_01]: And, well,
+[SPEAKER_01]: Let's just say the intent of the guards that were there, as you could probably see, were not very friendly.
+[SPEAKER_01]: So sometimes, you know, there has to be something else going on, which is why I'm trying to work this out.
+[SPEAKER_01]: And what I can share is that
+[SPEAKER_01]: I know that Hal told you guys that Theo frequently visits this bar and that is true.
+[SPEAKER_01]: I have seen Theo a couple of times here and he usually always rents a room in the back for his secret meetings that were not necessarily supposed to be on the books.
+[SPEAKER_01]: Do you know of this Felix?
+[SPEAKER_03]: Do I know about this?
+[SPEAKER_00]: Um, I think it's up to you whether you think Theo might have discussed.
+[SPEAKER_00]: I think you know that Theo was involved in some, some sort of like political stuff outside of work, whether or not he taught too much in detail about it with you.
+[SPEAKER_00]: I think probably not, but you probably knew generally that he did some sort of stuff like that.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Generally and no bit, but not much.
+[SPEAKER_03]: We didn't really talk about it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So yeah, in any case, it's where I would like to investigate because he regularly rents a room here, like I said, and the contents of the discussions were not open.
+[SPEAKER_00]: You also know that Harle said that Lark had been in the meetings.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh, well, she's actually been at the meetings.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: I'll say to you that that Lark was one of the people that came.
+[SPEAKER_01]: Oh, I thought I thought she she was just a regular who recognized.
+[SPEAKER_05]: OK, OK. And I also told you that I go went to his speeches.
+[SPEAKER_00]: Yeah, I think you called them speeches and I think there's like, it wasn't maybe obvious that speeches meant at crew meetings that Asuka's talking about.
+[SPEAKER_00]: Maybe the two characters have a different idea of what the thing is, you know?
+[SPEAKER_01]: Yeah, I interpreted it because Theo gives speeches regularly.
+[SPEAKER_01]: So I'm just like, oh, maybe you're in the crowd and seeing his speeches, but I didn't know that you were actually in the room with the meetings.
+[SPEAKER_01]: OK, that changes things.
+[SPEAKER_01]: So, yeah, so then Asghar would now look at Lark and say, well, word is that you have been to some of those meetings, so could you tell us anything else about it?
+[SPEAKER_05]: Depends, like, I can recognize faces from the meetings if I see them, but I don't know anyone's name, really.
+[SPEAKER_01]: Maybe...
+[SPEAKER_01]: What were the meetings about?
+[SPEAKER_01]: What did you discuss?
+[SPEAKER_00]: Yeah, I think they...
+[SPEAKER_05]: Wait, wait, wait.
+[SPEAKER_05]: I just attended to listen.
+[SPEAKER_05]: I haven't really been part of the conversation.
+[SPEAKER_05]: People are sitting around and I just was sitting usually in the back listening in.
+[SPEAKER_05]: That was my part in there.
+[SPEAKER_05]: But like what the meetings were about to that.
+[SPEAKER_00]: And then, yeah, and then the meetings were just basically these sort of like political forums where people sit around and say like, wouldn't it be good if we didn't have to listen to the guilds all the time on what to do?
+[SPEAKER_00]: We could have our own government.
+[SPEAKER_00]: You know, it's like it was like an early sort of political movement type of thing where people sit around and go like, oh, it'd be great if we could vote or maybe we can do things for ourselves or how do we solve these problems?
+[SPEAKER_00]: You know, that kind of stuff.
+[SPEAKER_01]: Yeah, she explained.
+[SPEAKER_01]: It's like the start of a revolution.
+[SPEAKER_00]: It's a little bit revolutionary, but...
+[SPEAKER_00]: I don't think it's like at least it didn't appear to Lark to be like too radical and they weren't they never talked about like doing anything violent and there's nothing like we need to overthrow the guilds or whatever it was always more along the lines of like a thought process experiment theoretical stuff like what if it was never like didn't come across as like radical to you.
+[SPEAKER_05]: I explained that to Eska like the general topic.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So you would recognize some of these people if you were to see them?
+[SPEAKER_05]: Yeah, for sure.
+[SPEAKER_01]: Okay, did you see anyone when you entered this bar?
+[SPEAKER_05]: Um, yeah, there was this one guy.
+[SPEAKER_05]: Where he's like a...
+[SPEAKER_05]: Pilot hat.
+[SPEAKER_05]: What the fuck is that called?
+[SPEAKER_05]: Basker cap?
+[SPEAKER_05]: He's a little bit of an older gentleman.
+[SPEAKER_05]: I recognize him.
+[SPEAKER_05]: He's been in the meetings.
+[SPEAKER_05]: He was just sitting at the bar when I entered now.
+[SPEAKER_01]: What was his name again?
+[SPEAKER_01]: Was that the...
+[SPEAKER_05]: It was the Barry Killer Man.
+[SPEAKER_05]: Yeah, I don't think...
+[SPEAKER_05]: I don't think you know his name.
+[SPEAKER_05]: I don't know his name.
+[SPEAKER_01]: I don't think anyone knows his name.
+[SPEAKER_01]: Oh, yeah, yeah.
+[SPEAKER_01]: We don't know his...
+[SPEAKER_01]: I don't know his name, yeah.
+[SPEAKER_01]: That's just an old sheep, yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, do you... Have you talked to this man before?
+[SPEAKER_05]: No.
+[SPEAKER_05]: No.
+[SPEAKER_01]: Wow.
+[SPEAKER_01]: Thinking.
+[SPEAKER_01]: Brain.
+[SPEAKER_01]: Well, I guess this is the biggest lead that we've had since a couple of days.
+[SPEAKER_01]: Would he recognize you if you go talk to him?
+[SPEAKER_05]: I have no idea.
+[SPEAKER_01]: And you disappeared from the page.
+[SPEAKER_05]: I have no idea.
+[SPEAKER_05]: I can't tell if he would recognize me.
+[SPEAKER_01]: Okay, well... Yeah.
+[SPEAKER_01]: I guess that's the only thing we have.
+[SPEAKER_01]: So I will...
+[SPEAKER_01]: I will talk to Hal.
+[SPEAKER_01]: If you could just give me a second.
+[SPEAKER_01]: And he stands... Asuka stands up.
+[SPEAKER_01]: Oh, he leaves the room.
+[SPEAKER_04]: One thing before we do anything...
+[SPEAKER_04]: I...
+[SPEAKER_04]: was really impressed by all of your guys' fighting skills.
+[SPEAKER_04]: I've never really fought like that, so if something like that happens again, I don't expect anything from me.
+[SPEAKER_04]: I'm not really a fighter.
+[SPEAKER_04]: And I'd like to not fight at all if that's possible.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Well, if we work together correctly and we help each other, then maybe there'll be no need for fighting at all.
+[SPEAKER_02]: Yeah, hopefully.
+[SPEAKER_02]: And I... think I also want to say that I...
+[SPEAKER_02]: I really didn't mean to kill that one guy.
+[SPEAKER_02]: It's...
+[SPEAKER_02]: I...
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: I've never, never... killed anyone.
+[SPEAKER_02]: I have...
+[SPEAKER_02]: I have had to self-defense, like, slightly hurt some people, but never, like... never lethal.
+[SPEAKER_04]: So it's...
+[SPEAKER_02]: It's... Yeah.
+[SPEAKER_02]: Whoa, instant!
+[SPEAKER_02]: How do I do this?
+[SPEAKER_02]: Whisper and then it's...
+[SPEAKER_00]: If you just set your thing to whisper and then do a persuasion or deception check.
+[SPEAKER_04]: I'm afraid to say anything now.
+[SPEAKER_00]: Insight check.
+[SPEAKER_00]: Well, everyone believed Billy's... Everyone believed Billy's story, but not... Oh, no.
+[SPEAKER_01]: Escarcio doesn't believe him, but that's more general.
+[SPEAKER_05]: If anyone's looking at Lark, she's like glancing at every single movement and face and minor mannerisms anyone's doing.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So... Well, yeah, I mean, Kaldi, you can see the results, so you can see what you want.
+[SPEAKER_02]: Well, I'm saying the truth.
+[SPEAKER_05]: It seems like... How do you look?
+[SPEAKER_02]: Guilty.
+[SPEAKER_02]: I feel guilty a little bit painfully when I say those lethal power used.
+[SPEAKER_02]: So that part I am genuine, yes.
+[SPEAKER_05]: Lark just looks at him a little bit empathetically.
+[SPEAKER_03]: Well, self-defense or killing doesn't really matter about that.
+[SPEAKER_01]: Listen here, you know, what happened has happened.
+[SPEAKER_01]: And honestly, if you...
+[SPEAKER_01]: Honestly, I fear what would happen to you if you were caught in that situation.
+[SPEAKER_01]: So like you said, it was a case of matter of self-defense.
+[SPEAKER_01]: And then he looks at Billy and he says, as for you, you know, I understand you do not want to get into any
+[SPEAKER_01]: any violence.
+[SPEAKER_01]: Like I said, I am not a violent person myself.
+[SPEAKER_01]: However, in order to prevent things like this happening, maybe it would be better if we just, you know, work together instead of trying to work against each other.
+[SPEAKER_01]: It would help in not ending in these situations.
+[SPEAKER_04]: And then Billy will say, or Billy will say to Asuka.
+[SPEAKER_04]: I agree with that.
+[SPEAKER_04]: We should work together.
+[SPEAKER_04]: Please don't cast any spells on me anymore.
+[SPEAKER_01]: Well yes, I will make sure to keep those two only helpful spells.
+[SPEAKER_01]: My apologies for that.
+[SPEAKER_01]: heat of the moment, and I wanted to do what I thought I needed to do.
+[SPEAKER_01]: But I will.
+[SPEAKER_04]: I can see that now.
+[SPEAKER_01]: Yes.
+[SPEAKER_04]: You can see a genuine understanding of.
+[SPEAKER_01]: Yeah, if you wait here for a second, I will talk to Hal and then I'll come back.
+[SPEAKER_02]: I think before you would go to that.
+[SPEAKER_01]: Yeah, that's fine.
+[SPEAKER_01]: Come on, tell me.
+[SPEAKER_02]: I think Kaldor would go next to Biliam and then like saying like, okay, because I mean, you were in the institute, in the college, I assume you know some magic.
+[SPEAKER_02]: So, I mean, maybe I can help you then to, I don't know, self-defense, that you learned some self-defense with the magic, et cetera.
+[SPEAKER_04]: I'm not good with magic.
+[SPEAKER_04]: Um, I was supposed to learn it at the college, but because, because, uh, professor Buckman is quite a good magic user.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: But, um, like I said, it wasn't, it wasn't for me.
+[SPEAKER_04]: So I, I'd rather not mess with magic too much.
+[SPEAKER_02]: I see.
+[SPEAKER_04]: I see.
+[SPEAKER_04]: And like also what you just experienced with that guard.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: And that's what I want to avoid.
+[SPEAKER_02]: Yeah, I understand, but there are many, many, how to say it, like non-lethal way of using the magic and getting out of the situation, I guess.
+[SPEAKER_04]: It's just too dangerous for me.
+[SPEAKER_05]: You know, sometimes it's more dangerous to not do anything.
+[SPEAKER_04]: Maybe, maybe you're right, but it's just in the end.
+[SPEAKER_04]: People die because of magic.
+[SPEAKER_04]: And people get hurt because of magic.
+[SPEAKER_04]: And I don't want to be a part of that.
+[SPEAKER_02]: No.
+[SPEAKER_05]: Insight check.
+[SPEAKER_02]: I can understand.
+[SPEAKER_02]: I can understand.
+[SPEAKER_05]: Why is Billing saying that?
+[SPEAKER_05]: I want to know.
+[SPEAKER_00]: Oh, you can try.
+[SPEAKER_05]: oh wow she's actually she's throwing really high inside checks holy shit so what should i do crimson well you can yeah for this particular one you can send me a persuasion or deception and you can just like maybe tell like what what mannerisms you're doing yeah how you're feeling yeah sad angry unsure um you just notice
+[SPEAKER_04]: That he's being genuine.
+[SPEAKER_04]: He doesn't want to mess with magic.
+[SPEAKER_04]: He doesn't want people to get hurt.
+[SPEAKER_04]: Um, so it doesn't seem like he's lying about that or that he has like something hidden or a hidden motive like that.
+[SPEAKER_04]: Hmm.
+[SPEAKER_00]: Inside check again!
+[SPEAKER_00]: I want more insight.
+[SPEAKER_04]: Give me more insight.
+[SPEAKER_04]: He just is speaking the truth.
+[SPEAKER_04]: He doesn't want to get involved.
+[SPEAKER_05]: When Asuka leaves the room, Lark just sort of...
+[SPEAKER_05]: Her upper body collapses on the table.
+[SPEAKER_05]: She's like, oh my gosh.
+[SPEAKER_05]: He's a bit intimidating, isn't he?
+[SPEAKER_05]: Mr. Asuka?
+[SPEAKER_02]: I was... Not a little bit.
+[SPEAKER_03]: I think that's still the same.
+[SPEAKER_05]: I look at Felix and say that...
+[SPEAKER_05]: So...
+[SPEAKER_05]: You worked for Mr. Theo and I guess what I understood you don't work for the guild anymore?
+[SPEAKER_03]: Well, yeah.
+[SPEAKER_03]: Yesterday I was at the guild.
+[SPEAKER_03]: I got a temporary promotion to do Theo's job.
+[SPEAKER_03]: And then today I got fired.
+[SPEAKER_03]: Out of blue.
+[SPEAKER_03]: I couldn't even get into the guild anymore.
+[SPEAKER_03]: And even the head of secretary was also fired.
+[SPEAKER_03]: So, there's a lot of suspicious things going on there.
+[SPEAKER_04]: Who fired you?
+[SPEAKER_04]: I have no idea.
+[SPEAKER_03]: It's just got a letter that I got fired and I just couldn't get into the guild anymore.
+[SPEAKER_00]: That is strange.
+[SPEAKER_00]: Really strange.
+[SPEAKER_00]: So as you guys are discussing this, Asuka has left and headed over to Hal to chat to him as well.
+[SPEAKER_00]: Yeah, what did you want to raise with him, Asuka?
+[SPEAKER_01]: Yeah, he wants to ask Hal about the person that Lark pointed out.
+[SPEAKER_01]: So he would go and say, hey, Hal, listen,
+[SPEAKER_01]: Do you happen to know that fella standing over there with whatever hat?
+[SPEAKER_00]: Yeah, I don't even know what kind of hat you call this.
+[SPEAKER_00]: I call it like Baskerville.
+[SPEAKER_00]: It's a Peaky Blinders hat.
+[SPEAKER_00]: There is a name for that hat.
+[SPEAKER_01]: That fella over there with a Peaky Blinders hat.
+[SPEAKER_00]: Yeah, it's like a flat cap, but flat caps are slightly different.
+[SPEAKER_00]: Anyway, don't mind.
+[SPEAKER_05]: I'm sorry, I don't have hat knowledge.
+[SPEAKER_00]: I know, neither do I.
+[SPEAKER_00]: That's why I'm annoyed.
+[SPEAKER_00]: I won't have knowledge.
+[SPEAKER_00]: Sheesh, why not?
+[SPEAKER_00]: Harle says, oh, yeah, yeah, Barry, he's called.
+[SPEAKER_00]: He comes in here every now and again.
+[SPEAKER_00]: Yeah, he works at one of the forges in the core, I think.
+[SPEAKER_00]: Seen him around here, what about him?
+[SPEAKER_01]: Well, apparently he's, according to one of the people in the back, he's one of the regulars at one of these meetings with Theo.
+[SPEAKER_01]: So I thought we would see if you would know more about him.
+[SPEAKER_00]: Gotcha, right.
+[SPEAKER_00]: Well, yeah, I mean, wouldn't surprise me.
+[SPEAKER_00]: I see him around enough.
+[SPEAKER_00]: Like I said, I try to...
+[SPEAKER_00]: I try to keep my nose a bit out of what happens in the back.
+[SPEAKER_00]: That's what people pay me for, discretion and that.
+[SPEAKER_00]: It wouldn't surprise me if you said he's been here with Theo more often.
+[SPEAKER_00]: But I'm afraid I can't tell you much more about him.
+[SPEAKER_01]: So, so, so he's, he's, uh, other than the meetings, he's not a regular here then, or, uh, you don't know.
+[SPEAKER_00]: Oh yeah, yeah, that's what I mean.
+[SPEAKER_00]: He's a regular, he's a regular here at the Puma Bob.
+[SPEAKER_00]: So I just, that's why I know where it works and that and his name, but, um, you know, people come and go and maybe he's here on a nurse day, maybe he goes in the back room.
+[SPEAKER_00]: Like, I don't really keep a track of who goes where, you know?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Um, yeah.
+[SPEAKER_01]: Okay, uh, well, uh, well, how here, um, would you, uh, could you keep him busy and, you know, just, just, uh, just, just give him like maybe one or two drinks on the house.
+[SPEAKER_01]: And then I hand how a.
+[SPEAKER_01]: a ducat or whatever that covers like some drinks that'll be way too much like probably a couple of pennies yeah three pennies you can give him for a couple of drinks yeah yeah so so yeah yeah just keep keep him busy keep him here and yeah maybe offer him one or two in the house get me and then
+[SPEAKER_00]: shovelman gotcha right right right yeah uh no worries and you he as you as you leave he kind of goes hey barry and you start to hear him up a conversation with this with this guy okay to keep him there and then i head back to the to the back
+[SPEAKER_05]: Okay, Cloud, Asuka entered the room.
+[SPEAKER_05]: He's asking something from Lark.
+[SPEAKER_01]: Okay, continue.
+[SPEAKER_01]: Listen, Lark.
+[SPEAKER_01]: Right now, this berry, as he's called, character might be our best lead.
+[SPEAKER_01]: And well, you're the only one here who has talked to, well, who knows him the best.
+[SPEAKER_01]: Would you
+[SPEAKER_01]: be able to go and talk to him.
+[SPEAKER_01]: I've asked Hal to keep him here for now, if you could maybe talk to him.
+[SPEAKER_05]: The thing is, we haven't talked to each other at all and we don't know each other.
+[SPEAKER_05]: I don't know if he will even recognize me, but I can talk to him.
+[SPEAKER_05]: What would you want me to ask though?
+[SPEAKER_01]: Well, the things
+[SPEAKER_01]: Maybe introduce yourself, say that you have a common ground as in being in the meetings with Theo.
+[SPEAKER_01]: But any further mention of them should be in a more discreet settings, if possible.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Do you want me to do that now?
+[SPEAKER_01]: Well, I've asked how to keep him here, so...
+[SPEAKER_01]: Now it's a good time.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: I can't do it.
+[SPEAKER_05]: She's getting really nervous.
+[SPEAKER_05]: She surely pearls her hands in front of her.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, maybe this will help you and activate the Bardic Inspiration.
+[SPEAKER_01]: Oh my gosh.
+[SPEAKER_01]: Is it 1d6?
+[SPEAKER_00]: How are you inspiring?
+[SPEAKER_01]: Because it's not necessarily a spell.
+[SPEAKER_00]: It's a magical words musical dance.
+[SPEAKER_00]: It's an inspiring dance.
+[SPEAKER_00]: I really want to make a college dance bar someday.
+[SPEAKER_00]: I will play one someday.
+[SPEAKER_01]: Imagine you do a real D&D session and every time the bard actually has to dance, you know, do some shit.
+[SPEAKER_02]: Don't worry, it won't be as Aqua Dusty's dance.
+[SPEAKER_00]: It couldn't possibly be any worse than this, right?
+[SPEAKER_01]: Yeah, he's going to just give it like a shoulder tap and say, well, from what I've seen, you're a lot more capable of things than you say.
+[SPEAKER_01]: So I'm sure that this seems like a huge task, but I know that from the experiences that I saw that you can do more than you think.
+[SPEAKER_01]: So good luck.
+[SPEAKER_05]: Okay.
+[SPEAKER_00]: And there's this like a little radiant kind of glow from Asuka as she says this.
+[SPEAKER_00]: Maybe not even noticeable to anyone, but you know, just a little.
+[SPEAKER_00]: And yeah, you have a lot of inspiration.
+[SPEAKER_05]: Yeah, Lark takes a little notice of that.
+[SPEAKER_03]: You got this Lark.
+[SPEAKER_03]: And also Tapper.
+[SPEAKER_03]: And now she has guidance.
+[SPEAKER_05]: Sorry, I missed it.
+[SPEAKER_01]: Sorry, what?
+[SPEAKER_01]: Wait, can you add the guidance?
+[SPEAKER_01]: I kind of want to see what it does.
+[SPEAKER_01]: I don't think I know what it does.
+[SPEAKER_05]: What did you say?
+[SPEAKER_00]: Which skill do you choose?
+[SPEAKER_00]: The same thing.
+[SPEAKER_00]: Yeah, with guidance now you have to choose a skill.
+[SPEAKER_00]: So luck will only get advantage on the skill you choose.
+[SPEAKER_05]: Performance or something?
+[SPEAKER_00]: So performance, persuasion or persuasion.
+[SPEAKER_00]: So you have one default to persuasion from guidance from Felix, and yeah, and you feel I think a little static electricity between Felix's fingers and your shoulders as he taps you, and you're like, oh, what the fuck?
+[SPEAKER_05]: Okay, I guess I can do this then.
+[SPEAKER_05]: She exits the room, sort of looking, glances over her shoulder at the other thing.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Yeah, you see that this Barry is chatting to Harle at the bar.
+[SPEAKER_00]: In fact, all good.
+[SPEAKER_00]: Some tabbing music.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Don't walk up to him.
+[SPEAKER_05]: This is great because I can just cosplay myself here being fucking awkward.
+[SPEAKER_05]: Excuse me, sir?
+[SPEAKER_05]: Hello?
+[SPEAKER_00]: You, yeah, you can, yeah, we see.
+[SPEAKER_00]: It's already open.
+[SPEAKER_01]: Hello?
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: Nice, [Lark].
+[SPEAKER_01]: Let's go.
+[SPEAKER_01]: The replay is on point.
+[SPEAKER_00]: He turns around and kind of looks down because he sat up on the bar stool as well.
+[SPEAKER_00]: And he goes, hello?
+[SPEAKER_05]: That's the voice you give to him.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Did you change his last name as well?
+[SPEAKER_00]: I did change his last name, yeah.
+[SPEAKER_00]: I don't want to give any clues away, guys.
+[SPEAKER_05]: I guess you've maybe heard what happened on the King's Day.
+[SPEAKER_05]: I've seen you in Theo's meeting, sir.
+[SPEAKER_00]: Aw, yeah.
+[SPEAKER_00]: Awful business, awful.
+[SPEAKER_00]: He was my hero, he was.
+[SPEAKER_00]: Inside Jack.
+[SPEAKER_00]: You think he's probably telling the truth I mean you said like one sentence How true or not is he is but that sentence was pretty convincing
+[SPEAKER_01]: It's to it's to the also cosplaying real life with this thing.
+[SPEAKER_00]: It's like everything anyone says inside check inside check Yeah, it's just super suspicious about yeah Yeah, yeah big word, but yeah, I mean he seems genuine as far as you can tell yeah Yeah, yeah Were you there when it happened you knew him, right?
+[SPEAKER_00]: Oh
+[SPEAKER_00]: not not went not exactly uh no i was drinking in one of the pubs down the way uh he kind of gestures in a in a direction uh not not here on not here on the square so so uh i guess luckily maybe i didn't see it but uh yeah i didn't even know uh he was gonna honestly i'd um i'd been drinking quite a lot yesterday and uh well sorry two days ago and uh
+[SPEAKER_00]: I was supposed to come down and listen to his talk and everything but I kind of forgot because I've been drinking and that so I didn't actually make it down here.
+[SPEAKER_00]: He looks a bit sheepish about that.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: You went to his meetings a lot?
+[SPEAKER_00]: yeah yeah he had some right good ideas he did and he used to he used to always like chat to everyone and he was a pretty big shot you know in the guild and that so like it was it was kind of nice he was just standing like chatting with us and with all the rest of us and that uh yeah yeah so like i was at the meetings and and he always had like good stuff to say and yeah i know right and she sits down with him
+[SPEAKER_00]: that's what i think as well and you've been hearing already like the horrible stuff they're saying about him oh yeah yeah people said uh yeah like criminals and that and he was into but like he was he was a good guy wasn't into any criminal stuff what i knew no no no no no uh i mean he had some like
+[SPEAKER_00]: I saw him once, he was arguing with some people in here.
+[SPEAKER_00]: Really?
+[SPEAKER_00]: Arguing with you?
+[SPEAKER_00]: Yeah, yeah.
+[SPEAKER_00]: But they didn't look like no criminal lot like what I would think was a criminal, you know?
+[SPEAKER_05]: He was arguing here?
+[SPEAKER_05]: Like before the meeting?
+[SPEAKER_00]: This was like a couple of weeks ago, I think.
+[SPEAKER_00]: It wasn't before a meeting, it was just another day I was in here and I was just drinking like normal and that and he came in and he was just, he was normal, he was chatting to some people and then these two people came in and they
+[SPEAKER_00]: they sort of like confronted him they like went over to him so I thought I wasn't you know I don't like to eavesdrop on that like I don't like to listen in but like it was loud so he was just like they were obviously arguing about something and uh yeah yeah I had to say you know they look they was dressed pretty smart but like not
+[SPEAKER_00]: i mean yeah i guess probably like guild like i don't know they weren't like like i said not criminals or nothing like that i mean i don't know what a criminal looks like what does a criminal look like but like you know i mean oh well you can see them at the bellows sometimes well i guess it would be easy to recognize i guess yeah
+[SPEAKER_00]: Yeah, no, it was more like, I mean, they didn't look like nice people, right?
+[SPEAKER_00]: Not like me and you, not like normal upstanding citizens.
+[SPEAKER_00]: They looked like there was dangerous people, right?
+[SPEAKER_00]: You know what I'm saying?
+[SPEAKER_00]: But like, they also looked like they was dressed kind of, kind of decent and kind of like they weren't really from around here.
+[SPEAKER_05]: Really?
+[SPEAKER_05]: Can you remember anything like what kind of color were their clothes?
+[SPEAKER_00]: And like maybe... Oh, color, oh.
+[SPEAKER_00]: maybe like green I think there was this one lady she had like a big green coat on like overcoat type of thing big lady she had like um
+[SPEAKER_00]: There's a lady and a guy what came in.
+[SPEAKER_00]: Older lady, sort of grey hair, big coat, green coat.
+[SPEAKER_00]: The guy was, he was like a bit scary looking, but like a younger guy, like I think he was probably Ayla.
+[SPEAKER_00]: Scars on his face he had.
+[SPEAKER_00]: He looks a bit scary, yeah.
+[SPEAKER_00]: I tried not to get like eye contact with him, you know.
+[SPEAKER_05]: I wonder what kind of argument they could even have with Theo then.
+[SPEAKER_00]: yeah like as far as I was concerned he's like nicest guy in the world you know like who would be even mad at him or anything why would they do such a thing don't make sense to me how would you think it was them what did it sorry what did you think you think it was them what did it no I just mean how could anyone hurt him the way he ended up oh yeah
+[SPEAKER_00]: Well, the thing is, between you and me, he sort of leans in and sort of lowers his voice a bit.
+[SPEAKER_00]: He says, you know, between you and me, you had some good ideas, did Theo, but I bet you if some guilds heard them ideas, they wouldn't like it, you know?
+[SPEAKER_00]: A lot of bad things for the guild if people start, you know?
+[SPEAKER_05]: You mean stuff he talked about in the meetings or something you've heard separately?
+[SPEAKER_00]: No, yeah, like his opinions in that, you know, on like the guilds and like how the city should work, you know, like that kind of stuff.
+[SPEAKER_00]: Imagine if one of them big boys at the guild, they wouldn't like that, would they?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: What do you think?
+[SPEAKER_00]: But like, he was in the guild as well, wouldn't he?
+[SPEAKER_00]: So like, they wouldn't kill their own guy, would they?
+[SPEAKER_00]: Like, that doesn't make sense.
+[SPEAKER_05]: That wouldn't make sense, no.
+[SPEAKER_05]: so what what what are you gonna do that now then like without the oh what do you mean without the oh now with everything that he he spoke about and who do you think will will anyone continue his sort of movement what will you what would you do oh
+[SPEAKER_00]: I mean movement's a bit strong isn't it?
+[SPEAKER_00]: I mean we're just talking and that and look if it's not Theo I don't think nobody's gonna be running any meetings anytime soon I mean especially after what happened I mean I'm not saying it's related to Theo's opinions and whatever right?
+[SPEAKER_00]: I'm sure there's many reasons but like yeah people are gonna be scared for a bit I don't think nobody's gonna want to
+[SPEAKER_05]: do any meetings or anything on those kind of lines for a while right uh out of character pondering i have no idea like what to ask from this man who's like genuinely uh just a fan sort of but i don't know like what
+[SPEAKER_01]: Well, he's given us some useful information already.
+[SPEAKER_05]: Maybe this is all I can really get from this type of person and I don't know if Lark would go further.
+[SPEAKER_00]: As you are talking to him, the door swings open and walking into the tavern, you see a large woman and a tall, aler man who are both wearing green overcoats here and they have pins on their jackets.
+[SPEAKER_00]: the woman kind of speaks loudly addressing the entire tavern you guys in the back sort of hear because it's probably like that that lull when everyone stops talking it looks like who are these people who've just walked in and sort of like barged in and started talking the woman speaks loudly and says uh oi any of yous lot know fio
+[SPEAKER_00]: And there's like a kind of like quiet silence for a second.
+[SPEAKER_00]: And then like you see a number of the patrons turn and look at Lark and Barry talking at the bar.
+[SPEAKER_00]: The patrons, you know, they're regulars and know that at least Barry and they've probably seen Lark go to the meeting.
+[SPEAKER_00]: So few of them turn to look towards you two sat together at the bar and the woman kind of clocks that and walks towards you.
+[SPEAKER_05]: Nice guys throwing us under the bus, huh?
+[SPEAKER_00]: yeah I mean it's more of like a kind of accidental sort of like who knows Theo and they kind of look at the most obvious people but she walks up to you like and she says look you you two knew Theo did you?
+[SPEAKER_05]: I didn't know him I just heard him speak sometimes
+[SPEAKER_00]: You can make a... deception.
+[SPEAKER_00]: I mean, it's kinda true you can make a persuasion check, I guess, but... Deception or persuasion would kill me.
+[SPEAKER_00]: You have the 1d4.
+[SPEAKER_05]: Can I decide to use the Bardic Die after I have rolled?
+[SPEAKER_05]: Without you telling me you just succeeded.
+[SPEAKER_00]: Yes, when you fail a d20 test, you can use the biotic inspiration.
+[SPEAKER_00]: With guidance, you always get a d4 to any persuasion check.
+[SPEAKER_00]: So you can add a d4 to this.
+[SPEAKER_00]: I'm not even gonna add... You always add a d4.
+[SPEAKER_00]: But you might as well, because if you... No, no, you get an extra d4.
+[SPEAKER_01]: Anyways, if you're using persuasion.
+[SPEAKER_01]: You get a d4 regardless.
+[SPEAKER_00]: Yeah, so just add a d4 to that.
+[SPEAKER_05]: Oh, yeah, it's persuasion.
+[SPEAKER_05]: What does it do?
+[SPEAKER_00]: Yes, yes.
+[SPEAKER_00]: so okay so your total is seven so now you can choose whether you want to no no no no no no what you rolled that's the oh it's one d4 i need to roll for the one d4 you're supposed to roll yeah oh my god what i'm saying is you roll that first and then decide if you want it so you've got a total of six and you can decide if you want to use the bardic like you probably don't want to use the bardic right so yeah so with a six uh
+[SPEAKER_00]: she looks at you um and she goes look no need to hide anything all right we just uh
+[SPEAKER_00]: got some unresolved business with Theo and on account of his death we're looking for someone who's uh able to finish that business for us all right so uh no need to look so scared she looks at Barry who's like trying to hide into his cup and not not face them with all due respect miss i don't think i'm the person you should be looking for
+[SPEAKER_00]: she kind of looks you up and down and she's sort of like nods and she's like yeah maybe not but maybe you know someone who's you know a bit more up the chain you know a bit more and stands a little bit more about what's going on oh certainly not i have i wouldn't know anyone like that miss you can make a deception check are we saying this by the way no you're not you're you
+[SPEAKER_00]: the back room the doors close you don't see it you heard that there was commotion you heard that there was commotion in the room you heard kind of everyone stop talking and you hear a loud like female voice kind of talking so you guys can react to this if you wish um but lark shaking in the boots yeah literally she says uh yeah right uh look uh we don't want to get
+[SPEAKER_00]: And then she sort of stops herself.
+[SPEAKER_00]: We don't want to cause any trouble in this nice establishment.
+[SPEAKER_00]: She looks over at Harle.
+[SPEAKER_00]: So just tell us where we can find someone who's going to know a bit more about Theo and you can continue with what you're doing.
+[SPEAKER_05]: Can I do an insight check on her?
+[SPEAKER_05]: Like what?
+[SPEAKER_05]: I'm trying to get what her face is like telling like if she's concerned if she's angry or like what's the sort of surface level of emotion she's having yeah she looks she looks angry but she looks like the kind of person who's always angry so that doesn't really help you
+[SPEAKER_00]: You see that the more calm, taller Ayla takes a step forward as well in a threatening way as she suggests that you... She believes that you know someone who's going to be able to help her out, so she's not taking no for an answer here.
+[SPEAKER_02]: I whisper in the back room like, should we... Should we do anything or should we maybe just listen and see what's going on?
+[SPEAKER_02]: What do you guys think?
+[SPEAKER_04]: Yes, we can check out.
+[SPEAKER_04]: I'm curious what's happening.
+[SPEAKER_01]: Just don't, yeah.
+[SPEAKER_01]: I'm gonna stay here.
+[SPEAKER_01]: I cannot take any risk, but if you want to check it out, just please do not draw attention to yourself.
+[SPEAKER_04]: I'll go and look, firstly.
+[SPEAKER_04]: I might open a door, I guess.
+[SPEAKER_04]: I don't know if there is a door, but...
+[SPEAKER_00]: Yeah, this door to the back room that so that's how you guys currently can't see into the room into the main room unless you open this door.
+[SPEAKER_00]: But yeah, Billy, you can walk over and sort of open the door up.
+[SPEAKER_00]: And yeah, you see that like a lot of the patrons are kind of in that like holding their drinks kind of watching what might happen.
+[SPEAKER_00]: And you see this Barry sat next to Lark, Harle behind the bar, and then these two unfamiliar figures sort of looming over Lark.
+[SPEAKER_04]: I guess I just walk up to Lark and kind of almost whisper to her like, is everything okay?
+[SPEAKER_05]: Yeah, it's okay.
+[SPEAKER_05]: I tried to almost push Billy away, like, just get the fuck back.
+[SPEAKER_05]: Okay, maybe miss, let's- Who's your friend?
+[SPEAKER_05]: He's my little brother.
+[SPEAKER_00]: You just walked into the conversation, so...
+[SPEAKER_05]: He's my little brother, don't worry about him.
+[SPEAKER_05]: Let's maybe go outside, I can talk to you, okay?
+[SPEAKER_05]: And I'm just glancing at Harle, I don't want to cause any issue in the bar for him.
+[SPEAKER_00]: Alright, we can talk outside.
+[SPEAKER_00]: She goes to walk outside, expecting you to follow her.
+[SPEAKER_05]: Yeah, I make it up and I follow them.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Well, the Aayla stays inside, standing at the door, as you go outside with the woman.
+[SPEAKER_00]: He's just kind of, he's just kind of keeping an eye on the patrons and stuff just to see what's happening as far as you can tell, but you leave.
+[SPEAKER_00]: So Billy is still in there.
+[SPEAKER_00]: The other three of you, I mean, what are you guys doing in the back room?
+[SPEAKER_00]: Billy's opened the door and then left, basically.
+[SPEAKER_00]: And you still hear this kind of obviously more threatening language type of conversation happening than was previously happening.
+[SPEAKER_02]: It's the way to, I don't know, out of window or something to get like out of the building from the...
+[SPEAKER_00]: There's a back door on this back room that Asuka has the key to.
+[SPEAKER_00]: I mean, you know Asuka has the key to it, but there's a door that leads into the alleyway off the back of the building that is from this back room that you're in.
+[SPEAKER_00]: So there is a way out.
+[SPEAKER_00]: But if you try the door, it's locked.
+[SPEAKER_02]: Yeah, I whisper to Asuka that...
+[SPEAKER_02]: I think I would want to go outside just to, you know, look that Lark is alright in the... in the alleyway.
+[SPEAKER_02]: So you had a key for this?
+[SPEAKER_01]: Oh, you don't know that I have the key for it.
+[SPEAKER_02]: I wonder... Hmm, this is locked.
+[SPEAKER_00]: Yeah, I mean, you seek all the walk.
+[SPEAKER_00]: You seek all the walk over.
+[SPEAKER_00]: Try the door in the back alley.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And I wish him like, what do you what do you what do you want to do?
+[SPEAKER_02]: I just want to...
+[SPEAKER_02]: I want to stay hidden.
+[SPEAKER_02]: I want to stay stealthy over there, but just taking a peek just behind the corner and see that if Lark is getting into trouble, then I can... You're not gonna do what that Billy guy just did, right?
+[SPEAKER_02]: No, no.
+[SPEAKER_02]: I don't want to be seen.
+[SPEAKER_03]: All I know how stealthy you are, like, let it be your time.
+[SPEAKER_03]: Maybe I can do it.
+[SPEAKER_02]: I'm trustworthy on myself as well.
+[SPEAKER_01]: Fine, but if anything goes wrong, I am not staying.
+[SPEAKER_01]: And then I just go and open up the back door.
+[SPEAKER_03]: I will drop the Guidance and I will cast Pass without a Trace.
+[SPEAKER_03]: Oh, that's sick.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Yeah, Mark, you don't know why you feel a little shock of electricity on your shoulder for a second as the guidance drops, so you don't know what that means.
+[SPEAKER_00]: Pass with a Trace, perfect.
+[SPEAKER_00]: So you guys want to stealth out the back alleyway and around to the front.
+[SPEAKER_00]: Am I correct in that?
+[SPEAKER_00]: Calder and Felix, are you going to go?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah, I'm going to go with them too, because I don't want to get stuck.
+[SPEAKER_01]: I'm not going to get stuck here.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: So the three of you can roll stealth checks with a plus 10.
+[SPEAKER_00]: Billy, you are in the main room.
+[SPEAKER_00]: Everyone's kind of just like looking.
+[SPEAKER_00]: This is the most interesting thing that's happening.
+[SPEAKER_00]: So everyone's just kind of like following as like Lark gets led out of the tavern, out of the front door by this big woman.
+[SPEAKER_00]: What do you want to do?
+[SPEAKER_00]: You asked if everything was all right and she said, you know, she didn't reply to you and then she got escorted out.
+[SPEAKER_04]: Yeah, well, I kind of sensed that she was fine in a way.
+[SPEAKER_04]: So I guess that's all I wanted to check.
+[SPEAKER_04]: But now it's kind of weird that she went outside, so I'm not really sure what he's supposed to do now.
+[SPEAKER_04]: Kind of like standing there like, why, what am I doing here?
+[SPEAKER_04]: Is Hal still working?
+[SPEAKER_04]: the Ayla.
+[SPEAKER_00]: Yeah, the Ayla guy is he basically like walked with you to the door.
+[SPEAKER_00]: But then as the woman walks out and you walk out with her, he just stays inside still just keeping an eye on the patrons to see if anyone's going to follow you to see if you know if anybody is like trying to intervene or whatever.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So he's just keeping an eye on the inside of the tavern there at the moment.
+[SPEAKER_00]: And yeah, I'll still hear Billy as well.
+[SPEAKER_04]: So I guess I'll just go.
+[SPEAKER_04]: If you set the bar, I just
+[SPEAKER_04]: moved to the bar and kind of sit there for a bit um like how what's what's going on i thought there was some loud voices is that normal yeah hall leans in and he goes um nah your your friend there uh i don't think he's locked
+[SPEAKER_00]: I mean, these lot are looking for friends of Theo and she convinced them to go outside with her.
+[SPEAKER_00]: I don't know what that means, but they didn't seem particularly friendly.
+[SPEAKER_00]: You think they might do something to her?
+[SPEAKER_00]: he kind of looks over at this Ailer guy who is clearly like some kind of muscle, right?
+[SPEAKER_00]: Like he is clearly a threatening sort of guy.
+[SPEAKER_00]: And he says, I mean, I don't know what they want, but like I said, they didn't seem to be happy to just take no for an answer.
+[SPEAKER_04]: Right, then maybe I should go back to the back room and
+[SPEAKER_04]: Alright, thanks.
+[SPEAKER_04]: And I'll just make my way to the back room where probably nobody is.
+[SPEAKER_00]: Yeah, you walk into the back room and it's just empty.
+[SPEAKER_00]: So as that happens, the other three of you guys are stealthing away, but Lark, you get taken out to the front with Gertrude into Oblong Square again.
+[SPEAKER_00]: This time there's people here, but not anywhere as many people as there was last time, just because of the, you know, it's not Harvest Fest, et cetera, anymore.
+[SPEAKER_00]: Where is my Oblong Square map?
+[SPEAKER_00]: You head out there and she kind of looks at you expectantly because you were the one who sort of asked her to come outside.
+[SPEAKER_00]: There are a few people passing by here and traders and all the rest of it so it's not empty.
+[SPEAKER_05]: I'm sorry, miss.
+[SPEAKER_05]: I just didn't want to cause trouble for the barkeeper.
+[SPEAKER_05]: Hurt his business.
+[SPEAKER_05]: What kind of person you're looking for?
+[SPEAKER_05]: I am just someone who has gone to Theo's meetings to listen to him.
+[SPEAKER_05]: And I saw his speeches.
+[SPEAKER_05]: What kind of person you're looking for?
+[SPEAKER_00]: Look, don't bullshit me, alright?
+[SPEAKER_00]: You clearly know someone who knows Theo better.
+[SPEAKER_00]: I believe you.
+[SPEAKER_00]: You don't know shit, but...
+[SPEAKER_00]: You bring me to someone who knows Theo and what he works on better than you do, and then you won't have any trouble.
+[SPEAKER_05]: I just know the faces of the people from the meeting.
+[SPEAKER_05]: I don't know their names.
+[SPEAKER_05]: I could point people if I see them.
+[SPEAKER_00]: I don't give a fuck about these meetings.
+[SPEAKER_00]: What meetings are you talking about?
+[SPEAKER_00]: I'm looking for someone who knows Theo, does business with him, you know?
+[SPEAKER_05]: I don't know anyone like that that well, miss.
+[SPEAKER_05]: I'm sorry.
+[SPEAKER_00]: Because you already failed your deception perception checks, you're not going to convince her that you don't.
+[SPEAKER_00]: So obviously you can keep saying it, but she is just going to be not believing you at this point.
+[SPEAKER_00]: So she thinks that you know someone.
+[SPEAKER_05]: Oh, while I'm talking, who is she?
+[SPEAKER_05]: Can I get anything out of her outfit, the pin or anything?
+[SPEAKER_05]: Do I recognize anything on her?
+[SPEAKER_00]: Yeah, make a perception check, yeah.
+[SPEAKER_00]: She has this big overcoat on she has a bunch of porters guild related things so things that you things you would recognize yeah green she has a porters guild pin but it's a porters guild pin and not a separate crew or something this is like official porters guild pin right with their logo on it so you know she's from the porters guild
+[SPEAKER_00]: at least that's how she's presenting, you see that under this large cloak type thing she's wearing, she has some kind of essence weapon in a holster on her side which is hidden by this big overcoat.
+[SPEAKER_05]: I just stand there, I stand my ground without like giving any names and I know she's not buying it but I'm not like, I'm not giving out names.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Uh, she's going to grab you by the neck and slam you up against the wall.
+[SPEAKER_00]: Um, you want to do anything to resist that?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I mean, she's going to try.
+[SPEAKER_00]: She's going to try to do that.
+[SPEAKER_00]: So she's going to make an attack on you first.
+[SPEAKER_05]: Um, how did it go again?
+[SPEAKER_05]: I don't remember grapple rules.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: In this case for the grappling, uh, for the grappling, I'm going to do it.
+[SPEAKER_00]: I'm gonna just roll for her.
+[SPEAKER_00]: She makes an armed strike, essentially, on you.
+[SPEAKER_00]: I don't know if I'm gonna do this with... And I do either athletics or acrobatics check, is it?
+[SPEAKER_05]: So...
+[SPEAKER_00]: uh yes so she's gonna make the unarmed strike on you so i'm gonna roll here so you don't see any stats and things for her uh she rolls a 17 to hit your ac which i assume is gonna hit yeah yeah so she six
+[SPEAKER_00]: Yeah, yeah, because she just has to hit you with the attack to basically grapple you and then you have the now you have the reaction which is like to avoid actually being grappled.
+[SPEAKER_00]: So now you make a acrobatics or athletics check against her DC, which is eight plus her strength plus her proficiency.
+[SPEAKER_00]: So you just make your
+[SPEAKER_00]: So she manages to grab my neck, but she doesn't manage to...
+[SPEAKER_00]: Yeah, because she hits the, she hits the grapple.
+[SPEAKER_00]: She hits the attack, but you're able to break out of the grapple.
+[SPEAKER_00]: So you can just describe with a natural 20, basically, whatever you want, as you kind of like either slip away, like, you know, flip around, like what, you know, whatever you want to do to sort of escape this.
+[SPEAKER_05]: Because if I kick her to the stomach, then it's an attack.
+[SPEAKER_05]: It's not like I'm trying to get away.
+[SPEAKER_05]: I'll just like,
+[SPEAKER_00]: You can do that, you won't do any damage, but yeah, that's a more aggressive way of doing it.
+[SPEAKER_05]: That's what would happen, because if she lifts me to a wall, I'm in the air, I would just lift my knee and kick her to the stomach to get out.
+[SPEAKER_00]: Okay, yeah, sure.
+[SPEAKER_00]: She goes and kind of like drops the the grapple off you and you kind of push yourself back up against the wall She is going to immediately Well, I guess no you have you can react that was her that was her thing You can react and then the rest of you guys will get to you after larks reaction to this
+[SPEAKER_00]: So you're just standing between her and the wall at this point, in melee essentially with her, but not...
+[SPEAKER_05]: I attempt to spring the way, just like, as fast as I can.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: You want to disengage with your action and then that way you won't get an attack of opportunity?
+[SPEAKER_05]: Yes.
+[SPEAKER_00]: On you?
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah, well if you don't do that she's going to make an attack of opportunity on you and try and grapple you again as you run away.
+[SPEAKER_00]: Yeah, if you don't want to use your action for anything else but running, then you might as well do that.
+[SPEAKER_05]: Yeah, and I yell, I don't know any names!
+[SPEAKER_00]: And what direction are you running?
+[SPEAKER_05]: Away from the bar.
+[SPEAKER_05]: For sure.
+[SPEAKER_00]: Yeah, so...
+[SPEAKER_00]: where you are, the bar is behind you, the square in front of you, to your, so if you're standing in front of the bar, to your right is the alleyway that you know heads to the back of the Plum and Bob, to your left is like the main street that just goes off back like north and south towards the rest of the core and the stacks and stuff like that.
+[SPEAKER_05]: Where the speech would have been held on the square, like
+[SPEAKER_00]: Right, which is towards the alleyway as well where the Plum and Bob is, etc.
+[SPEAKER_00]: So you're running deeper into the square towards where the speech was, yeah?
+[SPEAKER_05]: Yeah.
+[SPEAKER_00]: As opposed to out of the square, back into the stacks and a while away from everything else, yeah?
+[SPEAKER_05]: I'm not sure if I understand where the fuck I am, but I'm just trying to get away from the bar towards, like, opening and... Yeah, so the bar...
+[SPEAKER_00]: If the bar is behind you, there's three ways to get away from the bar.
+[SPEAKER_00]: You can go left, right, or straight ahead, right?
+[SPEAKER_00]: Imagine there's just four ways to go.
+[SPEAKER_00]: One of them goes out of the square, away from this, towards the core, into buildings, away from everything.
+[SPEAKER_00]: The other way goes into the square, deeper into the square where Theo was shot, towards the alleyway where, which connects to the back alleys of this area.
+[SPEAKER_00]: And then straight ahead is like going across the square where you'd have to pass her and you can't really go that way.
+[SPEAKER_00]: So you only really have two choices.
+[SPEAKER_00]: So you go deeper into the square.
+[SPEAKER_05]: Essentially towards the alleyway we were stopped the last time, I guess.
+[SPEAKER_05]: Yeah, in that direction.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: Yeah, yeah, cool.
+[SPEAKER_00]: You start to run and she goes, hey, hey, stop.
+[SPEAKER_00]: And she will kind of turn to look at you, but I don't think she's necessarily chasing you at this point.
+[SPEAKER_00]: Meanwhile, you three who are stealthed, who are heading towards the square, I assume, because...
+[SPEAKER_00]: That just makes sense.
+[SPEAKER_01]: Sorry, I do have to go in a bit, so if we could end it sooner.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_00]: We've already run over what I was planning.
+[SPEAKER_00]: you head to you head towards the square itself and you three hear her basically shout oy and you hear Lark shout I don't know any names as she's running so Lark is running towards you three and you three are well stealthed in the alleyway at the moment and then finally Billy you hear a shout from outside as well because all the patrons kind of turn to look because suddenly people are shouting from outside and what do you want to do?
+[SPEAKER_04]: Could I exit through the back door or is that closed though?
+[SPEAKER_00]: Yeah, yeah, the back door, I think is still open.
+[SPEAKER_04]: Yeah, it's still open.
+[SPEAKER_04]: I guess I'll also try to make my way to the front, but going through the back door.
+[SPEAKER_00]: But around the front.
+[SPEAKER_00]: Yeah, sure.
+[SPEAKER_00]: So you're a little bit behind the other three guys here as well.
+[SPEAKER_00]: Yeah, that is where we will end it as we will pick up from there.
+[SPEAKER_00]: Probably need to roll initiative and stuff for that next time, because it can happen.
+[SPEAKER_00]: We'll see.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Geez, everyone.
+[SPEAKER_00]: We will see what happens.
+[SPEAKER_05]: These NPCs are so violent, man.
+[SPEAKER_01]: I know.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Not violent, nature.
+[SPEAKER_00]: Well, you keep not doing what they want.
+[SPEAKER_00]: So if you keep doing not what they want, they're not going to be happy about it.
+[SPEAKER_00]: That's very nice.
+[SPEAKER_00]: cool um but yeah geez guys we have the next session already right

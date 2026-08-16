@@ -7,3 +7,4 @@ Each episode page also links to its raw transcript, kept in the repository.
 | Episode | Played | In world |
 |---|---|---|
 | [[Episode 1]] | 7 August 2026 | Terr 00, 756 - Harvest Fest |
+| [[Episode 2]] | 15 August 2026 | Tide 01-02, 756 |
