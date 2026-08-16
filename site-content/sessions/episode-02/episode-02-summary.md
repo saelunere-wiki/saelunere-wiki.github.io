@@ -21,8 +21,8 @@ the Plumb and Bob.*
 ### Felix
 
 - **Theo's office is searched.** [[The Guild of Engineers]] sent clerks and guardsmen to go through the dead man's belongings "to ensure no guild secrets fall into the wrong hands." Felix let them in with his key and shadowed them. Investigation, natural 20: they were doing exactly what they claimed, and **there was nothing incriminating in the office at all**. He concluded Theo kept anything personal at home rather than trusting it to the guild.
-- **He is promoted.** Chief Secretary [[Spernholt]] asked him to sit in as interim Chief of Essence Transfer for a couple of weeks, since he knew Theo's work best. He accepted, then spent the afternoon discovering he does not understand a word of the technical side.
-- **The next morning he is fired and evicted.** A letter under the door before he woke: terminated immediately, and out of the guild tenement by the end of the day. At the spire the doors were closed to him, and when he asked to see [[Spernholt]], **she had been removed too**.
+- **He is promoted.** Chief Secretary [[Harriet Spurnhold]] asked him to sit in as interim Chief of Essence Transfer for a couple of weeks, since he knew Theo's work best. He accepted, then spent the afternoon discovering he does not understand a word of the technical side.
+- **The next morning he is fired and evicted.** A letter under the door before he woke: terminated immediately, and out of the guild tenement by the end of the day. At the spire the doors were closed to him, and when he asked to see [[Harriet Spurnhold]], **she had been removed too**.
 - **Theo's house has already been stripped.** He went there and found it ransacked. Investigation with disadvantage turned up no diary. An **old neighbour** came to the door looking for Theo, said she had heard **at least two people** in the house the night of the killing, and got a good look at Felix, as did several others in the street.
 
 ### Lark
@@ -33,8 +33,8 @@ the Plumb and Bob.*
 
 ### Billiam
 
-- **His boss shrugs.** [[Shrapnel]], who runs [[Claringbone's Yard]], had heard about the killing and was unmoved: the guilds mess with everyone's business, they were always going to collect their own dead, and none of it surprised him. Billiam read him as a man who has seen too much of it to be shocked.
-- **Something is going on at the yard.** Billiam told [[Shrapnel]] that strange things had been happening, "with the last week with the guys coming here", and that he felt something bad was going on. [[Shrapnel]] talked past it and nobody came back to it. **What the visitors wanted at [[Claringbone's Yard]] is unexplained.**
+- **His boss shrugs.** [[Shrapnel]], who runs [[Claringbold's Yard]], had heard about the killing and was unmoved: the guilds mess with everyone's business, they were always going to collect their own dead, and none of it surprised him. Billiam read him as a man who has seen too much of it to be shocked.
+- **Something is going on at the yard.** Billiam told [[Shrapnel]] that strange things had been happening, "with the last week with the guys coming here", and that he felt something bad was going on. [[Shrapnel]] talked past it and nobody came back to it. **What the visitors wanted at [[Claringbold's Yard]] is unexplained.**
 - **His mother was on call** at [[The Institute of Physikers]] that night. The nurses expected Theo to be brought in for healing and waited. **His body never arrived.** She also caught the wince from his healed gunshot wounds while hugging him, though he said nothing.
 - **His father has not been home for days**, sleeping at the office on some important project.
 - **He is turned away at the College.** He went to find his father and was told he was off-site. His attempt to talk his way past failed badly, and the secretary told him she had heard of his "short tenure" at the College, that he had been a disappointment then and was one now.
@@ -66,7 +66,7 @@ the Plumb and Bob.*
 - **[[Barry Killerman]], a meetings regular.** Lark recognised an older man at the bar from Theo's back-room meetings. Sent out with a bardic inspiration from Aeska and guidance from Felix, she got him talking. He is a forge worker from [[The Core|the Core]], and he thought the world of Theo.
 - **Barry describes an argument.** A couple of weeks ago he saw **two people confront Theo in this pub**: an older grey-haired woman in a **big green overcoat**, and a younger **Aela man with scars on his face**. Not criminals, he thought, but not from around here, and not friendly.
 - **Those two walk in.** Mid-conversation, a large woman and a tall Aela man entered in **green overcoats**, wearing **official [[The Porter's Guild|Porter's Guild]] pins** rather than crew pins, and asked the whole tavern who knew Theo. The regulars turned and looked at Lark and Barry.
-- **The woman in the green coat wants a name.** She said they have **unresolved business with Theo** and need someone able to finish it now he is dead. She was not interested in the political meetings at all. She wanted **someone who did business with him**. Lark spotted a **concealed essence weapon** in a holster under her coat.
+- **The woman in green wants a name.** She said they have **unresolved business with Theo** and need someone able to finish it now he is dead. She was not interested in the political meetings at all. She wanted **someone who did business with him**. Lark spotted a **concealed essence weapon** in a holster under her coat.
 - **Lark refuses.** Taken outside into [[Oblong Square]], she held the line and gave no names. The woman grabbed her by the throat and slammed her against a wall. **Natural 20:** Lark got a knee into her stomach, broke the grapple, disengaged and ran deeper into the square shouting that she does not know any names.
 - **The others slip out the back.** Calder, Felix and Aeska went out through the back door under **Pass Without Trace**, cast by Felix, and worked around towards the square. Billiam went out after them.
 
@@ -74,13 +74,13 @@ the Plumb and Bob.*
 
 ## NPCs, locations, factions
 
-- **The woman in the green coat** *(Gertrude?)* - [[The Porter's Guild]]. Older, grey-haired, armed with a concealed essence weapon, and willing to put hands on a stranger in public to get a name. The name is never spoken in front of anyone; it slipped out once in narration, so no character has heard it.
+- **The woman in green** - [[The Porter's Guild]]. Older, grey-haired, armed with a concealed essence weapon, and willing to put hands on a stranger in public to get a name.
 - **The scarred Aela man** - her companion. Says nothing, stays by the door, and watches the room while she takes Lark outside.
 - [[Barry Killerman]] - regular at Theo's meetings and at the Plumb and Bob, works a forge in [[The Core|the Core]]. Called Theo his hero. Witnessed the same two Porter's agents confronting him weeks before the killing.
 - [[Professor Benjamin Buckman]] - [[The College of Arcanographers]]. Calder's supervisor, and Billiam's former master. Off-site indefinitely on a project at the Guild of Engineers, and has been sleeping at the office for days. *(He is also **Billiam's father**. The players know this; none of the characters except Billiam do, and he did not say it in the back room.)*
-- [[Spernholt]] - Chief Secretary at the Guild of Engineers. Promoted Felix on the first day and was removed herself by the second.
+- [[Harriet Spurnhold]] - Chief Secretary at the Guild of Engineers. Promoted Felix on the first day and was removed herself by the second.
 - [[Mira]] - runs the [[Brassline]] depot. Lark's former boss. Warned her off the guilds, took her pin back, and told her to come back if she survives it.
-- [[Shrapnel]] - runs [[Claringbone's Yard]], where Billiam works. Unshockable. Sees guild trouble as routine.
+- [[Shrapnel]] - runs [[Claringbold's Yard]], where Billiam works. Unshockable. Sees guild trouble as routine.
 - [[Tobin Marsh]] - still at the Guild of Engineers, as far as Aeska knows. The one person there who stayed loyal to him. No contact in two years.
 - [[Harl Mott]] - handed over his back door key, and is now actively asking around on Aeska's behalf.
 - [[Theodore Blackwood]] - his office was searched and cleared, his house was stripped, his body was never delivered to the Institute, and nobody knows whether he will get a funeral.
@@ -106,5 +106,5 @@ the Plumb and Bob.*
 - **Whether Billiam tells the others that Buckman is his father.** He kept it back in the back room.
 - **Where Theo's body is**, and whether anyone is going to bury him.
 - **Who can afford the weapon.** Many essence cores, a great deal of money, and real skill.
-- **Who has been visiting Claringbone's Yard**, in the week before the killing, and why it unsettled Billiam enough to raise it with his boss.
+- **Who has been visiting Claringbold's Yard**, in the week before the killing, and why it unsettled Billiam enough to raise it with his boss.
 - **The two Porter's agents are still there**, and Lark is running across the square Theo was shot in.

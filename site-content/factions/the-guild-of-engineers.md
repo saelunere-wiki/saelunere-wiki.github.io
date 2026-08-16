@@ -40,3 +40,18 @@ The guild's own uniformed force, in **black and gold**. They carry **essence
 carbines**. Three of them, under [[Sergeant Tanner]], reached [[Oblong Square]]
 within minutes of [[Theodore Blackwood]]'s death and moved to take witnesses back
 to the spire.
+
+## After Theodore Blackwood's death
+
+- Sent **clerks and guardsmen to search a dead employee's office within a day**,
+  on the stated grounds of protecting guild secrets.
+- **Fired and evicted [[Felix Klaudius]] the morning after promoting him** - by
+  letter, with same-day notice - and closed the spire doors to him. Nobody would
+  say who had signed it.
+- **Removed Chief Secretary [[Harriet Spurnhold]]** at the same time.
+- Is currently hosting an **open-ended project involving a College professor**,
+  [[Professor Benjamin Buckman]], who has been sleeping at his work.
+
+The guild **operates compartmentally**: staff know their own department very
+well, and the rest of the guild barely at all. Somebody working one floor of the
+spire has little idea what is happening on another.

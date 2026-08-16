@@ -13,3 +13,13 @@ The name comes from the builder's **plumb-bob** - a weight on a line, for findin
 The proprietor is **Harl Mott**, a heavyset, slow-moving man who keeps the place exactly as it has always been.
 
 ![The Plumb and Bob](_images/the-plumb-and-bob.webp)
+
+## The back room
+
+[[Theodore Blackwood]] **rented the back room weekly**, every Ersdae eve, for
+political meetings. It was paid for and discreet: [[Harl Mott]] was paid not to
+listen to what was said in it, and did not.
+
+The back room has **its own door onto the alley** behind the building.
+[[Aeska Volan|Aeska]] holds a key to it, given by Harl on the condition that he
+keeps his trouble out of the bar.

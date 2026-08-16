@@ -27,3 +27,10 @@ The top is flat, and it is a **garden**: rows of herbs and medicinal crops grown
 ## Formation
 
 A necessity, and one of the first bodies established after [[The Theocide]]. Medical professionals and carers of every walk came together simply to deal with the fallout, and what began as an emergency response was formalised early into an institution for training and building the city's medical expertise. It has existed without a break ever since.
+
+## The night of Harvestfest
+
+The Institute's night staff **expected [[Theodore Blackwood]] to be brought in for
+healing** after the shooting in [[Oblong Square]], and waited for him.
+
+**He never arrived.**

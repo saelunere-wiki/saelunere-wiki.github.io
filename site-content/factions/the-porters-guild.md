@@ -32,3 +32,20 @@ The most loosely organised of the guilds, and the slowest to become one. For yea
 ## Crew pins
 
 The Guild is not one workforce but many small independent outfits, so **every Porter wears a pin naming the crew they work for**. It is how a client knows which outfit is at their door and how a Porter identifies themselves and their crew on a job. Each outfit's pin is its own, which makes a pin found loose the name of a crew - and, to anyone who thinks to ask at that crew's depot, a short list of the people who wear it.
+
+## Two agents at the Plumb and Bob
+
+Two days after [[Theodore Blackwood]] was killed, two Porter's agents walked into
+[[The Plumb and Bob]] and asked the room who had known him.
+
+- They wore **official Porter's Guild pins - the guild's own, not crew pins.**
+- One carried a **concealed essence weapon** under a heavy overcoat, and **put a
+  hand round a stranger's throat** in [[Oblong Square]], in daylight, in front of
+  passers-by, to get a name.
+- They said they had **unresolved business with Theo** that now needed somebody
+  else to finish, and were explicitly uninterested in his meetings. They wanted
+  whoever had **done business** with him.
+
+See [[The woman in green]] and [[The scarred man]]. By
+[[Barry Killerman]]'s account, the same two had confronted Theo in the same
+tavern a couple of weeks before he died.

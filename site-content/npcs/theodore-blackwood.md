@@ -61,3 +61,33 @@ stage.
 - Rumoured to be the first [[Aela]]
 
 > *The party are each connected to Theo in some way.*
+
+## After his death
+
+His office at [[The Guild of Engineers]] was searched by guild clerks and
+guardsmen within a day of the killing, on the stated grounds of protecting guild
+secrets. **It held nothing of interest** - everything in it was ordinary and
+above board.
+
+**His house was ransacked the night he died**, by at least two people, before
+anyone else reached it. Files and papers are gone; the gaps where they were are
+visible. A neighbour heard them and thought he had come home with friends.
+
+**His body was never delivered to [[The Institute of Physikers]]**, where the
+night staff waited for it. Nobody knows where he is.
+
+There has been **no funeral and no word of one**. He appears to have had no
+family, and nobody knows who would arrange it.
+
+## The meetings
+
+He held **weekly meetings in the back room of [[The Plumb and Bob]]**, every
+Ersdae eve, paid for and discreet. [[Harl Mott]] was paid not to listen, and did
+not.
+
+They were political discussion rather than organising - what if we could vote,
+what if we could decide things for ourselves - and by the account of those who
+attended they were never violent and never radical.
+
+**A couple of weeks before he was killed, two strangers came into that tavern and
+argued with him there.** See [[Barry Killerman]].

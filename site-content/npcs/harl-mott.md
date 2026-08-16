@@ -6,6 +6,7 @@ faction: Independent
 status: Proprietor of the Plumb and Bob
 pronouns: he/him
 summary: The barman at the Plumb and Bob, and no friend of the guilds.
+portrait: _images/harl-mott.webp
 ---
 
 # Harl Mott
