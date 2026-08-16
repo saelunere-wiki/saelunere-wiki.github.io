@@ -34,6 +34,7 @@ the Plumb and Bob.*
 ### Billiam
 
 - **His boss shrugs.** [[Shrapnel]], who runs [[Claringbone's Yard]], had heard about the killing and was unmoved: the guilds mess with everyone's business, they were always going to collect their own dead, and none of it surprised him. Billiam read him as a man who has seen too much of it to be shocked.
+- **Something is going on at the yard.** Billiam told [[Shrapnel]] that strange things had been happening, "with the last week with the guys coming here", and that he felt something bad was going on. [[Shrapnel]] talked past it and nobody came back to it. **What the visitors wanted at [[Claringbone's Yard]] is unexplained.**
 - **His mother was on call** at [[The Institute of Physikers]] that night. The nurses expected Theo to be brought in for healing and waited. **His body never arrived.** She also caught the wince from his healed gunshot wounds while hugging him, though he said nothing.
 - **His father has not been home for days**, sleeping at the office on some important project.
 - **He is turned away at the College.** He went to find his father and was told he was off-site. His attempt to talk his way past failed badly, and the secretary told him she had heard of his "short tenure" at the College, that he had been a disappointment then and was one now.
@@ -105,4 +106,5 @@ the Plumb and Bob.*
 - **Whether Billiam tells the others that Buckman is his father.** He kept it back in the back room.
 - **Where Theo's body is**, and whether anyone is going to bury him.
 - **Who can afford the weapon.** Many essence cores, a great deal of money, and real skill.
+- **Who has been visiting Claringbone's Yard**, in the week before the killing, and why it unsettled Billiam enough to raise it with his boss.
 - **The two Porter's agents are still there**, and Lark is running across the square Theo was shot in.
