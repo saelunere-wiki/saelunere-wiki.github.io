@@ -944,14 +944,20 @@ a.fn-back{text-decoration:none;opacity:.55}
 .dir-empty{color:var(--muted);font-style:italic}
 .nav-empty{color:var(--muted);font-size:.85rem;font-style:italic;padding:.2rem .5rem}
 
-/* Portrait avatar in page header */
-.page-head.with-avatar{display:flex;align-items:flex-start;gap:1.2rem}
-.page-head-text{flex:1;min-width:0}
-.avatar{flex:0 0 auto}
-.avatar-img{width:110px;height:110px;object-fit:cover;border-radius:12px;
+/* Portrait avatar in page header.
+   Matched to the DM render 2026-08-17: a large floated portrait the text wraps
+   around, not a 110px thumbnail. With a portrait present the header's rule
+   belongs under the TEXT rather than under the whole header, because a
+   full-width border would otherwise run behind the floated image. */
+.page-head.with-avatar{border-bottom:none;padding-bottom:0;margin-bottom:0}
+.page-head.with-avatar .page-head-text{border-bottom:1px solid var(--rule);
+  padding-bottom:1rem;margin-bottom:1.5rem}
+.avatar{float:right;width:min(50%,380px);margin:0 0 1.2rem 1.6rem}
+.avatar-img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px;
   box-shadow:var(--shadow);display:block}
-@media(max-width:560px){
-  .page-head.with-avatar{flex-direction:column;align-items:center;text-align:center}
+/* Too narrow to wrap text beside it: give the portrait the full column. */
+@media(max-width:720px){
+  .avatar{float:none;width:100%;max-width:360px;margin:0 auto 1.4rem}
 }
 
 /* Hover preview card */
