@@ -21,4 +21,10 @@ This episode has two write-ups:
 - [[Episode 1 - Summary]] - the scannable list of what happened (for players and DM)
 - [[Episode 1 - Story]] - the narrative retelling (optional, reads like a book)
 
+## Listen
+
+!audio[Episode 1 - full recording, 3 hours 15 minutes](https://github.com/saelunere-wiki/saelunere-wiki.github.io/releases/download/episode-1-audio/saelunere-episode-1.mp3)
+
+The unedited session recording, exactly as it was played.
+
 [Raw transcript of Episode 1](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-01/transcript) - for checking details, or writing your own version.
