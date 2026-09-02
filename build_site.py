@@ -261,6 +261,35 @@ def parse_table(lines, start, ctx):
     return "".join(out), i
 
 
+_AUDIO_RE = re.compile(r"^!audio\[([^\]]*)\]\(([^)]+)\)$")
+_DRIVE_FILE_RE = re.compile(r"drive\.google\.com/file/d/([A-Za-z0-9_-]+)")
+
+
+def audio_block(label, url):
+    """A player for a session recording, written `!audio[Label](url)`.
+
+    Recordings are hosted rather than committed: a three-hour episode is 250 MB
+    or more, GitHub refuses any file over 100 MB, and anything that does land in
+    this repo is in its public history for good.
+
+    A Drive-hosted file gets Drive's own iframe player. A plain <audio> tag
+    pointed at a Drive URL does not work for large files, because Drive answers
+    with a scan-warning page instead of the bytes. Any other URL is assumed to
+    serve the audio directly and gets a real <audio> element.
+    """
+    m = _DRIVE_FILE_RE.search(url)
+    title = html.escape(label or "Session recording", quote=True)
+    cap = f"<figcaption>{html.escape(label)}</figcaption>" if label else ""
+    if m:
+        src = f"https://drive.google.com/file/d/{m.group(1)}/preview"
+        player = (f'<iframe class="audio-embed" src="{src}" title="{title}" '
+                  f'loading="lazy" allow="autoplay"></iframe>')
+    else:
+        player = (f'<audio class="audio-embed" controls preload="none" '
+                  f'src="{html.escape(url, quote=True)}"></audio>')
+    return f'<figure class="audio">{player}{cap}</figure>'
+
+
 def md_to_html(md_text, base_dir, image_loader, resolve):
     ctx = (base_dir, image_loader, resolve)
     lines = md_text.split("\n")
@@ -295,6 +324,13 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
                 buf.append(lines[i]); i += 1
             i += 1  # skip closing fence
             out.append(f"<pre><code>{html.escape(chr(10).join(buf))}</code></pre>")
+            continue
+
+        m_audio = _AUDIO_RE.match(s)
+        if m_audio:
+            flush_para(); flush_bq()
+            out.append(audio_block(m_audio.group(1).strip(), m_audio.group(2).strip()))
+            i += 1
             continue
 
         if s.startswith("|") and i + 1 < len(lines) and is_table_sep(lines[i + 1]):
@@ -867,6 +903,11 @@ blockquote{margin:1.2rem 0;padding:.3rem 1.1rem;border-left:3px solid var(--rule
 table{border-collapse:collapse;width:100%;margin:1.2rem 0;font-size:.94rem}
 th,td{border-bottom:1px solid var(--rule);padding:.5rem .7rem;text-align:left;vertical-align:top}
 th{color:var(--muted);font-weight:600;border-bottom:2px solid var(--rule)}
+figure.audio{margin:1.5rem 0}
+figure.audio .audio-embed{width:100%;border:0;border-radius:8px;box-shadow:var(--shadow)}
+figure.audio iframe.audio-embed{height:66px}
+figure.audio audio.audio-embed{height:44px;box-shadow:none}
+figure.audio figcaption{margin-top:.45rem;font-size:.82rem;opacity:.75;text-align:left}
 figure{margin:1.5rem 0;text-align:center}
 figure img{max-width:100%;height:auto;border-radius:8px;box-shadow:var(--shadow)}
 /* Any image in body text: never overflow the column; centre block images */

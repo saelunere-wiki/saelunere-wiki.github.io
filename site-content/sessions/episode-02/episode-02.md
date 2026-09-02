@@ -17,4 +17,10 @@ summary: Two days of fallout after Theo's killing, ending with two Porter's Guil
 - [[Episode 2 - Summary]] - the scannable list of what happened
 - Episode 2 - Story - the narrative retelling, not written yet
 
+## Listen
+
+!audio[Episode 2 - full recording, 3 hours 45 minutes](https://drive.google.com/file/d/1CYPaeePJQ-xGXE05Y175ErWkADqR5_x6/preview)
+
+The unedited session recording, exactly as it was played.
+
 [Raw transcript of Episode 2](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-02/transcript) - for checking details, or writing your own version.
