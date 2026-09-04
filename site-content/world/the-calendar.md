@@ -3,7 +3,7 @@ type: world
 name: The Calendar & Seasons
 group: Society & Daily Life
 order: 1
-summary: Year 756. A 400-day year of four 100-day seasons named for the gods, each opened by a festival.
+summary: Year 756. A 400-day year of four 100-day seasons named for the gods, each closed by a festival.
 ---
 
 # The Calendar & Seasons
@@ -29,14 +29,17 @@ of Aela.
 
 ## Festival Days (Day 00)
 
-Each season opens with a festival on its zeroth day:
+A season runs from day **01 through 99**, and then **closes on day 00**. Note
+that **00 is the hundredth and final day of the season - not a zero**; it is
+written 00 because it completes the count. That last day is the season's
+festival, so each festival *closes* its season rather than opening it:
 
-| Festival | Day | Theme |
-|----------|-----|-------|
-| Everbring  | Aela 00  | Growth and Life |
-| Highbreath | Ember 00 | Joy and Freedom |
-| Harvestfest| Terr 00  | Plenty and Abundance |
-| Frostmorn  | Tide 00  | Remembrance |
+| Festival | Day | The last day of | Theme |
+|----------|-----|-----------------|-------|
+| Everbring  | Aela 00  | Spring | Growth and Life |
+| Highbreath | Ember 00 | Summer | Joy and Freedom |
+| Harvestfest| Terr 00  | Autumn | Plenty and Abundance |
+| Frostmorn  | Tide 00  | Winter, and so the **last day of the year** | Remembrance |
 
 ## The week
 

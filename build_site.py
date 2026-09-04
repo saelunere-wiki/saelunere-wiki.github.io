@@ -20,6 +20,8 @@ import json
 import re
 from pathlib import Path
 
+import chronicle  # the day-by-day Chronicle component; see chronicle.py
+
 SITE_TITLE = "Saelunere"
 SITE_SUBTITLE = "Campaign Wiki"
 CONTENT_DIR = "site-content"
@@ -290,6 +292,36 @@ def audio_block(label, url):
     return f'<figure class="audio">{player}{cap}</figure>'
 
 
+def chronicle_block(block, resolve):
+    """The day-by-day timeline, written as a ```chronicle fenced block.
+
+    Parsed and rendered by `chronicle.py`, which the DM store imports too, so
+    the two wikis cannot disagree about what day it is. See CHRONICLE_RULES.md
+    in the DM store for how a day gets added.
+
+    A malformed block stops the build on purpose. A broken Chronicle should not
+    deploy quietly; failing here leaves the previous site up.
+    """
+    def wl(target, label):
+        pid, _canon = resolve(target)
+        if pid:
+            return f'<a class="wl" href="#{pid}">{html.escape(label)}</a>'
+        return (f'<span class="wl-missing" title="No page yet: '
+                f'{html.escape(target, quote=True)}">{html.escape(label)}</span>')
+
+    def episode_href(num):
+        pid, _canon = resolve(f"Episode {num.strip()}")
+        return f"#{pid}" if pid else None
+
+    try:
+        records = chronicle.parse_chronicle(block)
+    except chronicle.ChronicleError as exc:
+        raise SystemExit(f"Chronicle block is malformed: {exc}")
+    for problem in chronicle.lint(records):
+        print(f"  chronicle: {problem}")
+    return chronicle.render_chronicle(records, wl, episode_href)
+
+
 _ITEM_START = re.compile(r"(?:[-*] )|(?:\d+\.\s+)")
 _BLOCK_START = re.compile(r"(?:#{1,6} )|(?:> )|\||```|<img|:::")
 
@@ -348,6 +380,18 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
     while i < len(lines):
         line = lines[i]
         s = line.strip()
+
+        # The Chronicle - a ```chronicle block becomes the day-by-day timeline.
+        # Checked before the generic fence below, which would otherwise swallow it.
+        if s.startswith("```chronicle"):
+            flush_para(); flush_bq()
+            start = i
+            i += 1
+            while i < len(lines) and not lines[i].strip().startswith("```"):
+                i += 1
+            i += 1  # skip closing fence
+            out.append(chronicle_block("\n".join(lines[start:i]), resolve))
+            continue
 
         # Fenced code block - emit raw/escaped, no inline or wiki-link processing.
         if s.startswith("```"):
@@ -433,6 +477,8 @@ def plain_text(md_text):
     """Strip markdown/frontmatter to plain text for the search index."""
     t = re.sub(r"\^\[((?:[^\[\]]|\[[^\]]*\])*)\]", r" \1 ", md_text)
     t = re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", t)
+    # Chronicle records are `field: value` lines; index the values, not the labels.
+    t = re.sub(r"^(date|episode|status|gap|text):\s*", "", t, flags=re.MULTILINE)
     t = re.sub(r"[#*`>_\-]", " ", t)
     t = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", t)
     t = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", t)
@@ -1061,6 +1107,9 @@ a.fn-back{text-decoration:none;opacity:.55}
   .page-title{font-size:1.7rem}
 }
 """
+
+# The Chronicle component ships its own rules and inherits the palette above.
+CSS += chronicle.CHRONICLE_CSS
 
 JS_TEMPLATE = r"""
 (function(){

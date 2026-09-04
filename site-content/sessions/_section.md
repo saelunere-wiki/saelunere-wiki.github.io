@@ -1,6 +1,8 @@
-One page per session, in the order they were played. Each episode is a folder
-containing the **Summary**, the scannable record of what happened, and
-optionally a **Story**, the same events written as a narrative chapter.
+**[[The Chronicle]]** runs first: the campaign day by day, a line each, from
+Harvest Fest onward. Everything below it is one page per session, in the order
+they were played. Each episode is a folder containing the **Summary**, the
+scannable record of what happened, and optionally a **Story**, the same events
+written as a narrative chapter.
 
 Each episode page also links to its raw transcript, kept in the repository.
 

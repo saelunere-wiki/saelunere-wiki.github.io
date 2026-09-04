@@ -65,3 +65,18 @@ These render on the site too, so players can see how the archive is made.
 3. Write the episode Summary (and optionally the Story), linking entities with
    `[[double square brackets]]`.
 4. Run `python build_site.py` and share the fresh `campaign_site.html`.
+
+## The Chronicle
+
+`sessions/chronicle.md` is the day-by-day timeline that heads the Sessions
+section: one node per in-world day, one or two lines each, growing forward from
+Harvest Fest 756. It is written as a ` ```chronicle ` fenced block and rendered
+by **`chronicle.py`** (in the repo root, stdlib-only, imported by `build_site.py`).
+
+⚠ **Do not hand-edit the fence.** It is mirrored in from the DM store, which owns
+the day records, and the next mirror overwrites anything changed here. The prose
+and frontmatter around the fence do belong to this repo. `chronicle.py` itself is
+the one copy of that renderer - the DM store imports this file, not the reverse.
+
+A malformed fence stops `build_site.py` on purpose, so a broken Chronicle fails
+the deploy and leaves the previous site up.

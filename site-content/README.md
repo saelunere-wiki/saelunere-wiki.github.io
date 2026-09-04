@@ -92,6 +92,30 @@ list of every other page that links to it. That's how you get
 If a `[[link]]` points at a page that doesn't exist yet, it shows greyed-out -
 a reminder to write that note later.
 
+## The Chronicle
+
+`sessions/chronicle.md` holds the day-by-day timeline. Inside it, a fenced block
+tagged `chronicle` renders as the timeline component rather than as code:
+
+````
+```chronicle
+date: Tide 01, 756
+episode: 2
+text: One or two lines. [[wikilinks]] work.
+---
+date: Tide 02, 756
+status: open
+text: The next day. `status: open` means it is still being played.
+```
+````
+
+The weekday, the festival name, the season bands and the "2 weeks later" zigzag
+over a time jump are all worked out from the dates, so a record only ever needs
+`date:` and `text:`.
+
+⚠ That block is **mirrored in from the DM store** and is overwritten on the next
+mirror. Edit the prose around it, not the days.
+
 ## Build it
 
 ```
