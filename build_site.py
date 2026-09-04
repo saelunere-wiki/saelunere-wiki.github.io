@@ -290,6 +290,40 @@ def audio_block(label, url):
     return f'<figure class="audio">{player}{cap}</figure>'
 
 
+_ITEM_START = re.compile(r"(?:[-*] )|(?:\d+\.\s+)")
+_BLOCK_START = re.compile(r"(?:#{1,6} )|(?:> )|\||```|<img|:::")
+
+
+def _list_item_text(lines, i):
+    """Return (item text, index of the next line) for the item starting at `i`.
+
+    A list item's text may wrap onto following lines. Markdown treats an
+    indented non-blank line that is not itself a new item as a continuation of
+    the item above it. Without this the wrapped remainder fell out of the <li>
+    and rendered as a separate paragraph underneath the list, which is what
+    produced the stray line breaks in bulleted entries.
+
+    A continuation must be INDENTED. Every wrapped item in site-content is, and
+    requiring it means a paragraph that follows a list without a blank line
+    cannot be swallowed into the last bullet. Nested items stay items: an
+    indented line that starts with its own marker ends the continuation.
+    """
+    s = lines[i].strip()
+    m = re.match(r"[-*]\s+(.*)", s) or re.match(r"\d+\.\s+(.*)", s)
+    text = m.group(1)
+    i += 1
+    while i < len(lines):
+        raw = lines[i]
+        if not raw.strip() or not raw[:1].isspace():
+            break
+        nxt = raw.strip()
+        if _ITEM_START.match(nxt) or _BLOCK_START.match(nxt):
+            break
+        text += " " + nxt
+        i += 1
+    return text, i
+
+
 def md_to_html(md_text, base_dir, image_loader, resolve):
     ctx = (base_dir, image_loader, resolve)
     lines = md_text.split("\n")
@@ -373,8 +407,8 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
             flush_para()
             items = []
             while i < len(lines) and (lines[i].strip().startswith("- ") or lines[i].strip().startswith("* ")):
-                items.append(f"<li>{render_inline(lines[i].strip()[2:], *ctx)}</li>")
-                i += 1
+                text, i = _list_item_text(lines, i)
+                items.append(f"<li>{render_inline(text, *ctx)}</li>")
             out.append("<ul>" + "".join(items) + "</ul>")
             continue
 
@@ -383,9 +417,8 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
             flush_para()
             items = []
             while i < len(lines) and re.match(r"\d+\.\s+", lines[i].strip()):
-                content = re.match(r"\d+\.\s+(.*)", lines[i].strip()).group(1)
-                items.append(f"<li>{render_inline(content, *ctx)}</li>")
-                i += 1
+                text, i = _list_item_text(lines, i)
+                items.append(f"<li>{render_inline(text, *ctx)}</li>")
             out.append("<ol>" + "".join(items) + "</ol>")
             continue
 
