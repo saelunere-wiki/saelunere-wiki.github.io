@@ -3,6 +3,7 @@ type: npc
 name: Barry Killerman
 aliases: [Barry]
 faction: Independent
+group: Other
 status: Forge worker in the Core
 pronouns: he/him
 summary: A regular at Theo's meetings who saw two strangers argue with him weeks before he died.

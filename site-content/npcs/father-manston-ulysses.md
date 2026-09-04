@@ -3,6 +3,7 @@ type: npc
 name: Father Manston Ulysses
 aliases: [Manston Ulysses, Father Ulysses]
 faction: The Divine Calling
+group: Guild & Council Leaders
 status: Father
 summary: Leads the Divine Calling, the divine arm of the Physikers.
 ---

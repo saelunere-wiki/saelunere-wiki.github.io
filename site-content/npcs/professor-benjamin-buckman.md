@@ -3,6 +3,7 @@ type: npc
 name: Professor Benjamin Buckman
 aliases: [Benjamin Buckman, Professor Buckman]
 faction: The College of Arcanographers
+group: Family & Home
 status: Off-site indefinitely at the Guild of Engineers
 pronouns: he/him
 summary: Calder's supervisor and Billiam's father, away on an unexplained project.

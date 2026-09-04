@@ -2,6 +2,7 @@
 type: npc
 name: Tobin Marsh
 faction: The Guild of Engineers
+group: Work & Crew
 status: Junior engineer; whereabouts unconfirmed
 pronouns: he/him
 summary: The one person at the Guild of Engineers who stayed loyal to Aeska.

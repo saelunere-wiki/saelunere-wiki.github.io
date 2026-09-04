@@ -2,6 +2,7 @@
 type: npc
 name: Orson Thorne
 faction: Independent
+group: Family & Home
 status: Retired magic scholar
 pronouns: he/him
 summary: A very old scholar, sharp on magical theory and losing everything else.

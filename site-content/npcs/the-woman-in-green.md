@@ -2,6 +2,7 @@
 type: npc
 name: The woman in green
 faction: The Porter's Guild
+group: Other
 status: Unidentified
 pronouns: she/her
 summary: A Porter's Guild agent looking for whoever did business with Theo.

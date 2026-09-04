@@ -2,6 +2,7 @@
 type: npc
 name: Shrapnel
 faction: Claringbold's Yard
+group: Work & Crew
 status: Runs Claringbold's Yard
 pronouns: he/him
 summary: Billiam's boss at the scrapyard, and far too experienced to be shocked.

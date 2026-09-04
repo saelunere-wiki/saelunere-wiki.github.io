@@ -3,6 +3,7 @@ type: npc
 name: Sasha Langford
 aliases: [Langford, Headman Langford]
 faction: The Porter's Guild
+group: Guild & Council Leaders
 status: Headman
 summary: Headman of the Porter's Guild.
 ---

@@ -2,6 +2,7 @@
 type: npc
 name: Vanessa Flynn
 faction: Independent
+group: Family & Home
 status: Engineer, works the forges
 pronouns: she/her
 summary: Calder's mother, who feeds anyone who comes through the door.

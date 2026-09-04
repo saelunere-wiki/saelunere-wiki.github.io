@@ -3,6 +3,7 @@ type: npc
 name: Orson Knight
 aliases: [Knight]
 faction: The Wainwright's Guild
+group: Guild & Council Leaders
 status: Leader
 summary: Leader of the up-and-coming Wainwright's Guild.
 ---

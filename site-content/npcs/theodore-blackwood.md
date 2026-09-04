@@ -3,6 +3,7 @@ type: npc
 name: Theodore Blackwood
 aliases: [Theo, Theo Blackwood]
 faction: The Guild of Engineers
+group: Other
 status: Deceased - killed Terr 00, 756
 pronouns: he/him
 portrait: _images/theodore-blackwood.webp

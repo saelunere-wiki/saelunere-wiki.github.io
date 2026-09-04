@@ -3,6 +3,7 @@ type: npc
 name: Annie Buckman
 aliases: [Annie]
 faction: The Institute of Physikers
+group: Family & Home
 status: Nurse at the Institute of Physikers
 pronouns: she/her
 summary: Billiam's mother, on call the night the Institute waited for a body that never came.

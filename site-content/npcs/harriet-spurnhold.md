@@ -3,6 +3,7 @@ type: npc
 name: Harriet Spurnhold
 aliases: [Chief Secretary Spurnhold, Spurnhold]
 faction: The Guild of Engineers
+group: Other
 status: Dismissed from the Guild of Engineers
 pronouns: she/her
 summary: The Guild of Engineers' Chief Secretary, removed the same morning as Felix.

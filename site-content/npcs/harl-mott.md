@@ -3,6 +3,7 @@ type: npc
 name: Harl Mott
 aliases: [Harl]
 faction: Independent
+group: Other
 status: Proprietor of the Plumb and Bob
 pronouns: he/him
 summary: The barman at the Plumb and Bob, and no friend of the guilds.

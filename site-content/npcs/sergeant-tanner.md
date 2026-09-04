@@ -2,6 +2,7 @@
 type: npc
 name: Sergeant Tanner
 faction: The Guild of Engineers
+group: Other
 status: Deceased
 pronouns: he/him
 summary: Sergeant of the Guild of Engineers' Guardsmen Brigade, killed in Oblong Square.

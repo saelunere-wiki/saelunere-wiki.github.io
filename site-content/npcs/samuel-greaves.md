@@ -3,6 +3,7 @@ type: npc
 name: Samuel Greaves
 aliases: [Greaves, Director Greaves]
 faction: The Water Company
+group: Guild & Council Leaders
 status: Director
 summary: Director of the Water Company.
 ---

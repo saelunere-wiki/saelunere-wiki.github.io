@@ -2,6 +2,7 @@
 type: npc
 name: The scarred man
 faction: The Porter's Guild
+group: Other
 status: Unidentified
 pronouns: he/him
 summary: The silent half of the pair who came to the Plumb and Bob.

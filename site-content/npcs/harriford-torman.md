@@ -3,6 +3,7 @@ type: npc
 name: Harriford Torman
 aliases: [Torman]
 faction: The Artificer's Union
+group: Guild & Council Leaders
 status: Torman & Sons
 summary: Head of Torman & Sons; half of the coalition speaking for the Artificer's Union.
 ---

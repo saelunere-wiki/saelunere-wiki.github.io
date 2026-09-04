@@ -2,6 +2,7 @@
 type: npc
 name: Mira
 faction: The Brassline
+group: Work & Crew
 status: Runs the Brassline courier crew
 pronouns: she/her
 summary: Lark's boss at the Brassline, who would not hold her job open.

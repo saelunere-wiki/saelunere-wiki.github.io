@@ -2,6 +2,7 @@
 type: npc
 name: Johan Flynn
 faction: Independent
+group: Family & Home
 status: Engineer, works the forges
 pronouns: he/him
 summary: Calder's father, who made him promise to stay out of it and knew he wouldn't.

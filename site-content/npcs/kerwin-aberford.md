@@ -3,6 +3,7 @@ type: npc
 name: Kerwin Aberford
 aliases: [Aberford, Corewright Aberford]
 faction: The Corewright's Association
+group: Guild & Council Leaders
 status: Corewright
 summary: Corewright of the Corewright's Association, keepers of the Essence Cores.
 ---

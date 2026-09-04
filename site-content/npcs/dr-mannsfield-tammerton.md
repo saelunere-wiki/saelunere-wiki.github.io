@@ -3,6 +3,7 @@ type: npc
 name: Dr. Mannsfield T. Tammerton
 aliases: [Tammerton, Dr. Tammerton]
 faction: The Guild of Engineers
+group: Guild & Council Leaders
 status: Head Engineer
 summary: Head Engineer of the Guild of Engineers.
 ---

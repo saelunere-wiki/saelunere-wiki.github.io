@@ -29,7 +29,7 @@ summary: Theodore Blackwood is shot dead mid-speech at Harvest Fest, and five st
 - **Then someone burned the survivor.** The unconscious guardsman's breastplate began to glow red while the party stood over it. Calder identified **Heat Metal**, which needs line of sight. At least twenty windows overlook the centre of the square. They could not get the armour off him.
 - **They went to ground at the Plumb and Bob.** Aeska paid Harl **10 ducats** to have never seen them. Harl agreed happily, being no friend of the guilds, and offered to tell anyone asking that it was [[The Below Boys]].
 - **Introductions.** Felix had been Theo's secretary about a year. Calder had known him four or five years and credits him with opening doors. Lark admired him and says he was there when she needed someone. For Billiam he was an acquaintance of his father who got him a job. Only Felix is guild.
-- **Aeska explained himself.** He gave his full name as **Aeska Volan**, son of the Volan family, his father second in command to [[Dr. Tammerton]] and himself raised to succeed Tammerton, until he was **disowned**. Theo was a friend during his guild years, though they had not spoken in two. His read: only a handful of guards were sent where there should have been an army, and the officer showed no interest in the dead man. He thinks it was planned.
+- **Aeska explained himself.** He gave his full name as **Aeska Volan**, son of the Volan family, his father second in command to [[Dr. Tammerton]] and himself raised to succeed Tammerton, until he was **kicked out of the guild**. He did not say why. Theo was a friend during his guild years, though they had not spoken in two. His read: only a handful of guards were sent where there should have been an army, and the officer showed no interest in the dead man. He thinks it was planned.
 - **The arrangement.** Everyone works their own contacts and meets again at the Plumb and Bob on **Wexdae**, three days on.
 
 ## NPCs, locations, factions
@@ -47,7 +47,13 @@ summary: Theodore Blackwood is shot dead mid-speech at Harvest Fest, and five st
 - **One guardsman escaped**, and saw all of their faces.
 - **Two enforcers dead and one left burning** in the square, one of them killed by Calder.
 - **Aeska is 10 ducats down**, and Harl Mott is bought.
-- **Aeska's family and disowning are now known** to the other four.
+- **Aeska's family, and his expulsion from the guild, are now known** to the other four.
+
+> *Corrected after Episode 2. The Episode 1 recording has Aeska say he was
+> disowned by his family; the player walked that back as a mistake and the table
+> settled it in Episode 2, so the standing account is that he told them he was
+> kicked out of the guild. Do not restore the earlier wording from the
+> transcript.*
 - Everyone agreed to work their contacts. Felix agreed outright to help him.
 
 ## Threads to follow

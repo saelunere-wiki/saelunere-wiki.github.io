@@ -3,6 +3,7 @@ type: npc
 name: Julie Longfellow
 aliases: [Longfellow]
 faction: The Artificer's Union
+group: Guild & Council Leaders
 status: The Longfellow Company
 summary: Head of the Longfellow Company; half of the coalition speaking for the Artificer's Union.
 ---

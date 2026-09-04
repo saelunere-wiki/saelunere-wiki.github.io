@@ -3,6 +3,7 @@ type: npc
 name: Dean Edmund Whitaker
 aliases: [Whitaker, Dean Whitaker, Professor Whitaker]
 faction: The College of Arcanographers
+group: Guild & Council Leaders
 status: Dean (Professor)
 summary: Dean of the College of Arcanographers.
 ---
