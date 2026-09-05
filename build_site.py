@@ -356,6 +356,48 @@ def _list_item_text(lines, i):
     return text, i
 
 
+_UL_MARK = re.compile(r"[-*]\s")
+_OL_MARK = re.compile(r"\d+\.\s")
+
+
+def _indent_of(raw):
+    return len(raw) - len(raw.lstrip())
+
+
+def _list_block(lines, i, ctx, mark, tag):
+    """Render a list starting at `lines[i]`, honouring indentation.
+
+    An item indented further than the one above it becomes a nested list inside
+    that item, rather than another sibling. Without this every level collapsed
+    into one flat <ul>, so sub-points in the session Summaries were
+    indistinguishable from main points.
+
+    Flat lists render exactly as before: with no indented items the loop never
+    recurses.
+    """
+    base = _indent_of(lines[i])
+    inner = []
+    while i < len(lines):
+        raw = lines[i]
+        s = raw.strip()
+        if not mark.match(s):
+            break
+        ind = _indent_of(raw)
+        if ind < base:
+            break
+        if ind > base:
+            sub, i = _list_block(lines, i, ctx, mark, tag)
+            if inner:
+                inner[-1] += sub
+            else:
+                inner.append(sub)
+            continue
+        text, i = _list_item_text(lines, i)
+        inner.append(render_inline(text, *ctx))
+    body = "".join("<li>%s</li>" % x for x in inner)
+    return "<%s>%s</%s>" % (tag, body, tag), i
+
+
 def md_to_html(md_text, base_dir, image_loader, resolve):
     ctx = (base_dir, image_loader, resolve)
     lines = md_text.split("\n")
@@ -449,21 +491,15 @@ def md_to_html(md_text, base_dir, image_loader, resolve):
 
         if s.startswith("- ") or s.startswith("* "):
             flush_para()
-            items = []
-            while i < len(lines) and (lines[i].strip().startswith("- ") or lines[i].strip().startswith("* ")):
-                text, i = _list_item_text(lines, i)
-                items.append(f"<li>{render_inline(text, *ctx)}</li>")
-            out.append("<ul>" + "".join(items) + "</ul>")
+            block, i = _list_block(lines, i, ctx, _UL_MARK, "ul")
+            out.append(block)
             continue
 
         mol = re.match(r"\d+\.\s+(.*)", s)
         if mol:
             flush_para()
-            items = []
-            while i < len(lines) and re.match(r"\d+\.\s+", lines[i].strip()):
-                text, i = _list_item_text(lines, i)
-                items.append(f"<li>{render_inline(text, *ctx)}</li>")
-            out.append("<ol>" + "".join(items) + "</ol>")
+            block, i = _list_block(lines, i, ctx, _OL_MARK, "ol")
+            out.append(block)
             continue
 
         para.append(s); i += 1
@@ -973,6 +1009,7 @@ a:hover{text-decoration:underline}
 .h-3,.h-4{font-size:1.05rem;font-weight:600;margin:1.3rem 0 .5rem}
 .page-body ul,.page-body ol{padding-left:1.4em}
 .page-body li{margin:.3em 0}
+.page-body li>ul,.page-body li>ol{margin:.35em 0 .1em}
 code{background:var(--chip);padding:.1em .35em;border-radius:4px;font-size:.88em}
 pre{background:var(--chip);border:1px solid var(--rule);border-radius:8px;
   padding:.8rem 1rem;overflow-x:auto;font-size:.84rem;line-height:1.5}
