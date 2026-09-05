@@ -9,10 +9,15 @@ summary: How to write an episode's Summary - the scannable record of what happen
 
 # Writing the Summary
 
-The Summary (`sessions/episode-NN/episode-NN-summary.md`) is the **scannable
-record** the players and DM check between games. It is factual, brief, and - unlike
-the Story - **mechanics are allowed** here, because it's for the people who were at
-the table.
+The Summary (`sessions/episode-NN/episode-NN-summary.md`) is a **memory aid for
+the people who were at the table**, not a record for someone who wasn't. Reading
+a line should be enough to bring the scene back; it does not have to contain the
+scene. It is factual, brief, and - unlike the Story - **some mechanics are
+allowed** here, within the limits below.
+
+If a bullet is doing work that the transcript already does, cut it. The
+transcript holds the detail, the Story holds the texture, and the Summary holds
+the shape. It is the shortest of the three.
 
 First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply.
 
@@ -48,11 +53,20 @@ First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply
 - **Link every entity** you mention (NPC, place, faction, item) using double
   square brackets around its name - that's what makes it show up under "Appears
   in" on that entity's page and builds the cross-referenced wiki.
-- **Mechanics allowed.** *"She picked the lock on the third try"* or *"+2 standing
-  with the Porters"* is fine here.
+- **Mechanics, but only where the mechanic is the memory.** A **natural 20 or a
+  natural 1** is a table event people quote back at each other for weeks, so name
+  it. *"+2 standing with the Porters"* is fine. **Never damage numbers, distances,
+  hit points or check totals** - that is bookkeeping, and it appears nowhere in
+  Episodes 1 or 2.
+- **Compress combat hardest of all.** Who fought, who went down, who won, and
+  what changed as a result. Never the turn order. A fight that took ninety
+  minutes at the table is three or four bullets.
+- **Indent a bullet** to hang a consequence under the event that caused it, or to
+  set out a long piece of testimony. Nested bullets render as a nested list.
 - **Names only from the transcript.** Unnamed NPCs stay as roles.
-- **Brief.** Bullets, not paragraphs. A 3-hour session ≈ 20–60 beats. If you're
-  writing flowing prose, that belongs in the Story instead.
+- **Brief.** Bullets, not paragraphs. Roughly **1200-2000 words** for a session,
+  which is where Episodes 1 to 3 sit. If you're writing flowing prose, staging a
+  moment, or arranging sentences for effect, that belongs in the Story instead.
 
 ## After-write check
 
@@ -61,3 +75,6 @@ First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply
 - [ ] "In attendance" matches the speaker map - no one added who wasn't there.
 - [ ] Entities are linked with double square brackets.
 - [ ] No invented loot, contacts, or threads.
+- [ ] No damage numbers, distances or check totals.
+- [ ] Nothing staged for effect. Read the combat bullets back and cut any
+      sentence that exists for its rhythm rather than its content.
