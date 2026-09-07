@@ -35,3 +35,32 @@ and nobody at the spire would say why.
 
 - **Was** [[Felix Klaudius]]'s superior at [[The Guild of Engineers]]
 - **Removed** the same morning Felix was dismissed
+
+## The Bellows
+
+She reached [[Felix Klaudius|Felix]] by a sending, three hours beforehand and
+sounding rushed:
+
+> Felix. This is really important. The Bellows. Subterminal 8T. Find it. Meet me
+> there at midnight.
+
+What she got through, before she was interrupted:
+
+- **She locked Theo's office herself** the morning after his death, to slow the
+  guild's search down.
+- **She ransacked his house herself.** She went there the night he was killed,
+  with a key he had given her long ago and had probably forgotten she still had,
+  and made a mess of the place finding one thing.
+- That one thing is a **ledger**: a log of materials requisitioned from
+  [[The Guild of Engineers]] and redirected out of their proper allocations by
+  Theo, with her keeping the guild's own books straight to cover it.
+- She believes the guild knew she was dealing with him, and that this is why she
+  was dismissed. She assumed Felix had been dismissed for the same reason.
+
+She was saying *"The really important thing -"* when **she was shot through the
+throat** out of the dark, and went down mid-word with the ledger already in
+Felix's hands.
+
+**She lived.** Felix healed her off the floor and she left the Bellows on her own
+feet, with the party. She is now out of work, hunted, and the only person any of
+them know who can actually read that book.

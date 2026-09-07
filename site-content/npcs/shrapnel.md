@@ -33,3 +33,8 @@ otherwise troubled by it.
 ## Relationships
 
 - **Employs** [[Billiam Buckman]] at [[Claringbold's Yard]]
+
+## Who has been leaning on the yard
+
+The people who have been taxing him extra at [[Claringbold's Yard]] are
+**[[The Corewright's Association]]**, not [[The Porter's Guild]].

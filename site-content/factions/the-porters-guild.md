@@ -49,3 +49,10 @@ Two days after [[Theodore Blackwood]] was killed, two Porter's agents walked int
 See [[The woman in green]] and [[The scarred man]]. By
 [[Barry Killerman]]'s account, the same two had confronted Theo in the same
 tavern a couple of weeks before he died.
+
+## Guild pins, not crew pins
+
+The two who came for [[Lark]] were **not a rival crew**. They wore the guild's own
+pins rather than an outfit's, which puts them **at the level above the crews** -
+close to the top of a large network with a great deal of influence, because
+everybody in Parvo needs things moved.

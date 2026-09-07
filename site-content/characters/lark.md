@@ -43,3 +43,21 @@ Two days later, at [[The Plumb and Bob]], a woman came asking after anyone who h
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 3
+
+She was run down from behind in [[Oblong Square]] and struck in the back of the
+head, then had a rope put round her neck and was hauled backwards with it, in
+daylight, in front of merchants and washerwomen who stopped and watched and did
+not step in - because the two attackers were in uniform and nobody could tell who
+was in the right. She asked the man whether he meant to kill her just for a name.
+He said nothing. **She got out of it herself.**
+
+In [[The Bellows]] she stood between the constructs and the others for the whole
+fight, was mauled off her feet and healed back up, and **burned throughout** -
+freckles and eyes lit, radiant heat coming off her in a circle wide enough to
+catch Calder standing behind her. It kept burning while she was unconscious; it is
+not something she is doing.
+
+**When the surviving hound took the ledger and ran, she ran it down and killed
+it.** She is carrying the ledger.

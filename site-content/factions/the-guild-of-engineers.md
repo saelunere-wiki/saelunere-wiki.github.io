@@ -55,3 +55,12 @@ to the spire.
 The guild **operates compartmentally**: staff know their own department very
 well, and the rest of the guild barely at all. Somebody working one floor of the
 spire has little idea what is happening on another.
+
+## An unverified claim
+
+[[Professor Benjamin Buckman]] told his son that **there are people inside the
+Guild of Engineers who can remove a person's magic**, and that it is likely how
+they would deal with someone who became a problem. He did not say who, or how, or
+how permanent it is.
+
+He is the only source for this. Nobody has seen it done.

@@ -30,3 +30,11 @@ killed with whatever she is following, she said, she should come back.
 
 - **Employed** [[Lark]], until Lark handed back her pin
 - **Runs** [[The Brassline]]
+
+## The green coats
+
+People in heavy green coats from the guild's own management did visit the
+[[Brassline]] depot from time to time, collecting what was owed.
+
+Mira paid her dues and stayed well clear of guild politics. She was not working
+her way up and had no ambitions in that direction.

@@ -46,3 +46,18 @@ He then went up into [[The Stacks]] to Theo's house, intending to force the lock
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 3
+
+[[Harriet Spurnhold]] put [[Theodore Blackwood|Theo]]'s ledger into his hands in
+[[Subterminal 8T]] and was shot through the throat as she did it. Felix healed her
+off the floor, then took a shot from a gunman above and was dragged down by a
+hound construct, which **took the ledger out of his hands in its mouth** and ran.
+
+**He came within a hair of dying on that floor**, and was stabilised by
+[[Calder Flynn|Calder]] with the fight still going on around him.
+
+He can make out technical names and numbers in the ledger, and some of it is in a
+language he does not read. He is an administrator, not an engineer.
+
+He has no home as of that night, and chose not to go back for his things.

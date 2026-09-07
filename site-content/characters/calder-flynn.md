@@ -47,3 +47,18 @@ He also wrote to Professor Buckman, who is off-site indefinitely until his proje
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 3
+
+Rather than open with a spell in [[Oblong Square]], he **shouted for the crowd** -
+that these people were beating an innocent - and was heard. Traders stopped,
+washerwomen turned, and the fight acquired an audience. Nobody intervened, but the
+square was watching, and he saw the woman in green register it and not like it.
+
+In [[The Bellows]] he ran at the direction of the shot and came round the corner
+onto a hound construct instead, crouched to leap - and knew enough to see it was
+**not a standard one**. He threw a fireball at it in a panic, missed entirely, and
+ran.
+
+**He stabilised [[Felix Klaudius|Felix]]** at the end, with the fight still going
+on around them. Felix would have died on that floor otherwise.

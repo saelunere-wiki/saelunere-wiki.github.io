@@ -77,7 +77,7 @@ two scenes for the second half.*
 - [[Professor Benjamin Buckman]] - home for one errand and gone again. Knows Aeska on sight and by house. Has worked with the Guild of Engineers for years on something he calls revolutionary and will not describe.
 - [[Harriet Spurnhold]] - locked Theo's office to buy time and stripped his house herself, for the ledger. Shot handing it over. Alive, and with the party.
 - [[The scarred man|The scarred Aela man]] - a monk. Did not speak once during the fight, including when Lark asked him a direct question.
-- [[The woman in green|The woman in the green coat]] *(Gertrude?)* - counterspelled Felix at thirty feet, then spent most of the fight incapacitated. Uneasy about the size of the crowd.
+- [[The woman in green]] - counterspelled Felix at thirty feet, then spent most of the fight incapacitated. Uneasy about the size of the crowd.
 - **The man with the essence carbine** - unnamed. Overcharged the weapon, whistled in a second howl, and left once he was hurt and poisoned.
 - **Two modified [[Constructs|howls]]** - past the standard model. One was trained well enough to **take the ledger and carry it away**. Both destroyed.
 - [[Dr. Mannsfield T. Tammerton|Dr. Tammerton]] - not present. Named as still alive and still in post.

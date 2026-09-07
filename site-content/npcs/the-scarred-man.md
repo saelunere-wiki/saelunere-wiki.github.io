@@ -28,3 +28,21 @@ died.
 
 - **Works with** [[The woman in green]]
 - **Watched the room** at [[The Plumb and Bob]]
+
+## In the square
+
+He ran Lark down from behind and struck her once in the back of the head, hard
+enough that she could not move or speak. Then he pulled **a length of rope off his
+own belt**, looped it over her head, and set about hauling her backwards with it,
+apparently indifferent to whether she survived being dragged.
+
+Half blacked out, with the rope at her throat, **she asked him whether he was
+going to kill her just for a name.**
+
+**He looked her in the eyes and said nothing.**
+
+He has now been in two scenes with the party and has not spoken once. There is no
+anger in how he fights and no enjoyment of it. Felix eventually froze him
+mid-stride as he started after Lark, and the last thing he did before the spell
+took him was turn his eyes onto Felix. He was still frozen when
+[[Billiam Buckman|Billiam]] sprinted past and spat in his face.

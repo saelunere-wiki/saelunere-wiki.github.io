@@ -51,3 +51,17 @@ He is now trying to find [[Tobin Marsh]], the one person at the Guild of Enginee
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 3
+
+From the mouth of the alley he played a chorus that stopped the woman in green
+where she stood and held her there, listening, for most of the fight in
+[[Oblong Square]].
+
+At [[Billiam Buckman|Billiam]]'s house he was **recognised on sight** by
+[[Professor Benjamin Buckman]], who offered a handshake and used it to speak to
+him silently instead - asking what he was doing there. Aeska answered that it was
+a long story and that he meant neither the man's wife nor his son any harm, and
+left the hand hanging.
+
+While Billiam was out on the balcony, **Aeska left the house.** Nobody saw him go.

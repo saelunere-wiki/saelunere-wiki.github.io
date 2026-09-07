@@ -33,3 +33,11 @@ At the top the mass draws suddenly in and tapers to a single thin spire, barbed 
 Constructs were at work in Parvo long before [[The Theocide]], and with them a body of employed corewrights. Afterwards they organised into a guild of their own - but **under** the Engineers rather than beside them. The two trades are so entwined that setting up a rival guild made sense to nobody; they chose instead to stay allied, sharing knowledge and expertise on anything touching essence machinery. That bargain is the one they still keep.
 
 Any business that works commercially with cores or constructs - a repair shop, a breaker's yard, a haulage outfit running its own machines - does so **under a Corewright licence**, renewed for a fee. (On dues and enforcement generally, see [[Law & Crime]].)
+
+## What they have been doing lately
+
+The Corewrights are the ones who have been **leaning on [[Claringbold's Yard]]**
+and taxing [[Shrapnel]] beyond the ordinary dues.
+
+They make and keep the essence cores, and while they are their own guild, they
+generally do what [[The Guild of Engineers]] tells them.

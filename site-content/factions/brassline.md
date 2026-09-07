@@ -33,3 +33,12 @@ Lark handed hers to Mira two days after [[Theodore Blackwood]] was killed.
 
 - **Run by** [[Mira]]
 - **Formerly employed** [[Lark]]
+
+## Part of the Porter's Guild
+
+The Brassline is **one of [[The Porter's Guild]]'s crews** - one of the many small
+independent outfits whose membership makes up the guild.
+
+In practice that means dues, and not much else. People in heavy green coats from
+the guild's own management came by the depot from time to time to collect what
+was owed, and [[Mira]] paid and stayed well clear of guild politics.

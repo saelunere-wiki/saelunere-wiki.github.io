@@ -39,3 +39,19 @@ Theo in the same tavern a couple of weeks before he died.
 - **Came looking for** anyone who did business with [[Theodore Blackwood]]
 - **Assaulted** [[Lark]] in [[Oblong Square]]
 - **Works with** [[The scarred man]]
+
+## In the square
+
+**She is a spellcaster.** From thirty feet away, without moving, she shut down a
+spell Felix was casting at her partner the moment it left him. Nobody knew that
+about her.
+
+**She does not want an audience.** When [[Calder Flynn|Calder]] shouted to the
+square that these people were beating an innocent, and the merchants and
+washerwomen stopped to look, Calder caught her registering it - a woman noticing
+how public this had suddenly become. She kept her distance for the rest of it and
+never closed.
+
+**And she was taken out of the fight by music.** [[Aeska Volan|Aeska]] played from
+the mouth of the alley and she simply stopped where she stood and listened, held
+there while everything else went on around her.

@@ -26,7 +26,6 @@ episode: 2
 text: The five go their own ways in the aftermath. Theo's office is searched, and his house has already been stripped.
 ---
 date: Tide 02, 756
-episode: 2
-status: open
-text: The five work their contacts for rumours, then meet in the back room of [[The Plumb and Bob]]. Two armed [[The Porter's Guild|Porter's Guild]] agents walk in asking who did business with Theo.
+episode: 2-3
+text: The five are driven out of [[The Plumb and Bob]] by two [[The Porter's Guild|Porter's Guild]] agents. At midnight [[Harriet Spurnhold]] is shot in [[The Bellows]] handing Theo's ledger to Felix.
 ```

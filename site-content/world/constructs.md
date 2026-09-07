@@ -64,3 +64,14 @@ dangerous-looking conical heads. Many guild enforcers use Howls as guard dogs an
 enforcement tools, especially suited to hunting targets through the narrow turns
 of [[The Bellows]] and [[The Stacks]]. As expensive designs, they are less common
 in poorer neighbourhoods.
+
+## Modified howls
+
+The [[Constructs|howl]] is the dog-shaped construct, and the ordinary sort turns
+up hauling and guarding all over the city. **They can be built past the standard
+model.**
+
+Two such were used in [[The Bellows]] on Tide 02, 756: sleeker than a yard model
+and plainly more dangerous, with pneumatic jaws that crunch metal on metal, and
+**silent**, because howls do not growl. One of them was trained well enough to
+take a book out of a man's hands in its mouth and run with it.

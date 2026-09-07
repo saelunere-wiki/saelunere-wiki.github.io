@@ -32,3 +32,23 @@ at his work on some kind of project, and she is quietly unhappy about it.
 - **Mother of** [[Billiam Buckman]]
 - **Married to** [[Professor Benjamin Buckman]]
 - **Nurse at** [[The Institute of Physikers]]
+
+## The night the party stayed
+
+She was washing up after dinner when her son brought four strangers home, and was
+delighted. Kettle on, every hand shaken, Billiam told off for not introducing
+them, and everyone pressed to try the mint she grows herself. She keeps window
+boxes in the narrow yard behind the house - renna beans, coriander, mint,
+whatever fits - and makes the most of the sunlight that far up.
+
+Her family were among the first to move into [[The Stacks]] and she would not
+live anywhere else if she could.
+
+Asked about her husband, she said he is a professor at
+[[The College of Arcanographers|the College]] with a great many important
+projects, and is not home as often as they would like. **She was sadder about it
+than she let on.**
+
+When [[Professor Benjamin Buckman|Benjamin]] did come home that night, the
+embrace between them read, to her son and to a stranger both, as two people who
+do not like each other.

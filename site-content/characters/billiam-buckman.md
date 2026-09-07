@@ -50,3 +50,24 @@ He says he is here because he wants to know whether corruption is spreading thro
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 3
+
+He came out of the tavern by the front door, arrived in [[Oblong Square]] at a
+sprint, passed the scarred man at the moment he was frozen and unable to move, and
+**spat in his face** on the way by.
+
+Afterwards he **took the party home** - up the ladders and ramps of
+[[The Stacks]] to the small three-room house he grew up in, built flush against a
+chimney for the warmth. Asked why the sudden change of heart after two days of
+telling them nothing, he said he did not know who to trust, and that it no longer
+matters, because trouble is coming to them anyway. He put
+[[Aeska Volan|Aeska]] and [[Felix Klaudius|Felix]] up for the night.
+
+He strips essence cores for a living and priced them for the others at **twenty to
+thirty ducats each**, sometimes more, which is where the party's arithmetic about
+the murder weapon started.
+
+Then his father came home. On the balcony, told to give himself up to
+[[The Guild of Engineers]] and to hand Aeska over, **he told his father he would
+send Aeska away.** He walked back inside to do it and Aeska was already gone.

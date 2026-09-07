@@ -70,9 +70,12 @@ guardsmen within a day of the killing, on the stated grounds of protecting guild
 secrets. **It held nothing of interest** - everything in it was ordinary and
 above board.
 
-**His house was ransacked the night he died**, by at least two people, before
-anyone else reached it. Files and papers are gone; the gaps where they were are
-visible. A neighbour heard them and thought he had come home with friends.
+**His house was ransacked the night he died.** [[Harriet Spurnhold]] has since
+said she did it herself, letting herself in with a key he had given her long ago
+and locking up behind her. She was looking for one thing: **a ledger**, his own
+log of materials requisitioned from [[The Guild of Engineers]] and redirected out
+of their proper allocations. A neighbour heard somebody in there that night and
+thought he had come home with friends.
 
 **His body was never delivered to [[The Institute of Physikers]]**, where the
 night staff waited for it. Nobody knows where he is.
