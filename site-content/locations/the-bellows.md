@@ -18,3 +18,5 @@ maintenance workers live in the Bellows simply to be close to their work.
 
 More recently, a gang of upstarts calling themselves [[The Below Boys]] have
 started charging tolls to those travelling through the underground spaces.
+
+![The residential tunnels of the Bellows](_images/the-bellows.webp)

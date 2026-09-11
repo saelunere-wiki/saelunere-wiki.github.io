@@ -41,6 +41,8 @@ carbines**. Three of them, under [[Sergeant Tanner]], reached [[Oblong Square]]
 within minutes of [[Theodore Blackwood]]'s death and moved to take witnesses back
 to the spire.
 
+![A guardsman of the Guardsmen Brigade](_images/goe-guardsman.webp)
+
 ## After Theodore Blackwood's death
 
 - Sent **clerks and guardsmen to search a dead employee's office within a day**,

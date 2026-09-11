@@ -30,3 +30,5 @@ poorer parts of the city and the waves of refugees who arrived after
 
 It is here, among the community he grew up in, that [[Theodore Blackwood]] keeps
 his home.
+
+![The Stacks](_images/the-stacks.webp)

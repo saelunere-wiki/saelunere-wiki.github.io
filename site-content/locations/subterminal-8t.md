@@ -26,3 +26,5 @@ enemies - so what danger there is begins further out, where nobody lives.
 
 **[[Harriet Spurnhold]] was shot here**, at midnight on Tide 02, 756, handing
 [[Theodore Blackwood]]'s ledger to [[Felix Klaudius]].
+
+![Subterminal 8T](_images/subterminal-8t.webp)

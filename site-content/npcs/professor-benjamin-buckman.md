@@ -6,6 +6,7 @@ faction: The College of Arcanographers
 group: Family & Home
 status: Off-site indefinitely at the Guild of Engineers
 pronouns: he/him
+portrait: _images/professor-benjamin-buckman.webp
 summary: Calder's supervisor and Billiam's father, away on an unexplained project.
 ---
 

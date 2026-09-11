@@ -21,6 +21,8 @@ It is run by [[Shrapnel]], and staffed by a crew of young lads.
 [[Billiam Buckman|Billiam]] has worked here since [[Theodore Blackwood]] found him
 the job.
 
+![Claringbold's Yard](_images/claringbolds-yard.webp)
+
 ## The yard itself
 
 A makeshift wall about six feet high, just taller than a man, with the office at
