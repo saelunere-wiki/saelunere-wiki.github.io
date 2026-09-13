@@ -15,7 +15,7 @@ summary: Two days of fallout after Theo's killing, ending with two Porter's Guil
 - **In brief:** Everyone close to [[Theodore Blackwood]] loses something, his home and office are stripped, and two armed [[The Porter's Guild|Porter's Guild]] agents arrive asking who did business with him.
 
 - [[Episode 2 - Summary]] - the scannable list of what happened
-- Episode 2 - Story - the narrative retelling, not written yet
+- [[Episode 2 - Story]] - the narrative retelling (optional, reads like a book)
 
 ## Listen
 

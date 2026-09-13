@@ -15,6 +15,6 @@ summary: The fight in Oblong Square, a night at Billiam's mother's house, and a 
 - **In brief:** The party fights its way out of [[Oblong Square]] and goes to ground at Billiam's mother's house in [[The Stacks]]. At midnight, [[Harriet Spurnhold]] hands Felix a ledger in the [[The Bellows|Bellows]] and is shot in the throat mid-sentence.
 
 - [[Episode 3 - Summary]] - the scannable list of what happened
-- Episode 3 - Story - the narrative retelling, not written yet
+- [[Episode 3 - Story]] - the narrative retelling (optional, reads like a book)
 
 [Raw transcript of Episode 3](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-03/transcript) - for checking details, or writing your own version.
