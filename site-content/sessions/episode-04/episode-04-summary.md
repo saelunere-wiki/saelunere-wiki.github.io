@@ -9,7 +9,7 @@ summary: Harriet disappears, Shrapnel is taken and his yard stripped, the ledger
 
 # Episode 4 - What the Ledger Says
 
-- **Date played:** 13 September 2026 / Tide 02 into Tide 03, 756
+- **Date played:** 14 September 2026 / Tide 02 into Tide 03, 756
 - **In attendance:** Aeska, Billiam, Calder, Felix, Lark
 - **In brief:** A day of consequences. [[Harriet Spurnhold]] chooses to disappear, [[Barry Killerman]] has been taken, [[Shrapnel]] has been taken, and the ledger the party nearly died for has been almost entirely destroyed by its own author.
 

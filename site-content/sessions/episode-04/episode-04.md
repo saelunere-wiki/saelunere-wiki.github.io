@@ -3,13 +3,13 @@ type: session
 name: Episode 4
 session: 4
 order: 0
-date: 2026-09-13
+date: 2026-09-14
 summary: The morning after. Shrapnel's yard is empty and wrecked, the ledger turns out to be almost entirely inked out, and Lark is asked to inform on Aeska.
 ---
 
 # Episode 4
 
-- **Date played:** 13 September 2026
+- **Date played:** 14 September 2026
 - **In world:** Tide 02 into Tide 03, 756 - from midnight on Ersdae through the whole of Wexdae
 - **In attendance:** Aeska, Billiam, Calder, Felix, Lark
 - **In brief:** [[Harriet Spurnhold]] disappears rather than travel with the party, [[Shrapnel]] is taken from [[Claringbold's Yard]] and the yard is stripped, and the ledger they nearly died for turns out to have been inked out except for two lines.

@@ -11,4 +11,4 @@ Each episode page also links to its raw transcript, kept in the repository.
 | [[Episode 1]] | 7 August 2026 | Terr 00, 756 - Harvest Fest |
 | [[Episode 2]] | 15 August 2026 | Tide 01-02, 756 |
 | [[Episode 3]] | 4 September 2026 | Tide 02, 756 |
-| [[Episode 4]] | 13 September 2026 | Tide 02-03, 756 |
+| [[Episode 4]] | 14 September 2026 | Tide 02-03, 756 |
