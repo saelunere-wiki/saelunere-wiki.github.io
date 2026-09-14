@@ -64,9 +64,14 @@ First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply
 - **Indent a bullet** to hang a consequence under the event that caused it, or to
   set out a long piece of testimony. Nested bullets render as a nested list.
 - **Names only from the transcript.** Unnamed NPCs stay as roles.
-- **Brief.** Bullets, not paragraphs. Roughly **1200-2000 words** for a session,
-  which is where Episodes 1 to 3 sit. If you're writing flowing prose, staging a
-  moment, or arranging sentences for effect, that belongs in the Story instead.
+- **Brief.** Bullets, not paragraphs. **1200-1600 words** for a session. If a
+  draft comes out longer, the fix is almost always merging rather than deleting:
+  a character's whole evening is one or two bullets, not a scene of its own. If
+  you're writing flowing prose, staging a moment, or arranging sentences for
+  effect, that belongs in the Story instead.
+- **Don't say it twice.** The closing sections are for what Key events could not
+  carry. If an NPC line or a consequence just restates a bullet from above, cut
+  it to the part that is new.
 
 ## After-write check
 
