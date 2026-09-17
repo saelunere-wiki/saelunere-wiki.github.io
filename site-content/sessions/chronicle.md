@@ -28,4 +28,9 @@ text: The five go their own ways in the aftermath. Theo's office is searched, an
 date: Tide 02, 756
 episode: 2-3
 text: The five are driven out of [[The Plumb and Bob]] by two [[The Porter's Guild|Porter's Guild]] agents. At midnight [[Harriet Spurnhold]] is shot in [[The Bellows]] handing Theo's ledger to Felix.
+---
+date: Tide 03, 756
+episode: 4
+status: open
+text: [[Claringbold's Yard]] is found wrecked and [[Shrapnel]] gone. [[Madame Rooke]] sets Lark to find out whether Aeska Volan has been seen at [[The Plumb and Bob]].
 ```

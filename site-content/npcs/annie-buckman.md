@@ -52,3 +52,7 @@ than she let on.**
 When [[Professor Benjamin Buckman|Benjamin]] did come home that night, the
 embrace between them read, to her son and to a stranger both, as two people who
 do not like each other.
+
+When Billiam came back inside, she told him Aeska had made his excuses and left,
+not in any hurry, sending his thanks. She had already laid out bedrolls on the
+floor for Felix and Lark, who never came.

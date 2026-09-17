@@ -56,3 +56,18 @@ The two who came for [[Lark]] were **not a rival crew**. They wore the guild's o
 pins rather than an outfit's, which puts them **at the level above the crews** -
 close to the top of a large network with a great deal of influence, because
 everybody in Parvo needs things moved.
+
+## Two people taken
+
+After the fight in [[Oblong Square]] the two agents went back to
+[[The Plumb and Bob]] and **took [[Barry Killerman]] away**. By the next
+morning [[Claringbold's Yard]] had been wrecked and **[[Shrapnel]] taken**; the yard's construct
+described the attacker as a big blonde man in a green coat, very fast. A guild that
+holds someone keeps them in its own tower, so the party believes Shrapnel is in
+the Porters' Spire.
+
+## Nobody wants to talk about them
+
+[[Calder Flynn|Calder]] spent an evening asking around about the guild. Most
+people knew nothing. A few, the dodgier sort included, made it plain they would
+rather not talk about it at all.

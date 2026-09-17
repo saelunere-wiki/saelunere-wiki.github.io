@@ -62,3 +62,25 @@ ran.
 
 **He stabilised [[Felix Klaudius|Felix]]** at the end, with the fight still going
 on around them. Felix would have died on that floor otherwise.
+
+## Episode 4
+
+Out of the Bellows, [[Lark]] asked him what he had been thinking, running after a
+man with a gun. He said it was a reaction: Theo got shot, the man had to be
+connected, he was tired of the mysteries and felt the man was one piece of the
+puzzle. He agreed he had overreacted, and said these people were something else
+from the normal criminal sort he had come across before. He slept at the College
+and spent Wexdae studying.
+
+That afternoon [[Professor Benjamin Buckman]]'s reply to his letter arrived,
+recommending that he **stop his line of inquiry** into powerful essence weapons.
+
+In the back room of the Plumb and Bob, Lark took both his hands and asked whether
+they could trust him, and Aeska asked why he had gone after the shooter instead of
+helping. He said Felix and Lark had seemed to be holding, the shooter was the only
+person there who knew anything, and he could not tell whether the man was fleeing
+or taking cover to shoot again. **Aeska was left in no doubt that he was telling
+the whole truth.** He learned there that Billiam is Buckman's son.
+
+That evening he went out alone to ask about [[The Porter's Guild]]. Most people
+knew nothing, and a few made it plain they would rather not talk about it.

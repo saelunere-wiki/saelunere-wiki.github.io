@@ -69,3 +69,24 @@ with a worse moral compass.
 He also said that **there are people inside the Guild of Engineers who can remove
 a person's magic**, and that it is likely how they would deal with Billiam if he
 became a problem. *He is the only source for that.*
+
+Leaving the house again that night, he told Billiam to think about his choices over
+the coming days. He said he is **very close to having everything finished at the
+Guild**, and will be back and more available after that. Until then Billiam can
+reach him by a sending or a letter, and should stay away from the guild as much as
+possible.
+
+## His letter to Calder
+
+His reply to Calder's letter arrived at the College the next afternoon. Most of it
+was research. To Calder's question about powerful essence weapons he wrote:
+*"Calder, I recommend that you stop this line of inquiry. It's not relevant to your
+college duties."* The practical application of magic for aggressive purposes such
+as weapons, he added, is not something the College likes to delve into.
+
+## Valerin Volan
+
+[[Aeska Volan|Aeska]] says Buckman **worked closely with his father,
+[[Valerin Volan]]**, on projects neither of them ever told Aeska about. Billiam has
+been through his father's things and found something marked with a V, and it was
+recent.

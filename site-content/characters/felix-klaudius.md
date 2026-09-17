@@ -61,3 +61,18 @@ He can make out technical names and numbers in the ledger, and some of it is in 
 language he does not read. He is an administrator, not an engineer.
 
 He has no home as of that night, and chose not to go back for his things.
+
+## Episode 4
+
+He took a tavern room for what was left of the night, and in the morning carried
+his belongings and the ledger to [[The Plumb and Bob]] and handed it to Aeska.
+
+At [[Claringbold's Yard]] he said he had talked to machines before - a Scratcher
+once - and after ten minutes of quiet concentration he **spoke with
+[[Shepherd]]**, the yard's damaged Bullyboy. It described the attacker as a big
+blonde man in a green coat, very fast, and Felix took him for the man from
+[[Oblong Square]]. It also said Shrapnel had been taken.
+
+He suggested they might keep the scrapyard running to make some money, and is
+sleeping at a tavern in the Core near [[Fexfield Scrappers]], to meet Billiam at
+its gate at ten.

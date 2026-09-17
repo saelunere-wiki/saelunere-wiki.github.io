@@ -4,7 +4,7 @@ name: Harriet Spurnhold
 aliases: [Chief Secretary Spurnhold, Spurnhold]
 faction: The Guild of Engineers
 group: Other
-status: Dismissed from the Guild of Engineers
+status: Gone to ground across the city
 pronouns: she/her
 summary: The Guild of Engineers' Chief Secretary, removed the same morning as Felix.
 portrait: _images/harriet-spurnhold.webp
@@ -64,3 +64,15 @@ Felix's hands.
 **She lived.** Felix healed her off the floor and she left the Bellows on her own
 feet, with the party. She is now out of work, hunted, and the only person any of
 them know who can actually read that book.
+
+## Gone to ground
+
+Out of the Bellows, she told the party she would rather not be involved any
+further. **The ambush had been meant for her**, and she did not think whoever set
+it had known the others would be there. She will bring danger wherever she goes if
+anyone - *"presumably the Guild of Engineers, but who knows"* - sees her.
+
+The friend she had been staying with is no longer safe, so she means to disappear
+among friends on the other side of the city. Of the ledger she would say only that
+it is *"a record of the work"*, and that they would decipher it themselves. **She
+can be reached by a sending.**

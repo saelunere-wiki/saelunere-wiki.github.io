@@ -766,15 +766,42 @@ def _render_node(p, children, depth):
     )
 
 
-def _subgroup_html(key, name, roots, children):
+GROUP_SEP = " / "
+
+
+def _nest_groups(group_order, grouped):
+    """Split `group: Outer / Inner` into one level of nesting.
+
+    Returns [(outer, direct_roots, [(inner, roots), ...]), ...] in first-seen order, so
+    `group: Work & Crew / The Brassline` files a page under a Brassline sub-heading
+    inside Work & Crew."""
+    tops, order = {}, []
+    for g in group_order:
+        outer, _, inner = g.partition(GROUP_SEP)
+        outer, inner = outer.strip(), inner.strip()
+        if outer not in tops:
+            tops[outer] = ([], [])
+            order.append(outer)
+        direct, subs = tops[outer]
+        if inner:
+            subs.append((inner, grouped[g]))
+        else:
+            direct.extend(grouped[g])
+    return [(o, tops[o][0], tops[o][1]) for o in order]
+
+
+def _subgroup_html(key, name, roots, children, subs=()):
     gid = slugify(f"grp-{key}-{name}")
     inner = "".join(_render_node(r, children, 1) for r in roots)
+    inner += "".join(_subgroup_html(f"{key}-{name}", sub, sub_roots, children)
+                     for sub, sub_roots in subs)
+    count = len(roots) + sum(len(sub_roots) for _s, sub_roots in subs)
     return (
         '<li class="nav-subgroup">'
         f'<button class="subgroup-label" data-collapse="{gid}">'
         '<span class="caret">▾</span>'
         f'<span class="subgroup-text">{html.escape(name)}</span>'
-        f'<span class="nav-count">{len(roots)}</span></button>'
+        f'<span class="nav-count">{count}</span></button>'
         f'<ul class="subtree" id="{gid}">{inner}</ul>'
         "</li>"
     )
@@ -826,8 +853,8 @@ def sidebar_html(pages_by_section, resolver):
         if not plist:
             parts.append('<li class="nav-empty">Nothing here yet</li>')
         parts.append("".join(_render_node(p, children, 0) for p in ungrouped))
-        for g in group_order:
-            parts.append(_subgroup_html(key, g, grouped[g], children))
+        for outer, direct, subs in _nest_groups(group_order, grouped):
+            parts.append(_subgroup_html(key, outer, direct, children, subs))
         parts.append("</ul></div>")
     return "".join(parts)
 
@@ -864,11 +891,16 @@ def section_overview_html(key, label, plist, resolver, content_dir):
         intro = (f'<div class="page-body">'
                  f'{md_to_html(body, sec_file.parent, image_loader, ov_resolve)}</div>')
 
+    nested = _nest_groups(group_order, grouped)
+
+    def _outer_count(direct, subs):
+        return (_count_descendants(direct, children)
+                + sum(_count_descendants(r, children) for _s, r in subs))
+
     if group_order:
         bits = ", ".join(
-            f"{html.escape(g)} ({_count_descendants(grouped[g], children)})"
-            for g in group_order)
-        lead = f"{len(plist)} entries across {len(group_order)} groups - {bits}."
+            f"{html.escape(o)} ({_outer_count(d, s)})" for o, d, s in nested)
+        lead = f"{len(plist)} entries across {len(nested)} groups - {bits}."
     else:
         lead = f"{len(plist)} entries."
 
@@ -877,12 +909,19 @@ def section_overview_html(key, label, plist, resolver, content_dir):
         dir_parts.append('<p class="dir-empty">No entries yet.</p>')
     if ungrouped:
         dir_parts.append(f'<ul class="dir">{_dir_items(ungrouped, children)}</ul>')
-    for g in group_order:
-        cnt = _count_descendants(grouped[g], children)
+    for outer, direct, subs in nested:
         dir_parts.append(
-            f'<h2 class="h-1">{html.escape(g)} <span class="dir-count">{cnt}</span></h2>'
-            f'<ul class="dir">{_dir_items(grouped[g], children)}</ul>'
+            f'<h2 class="h-1">{html.escape(outer)} '
+            f'<span class="dir-count">{_outer_count(direct, subs)}</span></h2>'
         )
+        if direct:
+            dir_parts.append(f'<ul class="dir">{_dir_items(direct, children)}</ul>')
+        for sub, sub_roots in subs:
+            dir_parts.append(
+                f'<h3 class="h-2">{html.escape(sub)} '
+                f'<span class="dir-count">{_count_descendants(sub_roots, children)}</span></h3>'
+                f'<ul class="dir">{_dir_items(sub_roots, children)}</ul>'
+            )
 
     return (
         f'<article class="page" id="section-{key}">'

@@ -61,3 +61,28 @@ not something she is doing.
 
 **When the surviving hound took the ledger and ran, she ran it down and killed
 it.** She is carrying the ledger.
+
+## Episode 4
+
+She handed the ledger to Felix on the way out of the Bellows and was sick once they
+had stopped running. Then she went to [[Salador's Slip]], was let in only on the
+promise of answering to [[Madame Rooke]], cleaned the whole house through the
+night, and was worn out the next day for it.
+
+She asked Madame Rooke for a place at the house. She told her she is from the
+Bellows and the Stacks, spent the last year as a courier with the Brassline, and
+quit because she does not like the Porter's Guild and does not want to be
+associated with it. Asked what she did before that, she said a whole lot of
+things, mostly gathering, acquiring and delivering, and that **she has never been
+accused of being a thief**. Madame Rooke gave her the job of confirming whether
+Aeska Volan is at the Plumb and Bob, and named her friend [[Nell]] as the price of
+failing.
+
+She told Nell a short version of events with no names in it. She told Aeska that
+Madame Rooke wants to know whether he has been seen at the Plumb and Bob, and had
+used his surname, and suggested he might be safer making himself known than
+hiding. She told Billiam she left the Brassline so as not to bring trouble to the
+crew. She also confronted Calder twice, and asked him whether they could trust
+him.
+
+At the end of the day she went back to Salador's Slip to see Madame Rooke.

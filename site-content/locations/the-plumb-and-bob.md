@@ -23,3 +23,9 @@ listen to what was said in it, and did not.
 The back room has **its own door onto the alley** behind the building.
 [[Aeska Volan|Aeska]] holds a key to it, given by Harl on the condition that he
 keeps his trouble out of the bar.
+
+## Too much trouble
+
+On a weeknight the tavern closes around midnight. After two nights of trouble in
+and around it, Harl has warned Aeska that it is starting to cost him business, and
+the party is looking for somewhere else to meet.

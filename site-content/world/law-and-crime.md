@@ -15,6 +15,9 @@ The guilds' real incentive is **keeping the city working**. Parvo runs on labour
 ## Enforcers, and what happens to the caught
 Each guild of any size keeps its own **enforcers** - not constables, but muscle answerable to that guild alone. They investigate what is done to the guild's members and take whoever they judge responsible.
 
+**There is no citywide prison system.** A guild that holds someone keeps them in
+cells in its own tower.
+
 
 ## Organised crime
 Criminal groups exist, and they survive by being careful. It is squarely in their interest to **operate in secrecy and avoid disrupting the city's primary industries**, because doing so invites guild retribution - which is the one force that can genuinely come down on them.

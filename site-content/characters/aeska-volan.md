@@ -65,3 +65,31 @@ a long story and that he meant neither the man's wife nor his son any harm, and
 left the hand hanging.
 
 While Billiam was out on the balcony, **Aeska left the house.** Nobody saw him go.
+
+## Episode 4
+
+After the Buckman house he went to [[The Plumb and Bob]] around midnight, let
+himself in by the back door, and heard from [[Harl Mott]] that the two agents had
+come back and taken [[Barry Killerman]] - and that trouble twice in two nights is
+starting to cost the tavern.
+
+In the morning he read the ledger for Felix and **did not recognise the serial
+numbers at all**, which surprised him: he should know most of what
+[[The Guild of Engineers]] deals with. At [[Claringbold's Yard]] he spent hours
+trying to repair the constructs and could not.
+
+He told Billiam that his father is **[[Valerin Volan]]**, who worked closely with
+Billiam's father on projects neither of them ever told Aeska about, and that he
+left the Buckman house almost as soon as Billiam went outside and heard none of
+their conversation. And for the first time he gave a reason for leaving: his
+family wanted him to become the next Dr. Tammerton, it was not what he wanted, and
+he could never tell them so, because wanting anything other than the guild would
+disgrace the family. *"But funny, now I am a disgrace to my family, and now I'm
+running away."*
+
+When Lark suggested he make himself known - even take Theo's place - for the
+protection that comes with it, he said that if the guild wants him dead it will
+not matter whether he is public or hiding, and that going public would drag more
+people into trouble. He is keeping up his performances at the Plumb and Bob so
+that stopping does not look suspicious, and will ask the other taverns he plays
+for a favour, to find the party a new place to meet.

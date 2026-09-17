@@ -3,7 +3,7 @@ type: npc
 name: Shrapnel
 faction: Claringbold's Yard
 group: Work & Crew
-status: Runs Claringbold's Yard
+status: Taken from his yard
 pronouns: he/him
 summary: Billiam's boss at the scrapyard, and far too experienced to be shocked.
 portrait: _images/shrapnel.webp
@@ -29,6 +29,23 @@ take it - who else was going to, leave it to be looted?
 
 He allowed that a man shot mid-speech at Harvestfest was wrong, and was not
 otherwise troubled by it.
+
+## Taken
+
+On the morning of Wexdae, Tide 03, 756, Billiam found [[Claringbold's Yard]]
+wrecked and Shrapnel gone. The yard's Bullyboy [[Shepherd]], questioned by Felix,
+said the attackers were *"big, green coat, blonde man, very fast"*, and of
+Shrapnel, *"boss taken, yes."* A guild that holds someone keeps them in its own
+tower, and the party believes he is in [[The Porter's Guild]]'s.
+
+## The cores
+
+Weeks earlier he had shown Billiam an unfamiliar machine, something like a new
+generation of design, and they took it apart together. He told Billiam its
+**fifteen essence cores were odd, more powerful than normal**, took that box away
+himself, and Billiam never saw it again. From what Shrapnel said, it was the
+**second** machine of its type to come in. Its serial number is one of the two
+left legible in Theo's ledger.
 
 ## Relationships
 

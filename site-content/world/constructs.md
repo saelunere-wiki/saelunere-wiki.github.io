@@ -67,6 +67,13 @@ in poorer neighbourhoods.
 
 ![A Howl](_images/howl.webp)
 
+## Repairs
+
+Repairing a construct is specialist work. Constructs are the business of
+[[The Corewright's Association]] far more than of [[The Guild of Engineers]], and
+knowing essence machines is not the same as knowing constructs. A construct is not
+alive: a damaged one does not get worse, it simply cannot work properly.
+
 ## Modified howls
 
 The [[Constructs|howl]] is the dog-shaped construct, and the ordinary sort turns
