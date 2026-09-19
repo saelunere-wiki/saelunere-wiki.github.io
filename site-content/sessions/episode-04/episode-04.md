@@ -15,6 +15,6 @@ summary: The morning after. Shrapnel's yard is empty and wrecked, the ledger tur
 - **In brief:** [[Harriet Spurnhold]] disappears rather than travel with the party, [[Shrapnel]] is taken from [[Claringbold's Yard]] and the yard is stripped, and the ledger they nearly died for turns out to have been inked out except for two lines.
 
 - [[Episode 4 - Summary]] - the scannable list of what happened
-- Episode 4 - Story - the narrative retelling, not written yet
+- [[Episode 4 - Story]] - the narrative retelling (optional, reads like a book)
 
 [Raw transcript of Episode 4](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-04/transcript) - for checking details, or writing your own version.
