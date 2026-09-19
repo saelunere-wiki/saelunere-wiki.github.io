@@ -27,12 +27,6 @@ She offered the party what she can actually do, and put it plainly: she is fast,
 
 She first met [[Theodore Blackwood]] as a child, while she was working in [[The Bellows]], and he gave her a word of courage she never forgot. She went to his speeches from then on, and he helped her a little with self-defence. She is careful to say that they were **not friends**.
 
-She was in [[Oblong Square]] for his last speech and was the first to reach him after he was shot. Nothing she did made any difference.
-
-**She left the Brassline afterwards.** She told her boss [[Mira]] that Theo was dead, that she had been there, and that she needed time to find out what happened. Mira told her to stay well away from the guilds, and would not hold her job or her bunk open. Lark handed over her Brassline pin, worked one final day to finish a delivery she had promised, and walked out with a bindle. **She is currently without work and without anywhere to sleep.**
-
-Two days later, at [[The Plumb and Bob]], a woman came asking after anyone who had done business with Theo. Lark took her outside rather than let it land on Harl's tavern, and then refused to give her a single name. She was grabbed by the neck and slammed into a wall for it, broke the grip, and ran back into the square. She had already covered for Billy on the way out, calling him her little brother and pushing him clear of it.
-
 ## Connections
 
 - [[Theodore Blackwood]] - she admired him for years, and was first to him when he was killed at Harvest Fest, Terr 00 756. See [[Episode 1 - Summary]].
@@ -43,6 +37,22 @@ Two days later, at [[The Plumb and Bob]], a woman came asking after anyone who h
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 1
+
+She was drinking in [[The Plumb and Bob]] when Harl turned everyone out for the speech, and **was the first to reach Theo** after he was shot. Nothing she did made any difference.
+
+Looking back along the line of the shot, she counted the rooftops and found **four guild spires** with a clean sightline onto the stage. When Billiam would not leave the body, she grappled him away. In the fight that followed she **knocked a guardsman out cold with a single blow.**
+
+## Episode 2
+
+She did not sleep that night. She spent it at a bathhouse scrubbing the blood out of her clothes, and was worn out the next day for it.
+
+**Then she left the Brassline.** She told her boss [[Mira]] that Theo was dead, that she had been there, and that she needed time to find out what happened. Mira told her to stay well away from the guilds, and would not hold her job or her bunk open. Lark handed over her Brassline pin, worked one final day to finish a delivery she had promised, and walked out with a bindle. **She is without work and without anywhere to sleep.**
+
+In the back room of the Plumb and Bob she gave the others her name and her trade, and told them how she first met Theo as a child in the Bellows. Nobody doubted a word of it. She recognised [[Barry Killerman]] at the bar from Theo's meetings and got him talking: a couple of weeks before the killing he had seen two strangers argue with Theo in that same tavern.
+
+Then those two walked in, in green coats with Porter's Guild pins, asking who had done business with Theo. Lark took the woman outside rather than let it land on Harl's tavern, and then **refused to give her a single name.** She was grabbed by the neck and slammed into a wall for it, broke the grip, and ran back into the square. She had already covered for Billiam on the way out, calling him her little brother and pushing him clear of it.
 
 ## Episode 3
 

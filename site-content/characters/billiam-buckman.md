@@ -29,11 +29,7 @@ He is the son of [[Professor Benjamin Buckman]] and [[Annie Buckman]]. He told t
 
 He was an apprentice under Professor Buckman at the College a few years ago, and left because it was not for him: he does not much like books and is not a strong reader. What he studied there was magic and essence. [[Theodore Blackwood]], who knew his father, is the one who found him his job at the scrapyard afterwards.
 
-He was in [[Oblong Square]] for Harvest Fest and was shot twice in the back by a Guild of Engineers sergeant while running from the fight that followed.
-
 **He has told the party plainly that he will not fight, and will not use magic.** His words: people die because of magic, and people get hurt because of magic, and he does not want to be part of that. He turned down an offer from Calder to teach him non-lethal self-defence, and asked [[Aeska Volan|Aeska]] never to cast on him again, which Aeska agreed to.
-
-In the two days after the killing he took it to his boss [[Shrapnel]], who had seen enough of the guilds over twenty years to find none of it surprising. He learned from his mother that **the Institute was on call that night and the nurses waited for Theo's body to be brought in for healing, and it never arrived.** His father has not been home for days, off-site on some project, and when Billy went to the College to ask after him he was turned away at the door and told he was a disappointment then and a disappointment now.
 
 He says he is here because he wants to know whether corruption is spreading through the guilds.
 
@@ -50,6 +46,20 @@ He says he is here because he wants to know whether corruption is spreading thro
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 1
+
+He watched the speech from outside [[The Plumb and Bob]], up on a stack of crates. When Theo fell he went towards him with three of the others, and when Aeska told them to leave the body **he refused**. Aeska cast Charm Person on him; he shrugged it off and felt the magic, and it was Lark who finally grappled him away.
+
+When the Guild of Engineers officer was told that a man had been shot, **Billiam noticed that he reacted as though he already knew.** In the fight that followed, Sergeant Tanner took Billiam for the culprit as he ran and **shot him twice in the back** with an essence carbine.
+
+## Episode 2
+
+At [[Claringbold's Yard]] he told [[Shrapnel]] about the killing and found him unmoved: the guilds mess with everyone's business, and of course they collected their own dead. He also told Shrapnel that something bad was going on, with the men who had been coming to the yard that week, and Shrapnel talked past it.
+
+From his mother he learned that **the Institute was on call that night and the nurses waited for Theo's body to be brought in for healing, and it never arrived.** She hugged him, and he kept the wince from his wounds to himself. His father has not been home for days, off-site on some project. When Billiam went to the College to find him he was turned away at the door, and the secretary told him she had heard of his short tenure there: he had been a disappointment then and was one now.
+
+In the back room, when Calder named Professor Buckman as the man who got him his place, Billiam said **he had been Buckman's apprentice before Calder**, and left because College was not for him. He did not say that Buckman is his father. He asked Aeska never to cast on him again, and told the group he is not a fighter and does not want to be one. When the Porter's agents came, Lark covered for him outside, calling him her little brother and pushing him clear.
 
 ## Episode 3
 

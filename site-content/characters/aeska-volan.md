@@ -30,16 +30,6 @@ He knew [[Theodore Blackwood]] during his guild years and counted him a friend, 
 > wanted to go, there were disagreements, and it is a long story for another
 > time.*
 
-## History
-
-He was performing at [[The Plumb and Bob]] on the night of Harvest Fest, and was the one who told the others to meet there if the square went badly. When it did, he got them inside and barred the door.
-
-In the days after, he reached Theo's house in [[The Stacks]] first and found it already emptied. Not robbed, but stripped of paper: no journal, no files, no correspondence, and clear spaces where documents had been. Somebody had been through it within hours of Theo's death.
-
-He has since talked [[Harl Mott]] into a **key to the tavern's back door**, on the condition that he brings no trouble through it, and Harl has agreed to keep an ear out for him. Working the room while performing, he picked up what the city actually thinks: that it was an essence weapon, but fired from close range inside the crowd, which is why nobody is looking up at the spires. And that nobody can say what became of the body. There has been no family, no funeral, and no notice.
-
-He is now trying to find [[Tobin Marsh]], the one person at the Guild of Engineers who was ever loyal to him.
-
 ## Connections
 
 - [[Theodore Blackwood]] - a friend from his guild years, unspoken to for two of them. Killed in [[Oblong Square]] at Harvest Fest, Terr 00 756. See [[Episode 1 - Summary]].
@@ -51,6 +41,24 @@ He is now trying to find [[Tobin Marsh]], the one person at the Guild of Enginee
 > *Everything recorded here has been seen or heard by the whole table in session.
 > The characters do not necessarily know all of it. Anything from a private
 > session stays with the player until they choose to share it.*
+
+## Episode 1
+
+He was playing the corner stage at [[The Plumb and Bob]] on the night of Harvest Fest, and went out into [[Oblong Square]] with everyone else when Harl emptied the tavern for Theo's speech. He had told the others to make for the Plumb and Bob if the square went badly.
+
+When Theo was shot, he held back in a side street rather than go to the body, and then called the others off it: the guards, he said, would not care who fired the shot, only who was standing over the corpse. When Billiam refused to leave, Aeska cast Charm Person on him. Billiam shrugged it off, and felt the magic. Aeska made for the tavern's back door before the enforcers arrived, and when the fight was over he got the others inside and barred the door.
+
+He paid [[Harl Mott]] **ten ducats** to have never seen them. Then he gave the other four his full name, **Aeska Volan**, and told them about his family: his father second in command to Dr. Tammerton, and himself raised to succeed Tammerton, until he was kicked out of the guild. He did not say why. Theo had been a friend in his guild years. His read of the square: a handful of guards sent where there should have been an army, and an officer with no interest in the dead man. **He thinks it was planned.**
+
+## Episode 2
+
+He talked Harl into a **key to the tavern's back door**, on the condition that he keeps his troubles out of the bar, and learned from Harl that Theo had rented the back room every week for meetings, and that Lark was a regular at them.
+
+He reached Theo's house in [[The Stacks]] a full day before Felix, forced the lock with his dagger, and found it already emptied. Not robbed, but stripped of paper: no journal, no files, no correspondence, and clear gaps where documents had been.
+
+Performing that evening, he listened to the room. People think it was an essence weapon, going by the sound, but fired from close range inside the crowd, which is why nobody is looking up at the spires; and they talk about bad debts, criminal contacts and a grudge. **Nobody knows what has become of Theo's body**, whether there will be a funeral, or who to ask. He remembered [[Tobin Marsh]], the one person at the Guild of Engineers who stayed loyal to him, and put feelers out through Harl. He tried to find out who Billiam was, and got nowhere.
+
+In the back room he locked the door and asked everyone to account for themselves. When Billiam asked him never to cast on him again, he apologised and agreed. When the two Porter's Guild agents walked in asking who had done business with Theo, he went out the back with Calder and Felix and worked round towards the square.
 
 ## Episode 3
 
