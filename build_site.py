@@ -575,7 +575,7 @@ def img_tag(src, base_dir, alt="", cls=""):
 # ----------------------------------------------------------------------------
 
 class Page:
-    __slots__ = ("id", "title", "type", "section", "meta", "body", "base_dir",
+    __slots__ = ("id", "title", "type", "section", "meta", "body", "base_dir", "plate",
                  "aliases", "summary", "parent", "group", "html", "links", "backlinks")
 
     def __init__(self, **kw):
@@ -641,8 +641,35 @@ def page_sort_key(p):
     return (sess, order, p.title.lower())
 
 
+# A location page's picture is shown as a plate under the title, not wherever it
+# sits in the text - the same layout as the DM wiki (2026-09-19). Done here
+# rather than by moving the image line in every file, so a new location page
+# gets it without anyone having to remember.
+PLATE_TYPES = {"location"}
+_PLATE_RE = re.compile(r"^[ \t]*!\[([^\]]*)\]\(([^)\s]+)\)[ \t]*$", re.MULTILINE)
+
+
+def lift_plate(p):
+    """Move the page's picture from the body to p.plate.
+
+    Only when there is exactly one standalone image line: a page with several
+    pictures has put them where it wants them, so it is left alone.
+    """
+    p.plate = ""
+    if p.type not in PLATE_TYPES:
+        return
+    found = list(_PLATE_RE.finditer(p.body))
+    if len(found) != 1:
+        return
+    m = found[0]
+    p.plate = f'<div class="portrait">{img_tag(m.group(2), p.base_dir, m.group(1))}</div>'
+    p.body = p.body[:m.start()] + p.body[m.end():]
+
+
 def render_pages(pages, resolver):
     by_id = {p.id: p for p in pages}
+    for p in pages:
+        lift_plate(p)
 
     for p in pages:
         def resolve(target, _p=p):
@@ -737,6 +764,7 @@ def page_section_html(p, by_id, resolver):
         f"{chips_html(p)}"
         "</div>"
         f"</header>"
+        f"{p.plate}"
         f'<div class="page-body">{p.html}</div>'
         f"{backlinks_html(p, by_id, resolver)}"
         f"</article>"
@@ -1031,7 +1059,7 @@ a:hover{text-decoration:underline}
 
 /* Content */
 .content{flex:1;min-width:0;display:flex;justify-content:center;padding:2.5rem 2rem 6rem}
-.page{display:none;width:100%;max-width:44rem}
+.page{display:none;width:100%;max-width:56rem}  /* the reading column width */
 .page.active{display:block}
 .page-head{border-bottom:1px solid var(--rule);padding-bottom:1rem;margin-bottom:1.5rem}
 .page-title{font-size:2.2rem;font-weight:600;margin:0 0 .6rem;line-height:1.15}
@@ -1041,7 +1069,7 @@ a:hover{text-decoration:underline}
 .chip-type{background:var(--accent);color:#fff}
 .chip-muted{background:transparent;border:1px solid var(--rule)}
 .portrait{margin:0 0 1.5rem;text-align:center}
-.portrait img{max-width:min(320px,100%);height:auto;border-radius:10px;box-shadow:var(--shadow)}
+.portrait img{max-width:100%;max-height:80vh;height:auto;border-radius:10px;box-shadow:var(--shadow)}
 .page-body p{margin:.85em 0}
 .h-1{font-size:1.4rem;font-weight:600;margin:2rem 0 .8rem;padding-bottom:.3rem;border-bottom:1px solid var(--rule)}
 .h-2{font-size:1.2rem;font-weight:600;margin:1.6rem 0 .6rem}
@@ -1068,8 +1096,6 @@ figure img{max-width:100%;height:auto;border-radius:8px;box-shadow:var(--shadow)
 /* Any image in body text: never overflow the column; centre block images */
 .page-body img{max-width:100%;height:auto;border-radius:8px;display:block;
   margin:1.5rem auto;box-shadow:var(--shadow)}
-/* Maps and large diagrams: keep them comfortably within the reading column */
-.page-body p>img:only-child{max-width:min(560px,100%)}
 
 /* Click-to-enlarge overlay: zoom and pan, for maps with small labels */
 .page-body img,figure img,.avatar-img,.portrait img{cursor:zoom-in}
