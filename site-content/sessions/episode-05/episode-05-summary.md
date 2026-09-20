@@ -38,7 +38,7 @@ they converge on a pub belonging to the people hunting them.*
 ### Fexfield Scrappers
 
 - **A real operation**, a large organised warehouse in [[The Core|the Core]], nothing like Claringbold's. Billiam and Felix went in pretending to look for work.
-- **The manager talked, because Shrapnel is a friend.** What she gave them:
+- **The manager, Lucille, talked, because Shrapnel is a friend.** She runs the place with her brother, inherited from their father. What she gave them:
   - **Shrapnel had contracts off the books**, shared with "mutual friends" of hers, and lucrative.
   - **The Porter's Guild are the clients.** The secret is kept from [[The Corewright's Association]], who would take a large cut if they learned of it.
   - **The big woman and the blonde man came here that same morning** asking questions, and were sent away. Those two handle the deal: they collect the merchandise and they make the payments.
@@ -80,7 +80,7 @@ they converge on a pub belonging to the people hunting them.*
 - **The man in the porcelain mask** - unnamed, unreadable, and the only one in the room who did not react to anything.
 - [[The Baron]] - one-armed ex-porter, owns [[The Head of Steam]], flattered easily.
 - [[Madame Rooke]] - took the refusal without heat, and will look by other means.
-- **The Fexfield manager** - runs the place with her brother, and was Shrapnel's partner in the off-books work.
+- **Lucille** - runs [[Fexfield Scrappers]] with her brother, and was Shrapnel's partner in the off-books work. Hired Felix on the spot.
 - **Alfie and Hollis** - two of Claringbold's crew, back only for their wages.
 - **Dunmore and Penn** - Calder's own crew, working two jobs for him and not told why.
 - [[The Porter's Guild]] - the buyer, and deeply entangled with the city's underworld.
