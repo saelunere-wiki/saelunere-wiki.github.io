@@ -50,11 +50,16 @@ they converge on a pub belonging to the people hunting them.*
 
 ### The Head of Steam
 
-- **What it is.** A Porter's Guild clubhouse pub near their spire, run by **[[The Baron]]**, a one-armed ex-porter who bought it with his injury payout. Dice everywhere; the house game is **Runs**. **Five private rooms upstairs**, and the fifth, behind ornate frosted glass, is the one that matters.
-- **Calder** scanned the room and passed it to the others: **about a third of the drinkers are criminals**, many of them in guild green, and servers are carrying trays up to the private rooms. He then bought into a dice table to reach the criminal end of the room, caught a scarred skinhead tilting a three to a four, and called it in front of everyone. The man folded and Calder took the pot.
-- **Billiam** climbed the outside of the building to see into the upstairs windows, using Thaumaturgy to throw a phantom sound and slip past one unseen. He watched two porters leave the fourth room, and got line of sight into the fifth.
-- **Felix** turned into a scratcher, painfully and on a bathroom floor, and went to the constructs idling behind the bar. **They carry written messages but cannot read them.** He also found he can open his own head to make a cavity, and rode the scratcher chute upstairs.
-- **Aeska** worked the Baron instead, pointing out that the place has no live music. Disguised and calling himself **Valor**, he was sent up to audition for the room at the end.
+- **What it is** - a Porter's Guild clubhouse pub near their spire, run by **[[The Baron]]**, a one-armed ex-porter who bought it with his injury payout. Dice everywhere; the house game is **Runs**. **Five private rooms upstairs**, and the fifth, behind ornate frosted glass, is the one that matters.
+- **Calder** - scanned the room and passed it to the others: about a third of the drinkers are criminals, many in guild green, and servers are carrying trays up to the private rooms. He then bought into a dice table with two porters and an older man in no guild colours, caught a cheat and faced him down to buy standing at the table, and played it as a businessman whose trade is suffering. **What he got out of them is the best intelligence of the night:**
+  - **Evan's crew** are aggrieved over a deal that went wrong. The impression is **they were not paid**, and they have been hunting down whoever is responsible, partly to keep their reputation.
+  - Calder half-remembers an **Evan** somewhere high in the guild. Not the head, who is [[Sasha Langford]].
+  - **Taking prisoners is not how they work.** Normally a debtor is beaten until he pays. Using the guild's own cells **draws questions from inside the guild**, which means whoever is holding Shrapnel is hiding it from Sasha.
+  - **Anyone held for information will not be sold back.** A debt can be bought out; a source cannot.
+- **Lark** - worked the crowd trying to overhear anything useful and got nothing. She proposed drawing someone out of the VIP room by slipping a note to a server. Then she went outside, spotted Billiam part-way up the wall, and **stood in the mouth of the alley to keep anyone from walking in and looking up.**
+- **Billiam** - climbed the outside of the building to see into the upstairs windows, using Thaumaturgy to throw a phantom sound and slip past one unseen. He watched two porters leave the fourth room, and got line of sight into the fifth.
+- **Felix** - turned into a scratcher, painfully and on a bathroom floor, and went to the constructs idling behind the bar. **They carry written messages but cannot read them.** He also found he can open his own head to make a cavity, and rode the scratcher chute upstairs.
+- **Aeska** - worked the Baron instead, pointing out that the place has no live music. Disguised and calling himself **Valor**, he was sent up to audition for the room at the end.
 
 ### The room at the end of the corridor
 
@@ -70,13 +75,12 @@ they converge on a pub belonging to the people hunting them.*
 
 - [[Evan Langford]] - son of the head of the Porter's Guild. Green suit, glowing yellow eyes, a noble's manner and a taste for music. Winning heavily.
 - **The man in the porcelain mask** - unnamed, unreadable, and the only one in the room who did not react to anything.
-- [[The Baron]] - one-armed ex-porter, owns [[The Head of Steam]], flattered easily and proud of his VIP trade.
-- [[Madame Rooke]] - took Lark's refusal without heat and said the matter is a family one between family members.
-- **The Fexfield manager** - runs the place with her brother, was Shrapnel's partner in the off-books work, and hired Felix on the spot.
-- **Alfie and Hollis** - two of Claringbold's crew. Dismissed by Shrapnel before the raid, back only for their wages.
-- **Dunmore and Ben** - Calder's contacts in the underworld, now asking after Shrapnel and Barry.
-- [[The Head of Steam]] - Porter's Guild clubhouse near their spire. Dice, green coats, five private rooms.
-- [[The Porter's Guild]] - the buyer. Deeply entangled with the city's underworld, and hiding the trade from the Corewrights.
+- [[The Baron]] - one-armed ex-porter, owns [[The Head of Steam]], flattered easily.
+- [[Madame Rooke]] - took the refusal without heat, and will look by other means.
+- **The Fexfield manager** - runs the place with her brother, and was Shrapnel's partner in the off-books work.
+- **Alfie and Hollis** - two of Claringbold's crew, back only for their wages.
+- **Dunmore and Ben** - Calder's contacts in the underworld.
+- [[The Porter's Guild]] - the buyer, and deeply entangled with the city's underworld.
 
 ## Loot, contacts, consequences
 
