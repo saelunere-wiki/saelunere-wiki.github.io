@@ -28,7 +28,11 @@ they converge on a pub belonging to the people hunting them.*
 ### The morning
 
 - **Billiam** - found two of the crew, **Alfie** and **Hollis**, back at [[Claringbold's Yard]] for their wages. **Shrapnel dismissed them all before the raid**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
-- **Calder** - went to his own people. He has contacts in the city's underworld, **Dunmore** and **Ben**, and set them to find out where [[Shrapnel]] and [[Barry Killerman]] are held and whether they are alive. Dunmore was uneasy: plenty of people in those circles have their own ties to [[The Porter's Guild]], and asking will be noticed. He pointed Calder at **[[The Head of Steam]]**.
+- **Calder** - met his own crew down in [[The Bellows|the Bellows]]: **Dunmore**, big and muscular, and **Penn**, a small ratty kid. He split them onto two jobs.
+  - **Penn** watches a building in [[The Outlines|the Outlines]] and reports who goes in and out. Calder described it rather than naming it, and told him not to go inside.
+  - **Dunmore** works the underground on [[The Porter's Guild]]: whether they really have taken someone into custody, what happened to him, and where he is being held. Also not to go inside the guild.
+  - **Dunmore pushed back.** The Porter's Guild is mixed up with the underworld in a way the Guild of Engineers is not, and plenty of people in those circles have their own ties to it, so asking around will cause a stink. He pointed Calder at **[[The Head of Steam]]** instead.
+- **Neither crewman knows who they are looking for.** Calder did not give them [[Shrapnel]]'s or [[Barry Killerman]]'s names.
 - **Aeska** - bought the full professional **disguise kit, 25 ducats**, and performs in disguise from now on.
 
 ### Fexfield Scrappers
@@ -78,7 +82,7 @@ they converge on a pub belonging to the people hunting them.*
 - [[Madame Rooke]] - took the refusal without heat, and will look by other means.
 - **The Fexfield manager** - runs the place with her brother, and was Shrapnel's partner in the off-books work.
 - **Alfie and Hollis** - two of Claringbold's crew, back only for their wages.
-- **Dunmore and Ben** - Calder's contacts in the underworld.
+- **Dunmore and Penn** - Calder's own crew, working two jobs for him and not told why.
 - [[The Porter's Guild]] - the buyer, and deeply entangled with the city's underworld.
 
 ## Loot, contacts, consequences
