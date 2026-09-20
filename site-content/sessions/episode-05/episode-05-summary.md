@@ -20,33 +20,32 @@ they converge on a pub belonging to the people hunting them.*
 
 ### Lark and Madame Rooke
 
-- **Lark refused the job to her face.** She went back that same evening and said she would not be a pawn handing information to guild enforcers, and that she would rather leave than do it.
-- **[[Madame Rooke]] was unimpressed but not angry.** The debt is for having already slept under her roof, and staying on was never agreed. More usefully, she said the matter is **"purely a family matter between family members"** and none of Lark's concern, which means the person paying to find Aeska is a **Volan**.
-- **She told Lark to bring something else instead**, any piece of information she had no moral objection to giving.
-- **Lark gave her a half-truth:** that a man called Aeska performed at [[The Plumb and Bob]] on Kinsdae, which was already public. Rooke's answer was that she will send other people to look if Lark will not.
-- **Lark told Aeska all of it** the next morning, including the threat.
+- **Lark refused the job to her face**, and offered to leave rather than do it. She would not hand information to guild enforcers, and told Rooke she is a bad enough liar that trying would land them all in worse trouble.
+- **[[Madame Rooke]] took it without heat.** The debt was for having already slept under her roof; staying on had never been agreed. More usefully, she called the matter **"purely a family matter between family members"** and none of Lark's concern, **which makes the client a Volan.**
+- **Lark gave her a half-truth instead**: that a man called Aeska performed at [[The Plumb and Bob]] on Kinsdae, which was already public. Rooke will send other people to look if Lark will not.
+- **She told Aeska everything** the next morning, including the threat, and that she had offered Rooke her own head before his.
 
 ### The morning
 
-- **[[Claringbold's Yard]] is finished.** Two of the crew, **Alfie** and **Hollis**, turned up for their wages. Shrapnel had dismissed them all before the raid, which Hollis is ashamed of. Hollis's view: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them.
-- **Aeska bought a disguise kit**, the full professional one, for **25 ducats**, and started performing in disguise.
-- **Calder went to his own people.** He has contacts in the city's underworld, **Dunmore** and **Ben**, and set them to find out where [[Shrapnel]] and [[Barry Killerman]] are being held and whether they are alive. Dunmore was uneasy: a lot of people in those circles have their own ties to [[The Porter's Guild]], and asking will be noticed. He pointed Calder at **[[The Head of Steam]]**.
+- **Billiam** - found two of the crew, **Alfie** and **Hollis**, back at [[Claringbold's Yard]] for their wages. **Shrapnel dismissed them all before the raid**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
+- **Calder** - went to his own people. He has contacts in the city's underworld, **Dunmore** and **Ben**, and set them to find out where [[Shrapnel]] and [[Barry Killerman]] are held and whether they are alive. Dunmore was uneasy: plenty of people in those circles have their own ties to [[The Porter's Guild]], and asking will be noticed. He pointed Calder at **[[The Head of Steam]]**.
+- **Aeska** - bought the full professional **disguise kit, 25 ducats**, and performs in disguise from now on.
 
 ### Fexfield Scrappers
 
-- **It is a real operation**, a large professional warehouse in [[The Core|the Core]], busy and organised and nothing like Claringbold's. Billiam and Felix went in pretending to look for work.
-- **The manager talked**, and she talked because Shrapnel is a friend. What she gave them:
+- **A real operation**, a large organised warehouse in [[The Core|the Core]], nothing like Claringbold's. Billiam and Felix went in pretending to look for work.
+- **The manager talked, because Shrapnel is a friend.** What she gave them:
   - **Shrapnel had contracts off the books**, shared with "mutual friends" of hers, and lucrative.
-  - **The Porter's Guild are the clients.** The secret is being kept from [[The Corewright's Association]], who would take a large cut if they found out.
-  - **The big woman and the blonde man came to Fexfield that morning** asking questions and were sent away. Those two are the ones who handle the deal for the Porters: they collect the merchandise and they make the payments.
-  - **The supply is limited.** If Shrapnel has not delivered his part, they cannot get it anywhere else, **so he could be traded back for it**.
-- **Felix was hired.** She wants someone who can look over the books, and he starts with an audit tomorrow. Billiam asked one question too many and was gently passed over.
+  - **The Porter's Guild are the clients.** The secret is kept from [[The Corewright's Association]], who would take a large cut if they learned of it.
+  - **The big woman and the blonde man came here that same morning** asking questions, and were sent away. Those two handle the deal: they collect the merchandise and they make the payments.
+  - **The supply is limited.** If Shrapnel has not delivered his part they cannot get it elsewhere, **so he might be traded back for it.**
+- **Felix was hired** to go through their books, starting with an audit tomorrow, which puts him inside their paperwork. **Billiam asked one question too many** and was gently passed over.
 
 ### Putting it together
 
-- **The machine Billiam scrapped was a prototype**, highly classified, and it should never have reached a scrapyard at all. **Theo is the one who got it there**, to Claringbold's and presumably to Fexfield too.
-- **Calder's read on the College:** it studies magic, and treats cores as a box to keep magic in. Nobody there would care about building a better battery. If the College is involved, there is something larger behind it than better cores.
-- **Aeska's read:** the stronger cores are not public knowledge anywhere. Theo was killed over them, Shrapnel was taken over them, and the Porter's Guild is turning the city over for them.
+- **The machine Billiam scrapped was a prototype**: classified, failed, and never meant to leave the guild. **Theo is the one who got it to the scrapyards**, Claringbold's and presumably Fexfield too.
+- **Calder on the College:** it studies magic and treats cores as a box to keep magic in. Nobody there would care about building a better battery, so if the College is involved there is something larger behind it.
+- **Aeska's working theory:** the **Guild of Engineers** are behind Theo's murder, and **the Porter's Guild are opportunists** who have simply worked out what the new cores can do and want as many as they can get. Nobody yet knows who fired the shot, or why.
 
 ### The Head of Steam
 
