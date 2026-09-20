@@ -54,6 +54,14 @@ THREE THINGS TO KNOW BEFORE YOU TRUST IT
    in every episode and carries no meaning across them. Always read the
    speaker_map.json sitting next to the transcript you are using.
 
+4. ONE TRANSCRIPTION LOOP. At around the 25 minute mark the model loses the
+   thread and repeats the word "Horace." for 44 lines, covering 27 seconds of
+   audio. This is a known WhisperX failure on crosstalk or quiet passages, not a
+   corrupt file. What is lost is the greeting between Billy and the two workers
+   at the yard; the substance either side of it is intact. Note also that
+   "Horace" and "Hollis" are the same man, introduced under both names in the
+   same breath.
+
 The transcript is the only source of truth for what happened in a session.
 That still holds. Just read it knowing the labels are approximate even where
 the words are not.
