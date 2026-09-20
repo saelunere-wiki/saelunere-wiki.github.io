@@ -23,7 +23,7 @@ they converge on a pub belonging to the people hunting them.*
 - **Lark refused the job to her face.** She went back that same evening and said she would not be a pawn handing information to guild enforcers, and that she would rather leave than do it.
 - **[[Madame Rooke]] was unimpressed but not angry.** The debt is for having already slept under her roof, and staying on was never agreed. More usefully, she said the matter is **"purely a family matter between family members"** and none of Lark's concern, which means the person paying to find Aeska is a **Volan**.
 - **She told Lark to bring something else instead**, any piece of information she had no moral objection to giving.
-- **Lark gave her a half-truth:** that a man called Eska performed at [[The Plumb and Bob]] on Kinsdae, which was already public. Rooke's answer was that she will send other people to look if Lark will not.
+- **Lark gave her a half-truth:** that a man called Aeska performed at [[The Plumb and Bob]] on Kinsdae, which was already public. Rooke's answer was that she will send other people to look if Lark will not.
 - **Lark told Aeska all of it** the next morning, including the threat.
 
 ### The morning
@@ -50,14 +50,11 @@ they converge on a pub belonging to the people hunting them.*
 
 ### The Head of Steam
 
-- **A Porter's Guild clubhouse**, a large busy pub near their spire, hung with guild rope and hooks the way a military bar is hung with regimental colours. Green coats everywhere. Dice all over the room, a game called **Runs**.
-- **Run by [[The Baron]]**, a one-armed ex-porter who lost the arm to a falling crate, took the guild payout and bought the place.
-- **Roughly a third of the room reads as criminal** to Calder, and a good number of those are wearing guild green.
-- **Five private rooms upstairs.** Four ordinary; the fifth, at the end, has ornate frosted glass and is plainly for somebody who matters.
-- **Calder caught a man cheating.** Playing Runs with a scarred skinhead who tilted a three to a four, he stared him down and called it in front of the table. The man folded. Calder took the pot and put a round on it.
-- **Billiam climbed the outside of the building** to look in the upstairs windows, using Thaumaturgy to throw a phantom sound across a room so he could slip past a window unseen.
-- **Felix turned into a scratcher.** Thinking about how to use the message-carrying constructs, his body answered by transforming him, painfully, on the bathroom floor. He talked to the idle scratchers behind the bar, learned they carry written messages but cannot read them, discovered he could open his own head to make a cavity, and rode the scratcher chute upstairs.
-- **Aeska talked his way in.** Disguised, calling himself **Valor**, he charmed the Baron with the observation that the place has no live music, and was sent up to the VIP room to audition.
+- **What it is.** A Porter's Guild clubhouse pub near their spire, run by **[[The Baron]]**, a one-armed ex-porter who bought it with his injury payout. Dice everywhere; the house game is **Runs**. **Five private rooms upstairs**, and the fifth, behind ornate frosted glass, is the one that matters.
+- **Calder** scanned the room and passed it to the others: **about a third of the drinkers are criminals**, many of them in guild green, and servers are carrying trays up to the private rooms. He then bought into a dice table to reach the criminal end of the room, caught a scarred skinhead tilting a three to a four, and called it in front of everyone. The man folded and Calder took the pot.
+- **Billiam** climbed the outside of the building to see into the upstairs windows, using Thaumaturgy to throw a phantom sound and slip past one unseen. He watched two porters leave the fourth room, and got line of sight into the fifth.
+- **Felix** turned into a scratcher, painfully and on a bathroom floor, and went to the constructs idling behind the bar. **They carry written messages but cannot read them.** He also found he can open his own head to make a cavity, and rode the scratcher chute upstairs.
+- **Aeska** worked the Baron instead, pointing out that the place has no live music. Disguised and calling himself **Valor**, he was sent up to audition for the room at the end.
 
 ### The room at the end of the corridor
 
