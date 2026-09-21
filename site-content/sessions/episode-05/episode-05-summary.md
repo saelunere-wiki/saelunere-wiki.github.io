@@ -21,15 +21,15 @@ they converge on a pub belonging to the people hunting them.*
 ### Lark and Madame Rooke
 
 - **Lark refused the job to her face**, and offered to leave rather than do it. She would not hand information to guild enforcers, and told Rooke she is a bad enough liar that trying would land them all in worse trouble.
-- **[[Madame Rooke]] took it without heat.** The debt was for having already slept under her roof; staying on had never been agreed. More usefully, she called the matter **"purely a family matter between family members"** and none of Lark's concern, **which makes the client a Volan.**
+- **[[Madame Rooke]] took it without heat.** The debt was for having already slept under her roof; staying on had never been agreed. More usefully, she called the matter **"purely a family matter between family members"** and none of Lark's concern, **which means the client might be a Volan.**
 - **Lark gave her a half-truth instead**: that a man called Aeska performed at [[The Plumb and Bob]] on Kinsdae, which was already public. Rooke will send other people to look if Lark will not.
 - **She told Aeska everything** the next morning, including the threat, and that she had offered Rooke her own head before his.
 
 ### The morning
 
-- **Billiam** - found two of the crew, **Alfie** and **Hollis**, back at [[Claringbold's Yard]] for their wages. **Shrapnel dismissed them all before the raid**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
-- **Calder** - met his own crew down in [[The Bellows|the Bellows]]: **Dunmore**, big and muscular, and **Penn**, a small ratty kid. He split them onto two jobs.
-  - **Penn** watches a building in [[The Outlines|the Outlines]] and reports who goes in and out. Calder described it rather than naming it, and told him not to go inside.
+- **Billiam** - found two of the crew, **[[Alfie]]** and **[[Hollis]]**, back at [[Claringbold's Yard]] for their wages. **Shrapnel dismissed them all before the raid**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
+- **Calder** - met his own crew down in [[The Bellows|the Bellows]]: **[[Dunmore]]**, big and muscular, and **[[Penn]]**, a small ratty kid. He split them onto two jobs.
+  - **Penn** watches a building in [[The Outlines|the Outlines]] and reports who goes in and out. Calder named it as **the Volan building**, and told them not to go inside.
   - **Dunmore** works the underground on [[The Porter's Guild]]: whether they really have taken someone into custody, what happened to him, and where he is being held. Also not to go inside the guild.
   - **Dunmore pushed back.** The Porter's Guild is mixed up with the underworld in a way the Guild of Engineers is not, and plenty of people in those circles have their own ties to it, so asking around will cause a stink. He pointed Calder at **[[The Head of Steam]]** instead.
 - **Neither crewman knows who they are looking for.** Calder did not give them [[Shrapnel]]'s or [[Barry Killerman]]'s names.
@@ -38,7 +38,7 @@ they converge on a pub belonging to the people hunting them.*
 ### Fexfield Scrappers
 
 - **A real operation**, a large organised warehouse in [[The Core|the Core]], nothing like Claringbold's. Billiam and Felix went in pretending to look for work.
-- **The manager, Lucille, talked, because Shrapnel is a friend.** She runs the place with her brother, inherited from their father. What she gave them:
+- **The manager, [[Lucile Fexfield|Lucile]], talked, because Shrapnel is a friend.** She runs the place with her brother, inherited from their father. What she gave them:
   - **Shrapnel had contracts off the books**, shared with "mutual friends" of hers, and lucrative.
   - **The Porter's Guild are the clients.** The secret is kept from [[The Corewright's Association]], who would take a large cut if they learned of it.
   - **The big woman and the blonde man came here that same morning** asking questions, and were sent away. Those two handle the deal: they collect the merchandise and they make the payments.
@@ -57,7 +57,7 @@ they converge on a pub belonging to the people hunting them.*
 - **Calder** - scanned the room and passed it to the others: about a third of the drinkers are criminals, many in guild green, and servers are carrying trays up to the private rooms. He then bought into a dice table with two porters and an older man in no guild colours, caught a cheat and faced him down to buy standing at the table, and played it as a businessman whose trade is suffering. **What he got out of them is the best intelligence of the night:**
   - **Evan's crew** are aggrieved over a deal that went wrong. The impression is **they were not paid**, and they have been hunting down whoever is responsible, partly to keep their reputation.
   - Calder half-remembers an **Evan** somewhere high in the guild. Not the head, who is [[Sasha Langford]].
-  - **Taking prisoners is not how they work.** Normally a debtor is beaten until he pays. Using the guild's own cells **draws questions from inside the guild**, which means whoever is holding Shrapnel is hiding it from Sasha.
+  - **Taking prisoners is not how they work.** Normally a debtor is beaten until he pays. Using the guild's own cells **draws questions from inside the guild**, so whoever is holding Shrapnel might be hiding it from Sasha.
   - **Anyone held for information will not be sold back.** A debt can be bought out; a source cannot.
 - **Lark** - worked the crowd trying to overhear anything useful and got nothing. She proposed drawing someone out of the VIP room by slipping a note to a server. Then she went outside, spotted Billiam part-way up the wall, and **stood in the mouth of the alley to keep anyone from walking in and looking up.**
 - **Billiam** - climbed the outside of the building to see into the upstairs windows, using Thaumaturgy to throw a phantom sound and slip past one unseen. He watched two porters leave the fourth room, and got line of sight into the fifth.
@@ -80,9 +80,9 @@ they converge on a pub belonging to the people hunting them.*
 - **The man in the porcelain mask** - unnamed, unreadable, and the only one in the room who did not react to anything.
 - [[The Baron]] - one-armed ex-porter, owns [[The Head of Steam]], flattered easily.
 - [[Madame Rooke]] - took the refusal without heat, and will look by other means.
-- **Lucille** - runs [[Fexfield Scrappers]] with her brother, and was Shrapnel's partner in the off-books work. Hired Felix on the spot.
-- **Alfie and Hollis** - two of Claringbold's crew, back only for their wages.
-- **Dunmore and Penn** - Calder's own crew, working two jobs for him and not told why.
+- [[Lucile Fexfield]] - runs [[Fexfield Scrappers]] with her brother, and was Shrapnel's partner in the off-books work. Hired Felix on the spot.
+- [[Alfie]] and [[Hollis]] - two of Claringbold's crew, back only for their wages.
+- [[Dunmore]] and [[Penn]] - Calder's own crew, working two jobs for him and not told why.
 - [[The Porter's Guild]] - the buyer, and deeply entangled with the city's underworld.
 
 ## Loot, contacts, consequences

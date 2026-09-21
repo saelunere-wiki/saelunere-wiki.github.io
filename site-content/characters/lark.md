@@ -96,3 +96,21 @@ crew. She also confronted Calder twice, and asked him whether they could trust
 him.
 
 At the end of the day she went back to Salador's Slip to see Madame Rooke.
+
+## Episode 5
+
+She went back to [[Madame Rooke]] that night and **refused the job to her face**,
+because she is a bad liar and would not feed guild enforcers. She gave only what was
+already public: that a bard called Aeska played the Plumb and Bob at Harvest Fest.
+Rooke will take other information instead, **dirt on the Porter's Guild**, by the end
+of the next day. Refused a second night, Lark slept rough in the Bellows.
+
+In the morning she told Aeska all of it: *"I'd rather give my own head to her than
+yours."* She wants a Porter's Guild name to give Rooke, and does not want her face
+linked with Aeska's in public.
+
+At [[The Head of Steam]] she worked the crowd and heard only that the people worth
+hearing were keeping their voices down. She proposed slipping a note to a server to
+draw someone out of a private room. Then she went outside, found Billiam halfway up
+the alley wall, and stood at the mouth of the alley so nobody would walk in and look
+up.

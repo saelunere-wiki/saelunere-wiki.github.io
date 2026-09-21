@@ -105,3 +105,20 @@ was Buckman's apprentice he was not fully honest, *"but I didn't lie."*
 
 He plans to check the yard at nine the next morning and meet Felix at Fexfield
 Scrappers at ten.
+
+## Episode 5
+
+At [[Claringbold's Yard]] he met [[Alfie]] and [[Hollis]], back only for their
+wages. Shrapnel had dismissed the crew before the raid; Hollis does not expect to
+see him again. Billiam let them into the office to take what they were owed. **The
+yard is finished**, and he suggested it as the party's new meeting place.
+
+At [[Fexfield Scrappers]] he told [[Lucile Fexfield]] he had worked at Claringbold's
+and at the Guild of Engineers, asked one question too many about guilds, and was
+passed over for anything but scrapping work. When he admitted why they had come, she
+told them about Shrapnel's contracts off the books and the Porter's Guild as buyers.
+
+At [[The Head of Steam]] he climbed the pipework in the alley to look in at the
+upstairs windows. To get past the fourth, he threw a phantom mumble of voices by
+its door so the room looked the other way. He watched two porters leave that room,
+and got a line of sight into the fifth.

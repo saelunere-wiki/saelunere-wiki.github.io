@@ -55,3 +55,11 @@ left legible in Theo's ledger.
 
 The people who have been taxing him extra at [[Claringbold's Yard]] are
 **[[The Corewright's Association]]**, not [[The Porter's Guild]].
+
+## What Episode 5 added
+
+He saw the agents coming and **dismissed his whole crew** before they arrived, which
+is why nobody else was hurt ([[Hollis]]). According to [[Lucile Fexfield]] he had
+contracts off the books, with the Porter's Guild as buyers, and he had not delivered
+his part. The supply is limited and they cannot get it elsewhere, so **he may be
+worth more to them alive, and might be traded back.**

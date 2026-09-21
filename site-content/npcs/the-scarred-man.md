@@ -46,3 +46,13 @@ anger in how he fights and no enjoyment of it. Felix eventually froze him
 mid-stride as he started after Lark, and the last thing he did before the spell
 took him was turn his eyes onto Felix. He was still frozen when
 [[Billiam Buckman|Billiam]] sprinted past and spat in his face.
+
+## At Evan's table
+
+The morning after the raid on [[Claringbold's Yard]], the two of them called at
+[[Fexfield Scrappers]] asking questions and were sent away. That night he
+was in the best private room above [[The Head of Steam]], playing cards with
+[[Evan Langford]] and a man in a porcelain mask, and losing.
+
+When Evan cued the table to applaud Aeska's song, he gave a slow clap with no
+expression on his face at all.

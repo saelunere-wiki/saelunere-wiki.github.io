@@ -55,3 +55,12 @@ never closed.
 **And she was taken out of the fight by music.** [[Aeska Volan|Aeska]] played from
 the mouth of the alley and she simply stopped where she stood and listened, held
 there while everything else went on around her.
+
+## At Evan's table
+
+The morning after the raid on [[Claringbold's Yard]], the two of them called at
+[[Fexfield Scrappers]] asking questions and were sent away. That night she
+was in the best private room above [[The Head of Steam]], playing cards with
+[[Evan Langford]] and a man in a porcelain mask, and losing.
+
+She sat back, red-cheeked from drink, while Aeska played.

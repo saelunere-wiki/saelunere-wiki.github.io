@@ -18,6 +18,16 @@ Corewrights are broadly supportive, but they are not under GoE command.
 
 - **Corewright:** [[Kerwin Aberford]]
 
+**The Corewrights make the cores.** Everyone who knows anything about the guilds
+knows that. *How* they make them is the Association's own niche and a closely kept
+secret: they do not share it readily even with the Guild of Engineers, though the
+higher-ups there are expected to know. Repairing a construct is Corewright work too,
+rather than an engineer's.
+
+They would also take a large cut of any trade in cores they knew about, which is
+why the trade Shrapnel and [[Lucile Fexfield]] ran with the Porters was kept from
+them.
+
 ## The Spire
 
 The Corewrights' Spire is squat and broad, made of dark stone - wide at the base. It sits shorter than many other spires and solid on its ground, and its walls are thick enough that the windows feel like slots cut into them.

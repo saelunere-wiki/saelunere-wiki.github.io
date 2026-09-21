@@ -71,3 +71,24 @@ the Porters' Spire.
 [[Calder Flynn|Calder]] spent an evening asking around about the guild. Most
 people knew nothing. A few, the dodgier sort included, made it plain they would
 rather not talk about it at all.
+
+## What Episode 5 added
+
+- **The Porters are the buyers** of the cores Shrapnel was selling off the books,
+  according to [[Lucile Fexfield]]. The trade is kept from
+  [[The Corewright's Association]], and the two agents collect the goods and make
+  the payments.
+- **The guild is mixed up with the underworld** in a way the Guild of Engineers is
+  not, according to [[Dunmore]]: plenty of people in those circles have their own
+  ties to it.
+- **[[The Head of Steam]]** is their unofficial clubhouse, across the Furlong from
+  their spire.
+- A gambler there told Calder that **Evan's crew** are aggrieved over a deal that
+  went wrong, with the impression they were not paid, and have been hunting whoever
+  is responsible, partly to keep their reputation. Taking prisoners is not how they
+  usually work; normally a debtor is beaten until he pays. Using the guild's own
+  cells draws questions inside the guild, so anyone doing it might be hiding it from
+  Sasha. A debt can be bought out; someone held for information will not be sold
+  back.
+- **[[Evan Langford]]**, son of the head of the guild, was playing cards in the best
+  room upstairs with the two agents who have been hunting the party.

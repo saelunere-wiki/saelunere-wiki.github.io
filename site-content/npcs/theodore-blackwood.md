@@ -95,3 +95,11 @@ attended they were never violent and never radical.
 
 **A couple of weeks before he was killed, two strangers came into that tavern and
 argued with him there.** See [[Barry Killerman]].
+
+## The machines
+
+The machine Billiam and Shrapnel stripped at [[Claringbold's Yard]] was a
+**prototype**: a failed attempt at something new, highly classified, and never meant
+to leave the Guild of Engineers, let alone reach an ordinary scrapyard. From what
+the party has found, **Theo is the one who got it there**, to Claringbold's and
+presumably to [[Fexfield Scrappers]] too.

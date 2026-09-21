@@ -101,3 +101,24 @@ not matter whether he is public or hiding, and that going public would drag more
 people into trouble. He is keeping up his performances at the Plumb and Bob so
 that stopping does not look suspicious, and will ask the other taverns he plays
 for a favour, to find the party a new place to meet.
+
+## Episode 5
+
+He bought a full professional **disguise kit** - fake beards, a wax nose,
+cosmetics - and now performs in disguise, away from the Plumb and Bob. He told Lark
+he had already had a run-in with one of his father's enforcers before he met any of
+them, so his family looking for him is no surprise. He asked Calder to give out
+nothing about where he is.
+
+His theory: **the Guild of Engineers are behind Theo's murder**, and the Porter's
+Guild are opportunists who have worked out what the new cores can do and want as
+many as they can get. The premium cores are new to him too.
+
+At [[The Head of Steam]], calling himself **Valor**, a travelling musician down on
+his luck, he talked [[The Baron]] into sending him up to play for the room behind
+the frosted glass. Inside were four at cards: the blonde Aela and the woman in
+green, a man cloaked in black in a porcelain mask, and a nobleman in green with
+glowing yellow eyes, winning everything. Aeska played one song and stopped. The
+nobleman applauded, invited him back, and gave his name: **[[Evan Langford]]**.
+Aeska half-remembered him from noble parties, and placed him as the son of
+[[Sasha Langford]], head of the Porter's Guild.

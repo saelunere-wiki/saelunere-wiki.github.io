@@ -56,6 +56,12 @@ carry messages. They are quite fast, able to move through small gaps and zip alo
 walls and gutters, with decent intelligence to navigate the complicated streets.
 They have eyes at both ends of their torpedo-like torsos and six little legs.
 
+Scratchers carry messages in a **cavity in their bodies**, their working parts
+squeezed to one side to make room, and they **cannot read** what they carry. When
+not in use they idle in banks, and buildings that use them have small holes in the
+walls and chutes up the sides of the stairs for them to travel through. Nobody pays
+them any attention.
+
 ### Howl
 
 The most intelligent and advanced of the common models, very similar to dogs

@@ -92,3 +92,28 @@ the whole truth.** He learned there that Billiam is Buckman's son.
 
 That evening he went out alone to ask about [[The Porter's Guild]]. Most people
 knew nothing, and a few made it plain they would rather not talk about it.
+
+## Episode 5
+
+In a disguise, he met two people in [[The Bellows]] by prior arrangement, who call
+him **boss** and **"Mr. C"**: [[Dunmore]], big and muscular, and [[Penn]], small and
+ratty. He sent Penn to watch **the Volan building** in the Outlines, and Dunmore to
+ask the underground whether the Porter's Guild has taken someone and where he is
+held. Dunmore warned him the Porters are mixed up with the underworld and pointed
+him at [[The Head of Steam]]. None of the other characters were there; all of the
+players saw it.
+
+At the Head of Steam he read the room - about a third of the drinkers working
+outside the law - and sat down to [[Games|Runs]] with two Porters and an older man in
+no guild colours. He won a round with a quiet turn of his own dice, then caught the
+bald one tilting a die and faced him down, so that the drinks were on them. Playing a
+businessman whose trade is suffering, he got the older man talking:
+**Evan's crew** are aggrieved and unpaid, and hunting whoever is responsible;
+prisoners are unusual, and the guild's own cells draw questions; a debt can be
+bought out, but someone held for information will not be sold back. He half-knew
+there is an Evan high in the Porter's Guild. He left two marks on the table:
+*"This evening on me, and we never had this conversation."*
+
+He told the others he knows the message spell, and that he knows dice because his
+parents play at home. His reading of the College: it would not care about better
+cores, so if it is involved there is something bigger behind it.

@@ -82,3 +82,17 @@ blonde man in a green coat, very fast, and Felix took him for the man from
 He suggested they might keep the scrapyard running to make some money, and is
 sleeping at a tavern in the Core near [[Fexfield Scrappers]], to meet Billiam at
 its gate at ten.
+
+## Episode 5
+
+[[Lucile Fexfield]] hired him to do the books at [[Fexfield Scrappers]], starting
+with an audit.
+
+At [[The Head of Steam]], alone in a bathroom stall and trying to think of a way to
+reach the scratchers, **his body answered by turning him into one**: sparks and
+essence, flesh crunching down into a small construct shape. It was the first time,
+and it was agony. None of the other characters saw it; all of the players did. As a
+scratcher he found three idling behind the bar, who could tell he was not one of
+them and accepted him anyway, and learned they carry messages they cannot read. He
+found he could open his own head the same way, rode the scratcher chute upstairs,
+and slipped into the room behind the frosted glass through a hole in the corner.

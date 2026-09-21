@@ -50,3 +50,23 @@ she will be particularly diligent**. She expects Lark back tomorrow at the lates
 - **Runs** [[Salador's Slip]]
 - **Employs** [[Delia]], [[Nell]] and [[Emory]]
 - **Has set** [[Lark]] a job, with Nell as the price of failing
+
+## Lark's answer
+
+Lark came back that night and **refused the job to her face**. She would not be a
+pawn giving information to guilds, she said, and her life had already been
+compromised by the Porter's Guild; she offered to leave.
+
+Madame Rooke took it without heat. *"My dear, we haven't even agreed whether you'll
+be staying here. This is to pay a debt of you already staying."* It was, she said,
+**"purely a family matter between family members"**, and no concern of Lark's; the
+people she works for are not necessarily his family, but they are searching for
+him. If Lark will not do it, others will, and anything withheld becomes worthless
+the moment somebody else tells her.
+
+She needs value, not money. If Lark has a moral objection, she may bring **other
+information worth selling instead - dirt on the Porter's Guild**, some underhanded
+tactic or criminal venture. *"I will not sell this information to the bidder if you
+do not give it to me about your friend Aeska, but I will need something to sell
+instead."* The new deadline was the end of the next day. She would not give Lark a
+second night.

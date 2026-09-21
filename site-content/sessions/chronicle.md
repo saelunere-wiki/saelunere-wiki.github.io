@@ -30,7 +30,11 @@ episode: 2-3
 text: The five are driven out of [[The Plumb and Bob]] by two [[The Porter's Guild|Porter's Guild]] agents. At midnight [[Harriet Spurnhold]] is shot in [[The Bellows]] handing Theo's ledger to Felix.
 ---
 date: Tide 03, 756
-episode: 4
+episode: 4-5
+text: [[Claringbold's Yard]] is found wrecked and [[Shrapnel]] gone. Lark refuses [[Madame Rooke]] to her face rather than name Aeska Volan.
+---
+date: Tide 04, 756
+episode: 5
 status: open
-text: [[Claringbold's Yard]] is found wrecked and [[Shrapnel]] gone. [[Madame Rooke]] sets Lark to find out whether Aeska Volan has been seen at [[The Plumb and Bob]].
+text: [[Fexfield Scrappers]] names the buyer. That night Aeska plays a song in a private room above [[The Head of Steam]], for two of the people hunting them and the son of the head of [[The Porter's Guild]].
 ```
