@@ -1,28 +1,27 @@
 ---
 type: npc
-name: The man in the apron
-aliases: [The man in the apron at Fexfield]
+name: Hugh Fexfield
+aliases: [Hugh, The man in the apron]
 faction: Fexfield Scrappers
 group: Work & Crew
-status: Works at Fexfield Scrappers
+status: Works the floor at Fexfield Scrappers
 pronouns: he/him
-summary: The big man in the apron who met Billiam and Felix at the door of Fexfield Scrappers.
-portrait: _images/the-man-in-the-apron.webp
+summary: Lucile's brother, the big man in the apron on the floor of Fexfield Scrappers.
+portrait: _images/hugh-fexfield.webp
 ---
 
-# The man in the apron
+# Hugh Fexfield
 
-A really big man in a work apron, on the floor near the front door of
-[[Fexfield Scrappers]]. He was the first to meet [[Billiam Buckman|Billiam]] and
-[[Felix Klaudius|Felix]] when they came in looking for work: *"All right. How can I
-help you?"*
+[[Lucile Fexfield]]'s brother, who runs [[Fexfield Scrappers]] with her. A really
+big man in a work apron, on the floor near the front door. He was the first to
+meet [[Billiam Buckman|Billiam]] and [[Felix Klaudius|Felix]] when they came in
+looking for work: *"All right. How can I help you?"*
 
 He looked Felix over, whose clothes were a good deal nicer than a scrapyard
 worker's, and let it go: *"we always need people down here."* He sent the two of
-them upstairs to the boss, [[Lucile Fexfield|Lucile]].
-
-His name was not given.
+them upstairs to the boss, Lucile.
 
 ## Relationships
 
-- **Works at** [[Fexfield Scrappers]]
+- **Brother of** [[Lucile Fexfield]]
+- **Runs** [[Fexfield Scrappers]], with her

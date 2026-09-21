@@ -12,7 +12,7 @@ portrait: _images/lucile-fexfield.webp
 
 # Lucile Fexfield
 
-Runs [[Fexfield Scrappers]] with her brother. Their father ran it before them, and
+Runs [[Fexfield Scrappers]] with her brother, [[Hugh Fexfield|Hugh]]. Their father ran it before them, and
 they keep it in the family and among people they know - *"I'm obviously Fexfield,
 it's on the door."* She works upstairs, in a room more workshop than office.
 
@@ -44,6 +44,6 @@ talked:
 
 ## Relationships
 
-- **Runs** [[Fexfield Scrappers]], with her brother
+- **Runs** [[Fexfield Scrappers]], with her brother [[Hugh Fexfield]]
 - **Friend of** [[Shrapnel]]
 - **Employs** [[Felix Klaudius]], to do her books
