@@ -15,6 +15,6 @@ summary: Lark refuses Madame Rooke, Fexfield explains what Shrapnel was really s
 - **In brief:** The cores are the point. [[Fexfield Scrappers]] explains what [[Shrapnel]] was really selling and to whom, and the night ends with Aeska playing a song for four people in a private room above [[The Head of Steam]].
 
 - [[Episode 5 - Summary]] - the scannable list of what happened
-- Episode 5 - Story - the narrative retelling, not written yet
+- [[Episode 5 - Story]] - the narrative retelling (optional, reads like a book)
 
 [Raw transcript of Episode 5](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-05/transcript) - for checking details, or writing your own version.
