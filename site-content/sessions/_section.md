@@ -13,3 +13,4 @@ Each episode page also links to its raw transcript, kept in the repository.
 | [[Episode 3]] | 4 September 2026 | Tide 02, 756 |
 | [[Episode 4]] | 14 September 2026 | Tide 02-03, 756 |
 | [[Episode 5]] | 20 September 2026 | Tide 03-04, 756 |
+| [[Episode 6]] | 25 September 2026 | Tide 04-05, 756 |
