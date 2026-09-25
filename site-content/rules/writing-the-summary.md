@@ -72,6 +72,14 @@ First read [Canon & Discipline](#rules-canon-and-discipline) - those rules apply
 - **Don't say it twice.** The closing sections are for what Key events could not
   carry. If an NPC line or a consequence just restates a bullet from above, cut
   it to the part that is new.
+- **It is a list, not an account.** Describe nothing unless the description is
+  itself the fact. *"He walked out through the wall two storeys up"* is the
+  fact. *"crossed to the window Billiam was clinging to, staying level in the
+  air"* is the Story doing its job on the Summary's page. When a bullet has a
+  second sentence, check whether it is carrying information or scenery.
+- **Put a horizontal rule** between Key events and the closing sections, so it
+  is obvious where the account of the session stops and the reference lists
+  start.
 
 ## After-write check
 
