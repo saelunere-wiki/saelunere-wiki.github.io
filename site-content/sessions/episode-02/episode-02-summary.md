@@ -72,6 +72,8 @@ the Plumb and Bob.*
 
 **The session ends here, mid-scene.**
 
+---
+
 ## NPCs, locations, factions
 
 - **The woman in green** - [[The Porter's Guild]]. Older, grey-haired, armed with a concealed essence weapon, and willing to put hands on a stranger in public to get a name.

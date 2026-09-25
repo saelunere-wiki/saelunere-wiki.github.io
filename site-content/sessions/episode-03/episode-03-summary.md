@@ -71,6 +71,8 @@ two scenes for the second half.*
 
 **The session ends here.**
 
+---
+
 ## NPCs, locations, factions
 
 - [[Annie Buckman]] - Billiam's mother. Warm and house-proud, born and raised in [[The Stacks]]. Sad about how little her husband is home, and hiding it.

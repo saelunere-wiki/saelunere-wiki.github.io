@@ -74,6 +74,8 @@ they converge on a pub belonging to the people hunting them.*
 
 **The session ends on that.**
 
+---
+
 ## NPCs, locations, factions
 
 - [[Evan Langford]] - son of the head of the Porter's Guild. Green suit, glowing yellow eyes, a noble's manner and a taste for music. Winning heavily.

@@ -32,6 +32,8 @@ summary: Theodore Blackwood is shot dead mid-speech at Harvest Fest, and five st
 - **Aeska explained himself.** He gave his full name as **Aeska Volan**, son of the Volan family, his father second in command to [[Dr. Tammerton]] and himself raised to succeed Tammerton, until he was **kicked out of the guild**. He did not say why. Theo was a friend during his guild years, though they had not spoken in two. His read: only a handful of guards were sent where there should have been an army, and the officer showed no interest in the dead man. He thinks it was planned.
 - **The arrangement.** Everyone works their own contacts and meets again at the Plumb and Bob on **Wexdae**, three days on.
 
+---
+
 ## NPCs, locations, factions
 
 - [[Theodore Blackwood]] - **killed**, shot on stage in front of a crowd who knew him, then dragged off the square by guild enforcers.

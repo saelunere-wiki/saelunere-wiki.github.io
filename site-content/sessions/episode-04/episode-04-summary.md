@@ -65,6 +65,8 @@ time until they converge in the afternoon.*
 
 **Calder, Felix and Lark levelled up** for surviving the Bellows. Aeska and Billiam did not.
 
+---
+
 ## NPCs, locations, factions
 
 - [[Madame Rooke]] - runs [[Salador's Slip]]. Older, salt and pepper, half-moon spectacles, rings. Trades in information and favours, and is not to be crossed.
