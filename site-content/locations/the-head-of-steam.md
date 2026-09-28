@@ -8,8 +8,7 @@ summary: A big, busy Porters' pub across the Furlong from their spire, with priv
 # The Head of Steam
 
 A big, busy public house on the inner edge of [[The Furlong]], in
-[[The Core|the Core]], just across the ring road from the
-[[The Porter's Guild|Porters']] spire. It is a Porters' haunt: crews come off their
+[[The Core|the Core]], within sight of the [[The Porter's Guild|Porters']] spire, on the road the guild's workers take home into the Core. It is a Porters' haunt: crews come off their
 routes and drink here, and most nights it is loud with them. The street outside is
 one of the busiest in the city - a great steam-powered workman's clock dominates
 it, and [[The Circular]] runs past - and the house has several doors, so there is no

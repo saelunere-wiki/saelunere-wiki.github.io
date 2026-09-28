@@ -61,8 +61,7 @@ everybody in Parvo needs things moved.
 
 After the fight in [[Oblong Square]] the two agents went back to
 [[The Plumb and Bob]] and **took [[Barry Killerman]] away**. By the next
-morning [[Claringbold's Yard]] had been wrecked and **[[Shrapnel]] taken**; the yard's construct
-described the attacker as a big blonde man in a green coat, very fast. A guild that
+morning [[Claringbold's Yard]] had been wrecked and **[[Shrapnel]] taken**; the yard's construct described the attackers as *"big, green coat, blonde man, very fast"*, and [[Alfie]] later described a big woman in a green coat and a scarred blonde man. A guild that
 holds someone keeps them in its own tower, so the party believes Shrapnel is in
 the Porters' Spire.
 
@@ -81,8 +80,7 @@ rather not talk about it at all.
 - **The guild is mixed up with the underworld** in a way the Guild of Engineers is
   not, according to [[Dunmore]]: plenty of people in those circles have their own
   ties to it.
-- **[[The Head of Steam]]** is their unofficial clubhouse, across the Furlong from
-  their spire.
+- **[[The Head of Steam]]** is their unofficial clubhouse, within sight of their spire.
 - A gambler there told Calder that **Evan's crew** are aggrieved over a deal that
   went wrong, with the impression they were not paid, and have been hunting whoever
   is responsible, partly to keep their reputation. Taking prisoners is not how they

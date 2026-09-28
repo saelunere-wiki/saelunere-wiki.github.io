@@ -109,7 +109,7 @@ Scrappers at ten.
 ## Episode 5
 
 At [[Claringbold's Yard]] he met [[Alfie]] and [[Hollis]], back only for their
-wages. Shrapnel had dismissed the crew before the raid; Hollis does not expect to
+wages. Shrapnel had sent the crew away when the agents turned up; Hollis does not expect to
 see him again. Billiam let them into the office to take what they were owed. **The
 yard is finished**, and he suggested it as the party's new meeting place.
 

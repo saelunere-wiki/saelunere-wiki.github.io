@@ -1,12 +1,14 @@
 ---
 type: world
 name: Technology & Medicine
-summary: Essence cores are ordinary Constructs and essence cores are everyday technology.
+summary: Essence cores are everyday technology - and a new, more powerful kind has turned up in the scrap trade.
 ---
 
 # Technology & Medicine
 
 ## Essence cores are ordinary
+
+**Constructs and essence cores are everyday technology.** Nobody is surprised to see a core powering the most mundane thing imaginable - they are simply how the city works.
 
 **One core is a great deal of power.** A single essence core is enough to run a
 Bullyboy or a Howl, which is why they are so expensive. As far as most people know
@@ -16,9 +18,7 @@ there is only one kind: a core is a core.
 machine at [[Claringbold's Yard]] whose fifteen cores Shrapnel called odd and more
 powerful than normal - a new generation, from a prototype that had failed, was
 highly classified, and should never have left the Guild of Engineers. It reached an
-ordinary scrapyard all the same. Nobody at the table had heard of such a thing,
-Aeska included.
-**Constructs and essence cores are everyday technology.** Nobody is surprised to see a core powering the most mundane thing imaginable - they are simply how the city works.
+ordinary scrapyard all the same. None of the party had heard of such a thing, Aeska included.
 
 The economics matter: **buying a new essence core costs more than recycling an old one**, so **scrapping essence machines is commonplace**. Salvage, breaking, and recycling are ordinary trades, and a steady supply of dead machinery flows through the city to be picked apart.
 

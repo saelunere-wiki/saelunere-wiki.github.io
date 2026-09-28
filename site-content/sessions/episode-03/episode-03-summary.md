@@ -26,18 +26,18 @@ two scenes for the second half.*
 
 ### On the run
 
-- **The two who came for Lark wore [[The Porter's Guild]]'s own pins**, not crew pins, which puts them above the crews rather than in one. **Natural 20** on the politics check.
+- **The two who came for Lark wore [[The Porter's Guild]]'s own pins**, not crew pins, which puts them above the crews rather than in one.
 - **[[Brassline]] is a Porter's Guild crew**, so Lark quit the same guild the day before it came for her.
 - **Lark gave up no names**, and said so to Aeska. [[Barry Killerman]] was left behind in the tavern as the only person seen talking to her.
 
 ### Billiam's house
 
-- **Billiam took them home**, high in the Stacks, to a small three-room house built against a chimney for the warmth. He got his mother out of the room on a **natural 20**, and a bed for everyone who needed one on **another**.
+- **Billiam took them home**, high in the Stacks, to a small three-room house built against a chimney for the warmth. He got his mother out of the room, and found a bed for everyone who needed one.
 - **[[Annie Buckman]]**, his mother, fed them and was delighted to have them. Asked about her husband, she gave the official version, professor at the College, important projects, not home as often as they would like. **Lark read her as very sad about it and hiding it.**
 - **Aeska asked why the change of heart.** Billiam said he had not known who to trust and that it no longer mattered, because trouble was coming to them anyway. Aeska apologised for casting on him, and mentioned he has spent two years hiding.
 - **Correction: the scrapyard visitors were the Corewrights.** The people leaning on [[Shrapnel]] at [[Claringbold's Yard]] and taxing him extra are **[[The Corewright's Association]]**, not the Porter's Guild.
 - **Essence cores cost twenty to thirty ducats each**, per Billiam, who strips them for a living. Aeska added that [[The Guild of Engineers]] ran standing experiments on wiring many cores together. That matches [[Orson Thorne]]'s estimate of the weapon that killed Theo: a great deal of power, so a great many cores, so money and access.
-- **Theo's house had been searched before either of them got there.** Aeska went in the morning and Felix in the afternoon, and somebody with a key had already turned it over and locked up again.
+- **Theo's house had been searched before either of them got there.** Aeska went on the first day and Felix on the second, and somebody with a key had already turned it over and locked up again.
 - **Felix let his belongings go.** Having lost his house, he had one day to collect them, and decided not to go back for them at all.
 
 ### Subterminal 8T
@@ -55,7 +55,7 @@ two scenes for the second half.*
 - **The fight.** A man on a barricade with an overcharged essence carbine, and two **modified [[Constructs|howls]]** past the standard model.
   - **The shooter left** once Calder and Felix had hurt and poisoned him, abandoning both constructs.
   - **Lark went down** under the second howl and was healed back up.
-  - **Felix went down** and came within one point of a death save of dying outright. The howl **took the ledger out of his hands and ran with it**.
+  - **Felix went down** and came within a hair of dying outright. The howl **took the ledger out of his hands and ran with it**.
   - Lark chased the construct down, killed it and recovered the ledger. Calder stabilised Felix.
 - **They left down a tunnel** with Harriet and the ledger.
 

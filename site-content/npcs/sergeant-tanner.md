@@ -21,11 +21,11 @@ spire. When Felix pulled rank he was unimpressed, offered him a private way out,
 and made clear he was taking the other three regardless. Felix refused.
 
 He let his men drag Theo's body across the cobbles, and told them to carry on
-when Calder objected. Billy noted that when told a man had been shot, he reacted
+when Calder objected. Billiam noted that when told a man had been shot, he reacted
 as though he already knew.
 
 He was struck by an unseen psychic attack, demanded to know which of the party
-was responsible, opened fire on a fleeing Billy with an **essence carbine**, and
+was responsible, opened fire on a fleeing Billiam with an **essence carbine**, and
 was killed by Calder.
 
 ## Relationships

@@ -27,5 +27,4 @@ The rest of the city's rich and powerful - the propertied houses who do not
 *lead* a guild - do not build spires. They live in **mansions** out in
 [[The Outlines]] alongside them.
 
-The offices of [[The Guild of Engineers]] occupy one such spire - where
-[[Theodore Blackwood]] keeps his political campaign.
+The offices of [[The Guild of Engineers]] occupy one such spire - where [[Theodore Blackwood]] ran his political campaign.

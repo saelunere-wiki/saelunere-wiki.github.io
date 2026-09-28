@@ -14,7 +14,7 @@ run [[Constructs]]. It is a powerful faction, given the essential nature of
 constructs in the city and the more "mysterious" quality of their functionality.
 
 It operates semi-independently of the Engineers. The two share goals and the
-Corewrights are broadly supportive, but they are not under GoE command.
+Corewrights are broadly supportive, but they are not under GoE command, though in practice they tend to do what the GoE directs.
 
 - **Corewright:** [[Kerwin Aberford]]
 
@@ -40,7 +40,7 @@ At the top the mass draws suddenly in and tapers to a single thin spire, barbed 
 
 ## Formation
 
-Constructs were at work in Parvo long before [[The Theocide]], and with them a body of employed corewrights. Afterwards they organised into a guild of their own - but **under** the Engineers rather than beside them. The two trades are so entwined that setting up a rival guild made sense to nobody; they chose instead to stay allied, sharing knowledge and expertise on anything touching essence machinery. That bargain is the one they still keep.
+Constructs were at work in Parvo long before [[The Theocide]], and with them a body of employed corewrights. Afterwards they organised into a guild of their own - a sub-guild allied to the Engineers rather than a rival beside them. The two trades are so entwined that setting up a rival guild made sense to nobody; they chose instead to stay allied, sharing knowledge and expertise on anything touching essence machinery. That bargain is the one they still keep.
 
 Any business that works commercially with cores or constructs - a repair shop, a breaker's yard, a haulage outfit running its own machines - does so **under a Corewright licence**, renewed for a fee. (On dues and enforcement generally, see [[Law & Crime]].)
 

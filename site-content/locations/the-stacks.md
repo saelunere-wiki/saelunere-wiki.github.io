@@ -28,7 +28,6 @@ navigation, the houses here are less in demand and tend to be inhabited by the
 poorer parts of the city and the waves of refugees who arrived after
 [[The Theocide]].
 
-It is here, among the community he grew up in, that [[Theodore Blackwood]] keeps
-his home.
+It was here, among the community he grew up in, that [[Theodore Blackwood]] kept his home.
 
 ![The Stacks](_images/the-stacks.webp)

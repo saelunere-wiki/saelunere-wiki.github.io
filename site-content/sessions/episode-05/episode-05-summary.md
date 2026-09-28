@@ -27,7 +27,7 @@ they converge on a pub belonging to the people hunting them.*
 
 ### The morning
 
-- **Billiam** - found two of the crew, **[[Alfie]]** and **[[Hollis]]**, back at [[Claringbold's Yard]] for their wages. **Shrapnel dismissed them all before the raid**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
+- **Billiam** - found two of the crew, **[[Alfie]]** and **[[Hollis]]**, back at [[Claringbold's Yard]] for their wages. **Shrapnel sent them all away when the agents turned up**, which is why nobody else was hurt and why Hollis is ashamed. Hollis's verdict: do not expect to see him again. They stripped what was left and went looking for other work, and Billiam let them. **The yard is finished.**
 - **Calder** - met his own crew down in [[The Bellows|the Bellows]]: **[[Dunmore]]**, big and muscular, and **[[Penn]]**, a small ratty kid. He split them onto two jobs.
   - **Penn** watches a building in [[The Outlines|the Outlines]] and reports who goes in and out. Calder named it as **the Volan building**, and told them not to go inside.
   - **Dunmore** works the underground on [[The Porter's Guild]]: whether they really have taken someone into custody, what happened to him, and where he is being held. Also not to go inside the guild.

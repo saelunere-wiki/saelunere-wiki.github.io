@@ -32,4 +32,4 @@ favour.
 - [[The Water Company]]
 
 Not everyone is content with rule by the largest guilds - [[Theodore Blackwood]]
-campaigns to replace the council with a truly democratic, elected government.
+campaigned to replace the council with a truly democratic, elected government, until he was killed.

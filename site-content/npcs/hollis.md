@@ -14,7 +14,7 @@ A human of about fifty who worked at [[Claringbold's Yard]] for a very long time
 knew [[Shrapnel]] well, and was the nearest thing the five-man crew had to a second
 in command.
 
-When the agents came, **Shrapnel saw them coming and dismissed the whole crew**,
+When the agents turned up, **Shrapnel dismissed the crew and told them to get out**,
 and Hollis went home on his order. He is ashamed of it. His verdict to Billiam:
 *"I wouldn't expect to see him again."*
 

@@ -16,7 +16,7 @@ summary: Aeska's father, named at the table as Professor Buckman's close collabo
 
 Aeska told [[Billiam Buckman|Billiam]] that his father **worked closely with
 [[Professor Benjamin Buckman]]** on projects neither of them ever told Aeska about.
-He has not been back in two years and does not know whether the two still work
+Aeska has not been back in two years and does not know whether the two still work
 together.
 
 ## Relationships

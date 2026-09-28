@@ -68,8 +68,7 @@ The yard is the **last legible entry in Theo's ledger**, with **x30** beside it.
 ## After the raid
 
 The next morning two of the crew, [[Alfie]] and [[Hollis]], came back for their
-wages. Shrapnel had seen the agents coming and **dismissed the whole crew** before
-they arrived, which is why nobody else was hurt: Hollis went home on his order, and
+wages. When the agents turned up that morning, Shrapnel **dismissed the crew** and told them to get out, which is why nobody else was hurt: Hollis went home on his order, and
 Alfie hid in a bucket in the corner until it was over. Both went into the office to
 take what they were owed and left to find other work, and Billiam let them.
 

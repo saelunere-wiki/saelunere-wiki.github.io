@@ -8,7 +8,7 @@ summary: There is no police force in Parvo, and no single body of law.
 
 There is **no police force in Parvo, and no single body of law.** Law is enforced by **the guilds**.
 
-Almost every business in the city carries a guild affiliation of some kind and pays that guild something akin to protection money (see [[The City Council]] on membership and dues). In return, the guild follows up on vandalism, theft, and the like committed against its members. What it does *not* do is enforce a strict, cohesive set of laws across the whole city - each guild polices its own interests, and the result is a patchwork rather than a code.
+Almost every business in the city carries a guild affiliation of some kind and pays that guild something akin to protection money. In return, the guild follows up on vandalism, theft, and the like committed against its members. What it does *not* do is enforce a strict, cohesive set of laws across the whole city - each guild polices its own interests, and the result is a patchwork rather than a code.
 
 The guilds' real incentive is **keeping the city working**. Parvo runs on labour, so it is very much in a guild's interest that its workforce does not tear itself apart over scarce resources. Order is maintained because disorder is unprofitable, not because anyone is owed justice.
 

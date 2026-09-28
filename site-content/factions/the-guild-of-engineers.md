@@ -37,7 +37,7 @@ The topmost level is an **open-air plaza**, flagged and balustraded, open to the
 ## The Guardsmen Brigade
 
 The guild's own uniformed force, in **black and gold**. They carry **essence
-carbines**. Three of them, under [[Sergeant Tanner]], reached [[Oblong Square]]
+carbines**. [[Sergeant Tanner]] and two guardsmen reached [[Oblong Square]]
 within minutes of [[Theodore Blackwood]]'s death and moved to take witnesses back
 to the spire.
 

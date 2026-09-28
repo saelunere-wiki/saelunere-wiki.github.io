@@ -31,7 +31,7 @@ useless."*
 
 He loves music. When Aeska, disguised and calling himself Valor, was sent up to
 play, Evan was delighted - *"why are we skimping on the luxuries of life? Music is
-an art"* - applauded, and waited for the others to clap before they did. He asked
+an art"* - applauded, and looked round at the others until they clapped too. He asked
 whether Valor plays dice, gave his own name, and invited him back any time he is in
 the area.
 

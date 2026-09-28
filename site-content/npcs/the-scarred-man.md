@@ -49,7 +49,7 @@ took him was turn his eyes onto Felix. He was still frozen when
 
 ## At Evan's table
 
-The morning after the raid on [[Claringbold's Yard]], the two of them called at
+On Lumesdae morning, the day after the raid on [[Claringbold's Yard]], the two of them called at
 [[Fexfield Scrappers]] asking questions and were sent away. That night he
 was in the best private room above [[The Head of Steam]], playing cards with
 [[Evan Langford]] and a man in a porcelain mask, and losing.

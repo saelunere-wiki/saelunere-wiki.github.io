@@ -27,7 +27,7 @@ Couriers can sleep at the depot; there are bunks for those who need them.
 Brassline couriers carry **a pin naming the outfit**, worn to identify who they
 work for. Handing it back is how you leave.
 
-Lark handed hers to Mira two days after [[Theodore Blackwood]] was killed.
+Lark handed hers to Mira the day after [[Theodore Blackwood]] was killed.
 
 ## Relationships
 

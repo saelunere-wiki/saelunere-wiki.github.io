@@ -23,18 +23,18 @@ time until they converge in the afternoon.*
 - **They got out and split up.** Lark handed the ledger to Felix and threw up once the adrenaline dropped, then rounded on Calder for chasing the shooter instead of helping. He said it was a reaction, and that the man was the one piece of the puzzle worth catching.
 - **[[Harriet Spurnhold]] left them.** The ambush was meant for her, she will bring danger wherever she goes, and she has friends across the city. **Reachable only by Sending.**
 - **[[Harl Mott]] had news and a warning.** The two Porter's Guild agents came back after the fight and **took [[Barry Killerman]]**, the only person they could lay hands on. Not seen since. And twice in two nights is starting to cost Harl business.
-- **Lark talked her way into [[Salador's Slip]]**, a bathhouse in [[The Stacks]] heated off the essence pipes under the street, arriving after midnight covered in blood. She cleaned the whole place through the small hours for the privilege, **took a point of exhaustion**, and slept on the floor of her friend **Nell**'s room.
+- **Lark talked her way into [[Salador's Slip]]**, a bathhouse in [[The Stacks]] heated off the essence pipes under the street, arriving after midnight covered in blood. She cleaned the whole place through the small hours for the privilege, was worn out the next day for it, and shared her friend **Nell**'s bed.
 
 ### Madame Rooke
 
-- **[[Madame Rooke]] runs Salador's Slip.** **Natural 20:** something like a crime lord who commits no crime. She trades information and favours, holds dirt on a great many people, and has real sway in this part of the Stacks. She already knew how Lark had arrived, and she knows [[Mira]] by name.
+- **[[Madame Rooke]] runs Salador's Slip.** Something like a crime lord who commits no crime. She trades information and favours, holds dirt on a great many people, and has real sway in this part of the Stacks. She already knew how Lark had arrived, and she knows [[Mira]] by name.
 - **She set Lark a job**: confirm that a certain fallen nobleman's son, **Aeska Volan**, has been seen at [[The Plumb and Bob]], performs there, or is known to its regulars. A place at the bathhouse and a reward if she does.
   - **And a threat.** Lark owes a debt for the intrusion, and if she is not diligent, Nell answers for having sheltered a "potential fugitive". Report back tomorrow.
 - **Lark told Aeska to his face** the same day.
 
 ### The yard
 
-- **[[Claringbold's Yard]] had been raided overnight.** Gate unlatched, yard silent on a working day, office stripped and the cash drawer broken open, **[[Shrapnel]] gone and no other workers were seen**. No blood.
+- **[[Claringbold's Yard]] had been raided that morning,** before Billiam got there. Gate unlatched, yard silent on a working day, office stripped and the cash drawer broken open, **[[Shrapnel]] gone and no other workers were seen**. No blood.
 - **Both constructs were attacked.** **[[Shepherd]]** lost a leg and still walks; **[[Steam Bun]]** cannot get up. Billiam spent the morning failing to repair them.
 - **Felix interrogated the construct.** Speak with Machines, cast as a ritual on Shepherd: *"Big bad time. Bang, bang, bang."* The attackers were **"big, green coat, blonde man, very fast"** - the monk from [[Oblong Square]] that Billiam spat at. *"Boss taken, yes."* Of the office, *"smash, smash."*
 - **So the Porter's Guild took Shrapnel.** The people who had been leaning on the yard for rent were [[The Corewright's Association]], who own it. Two different guilds.
@@ -42,11 +42,11 @@ time until they converge in the afternoon.*
 ### The ledger
 
 - **Almost all of it has been inked out.** Four or five pages of two-column entries, **deliberately blotted out with ink**, permanently, both columns.
-- **Two entries survive**, the last on the most recent page: a place in **Pavosi**, and serial numbers with a quantity in **Technic**.
+- **Two entries survive**, the last on the most recent page: a place in **Parvosi**, and serial numbers with a quantity in **Technic**.
   - **[[Fexfield Scrappers]] - x50**, a large industrial scrapyard in [[The Core|the Core]].
   - **[[Claringbold's Yard]] - x30.**
 - **Aeska does not recognise the serial numbers at all**, which surprises him. He should know most of what [[The Guild of Engineers]] deals with.
-- **Billiam knows one of them. Natural 20:** Shrapnel showed him that machine weeks ago, something like a new generation of design. It held **fifteen essence cores**, Shrapnel said they were **odd and more powerful than normal**, and he took the box away and Billiam never saw it again. **From what Shrapnel said, it was the second machine of its type to come in.** Fifteen and fifteen makes thirty.
+- **Billiam knows one of them.** Shrapnel showed him that machine weeks ago, something like a new generation of design. It held **fifteen essence cores**, Shrapnel said they were **odd and more powerful than normal**, and he took the box away and Billiam never saw it again. **From what Shrapnel said, it was the second machine of its type to come in.** Fifteen and fifteen makes thirty.
 
 ### The fathers
 
@@ -63,7 +63,6 @@ time until they converge in the afternoon.*
 - **Calder asked around about the Porter's Guild.** Most people know nothing; several made it clear **they would rather not talk about them.**
 - **Lark went back to Salador's Slip to face Madame Rooke.** The session ends before that conversation.
 
-**Calder, Felix and Lark levelled up** for surviving the Bellows. Aeska and Billiam did not.
 
 ---
 
