@@ -39,7 +39,7 @@ He was Theo's secretary for a year, with an office directly alongside his. He de
 
 ## Episode 1
 
-He arrived in [[Oblong Square]] escorting Theo to the stage and carrying his things, and was **beside him when he was shot.**
+He arrived in [[Oblong Square]] escorting Theo to the stage and carrying his things. Theo had asked him along as a friend and colleague, for moral support, and told him he was glad he was there. *"You'll be doing fine,"* Felix told him. He was **beside him when he was shot.** *"Theo, stay with us."* Afterwards: *"He was a great boss."*
 
 When the Guild of Engineers enforcers arrived he declared himself a member of the guild and **pulled rank**, claiming the other three on the strength of outranking guardsmen from an unrelated department. The officer was unimpressed, offered him a quiet way out on his own, and made clear he was taking the other three in as witnesses. **Felix refused to leave them.**
 
@@ -51,14 +51,15 @@ The next morning there was a letter under his door. **Terminated from the guild,
 
 He then went up into [[The Stacks]] to Theo's house, intending to force the lock, and found the door already broken open and the place ransacked. An elderly neighbour came to the door looking for Theo, and he passed himself off as the secretary. She told him **the house had been searched the night Theo died**, by at least two people, and that Theo never came home. He pushed past her on the way out, and the street got a look at his face.
 
-In the back room he told the others he had been Theo's secretary for a year and that it was mostly work. **They could see he was telling the truth, and that there was more to it.** When the Porter's agents arrived he led Calder and Aeska out the back under Pass Without Trace.
+In the back room he told the others he had been Theo's secretary for a year and that it was mostly work. **They could see he was telling the truth, and that there was more to it.** When Lark said she could not go and talk to Barry, he told her, *"You got this, Lark."* When the Porter's agents arrived he led Calder and Aeska out the back under Pass Without Trace.
 
 ## Episode 3
 
 [[Harriet Spurnhold]] put [[Theodore Blackwood|Theo]]'s ledger into his hands in
 [[Subterminal 8T]] and was shot through the throat as she did it. Felix healed her
-off the floor, then took a shot from a gunman above and was dragged down by a
-hound construct, which **took the ledger out of his hands in its mouth** and ran.
+off the floor, then took a shot from a gunman above, stopped at the mouth of the
+tunnel rather than leave the others behind, and was dragged down by a hound
+construct, which **took the ledger out of his hands in its mouth** and ran.
 
 **He came within a hair of dying on that floor**, and was stabilised by
 [[Calder Flynn|Calder]] with the fight still going on around him.
@@ -86,16 +87,17 @@ its gate at ten.
 ## Episode 5
 
 [[Lucile Fexfield]] hired him to do the books at [[Fexfield Scrappers]], starting
-with an audit.
+with an audit. Billiam had told her Felix was a good guy who would fit in.
 
-At [[The Head of Steam]], alone in a bathroom stall and trying to think of a way to
-reach the scratchers, **his body answered by turning him into one**: sparks and
-essence, flesh crunching down into a small construct shape. It was the first time,
-and it was agony. None of the other characters saw it; all of the players did. As a
-scratcher he found three idling behind the bar, who could tell he was not one of
-them and accepted him anyway, and learned they carry messages they cannot read. He
-found he could open his own head the same way, rode the scratcher chute upstairs,
-and slipped into the room behind the frosted glass through a hole in the corner.
+At [[The Head of Steam]] he wished Aeska luck as he went up to play. Then, alone in a
+bathroom stall and trying to think of a way to reach the scratchers, **his body
+answered by turning him into one**: sparks and essence, flesh crunching down into a
+small construct shape. It was the first time, and it was agony. None of the other
+characters saw it; all of the players did. As a scratcher he found three idling
+behind the bar, who could tell he was not one of them and accepted him anyway, and
+learned they carry messages they cannot read. He found he could open his own head
+the same way, rode the scratcher chute upstairs, and slipped into the room behind the
+frosted glass through a hole in the corner.
 
 ## Episode 6
 
@@ -104,7 +106,8 @@ knuckles and beat the scarred Aela agent: *"I'm disappointed, Gertrude... You go
 and your son into this mess. And so you're going to fix it."* The last punch threw a
 radiant spark. He heard her call the man Alistair, and son, as she cleaned him up. He
 found Aeska's boots in the crowd outside, and Lark carried him to the yard inside her
-jacket, where he changed back in front of them.
+jacket, where he changed back in front of them. Lark knelt by him and asked whether he
+was hurt.
 
 **Then he told them what is in his chest.** He was born a noma. *"About four years ago,
 my parents took me to a warehouse a bit south of here. And they delivered me there
@@ -113,11 +116,14 @@ held for three years. [[Theodore Blackwood|Theo]] helped him escape about a year
 and told him his parents were gone, missing; he has not seen them in four years. He
 thinks they did it so that he would have magic. Neither Aeska's engineering nor
 Billiam's time at the College had any word of essence machinery fused with a living
-person.
+person. When he had finished, Lark told him she thought he would learn to control it,
+and Billiam said the flame blade he did was really cool. *"I'm okay,"* he said.
 
 Through [[Shepherd]] he learned that [[Hollis]] and [[Alfie]] had been at the yard
-after Billiam left, and that there had been noises.
+after Billiam left, and that there had been noises. That night he and Aeska spent
+hours trying to repair [[Steam Bun]], and could not.
 
 The next morning he started at [[Fexfield Scrappers]]. [[Hugh Fexfield|Hugh]] let him
 in and introduced himself, and [[Lucile Fexfield|Lucile]] set him on a cupboard of
-unlabelled binders: mornings only, two marks a day.
+unlabelled binders: mornings only, two marks a day. He did only the work she gave
+him, to get on her good side, and they got on well.

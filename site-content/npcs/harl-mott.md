@@ -23,6 +23,9 @@ Afterwards he took the party in and hid them. **Aeska paid him 10 ducats to have
 never seen them**, which he took cheerfully, being no friend of the guilds, and
 he offered to tell anyone who came asking that it had been [[The Below Boys]].
 
+The morning after, he told Aeska that Theo was not exactly a friend of his but a
+regular, and that he wanted to do his best to help, and would help Aeska too.
+
 ## Twice in two nights
 
 At midnight after the fight in the square he was cleaning up at closing when Aeska
@@ -30,8 +33,9 @@ let himself in by the back door. He told him the two agents had come back and
 taken [[Barry Killerman]]. He knew them for Porter's Guild by their green; they
 never introduced themselves.
 
-Then he warned Aeska that trouble twice in two nights is starting to cost the
-tavern business - *"let's just take it as a warning"* - and that the sooner Aeska
+He was glad to see Aeska safe. Then he warned him, *"as much as I like and respect
+you,"* that trouble twice in two nights is starting to cost the tavern business -
+*"let's just take it as a warning"* - and that the sooner Aeska
 gets himself out of this mess, the better for both of them.
 
 ## Relationships

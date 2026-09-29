@@ -34,7 +34,8 @@ upstanding man.
 Told that his son had been in [[Oblong Square]] when it happened, **he made Calder
 promise not to get involved, and then told him he knew perfectly well he would** -
 because that is what makes him so bright - and warned him not to throw away his
-position at [[The College of Arcanographers|the College]] over it.
+position at [[The College of Arcanographers|the College]] over it: *"I'm very proud of
+you... You've worked really hard to be where you are."*
 
 ## Relationships
 
