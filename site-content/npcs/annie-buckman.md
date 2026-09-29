@@ -56,3 +56,7 @@ do not like each other.
 When Billiam came back inside, she told him Aeska had made his excuses and left,
 not in any hurry, sending his thanks. She had already laid out bedrolls on the
 floor for Felix and Lark, who never came.
+
+## A noma
+
+She is a noma, one of the uncommon people who cannot use magic at all *(Episode 6)*.

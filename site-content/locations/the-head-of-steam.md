@@ -44,3 +44,10 @@ frosted glass, where [[Evan Langford]] was playing cards with the two agents who
 have been hunting them.
 
 ![Inside the Head of Steam](_images/the-head-of-steam-interior.webp)
+
+## Episode 6
+
+Leaving room five, the man in the porcelain mask, [[Mister K]], walked out through the
+wall on the alley side and vanished. Inside, [[Evan Langford]] beat [[Alistar]] with silver
+knuckles before leaving by the back, and [[Gertrude]] took him down the stairs and out
+the back past the servers, as a drunk.

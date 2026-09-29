@@ -23,8 +23,8 @@ having seen him at a party or two in his own noble years.
 
 On Lumesdae night, Tide 04, 756, Aeska found him in the best private room above
 [[The Head of Steam]], behind the frosted glass, playing cards with three others:
-[[The woman in green|the woman in green]], [[The scarred man|the blonde Aela man]]
-who travels with her, and a man cloaked in black in a porcelain white mask. Evan was
+[[Gertrude]], [[Alistar|the blonde Aela man]] who travels with her, and a man cloaked
+in black in a porcelain white mask, [[Mister K]]. Evan was
 **winning everything**, a mountain of ducats in front of him and the rest of the
 table cleaned out, and was openly bored by his company: *"These lot here are
 useless."*
@@ -38,5 +38,19 @@ the area.
 ## Relationships
 
 - **Son of** [[Sasha Langford]]
-- **Plays cards with** the woman in green, the scarred man, and the masked man
+- **Plays cards with** [[Gertrude]], [[Alistar]] and [[Mister K]]
 - **Has invited** Valor back to play
+
+## Episode 6
+
+**The charm is a persona.** Once Aeska and Mister K had gone, Evan took his rings off one
+by one, put on silver knuckles and turned on the two agents: *"I'm disappointed,
+Gertrude. You failed to get a handle on the situation."* He punched [[Alistar]] twice in
+the face - the second with a radiant spark off the fist - and kicked him on the floor.
+*"We're a laughing stock. You got you and your son into this mess. And so you're going to
+fix it."* He wiped the knuckles on the tablecloth, put his rings back on, said *"Don't
+fail,"* and left by the back. [[Felix Klaudius|Felix]], a scratcher on the floor, saw all
+of it.
+
+[[Madame Rooke]] calls him *"well known... in certain circles"*, and no surprise in
+*"extracurricular activities"*.

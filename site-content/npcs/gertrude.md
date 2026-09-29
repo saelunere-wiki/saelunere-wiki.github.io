@@ -1,15 +1,16 @@
 ---
 type: npc
-name: The woman in green
+name: Gertrude
 faction: The Porter's Guild
 group: Other
-status: Unidentified
+status: Porter's Guild agent
 pronouns: she/her
 summary: A Porter's Guild agent looking for whoever did business with Theo.
 portrait: _images/the-woman-in-green.webp
+aliases: [The woman in green]
 ---
 
-# The woman in green
+# Gertrude
 
 A large, broad woman past middle age with greying hair, in a heavy forest green
 overcoat. She wears **an official [[The Porter's Guild|Porter's Guild]] pin - the
@@ -64,3 +65,15 @@ was in the best private room above [[The Head of Steam]], playing cards with
 [[Evan Langford]] and a man in a porcelain mask, and losing.
 
 She sat back, red-cheeked from drink, while Aeska played.
+
+## Episode 6
+
+After Aeska had gone, [[Evan Langford]] turned on her: *"I'm disappointed, Gertrude. You
+failed to get a handle on the situation."* He beat [[Alistar]] with silver knuckles in
+front of her - *"You got you and your son into this mess. And so you're going to fix
+it"* - and she started up to stop him and held herself back. When Evan had gone she
+knelt and cleaned him up: *"Alistair, I'm sorry. I'm sorry about this, son... I'm going
+to sort this out for us."* She walked him down the stairs and out the back as a drunk.
+Felix, as a scratcher on the floor, saw and heard all of it.
+
+**Her name was said for the first time here, and Alistar is her son.**

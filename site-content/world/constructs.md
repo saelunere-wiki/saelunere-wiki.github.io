@@ -60,7 +60,8 @@ Scratchers carry messages in a **cavity in their bodies**, their working parts
 squeezed to one side to make room, and they **cannot read** what they carry. When
 not in use they idle in banks, and buildings that use them have small holes in the
 walls and chutes up the sides of the stairs for them to travel through. Nobody pays
-them any attention.
+them any attention, and they keep to themselves in turn: a scratcher rarely has anything
+to do with people unless somebody does something to it first.
 
 ### Howl
 

@@ -39,3 +39,8 @@ Billiam and Felix came in by the front door looking for work. Once Lucile knew t
 were Shrapnel's, she closed the door and told them what she knew: Shrapnel's
 contracts off the books, the Porter's Guild as buyers, and the two agents who had
 called that morning and been sent away. She **hired Felix** to go through her books.
+
+## Episode 6
+
+Felix's first morning. [[Hugh Fexfield|Hugh]] let him in, and Lucile set him on a cupboard
+of unlabelled binders nobody had touched in years: **mornings only, two marks a day**.

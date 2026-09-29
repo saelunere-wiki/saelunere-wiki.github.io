@@ -70,3 +70,20 @@ tactic or criminal venture. *"I will not sell this information to the bidder if 
 do not give it to me about your friend Aeska, but I will need something to sell
 instead."* The new deadline was the end of the next day. She would not give Lark a
 second night.
+
+## Episode 6
+
+Lark came back at eleven at night and paid the debt: new, more powerful cores exist and
+are secret; [[Evan Langford]], Sasha's son, is desperate and angry over a missed deal;
+someone is being held at the Porters' spire for information. Rooke's face gave nothing
+away. *"I will consider your debt paid."*
+
+- She cannot sell it to the Guild of Engineers or the Porter's Guild, who would not like
+  her knowing it, but other guilds pay for word of new cores.
+- On Evan: well known in certain circles, and no surprise in *"extracurricular
+  activities"*.
+- *"I will close the book on this mysterious Aeska"* - with the warning that she is one
+  route of many, and rumours are hard to stamp out.
+- Lark will get jobs on trial first, and perhaps a permanent place if they go well. The
+  house already has *"methods"* for keeping its staff safe; if a large weight falls on
+  Lark, there is little Rooke can do.

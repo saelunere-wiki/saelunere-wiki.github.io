@@ -47,3 +47,8 @@ talked:
 - **Runs** [[Fexfield Scrappers]], with her brother [[Hugh Fexfield]]
 - **Friend of** [[Shrapnel]]
 - **Employs** [[Felix Klaudius]], to do her books
+
+## Episode 6
+
+Felix's first day: a cupboard of unlabelled binders nobody had touched in years.
+**Mornings only, two marks a day.** They got on well.

@@ -74,3 +74,20 @@ take what they were owed and left to find other work, and Billiam let them.
 
 **The yard is finished as a business.** The party means to use it as a meeting
 place.
+
+## Episode 6
+
+The yard is closed in by buildings on three sides, with the wall and the one big gate on
+the fourth; the office is a small building of its own, with a back office Shrapnel kept
+locked.
+
+That night the party found **a hole the size of a cupboard door cut through the brick**
+behind a painting in the back office, and behind it **a safe, cut open with a heavy
+welding torch** - hours of work, by somebody without the code, done that same day. It
+was empty. [[Shepherd]] named [[Hollis]] and [[Alfie]], and the employee records gave both
+men's addresses.
+
+The next day at noon a cart brought a crate nobody had ordered. The older of the two men
+pulled a cudgel on Billiam, and Billiam threw both of them, the cart and the crate across
+the street. The driver lived. Out of the crate came an eight-foot creature of flesh and
+machine, with a greenish essence core in its chest.

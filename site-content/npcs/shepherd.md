@@ -30,3 +30,8 @@ Neither Billiam nor Aeska could repair it.
 ## Relationships
 
 - **Works at** [[Claringbold's Yard]], alongside [[Steam Bun]]
+
+## Episode 6
+
+Asked by Felix who had been in the yard after Billiam left: *"Hollis. Alfie."* Were there
+noises? *"Noises. Yes, yes."*

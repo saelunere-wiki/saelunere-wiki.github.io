@@ -122,3 +122,24 @@ At [[The Head of Steam]] he climbed the pipework in the alley to look in at the
 upstairs windows. To get past the fourth, he threw a phantom mumble of voices by
 its door so the room looked the other way. He watched two porters leave that room,
 and got a line of sight into the fifth.
+
+## Episode 6
+
+On the ledge outside room five, **a man in a porcelain mask walked out through the
+wall** beside him, two storeys up. In a panic Billiam cast Sleep on him; it did
+nothing, and the man turned invisible and was gone. They were a foot apart: **he has
+seen Billiam's face**. Billiam had heard him tell Evan he would *"get back to work."*
+[[Lark]] caught him on the way down.
+
+When his magic surges, the aura is drawn back into his arm by **a bracelet he wears
+under his sleeve**, which feeds it back into his casting. He told Lark that when he
+casts, *"it's like magic coming out of me but it's not mine,"* and that at the College
+he could never learn spells from books the way the others did. Lark stayed at his
+house that night.
+
+At noon the next day two men he did not know brought a crate to the gate that nobody
+had ordered. When he asked for papers the older one pulled a cudgel and hit him
+across the head. Billiam answered with a Thunderwave that threw both men, their cart
+and the crate across the street. The driver lived. Out of the broken crate came
+**an eight-foot creature of flesh and machine** with a greenish essence core in its
+chest, and it rushed him.

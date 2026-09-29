@@ -34,3 +34,11 @@ the square when it happened.**
 
 - **Mother of** [[Calder Flynn]]
 - **Looks after** [[Orson Thorne]]
+
+## Episode 6
+
+Calder came home late without waking them and was there at breakfast. He warned them
+that one of his party had been seen by a bad person, and to be careful if anyone came
+asking. [[Johan Flynn|Johan]] asked whether he had made an enemy at the College, and
+picked up a big wrench: *"I'll give them a wallop if they turn up."* Both asked him not to
+bring that kind of trouble home. [[Vanessa Flynn|Vanessa]] put more food on.

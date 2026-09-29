@@ -114,3 +114,22 @@ hearing were keeping their voices down. She proposed slipping a note to a server
 draw someone out of a private room. Then she went outside, found Billiam halfway up
 the alley wall, and stood at the mouth of the alley so nobody would walk in and look
 up.
+
+## Episode 6
+
+From the alley she saw a man walk out through the wall two storeys up and vanish,
+and caught Billiam as he came down. Outside the pub a scratcher started behaving
+oddly at their feet; she looked in its message cavity, found it empty, and carried it
+to the yard inside her jacket. It was Felix. She stopped Calder at the door until he
+said something about the masked man.
+
+At eleven that night she **paid her debt to [[Madame Rooke]]**: that there are new,
+more powerful cores, which she believes the Guild of Engineers has had its hands on;
+that [[Evan Langford]], Sasha's son, is desperate and angry over a missed deal; and
+that someone is being held at the Porters' spire for information. Nothing about the
+party. Rooke called the debt paid, said she would close the book on Aeska - warning
+that others are still looking - and will give Lark jobs on trial. Lark told her that if
+she is ever found there, Rooke can give her up. She slept at Billiam's.
+
+For the next day she planned to ask [[Mira]] what she knows about Evan, and then go
+back to Rooke for her first job.

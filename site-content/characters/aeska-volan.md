@@ -122,3 +122,23 @@ glowing yellow eyes, winning everything. Aeska played one song and stopped. The
 nobleman applauded, invited him back, and gave his name: **[[Evan Langford]]**.
 Aeska half-remembered him from noble parties, and placed him as the son of
 [[Sasha Langford]], head of the Porter's Guild.
+
+## Episode 6
+
+Shown out of room five, he found Calder on the floor and told him the nobleman was
+[[Evan Langford]], that he had recognised the two agents who have been hunting them,
+and that the fourth at the table wore a mask. At [[Claringbold's Yard]] that night he
+spotted the hole cut in the back office wall, and worked out that the safe behind it
+had been cut open with a heavy torch, over hours, by someone without the code, that
+same day. With Felix he found the yard's employee records, with names and addresses
+for [[Hollis]] and [[Alfie]], and they slept in the office.
+
+When Calder left without explaining the masked man, Aeska let him go with a warning:
+*"I'm trusting you on this one, but remember that I'm the one with the most to lose
+here."* The next morning Calder told him about the Volan job. Aeska had heard of the
+fire at his family home, after he was expelled. His read on the purple pouch: purple
+is the house colour, and the family keeps magical objects in velvet pouches, but
+nothing in particular comes to mind.
+
+He means to go back to [[The Head of Steam]], where he is welcome to play, and ask
+the Baron about Evan.

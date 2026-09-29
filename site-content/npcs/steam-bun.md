@@ -26,3 +26,8 @@ will not get any worse - it simply cannot work.
 ## Relationships
 
 - **Works at** [[Claringbold's Yard]], alongside [[Shepherd]]
+
+## Episode 6
+
+Felix and Aeska spent a couple of hours on him, Felix mending what he could. He took one
+step and collapsed sideways again.

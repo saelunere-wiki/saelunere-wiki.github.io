@@ -25,3 +25,9 @@ them upstairs to the boss, Lucile.
 
 - **Brother of** [[Lucile Fexfield]]
 - **Runs** [[Fexfield Scrappers]], with her
+
+## Episode 6
+
+Opened up for [[Felix Klaudius|Felix]] on his first morning, not having been told he was
+hired (*"Lucy didn't say anything to me about that"*), and introduced himself: *"I'm
+Hugh, by the way."*

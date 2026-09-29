@@ -34,7 +34,11 @@ episode: 4-5
 text: [[Claringbold's Yard]] is found wrecked and [[Shrapnel]] gone. Lark refuses [[Madame Rooke]] to her face rather than name Aeska Volan.
 ---
 date: Tide 04, 756
-episode: 5
+episode: 5-6
+text: [[Fexfield Scrappers]] names the buyer. That night Aeska plays for [[Evan Langford]] above [[The Head of Steam]], and a masked man walks out through the wall onto Billiam's ledge.
+---
+date: Tide 05, 756
+episode: 6
 status: open
-text: [[Fexfield Scrappers]] names the buyer. That night Aeska plays a song in a private room above [[The Head of Steam]], for two of the people hunting them and the son of the head of [[The Porter's Guild]].
+text: Felix starts work at [[Fexfield Scrappers]]. At noon a delivery arrives at [[Claringbold's Yard]], and something steps out of the crate.
 ```

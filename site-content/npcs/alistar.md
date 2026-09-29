@@ -1,15 +1,16 @@
 ---
 type: npc
-name: The scarred man
+name: Alistar
 faction: The Porter's Guild
 group: Other
-status: Unidentified
+status: Porter's Guild agent
 pronouns: he/him
-summary: The silent half of the pair who came to the Plumb and Bob.
+summary: The silent, scarred half of the pair who came to the Plumb and Bob, and Gertrude's son.
 portrait: _images/the-scarred-man.webp
+aliases: [The scarred man, Alistair]
 ---
 
-# The scarred man
+# Alistar
 
 A young Aela man, lean and hard-faced, with a scar running down through both lips
 and the chin. He wears the same heavy forest green and the same brass
@@ -56,3 +57,13 @@ was in the best private room above [[The Head of Steam]], playing cards with
 
 When Evan cued the table to applaud Aeska's song, he gave a slow clap with no
 expression on his face at all.
+
+## Episode 6
+
+[[Evan Langford]] beat him in room five with silver knuckles, twice in the face - the
+second with a radiant spark off the fist - and kicked him on the floor, while his
+mother [[Gertrude]] watched: *"You got you and your son into this mess."* He took it
+without a sound. Felix thought him far more hurt than two punches should leave the man
+who took Shrapnel. Gertrude walked him out the back as a drunk.
+
+**His name, and that he is Gertrude's son, were said for the first time here.**

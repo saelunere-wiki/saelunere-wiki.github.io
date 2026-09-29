@@ -96,3 +96,28 @@ scratcher he found three idling behind the bar, who could tell he was not one of
 them and accepted him anyway, and learned they carry messages they cannot read. He
 found he could open his own head the same way, rode the scratcher chute upstairs,
 and slipped into the room behind the frosted glass through a hole in the corner.
+
+## Episode 6
+
+As a scratcher on the floor of room five he watched [[Evan Langford]] put on silver
+knuckles and beat the scarred Aela agent: *"I'm disappointed, Gertrude... You got you
+and your son into this mess. And so you're going to fix it."* The last punch threw a
+radiant spark. He heard her call the man Alistair, and son, as she cleaned him up. He
+found Aeska's boots in the crowd outside, and Lark carried him to the yard inside her
+jacket, where he changed back in front of them.
+
+**Then he told them what is in his chest.** He was born a noma. *"About four years ago,
+my parents took me to a warehouse a bit south of here. And they delivered me there
+with some kind of device that's now inside of me... in place of my heart."* He was
+held for three years. [[Theodore Blackwood|Theo]] helped him escape about a year ago,
+and told him his parents were gone, missing; he has not seen them in four years. He
+thinks they did it so that he would have magic. Neither Aeska's engineering nor
+Billiam's time at the College had any word of essence machinery fused with a living
+person.
+
+Through [[Shepherd]] he learned that [[Hollis]] and [[Alfie]] had been at the yard
+after Billiam left, and that there had been noises.
+
+The next morning he started at [[Fexfield Scrappers]]. [[Hugh Fexfield|Hugh]] let him
+in and introduced himself, and [[Lucile Fexfield|Lucile]] set him on a cupboard of
+unlabelled binders: mornings only, two marks a day.

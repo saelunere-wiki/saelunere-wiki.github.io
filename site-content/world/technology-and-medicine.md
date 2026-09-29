@@ -64,3 +64,12 @@ It is not the sort of thing that gets built in the basement of an old house.
 
 *This is the working-out of [[Orson Thorne]], a retired magic scholar, done on
 paper with [[Calder Flynn]].*
+
+## Nothing goes inside a person
+
+Fusing essence machinery with a living body has never been done, as far as anyone
+knows, nor even theorised. Transmutation magic is ordinary, and so is granting a person
+an ability for a while; this is neither, and it is why prosthetics are left unpowered.
+
+And yet [[Felix Klaudius|Felix]] told the party in Episode 6 that he has a device in place
+of his heart.

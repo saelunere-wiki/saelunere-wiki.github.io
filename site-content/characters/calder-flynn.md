@@ -117,3 +117,21 @@ there is an Evan high in the Porter's Guild. He left two marks on the table:
 He told the others he knows the message spell, and that he knows dice because his
 parents play at home. His reading of the College: it would not care about better
 cores, so if it is involved there is something bigger behind it.
+
+## Episode 6
+
+Told at the yard that a man in a white mask had walked out through a wall, he went
+pale, said it was someone to stay very far away from, and made for the door to check
+on his parents. Lark stopped him: *"Now is the time that you show that we can trust
+you."* On the way out he told them not to say the name, *"but he's called Mr. K."*
+
+At his parents' house he set magical alarms on both doors, slept there, and at
+breakfast warned [[Johan Flynn|Johan]] and [[Vanessa Flynn|Vanessa]] that one of his
+party had been seen by a bad person.
+
+**The next morning he told Aeska, Lark and Billiam** that he had needed money,
+because the College is not cheap, and had got information for [[Mister K]]. The fire
+at the Volan house was that job - *"some things over there went crazy"* - and the
+target was a purple pouch. He did not know then that it was Aeska's family. Mister K
+already knew his parents, by name and by their schedule. As far as the others could
+tell, he was telling the truth. He offered to get more from a connection of his.

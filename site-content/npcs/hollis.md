@@ -26,3 +26,11 @@ with Alfie to take what they were owed, and left.
 
 - **Worked at** [[Claringbold's Yard]], under [[Shrapnel]]
 - **Worked alongside** [[Billiam Buckman]] and [[Alfie]]
+
+## Episode 6
+
+That night the party found a safe behind a painting in the back office of
+[[Claringbold's Yard]], cut open with a heavy welding torch over a couple of hours, and
+empty. Through [[Felix Klaudius|Felix]], [[Shepherd]] named Hollis and Alfie as the ones
+who had been there after Billiam left, and said there had been noises. The yard's
+employee records give the party both men's addresses.

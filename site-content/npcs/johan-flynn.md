@@ -19,7 +19,7 @@ undershirt, and a short haircut going grey. He carries a heavy, comforting
 presence, like a man who fixes things without complaining.
 
 [[Calder Flynn]]'s father, an engineer working the forges. He and
-[[Vanessa Flynn|Vanessa]] have lived in the same house for a long time - half
+[[Vanessa Flynn|Vanessa]] have lived in the same house in the Core for a long time - half
 workshop, half home, full of tools and mechanical equipment, which is how they
 both prefer it. They come off a full shift sooty and grimed and seem happy enough
 about it.
@@ -40,3 +40,11 @@ position at [[The College of Arcanographers|the College]] over it.
 
 - **Father of** [[Calder Flynn]]
 - **Looks after** [[Orson Thorne]]
+
+## Episode 6
+
+Calder came home late without waking them and was there at breakfast. He warned them
+that one of his party had been seen by a bad person, and to be careful if anyone came
+asking. [[Johan Flynn|Johan]] asked whether he had made an enemy at the College, and
+picked up a big wrench: *"I'll give them a wallop if they turn up."* Both asked him not to
+bring that kind of trouble home. [[Vanessa Flynn|Vanessa]] put more food on.
