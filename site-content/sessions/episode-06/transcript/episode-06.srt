@@ -20,7 +20,7 @@
 
 6
 00:00:37,454 --> 00:00:38,796
-[SPEAKER_06]: And then, of course.
+[SPEAKER_02]: And then, of course.
 
 7
 00:00:50,183 --> 00:00:53,707
@@ -56,11 +56,11 @@
 
 15
 00:01:42,118 --> 00:01:42,499
-[SPEAKER_06]: Nice.
+[SPEAKER_03]: Nice.
 
 16
 00:01:50,849 --> 00:01:51,810
-[SPEAKER_06]: Okay, yeah, it was this one.
+[SPEAKER_02]: Okay, yeah, it was this one.
 
 17
 00:01:53,112 --> 00:01:56,816
@@ -80,15 +80,15 @@
 
 21
 00:02:18,946 --> 00:02:23,902
-[SPEAKER_06]: I probably forgot something.
+[SPEAKER_01]: I probably forgot something.
 
 22
 00:02:23,922 --> 00:02:30,964
-[SPEAKER_06]: Most likely.
+[SPEAKER_01]: Most likely.
 
 23
 00:02:57,168 --> 00:02:58,770
-[SPEAKER_06]: Let's see what this playlist is.
+[SPEAKER_01]: Let's see what this playlist is.
 
 24
 00:03:02,795 --> 00:03:07,361
@@ -444,7 +444,7 @@
 
 112
 00:10:31,696 --> 00:10:38,450
-[SPEAKER_06]: This guy sounds so pissed off to be dubbing a cartoon.
+[SPEAKER_02]: This guy sounds so pissed off to be dubbing a cartoon.
 
 113
 00:10:45,945 --> 00:10:48,330
@@ -552,7 +552,7 @@
 
 139
 00:13:22,672 --> 00:13:23,133
-[SPEAKER_06]: Hello.
+[SPEAKER_04]: Hello.
 
 140
 00:13:26,638 --> 00:13:26,858
@@ -564,11 +564,11 @@
 
 142
 00:13:29,482 --> 00:13:30,002
-[SPEAKER_06]: Thank you.
+[SPEAKER_04]: Thank you.
 
 143
 00:13:30,023 --> 00:13:30,343
-[SPEAKER_06]: Hello.
+[SPEAKER_04]: Hello.
 
 144
 00:13:31,845 --> 00:13:35,190
@@ -608,11 +608,11 @@
 
 153
 00:14:06,233 --> 00:14:06,653
-[SPEAKER_06]: Good.
+[SPEAKER_02]: Good.
 
 154
 00:14:17,635 --> 00:14:19,978
-[SPEAKER_06]: Um, how did last episode start?
+[SPEAKER_02]: Um, how did last episode start?
 
 155
 00:14:22,180 --> 00:14:27,606
@@ -636,7 +636,7 @@
 
 160
 00:15:00,049 --> 00:15:00,871
-[SPEAKER_06]: What does it have?
+[SPEAKER_02]: What does it have?
 
 161
 00:15:06,020 --> 00:15:11,149
@@ -736,11 +736,11 @@
 
 185
 00:16:10,073 --> 00:16:11,514
-[SPEAKER_06]: Yes, let's do introductions.
+[SPEAKER_02]: Yes, let's do introductions.
 
 186
 00:16:11,915 --> 00:16:13,016
-[SPEAKER_06]: You can begin, Eske.
+[SPEAKER_02]: You can begin, Eske.
 
 187
 00:16:14,517 --> 00:16:15,418
@@ -756,7 +756,7 @@
 
 190
 00:16:22,986 --> 00:16:23,827
-[SPEAKER_06]: I'm Felix.
+[SPEAKER_04]: I'm Felix.
 
 191
 00:16:25,088 --> 00:16:28,432
@@ -764,7 +764,7 @@
 
 192
 00:16:28,452 --> 00:16:29,853
-[SPEAKER_06]: Great.
+[SPEAKER_02]: Great.
 
 193
 00:16:29,873 --> 00:16:39,743
@@ -968,7 +968,7 @@
 
 243
 00:24:25,870 --> 00:24:26,430
-[SPEAKER_06]: On yourself.
+[SPEAKER_01]: On yourself.
 
 244
 00:24:27,291 --> 00:24:32,477
@@ -1076,7 +1076,7 @@
 
 270
 00:25:42,045 --> 00:25:49,817
-[SPEAKER_06]: Let me find him.
+[SPEAKER_02]: Let me find him.
 
 271
 00:25:52,328 --> 00:25:53,810
@@ -1160,7 +1160,7 @@
 
 291
 00:27:51,954 --> 00:27:54,017
-[SPEAKER_06]: Okay.
+[SPEAKER_05]: Okay.
 
 292
 00:28:09,877 --> 00:28:18,589
@@ -1272,11 +1272,11 @@
 
 319
 00:31:52,715 --> 00:31:53,136
-[SPEAKER_06]: I'm going to put
+[SPEAKER_02]: I'm going to put
 
 320
 00:31:55,647 --> 00:31:56,148
-[SPEAKER_06]: OK, nice.
+[SPEAKER_04]: OK, nice.
 
 321
 00:31:56,328 --> 00:31:58,410
@@ -1800,7 +1800,7 @@
 
 451
 00:44:29,167 --> 00:44:31,110
-[SPEAKER_06]: Then I'm also going to leave
+[SPEAKER_04]: Then I'm also going to leave
 
 452
 00:44:32,457 --> 00:44:54,955
@@ -1844,7 +1844,7 @@
 
 462
 00:45:46,060 --> 00:45:47,221
-[SPEAKER_06]: Jesus Christ, Felix.
+[SPEAKER_03]: Jesus Christ, Felix.
 
 463
 00:45:47,502 --> 00:45:48,162
@@ -2016,7 +2016,7 @@
 
 505
 00:49:31,600 --> 00:49:34,485
-[SPEAKER_06]: Where is he?
+[SPEAKER_03]: Where is he?
 
 506
 00:49:36,749 --> 00:49:37,410
@@ -2164,7 +2164,7 @@
 
 542
 00:52:21,112 --> 00:52:21,953
-[SPEAKER_06]: Yeah, cool.
+[SPEAKER_05]: Yeah, cool.
 
 543
 00:52:22,314 --> 00:52:25,337
@@ -2708,7 +2708,7 @@
 
 678
 01:01:53,932 --> 01:01:56,917
-[SPEAKER_06]: Yeah, hello.
+[SPEAKER_04]: Yeah, hello.
 
 679
 01:01:56,937 --> 01:01:58,981
@@ -2776,7 +2776,7 @@
 
 695
 01:02:42,742 --> 01:02:43,062
-[SPEAKER_06]: Excuse me.
+[SPEAKER_04]: Excuse me.
 
 696
 01:02:44,845 --> 01:02:46,787
@@ -2784,7 +2784,7 @@
 
 697
 01:02:48,320 --> 01:02:49,601
-[SPEAKER_06]: Yeah, myself.
+[SPEAKER_04]: Yeah, myself.
 
 698
 01:02:52,004 --> 01:02:52,825
@@ -2832,11 +2832,11 @@
 
 709
 01:03:42,560 --> 01:03:42,800
-[SPEAKER_06]: Wow.
+[SPEAKER_03]: Wow.
 
 710
 01:03:44,301 --> 01:03:46,103
-[SPEAKER_06]: That's amazing that you can do this.
+[SPEAKER_03]: That's amazing that you can do this.
 
 711
 01:03:47,686 --> 01:03:49,949
@@ -3268,11 +3268,11 @@
 
 818
 01:13:57,515 --> 01:13:58,476
-[SPEAKER_06]: Apparently he is.
+[SPEAKER_04]: Apparently he is.
 
 819
 01:14:00,118 --> 01:14:03,142
-[SPEAKER_06]: Okay.
+[SPEAKER_04]: Okay.
 
 820
 01:14:03,162 --> 01:14:04,884
@@ -3292,7 +3292,7 @@
 
 824
 01:14:29,206 --> 01:14:34,991
-[SPEAKER_06]: Voldemort.
+[SPEAKER_03]: Voldemort.
 
 825
 01:14:35,031 --> 01:14:37,053
@@ -3336,7 +3336,7 @@
 
 835
 01:15:20,686 --> 01:15:29,098
-[SPEAKER_06]: Not to this level.
+[SPEAKER_03]: Not to this level.
 
 836
 01:15:30,682 --> 01:15:35,369
@@ -3400,7 +3400,7 @@
 
 851
 01:16:32,263 --> 01:16:43,876
-[SPEAKER_06]: And we shouldn't split up so much as a group anymore probably because I feel like things just got more dangerous.
+[SPEAKER_03]: And we shouldn't split up so much as a group anymore probably because I feel like things just got more dangerous.
 
 852
 01:16:48,301 --> 01:16:50,343
@@ -3436,7 +3436,7 @@
 
 860
 01:17:57,308 --> 01:18:02,373
-[SPEAKER_06]: Then we have to just make sure we have your back.
+[SPEAKER_03]: Then we have to just make sure we have your back.
 
 861
 01:18:03,675 --> 01:18:10,862
@@ -3444,7 +3444,7 @@
 
 862
 01:18:10,882 --> 01:18:12,043
-[SPEAKER_06]: I'm still kind of new to it.
+[SPEAKER_04]: I'm still kind of new to it.
 
 863
 01:18:12,063 --> 01:18:15,647
@@ -3468,11 +3468,11 @@
 
 868
 01:18:23,115 --> 01:18:24,616
-[SPEAKER_06]: How did you get that?
+[SPEAKER_03]: How did you get that?
 
 869
 01:18:24,636 --> 01:18:25,257
-[SPEAKER_06]: Yeah, how did you get it?
+[SPEAKER_03]: Yeah, how did you get it?
 
 870
 01:18:26,823 --> 01:18:35,914
@@ -3484,7 +3484,7 @@
 
 872
 01:18:47,788 --> 01:18:49,750
-[SPEAKER_06]: They put the device inside of you?
+[SPEAKER_03]: They put the device inside of you?
 
 873
 01:18:49,770 --> 01:18:50,011
@@ -3724,11 +3724,11 @@
 
 932
 01:24:01,042 --> 01:24:04,326
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 
 933
 01:24:05,608 --> 01:24:14,378
-[SPEAKER_06]: I think it's like 25.
+[SPEAKER_04]: I think it's like 25.
 
 934
 01:24:15,479 --> 01:24:16,881
@@ -3740,15 +3740,15 @@
 
 936
 01:24:19,644 --> 01:24:20,485
-[SPEAKER_06]: The age.
+[SPEAKER_03]: The age.
 
 937
 01:24:20,505 --> 01:24:21,066
-[SPEAKER_06]: Oh, we do.
+[SPEAKER_02]: Oh, we do.
 
 938
 01:24:23,611 --> 01:24:26,055
-[SPEAKER_06]: or in the coming hours?
+[SPEAKER_02]: or in the coming hours?
 
 939
 01:24:26,075 --> 01:24:28,719
@@ -3804,11 +3804,11 @@
 
 952
 01:25:10,898 --> 01:25:11,720
-[SPEAKER_06]: This is so much.
+[SPEAKER_03]: This is so much.
 
 953
 01:25:13,863 --> 01:25:14,684
-[SPEAKER_06]: Are you okay?
+[SPEAKER_03]: Are you okay?
 
 954
 01:25:15,906 --> 01:25:17,207
@@ -3816,23 +3816,23 @@
 
 955
 01:25:17,227 --> 01:25:17,648
-[SPEAKER_06]: Okay.
+[SPEAKER_03]: Okay.
 
 956
 01:25:19,417 --> 01:25:20,078
-[SPEAKER_06]: Could be worse.
+[SPEAKER_04]: Could be worse.
 
 957
 01:25:21,340 --> 01:25:28,511
-[SPEAKER_06]: Could still be captured in that warehouse.
+[SPEAKER_04]: Could still be captured in that warehouse.
 
 958
 01:25:28,531 --> 01:25:30,475
-[SPEAKER_06]: I think your magic is awesome.
+[SPEAKER_03]: I think your magic is awesome.
 
 959
 01:25:31,757 --> 01:25:32,237
-[SPEAKER_06]: Thank you.
+[SPEAKER_04]: Thank you.
 
 960
 01:25:32,778 --> 01:25:35,022
@@ -3932,19 +3932,19 @@
 
 984
 01:27:04,074 --> 01:27:06,417
-[SPEAKER_06]: Okay, quick.
+[SPEAKER_02]: Okay, quick.
 
 985
 01:27:07,078 --> 01:27:09,321
-[SPEAKER_06]: That happens.
+[SPEAKER_02]: That happens.
 
 986
 01:27:09,642 --> 01:27:10,002
-[SPEAKER_06]: Sounds good.
+[SPEAKER_02]: Sounds good.
 
 987
 01:29:41,705 --> 01:29:45,808
-[SPEAKER_06]: The boy who lived come to die.
+[SPEAKER_02]: The boy who lived come to die.
 
 988
 01:30:10,662 --> 01:30:14,896
@@ -4068,11 +4068,11 @@
 
 1018
 01:32:43,415 --> 01:32:44,056
-[SPEAKER_06]: You're muted.
+[SPEAKER_02]: You're muted.
 
 1019
 01:32:44,617 --> 01:32:44,918
-[SPEAKER_06]: That's good.
+[SPEAKER_02]: That's good.
 
 1020
 01:32:47,002 --> 01:32:51,731
@@ -4080,7 +4080,7 @@
 
 1021
 01:32:51,751 --> 01:32:52,292
-[SPEAKER_06]: Yeah.
+[SPEAKER_05]: Yeah.
 
 1022
 01:32:52,313 --> 01:32:52,493
@@ -4456,11 +4456,11 @@ Yeah.
 
 1115
 01:40:37,058 --> 01:40:42,331
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 
 1116
 01:40:42,351 --> 01:40:42,531
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 
 1117
 01:40:43,293 --> 01:40:44,777
@@ -4496,11 +4496,11 @@ Yeah.
 
 1125
 01:41:10,124 --> 01:41:10,325
-[SPEAKER_06]: Yes.
+[SPEAKER_02]: Yes.
 
 1126
 01:41:11,306 --> 01:41:11,727
-[SPEAKER_06]: Yes.
+[SPEAKER_02]: Yes.
 
 1127
 01:41:13,765 --> 01:41:16,168
@@ -4520,11 +4520,11 @@ Yeah.
 
 1131
 01:41:28,001 --> 01:41:28,402
-[SPEAKER_06]: That's it?
+[SPEAKER_04]: That's it?
 
 1132
 01:41:29,883 --> 01:41:30,424
-[SPEAKER_06]: Yes, yes.
+[SPEAKER_02]: Yes, yes.
 
 1133
 01:41:31,745 --> 01:41:32,286
@@ -4532,11 +4532,11 @@ Yeah.
 
 1134
 01:41:32,306 --> 01:41:33,047
-[SPEAKER_06]: Well, thank you.
+[SPEAKER_04]: Well, thank you.
 
 1135
 01:41:35,189 --> 01:41:36,170
-[SPEAKER_06]: I'll tell it to the rest.
+[SPEAKER_04]: I'll tell it to the rest.
 
 1136
 01:41:39,534 --> 01:41:42,878
@@ -4564,7 +4564,7 @@ Yeah.
 
 1142
 01:42:00,834 --> 01:42:01,576
-[SPEAKER_06]: There were noises?
+[SPEAKER_04]: There were noises?
 
 1143
 01:42:02,237 --> 01:42:04,562
@@ -4780,7 +4780,7 @@ Yeah.
 
 1196
 01:45:06,725 --> 01:45:08,187
-[SPEAKER_06]: Yeah, well.
+[SPEAKER_01]: Yeah, well.
 
 1197
 01:45:08,968 --> 01:45:13,656
@@ -4844,7 +4844,7 @@ Yeah.
 
 1212
 01:46:03,459 --> 01:46:05,841
-[SPEAKER_06]: Not a problem.
+[SPEAKER_04]: Not a problem.
 
 1213
 01:46:07,964 --> 01:46:17,518
@@ -5036,15 +5036,15 @@ Yeah.
 
 1260
 01:49:07,870 --> 01:49:09,713
-[SPEAKER_06]: Let's see.
+[SPEAKER_04]: Let's see.
 
 1261
 01:49:11,055 --> 01:49:11,416
-[SPEAKER_06]: Dex.
+[SPEAKER_04]: Dex.
 
 1262
 01:49:12,698 --> 01:49:14,821
-[SPEAKER_06]: OK, done.
+[SPEAKER_04]: OK, done.
 
 1263
 01:49:15,021 --> 01:49:15,702
@@ -5604,7 +5604,7 @@ Yeah.
 
 1402
 02:00:24,682 --> 02:00:33,334
-[SPEAKER_06]: He kind of looks down his nose and goes,
+[SPEAKER_02]: He kind of looks down his nose and goes,
 
 1403
 02:00:33,770 --> 02:00:35,092
@@ -6284,7 +6284,7 @@ Yeah.
 
 1572
 02:15:43,841 --> 02:15:45,883
-[SPEAKER_06]: Why?
+[SPEAKER_03]: Why?
 
 1573
 02:15:47,180 --> 02:15:48,061
@@ -6464,7 +6464,7 @@ Yeah.
 
 1617
 02:19:05,749 --> 02:19:06,330
-[SPEAKER_06]: OK. Hi, Billy.
+[SPEAKER_03]: OK. Hi, Billy.
 
 1618
 02:19:06,830 --> 02:19:09,553
@@ -6500,11 +6500,11 @@ Yeah.
 
 1626
 02:19:32,149 --> 02:19:33,512
-[SPEAKER_06]: Okay, thanks.
+[SPEAKER_03]: Okay, thanks.
 
 1627
 02:19:33,532 --> 02:19:34,253
-[SPEAKER_06]: Where do I sleep?
+[SPEAKER_03]: Where do I sleep?
 
 1628
 02:19:35,667 --> 02:19:37,589
@@ -6684,11 +6684,11 @@ Yeah.
 
 1672
 02:21:51,752 --> 02:21:58,838
-[SPEAKER_06]: So, the guy, the masked guy, are you scared?
+[SPEAKER_03]: So, the guy, the masked guy, are you scared?
 
 1673
 02:22:00,910 --> 02:22:07,761
-[SPEAKER_06]: I'm also getting ready for bed at the same time.
+[SPEAKER_03]: I'm also getting ready for bed at the same time.
 
 1674
 02:22:08,182 --> 02:22:13,550
@@ -6752,15 +6752,15 @@ Yeah.
 
 1689
 02:24:05,346 --> 02:24:07,250
-[SPEAKER_06]: Hmm.
+[SPEAKER_05]: Hmm.
 
 1690
 02:24:07,270 --> 02:24:07,410
-[SPEAKER_06]: I...
+[SPEAKER_05]: I...
 
 1691
 02:24:09,313 --> 02:24:11,517
-[SPEAKER_06]: It's cool, but...
+[SPEAKER_05]: It's cool, but...
 
 1692
 02:24:12,759 --> 02:24:15,424
@@ -6872,7 +6872,7 @@ Yeah.
 
 1719
 02:26:26,723 --> 02:26:28,805
-[SPEAKER_06]: I can try a bit more.
+[SPEAKER_05]: I can try a bit more.
 
 1720
 02:26:29,506 --> 02:26:29,706
@@ -6880,11 +6880,11 @@ Yeah.
 
 1721
 02:26:33,570 --> 02:26:34,350
-[SPEAKER_06]: I'll be there for you.
+[SPEAKER_03]: I'll be there for you.
 
 1722
 02:26:36,232 --> 02:26:36,673
-[SPEAKER_06]: Thank you.
+[SPEAKER_05]: Thank you.
 
 1723
 02:26:39,716 --> 02:26:42,779
@@ -6940,7 +6940,7 @@ Yeah.
 
 1736
 02:27:28,998 --> 02:27:29,419
-[SPEAKER_06]: Okay.
+[SPEAKER_03]: Okay.
 
 1737
 02:27:35,558 --> 02:27:41,005
@@ -6968,7 +6968,7 @@ Yeah.
 
 1743
 02:28:27,584 --> 02:28:27,925
-[SPEAKER_06]: Right.
+[SPEAKER_03]: Right.
 
 1744
 02:28:30,509 --> 02:28:31,371
@@ -7048,7 +7048,7 @@ Yeah.
 
 1763
 02:29:20,210 --> 02:29:20,490
-[SPEAKER_06]: Yeah.
+[SPEAKER_03]: Yeah.
 
 1764
 02:29:21,297 --> 02:29:23,660
@@ -7136,19 +7136,19 @@ Yeah.
 
 1785
 02:30:08,003 --> 02:30:08,183
-[SPEAKER_06]: Yeah.
+[SPEAKER_01]: Yeah.
 
 1786
 02:30:10,086 --> 02:30:11,348
-[SPEAKER_06]: I have four feet.
+[SPEAKER_01]: I have four feet.
 
 1787
 02:30:11,528 --> 02:30:12,229
-[SPEAKER_06]: Let me have a look.
+[SPEAKER_01]: Let me have a look.
 
 1788
 02:30:17,356 --> 02:30:21,641
-[SPEAKER_06]: Do you plan to include your level up to the story?
+[SPEAKER_00]: Do you plan to include your level up to the story?
 
 1789
 02:30:27,447 --> 02:30:31,851
@@ -7188,11 +7188,11 @@ Yeah.
 
 1798
 02:31:47,857 --> 02:31:48,903
-[SPEAKER_06]: Are we going to work?
+[SPEAKER_04]: Are we going to work?
 
 1799
 02:31:50,231 --> 02:31:50,995
-[SPEAKER_06]: Ah yeah, sure.
+[SPEAKER_04]: Ah yeah, sure.
 
 1800
 02:31:51,418 --> 02:31:52,222
@@ -7524,7 +7524,7 @@ Yeah.
 
 1882
 02:37:33,456 --> 02:37:36,860
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 
 1883
 02:37:39,724 --> 02:37:40,765
@@ -7540,11 +7540,11 @@ Yeah.
 
 1886
 02:37:48,514 --> 02:37:49,015
-[SPEAKER_06]: Oh, is it?
+[SPEAKER_02]: Oh, is it?
 
 1887
 02:37:51,718 --> 02:37:52,719
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 
 1888
 02:37:52,739 --> 02:37:53,300
@@ -7700,15 +7700,15 @@ Yeah.
 
 1926
 02:40:22,228 --> 02:40:23,810
-[SPEAKER_06]: Yikes.
+[SPEAKER_04]: Yikes.
 
 1927
 02:40:23,830 --> 02:40:24,531
-[SPEAKER_06]: Yikes.
+[SPEAKER_04]: Yikes.
 
 1928
 02:40:24,551 --> 02:40:25,132
-[SPEAKER_06]: Doom doom.
+[SPEAKER_04]: Doom doom.
 
 1929
 02:40:25,712 --> 02:40:28,076
@@ -7800,11 +7800,11 @@ Yeah.
 
 1951
 02:42:15,808 --> 02:42:17,550
-[SPEAKER_06]: I can just put that
+[SPEAKER_02]: I can just put that
 
 1952
 02:42:25,580 --> 02:42:26,701
-[SPEAKER_06]: I'll put the link in general.
+[SPEAKER_02]: I'll put the link in general.
 
 1953
 02:42:28,564 --> 02:42:46,748
@@ -7876,11 +7876,11 @@ Yeah.
 
 1970
 02:44:39,243 --> 02:44:39,884
-[SPEAKER_06]: So it's the morning.
+[SPEAKER_00]: So it's the morning.
 
 1971
 02:44:43,268 --> 02:44:43,788
-[SPEAKER_06]: Right away.
+[SPEAKER_00]: Right away.
 
 1972
 02:44:46,091 --> 02:44:47,673
@@ -7888,7 +7888,7 @@ Yeah.
 
 1973
 02:44:50,856 --> 02:44:51,737
-[SPEAKER_06]: Yeah, yeah, yeah.
+[SPEAKER_00]: Yeah, yeah, yeah.
 
 1974
 02:44:52,477 --> 02:44:57,803
@@ -7900,11 +7900,11 @@ Yeah.
 
 1976
 02:45:02,028 --> 02:45:09,938
-[SPEAKER_06]: I think not so nervous but still uncomfortable.
+[SPEAKER_00]: I think not so nervous but still uncomfortable.
 
 1977
 02:45:14,583 --> 02:45:17,927
-[SPEAKER_06]: So looking over the shoulders a little bit etc.
+[SPEAKER_00]: So looking over the shoulders a little bit etc.
 
 1978
 02:45:20,168 --> 02:45:26,575
@@ -7964,7 +7964,7 @@ Yeah.
 
 1992
 02:47:14,851 --> 02:47:19,818
-[SPEAKER_06]: I draw inside tech.
+[SPEAKER_03]: I draw inside tech.
 
 1993
 02:47:19,858 --> 02:47:29,651
@@ -7972,11 +7972,11 @@ Yeah.
 
 1994
 02:47:30,292 --> 02:47:31,313
-[SPEAKER_06]: Yeah.
+[SPEAKER_00]: Yeah.
 
 1995
 02:47:31,834 --> 02:47:32,074
-[SPEAKER_06]: Yeah.
+[SPEAKER_00]: Yeah.
 
 1996
 02:47:33,416 --> 02:47:33,736
@@ -8224,7 +8224,7 @@ Yeah.
 
 2057
 02:53:13,388 --> 02:53:22,317
-[SPEAKER_06]: And now they are working, maybe related together.
+[SPEAKER_00]: And now they are working, maybe related together.
 
 2058
 02:53:25,340 --> 02:53:28,163
@@ -8240,11 +8240,11 @@ Yeah.
 
 2061
 02:53:36,049 --> 02:53:39,353
-[SPEAKER_06]: I guess we can only find out.
+[SPEAKER_00]: I guess we can only find out.
 
 2062
 02:53:42,536 --> 02:53:43,497
-[SPEAKER_06]: We have to find out that.
+[SPEAKER_00]: We have to find out that.
 
 2063
 02:53:47,061 --> 02:53:49,264
@@ -8408,7 +8408,7 @@ Yeah.
 
 2103
 02:56:46,932 --> 02:56:48,194
-[SPEAKER_06]: Me?
+[SPEAKER_05]: Me?
 
 2104
 02:56:48,314 --> 02:56:48,574
@@ -8596,7 +8596,7 @@ Well.
 
 2150
 03:00:21,108 --> 03:00:25,077
-[SPEAKER_06]: Okay.
+[SPEAKER_00]: Okay.
 
 2151
 03:00:27,048 --> 03:00:28,990
@@ -8876,7 +8876,7 @@ Well.
 
 2220
 03:06:31,983 --> 03:06:35,988
-[SPEAKER_06]: Yeah, got a delivery for you, mate.
+[SPEAKER_02]: Yeah, got a delivery for you, mate.
 
 2221
 03:06:37,249 --> 03:06:38,250
@@ -8884,15 +8884,15 @@ Well.
 
 2222
 03:06:39,867 --> 03:06:41,508
-[SPEAKER_06]: Uh, I don't know.
+[SPEAKER_02]: Uh, I don't know.
 
 2223
 03:06:42,029 --> 03:06:42,769
-[SPEAKER_06]: I just deliver him.
+[SPEAKER_02]: I just deliver him.
 
 2224
 03:06:44,871 --> 03:06:45,272
-[SPEAKER_06]: Okay.
+[SPEAKER_02]: Okay.
 
 2225
 03:06:47,133 --> 03:06:48,835
@@ -8900,11 +8900,11 @@ Well.
 
 2226
 03:06:50,716 --> 03:06:51,317
-[SPEAKER_06]: Well, him.
+[SPEAKER_02]: Well, him.
 
 2227
 03:06:51,377 --> 03:06:52,017
-[SPEAKER_06]: He's the driver.
+[SPEAKER_02]: He's the driver.
 
 2228
 03:06:53,058 --> 03:06:53,359
@@ -9124,11 +9124,11 @@ Well.
 
 2282
 03:11:05,900 --> 03:11:07,242
-[SPEAKER_06]: Yeah.
+[SPEAKER_01]: Yeah.
 
 2283
 03:11:07,262 --> 03:11:07,362
-[SPEAKER_06]: Yeah.
+[SPEAKER_01]: Yeah.
 
 2284
 03:11:07,382 --> 03:11:11,886
@@ -9360,7 +9360,7 @@ Yeah
 
 2341
 03:14:48,072 --> 03:14:48,834
-[SPEAKER_06]: Oh, you guys don't.
+[SPEAKER_02]: Oh, you guys don't.
 
 2342
 03:14:48,854 --> 03:14:51,620
@@ -9368,7 +9368,7 @@ Yeah
 
 2343
 03:14:54,327 --> 03:14:58,717
-[SPEAKER_06]: Why am I so unable to find this?
+[SPEAKER_02]: Why am I so unable to find this?
 
 2344
 03:14:59,640 --> 03:15:00,602
@@ -9672,7 +9672,7 @@ Yeah
 
 2419
 03:21:41,977 --> 03:21:44,640
-[SPEAKER_06]: Yeah, Saturday won't work for me.
+[SPEAKER_04]: Yeah, Saturday won't work for me.
 
 2420
 03:21:45,093 --> 03:21:49,618
@@ -9680,11 +9680,11 @@ Yeah
 
 2421
 03:21:52,040 --> 03:21:53,542
-[SPEAKER_06]: Yeah, that's possible.
+[SPEAKER_04]: Yeah, that's possible.
 
 2422
 03:21:53,562 --> 03:21:54,703
-[SPEAKER_06]: Can we play earlier?
+[SPEAKER_04]: Can we play earlier?
 
 2423
 03:21:55,544 --> 03:22:00,869

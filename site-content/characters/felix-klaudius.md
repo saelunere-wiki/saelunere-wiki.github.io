@@ -107,7 +107,7 @@ and your son into this mess. And so you're going to fix it."* The last punch thr
 radiant spark. He heard her call the man Alistair, and son, as she cleaned him up. He
 found Aeska's boots in the crowd outside, and Lark carried him to the yard inside her
 jacket, where he changed back in front of them. Lark knelt by him and asked whether he
-was hurt.
+was hurt, and told him it was amazing that he could do this.
 
 **Then he told them what is in his chest.** He was born a noma. *"About four years ago,
 my parents took me to a warehouse a bit south of here. And they delivered me there
@@ -116,8 +116,10 @@ held for three years. [[Theodore Blackwood|Theo]] helped him escape about a year
 and told him his parents were gone, missing; he has not seen them in four years. He
 thinks they did it so that he would have magic. Neither Aeska's engineering nor
 Billiam's time at the College had any word of essence machinery fused with a living
-person. When he had finished, Lark told him she thought he would learn to control it,
-and Billiam said the flame blade he did was really cool. *"I'm okay,"* he said.
+person. When he had finished, Lark asked if he was okay. *"I'm okay,"* he said. *"Could
+be worse. Could still be captured in that warehouse."* Lark told him she thought his
+magic was awesome and that he would learn to control it, and Billiam said the flame
+blade he did was really cool.
 
 Through [[Shepherd]] he learned that [[Hollis]] and [[Alfie]] had been at the yard
 after Billiam left, and that there had been noises. That night he and Aeska spent

@@ -32,9 +32,16 @@ THREE THINGS TO KNOW BEFORE YOU TRUST IT
    The first two minutes are pre-game conversation about cartoon dubbing and
    where the word "Uralic" comes from. Left in; it contains nothing private.
 
-2. ONE TAG IS A BIN. SPEAKER_06 is mapped to UNCERTAIN because it is not one
-   person: it collects short interjections from several speakers. The other
-   six tags are reliable.
+2. ONE TAG WAS A BIN, AND HAS BEEN EMPTIED. WhisperX made a seventh tag,
+   SPEAKER_06, that was not a seventh person: it collected 130 short lines from
+   all six people at the table. On 30 September 2026 each of those lines was
+   given back to its real speaker, worked out from context (who was in the
+   scene, who was being answered, who carried on the sentence), and the tag no
+   longer appears. Nothing else on those lines was changed.
+   Most of them are certain. About twenty are one- or two-word interjections or
+   out-of-character chatter ("Yeah", "Okay", "Nice", the pre-game talk) where
+   the speaker is a best guess; none of those carries anything that happened in
+   the story. The six tags in speaker_map.json now cover every line.
 
    WhisperX mangles proper nouns throughout. In this episode: "Caldera",
    "Kaldor", "Kaldur", "Kolder" and "Carlos" are Calder; "Blark" and "Lach"

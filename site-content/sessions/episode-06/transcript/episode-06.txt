@@ -3,7 +3,7 @@
 [SPEAKER_02]: OK. Because last time, I think, last time I forgot because basically we were hanging around for a while before we actually started playing.
 [SPEAKER_02]: And so I'm like, oh, I'll hold off on recording until we actually start.
 [SPEAKER_02]: And then, of course.
-[SPEAKER_06]: And then, of course.
+[SPEAKER_02]: And then, of course.
 [SPEAKER_02]: There's one song in this playlist that was really out of place that came up last time.
 [SPEAKER_02]: And then it was like, like this is supposed to be a relatively like chill, sort of dramatic playlist.
 [SPEAKER_02]: And then there was a battle music somewhere in this playlist.
@@ -12,15 +12,15 @@
 [SPEAKER_02]: Well, would you know that the playlist is called Melancholy?
 [SPEAKER_02]: Oh, so I'm glad.
 [SPEAKER_02]: This song is an AI generated song called Theoside that I made for the campaign.
-[SPEAKER_06]: Nice.
-[SPEAKER_06]: Okay, yeah, it was this one.
+[SPEAKER_03]: Nice.
+[SPEAKER_02]: Okay, yeah, it was this one.
 [SPEAKER_03]: How dare you do AI-generated things, Crimson?
 [SPEAKER_03]: I would never do that.
 [SPEAKER_02]: Who would dare?
 [SPEAKER_03]: I read through the player brief you gave us before the episode 1 and I forgot so many things.
-[SPEAKER_06]: I probably forgot something.
-[SPEAKER_06]: Most likely.
-[SPEAKER_06]: Let's see what this playlist is.
+[SPEAKER_01]: I probably forgot something.
+[SPEAKER_01]: Most likely.
+[SPEAKER_01]: Let's see what this playlist is.
 [SPEAKER_02]: Quite a lot of the songs are from the Critical Role animated series soundtrack.
 [SPEAKER_02]: They're all kind of like good for, I guess, made for D&D type of scenarios.
 [SPEAKER_01]: I wonder why.
@@ -109,7 +109,7 @@
 [SPEAKER_03]: We have watched them like a few years ago in Hangout Discord, like we linked them there.
 [SPEAKER_05]: I'd say in general, the Dutch dubs for children's shows are pretty good.
 [SPEAKER_01]: but they often have like women doing the children voices which i guess is common everywhere but no yeah i remember the pokemon one ash's voice by a woman yeah and i guess like with a lot of uh a lot of the yeah the shows that were on like fox kids and jetix and stuff
-[SPEAKER_06]: This guy sounds so pissed off to be dubbing a cartoon.
+[SPEAKER_02]: This guy sounds so pissed off to be dubbing a cartoon.
 [SPEAKER_03]: Imagine that, like, wasn't TV.
 [SPEAKER_02]: Jesus.
 [SPEAKER_02]: it's like i think i've seen one where there's a hungarian because hungarian is such a niche like language right and uh i think there's just one hungarian guy who does the dubbing for the entire show yeah so he just puts on like a high-pitched voice for the women and uh it's really really bad i'm sorry but this digimon guy sounds like he's high as fuck yeah just roll up and get them all done in one day
@@ -136,11 +136,11 @@
 [SPEAKER_02]: Like I think generally people are just annoyed that it's not
 [SPEAKER_02]: called something more related to Finland or Estonia, because it doesn't really have anything to do with Russia.
 [SPEAKER_02]: And the Ural Mountains being Russian-like.
-[SPEAKER_06]: Hello.
+[SPEAKER_04]: Hello.
 [SPEAKER_05]: Hello.
 [SPEAKER_05]: Hello, pizza man.
-[SPEAKER_06]: Thank you.
-[SPEAKER_06]: Hello.
+[SPEAKER_04]: Thank you.
+[SPEAKER_04]: Hello.
 [SPEAKER_03]: Remember to change your character from the channel.
 [SPEAKER_02]: I wonder if there's not a way to set that as default.
 [SPEAKER_02]: I'm surprised.
@@ -150,14 +150,14 @@
 [SPEAKER_00]: It's like, I'm done.
 [SPEAKER_00]: There is some.
 [SPEAKER_00]: Now I can control.
-[SPEAKER_06]: Good.
-[SPEAKER_06]: Um, how did last episode start?
+[SPEAKER_02]: Good.
+[SPEAKER_02]: Um, how did last episode start?
 [SPEAKER_02]: I even read the whole, I read the whole novel and everything, I can't remember.
 [SPEAKER_03]: Lark was at Madame Rook's and then she spent the night at Bellows and then the morning started from Felix and Eska meeting?
 [SPEAKER_03]: Oh yeah, we went to the... Or was it Felix or Eska, or it was just me and Eska?
 [SPEAKER_02]: Yeah, yeah, you two met at the Plum and Bob was Billy and yeah, yeah, okay, got it.
 [SPEAKER_02]: I just can't, yeah, it all kind of matches together to the point where I'm like, I can't remember where the actual episode started and what happened in which day.
-[SPEAKER_06]: What does it have?
+[SPEAKER_02]: What does it have?
 [SPEAKER_00]: It have some spicy, if the program doesn't.
 [SPEAKER_00]: This isn't a lesson, I'm not showing you that.
 [SPEAKER_05]: Exactly.
@@ -182,14 +182,14 @@
 [SPEAKER_01]: Somebody's going to step on Felix and he's going to die.
 [SPEAKER_03]: So, introductions.
 [SPEAKER_03]: And Maked, change your character.
-[SPEAKER_06]: Yes, let's do introductions.
-[SPEAKER_06]: You can begin, Eske.
+[SPEAKER_02]: Yes, let's do introductions.
+[SPEAKER_02]: You can begin, Eske.
 [SPEAKER_05]: Hi, this is Eske.
 [SPEAKER_05]: Hi, I am the humble Biliam.
 [SPEAKER_00]: And this is Kaldor speaking.
-[SPEAKER_06]: I'm Felix.
+[SPEAKER_04]: I'm Felix.
 [SPEAKER_03]: I'm Lark.
-[SPEAKER_06]: Great.
+[SPEAKER_02]: Great.
 [SPEAKER_02]: So investigating the assassination of Theodore, you have come together, the five of you,
 [SPEAKER_02]: initially at the Plum and Bob and have attempted to locate any kind of clues about why this person who was individually all of your friends or colleague or confidant or whatever he might have been was assassinated and suspicions have pointed you guys towards the guilds
 [SPEAKER_02]: in general and perhaps the Guild of Engineers or the Porter's Guild more specifically due to the fact that both of these guilds seem to be interested in Theo and investigating or tracking down either him or you guys for being associated with him.
@@ -240,7 +240,7 @@
 [SPEAKER_05]: And in doing so, I would cast Sleep.
 [SPEAKER_05]: Okay.
 [SPEAKER_05]: On this mind.
-[SPEAKER_06]: On yourself.
+[SPEAKER_01]: On yourself.
 [SPEAKER_02]: On this mind.
 [SPEAKER_02]: Now you, if I am not incorrect, Billy, have already today used the sorceress ability, which means that this triggers... Rolling a d100.
 [SPEAKER_05]: Which might be better than the sleep.
@@ -267,7 +267,7 @@
 [SPEAKER_02]: Cool.
 [SPEAKER_02]: OK, so you're going to cast Sleep on this guy, and he is going to attempt to make a Wisdom saving throw for that.
 [SPEAKER_05]: Yeah, and I think it's only 12.
-[SPEAKER_06]: Let me find him.
+[SPEAKER_02]: Let me find him.
 [SPEAKER_03]: This is such a scary scene.
 [SPEAKER_03]: Yeah.
 [SPEAKER_02]: I mean, you can see immediately, Billy, that, well, you can't because he has a porcelain mask and so you can't see his expressions, but even just from his body language, he's as shocked as you are to see someone there when he walks out of the room like this.
@@ -288,7 +288,7 @@
 [SPEAKER_02]: He, in response to that, is going to... Let's find out what he can do.
 [SPEAKER_02]: Well, he is definitely surprised, if nothing else.
 [SPEAKER_01]: He's gonna Sparta kick you after.
-[SPEAKER_06]: Okay.
+[SPEAKER_05]: Okay.
 [SPEAKER_02]: Okay, he I'm afraid doesn't have much beyond damaging magic, so he is going to do that.
 [SPEAKER_02]: He doesn't have any like utility stuff particularly.
 [SPEAKER_02]: Classic.
@@ -316,8 +316,8 @@
 [SPEAKER_02]: Um, and he looks over at the woman sat down and he says, uh, I'm disappointed Gertrude.
 [SPEAKER_02]: Uh, and he turns and he punches the ala man straight in the face with the, with the silver knuckles, the ala man's head just like cracks to the side and his nose immediately begins to bleed.
 [SPEAKER_02]: Uh, he just seems to kind of take it, but, uh, make an insight check, uh, for me, Felix.
-[SPEAKER_06]: I'm going to put
-[SPEAKER_06]: OK, nice.
+[SPEAKER_02]: I'm going to put
+[SPEAKER_04]: OK, nice.
 [SPEAKER_02]: I'll put some battle music on, even though it's not a battle.
 [SPEAKER_02]: But it just feels like the slow tension is not appropriate.
 [SPEAKER_02]: Within 18, you see this woman who is sat in the green coat, the big woman who is sat there.
@@ -448,7 +448,7 @@
 [SPEAKER_02]: Right.
 [SPEAKER_02]: So he seems like woozy on his feet as he gets pulled up into
 [SPEAKER_02]: situation but he kind of sort of shakes himself off a little bit, she wipes the blood from his face until he looks a bit more presentable and she kind of takes him towards the door, opens up the door and takes him out as well onto the sort of balcony on the interior and then closes the door behind her which leaves you alone in the room.
-[SPEAKER_06]: Then I'm also going to leave
+[SPEAKER_04]: Then I'm also going to leave
 [SPEAKER_02]: shop then back downstairs again yeah you follow up behind and you are on the sort of balcony area you're skittering along the side in like the scratcher um in the like tube for the scratcher on the side of the balcony thing you overhear her as she walks past suzy the um the server that that led ask her up there who was bringing drinks to one of the other groups she goes um
 [SPEAKER_02]: oh he's had a few too many don't worry about him because she's like physically holding him and he's like very woozy and injured and she goes yeah don't worry don't worry dear he's just had a few too many yeah yeah and she kind of like helps him down the stairs as you're also following alongside them basically and she begins to take him towards the back entrance as well like so around the corner towards the back entrance of the of the head of steam as well towards these back doors
 [SPEAKER_02]: You kind of come down the stairs as a scratcher.
@@ -459,7 +459,7 @@
 [SPEAKER_02]: You are a very small rat amongst the feet of a crowd of people here.
 [SPEAKER_02]: Oh, jeez, okay.
 [SPEAKER_02]: Wow.
-[SPEAKER_06]: Jesus Christ, Felix.
+[SPEAKER_03]: Jesus Christ, Felix.
 [SPEAKER_02]: Yeah.
 [SPEAKER_02]: When they're 21, I think you managed to recognize, like, Asuka's boots, and because you had just been staring at them from the, like, base of the floor, and you see his feet through the kind of forest of other people's legs, walking towards the front exit and leaving the bar as you arrive there.
 [SPEAKER_02]: So you know that he's leaving out the front.
@@ -502,7 +502,7 @@
 [SPEAKER_03]: Oh, you say okay.
 [SPEAKER_03]: I close it back up like, do you know where Felix is?
 [SPEAKER_03]: Is he inside?
-[SPEAKER_06]: Where is he?
+[SPEAKER_03]: Where is he?
 [SPEAKER_02]: He's outside.
 [SPEAKER_04]: Can I point at myself as a scratcher?
 [SPEAKER_02]: You have these like little, I guess, yeah, you could kind of gesture to yourself with the little legs on the front, yeah.
@@ -539,7 +539,7 @@
 [SPEAKER_02]: Do these guys, like this scratch came from inside the head of Steam?
 [SPEAKER_02]: Like what are these guys doing interfering with whatever it's supposed to be doing, right?
 [SPEAKER_03]: As I noticed that, can I just like take Felix with me and I'll just say like, I'll quickly check if Felix is inside and I'll be back here, okay?
-[SPEAKER_06]: Yeah, cool.
+[SPEAKER_05]: Yeah, cool.
 [SPEAKER_03]: Because people are looking, so I started bringing the scratcher inside.
 [SPEAKER_03]: So I start to walk inside and I'm looking at you like, are you Felix?
 [SPEAKER_03]: That's so weird.
@@ -675,7 +675,7 @@
 [SPEAKER_02]: And then, yeah, so the three of you guys all watch, I think, as the scratcher suddenly... Oh, sorry, yeah, four of you guys.
 [SPEAKER_02]: So they watch as the scratcher kind of like breaks apart and starts to in a kind of cranking, whirring noise of like,
 [SPEAKER_02]: machinery and distress of gears being pulled apart, this kind of noise comes out as the legs extend and become human features, darkened features, and ends up with Felix basically in a fetal position, kind of curled up on the floor where the scratcher was.
-[SPEAKER_06]: Yeah, hello.
+[SPEAKER_04]: Yeah, hello.
 [SPEAKER_03]: Jesus, that's why you were scratching.
 [SPEAKER_03]: I instantly went back to a protective position, like, what the fuck is happening?
 [SPEAKER_05]: I mean, we brought him all the way here, we're not that surprised, right?
@@ -692,9 +692,9 @@
 [SPEAKER_03]: Are you hurt?
 [SPEAKER_04]: I think I'm okay.
 [SPEAKER_04]: I have no idea what happened exactly, but... Oh, you look okay.
-[SPEAKER_06]: Excuse me.
+[SPEAKER_04]: Excuse me.
 [SPEAKER_05]: Wait, did someone do this to you?
-[SPEAKER_06]: Yeah, myself.
+[SPEAKER_04]: Yeah, myself.
 [SPEAKER_03]: How did that happen?
 [SPEAKER_04]: I was trying to think of an option to get some messages from the scratchers and I think too hard and then I became a scratcher.
 [SPEAKER_03]: I'm gonna kneel down next to you and just like touch your arm and check if you are actually okay, if you're hurt.
@@ -706,8 +706,8 @@
 [SPEAKER_02]: You know, like if you touch someone or touch something just for like a little quick little burst of static.
 [SPEAKER_02]: But otherwise, from what you can tell, he doesn't look injured in any way.
 [SPEAKER_02]: He looks perfectly fine.
-[SPEAKER_06]: Wow.
-[SPEAKER_06]: That's amazing that you can do this.
+[SPEAKER_03]: Wow.
+[SPEAKER_03]: That's amazing that you can do this.
 [SPEAKER_05]: So can you transform like into anything?
 [SPEAKER_04]: I have no idea.
 [SPEAKER_00]: It was the first time that I transformed into something, so... You were in complete control of your actions and thoughts and...
@@ -815,13 +815,13 @@
 [SPEAKER_01]: And well, the only thing I can guess is that they failed in capturing us or anyone with information on Theo.
 [SPEAKER_01]: I guess Evan must very desperately want to look for more information about the people who are related to Theo then.
 [SPEAKER_01]: and I guess like I would say like I remembered Evan vaguely at events I didn't know he had such power you said he took he took two punches and and and what was he what was the other guy's name he he went down immediately he looked pretty tough yeah he was almost completely down so with two punches I didn't know Evan was such a fighter
-[SPEAKER_06]: Apparently he is.
-[SPEAKER_06]: Okay.
+[SPEAKER_04]: Apparently he is.
+[SPEAKER_04]: Okay.
 [SPEAKER_01]: And then I guess like, yeah.
 [SPEAKER_03]: You can't go alone anymore.
 [SPEAKER_03]: What do you mean?
 [SPEAKER_03]: Like, if you go home, and if that guy that we cannot say his name finds you and your family, like, we have to protect each other, so.
-[SPEAKER_06]: Voldemort.
+[SPEAKER_03]: Voldemort.
 [SPEAKER_01]: Let's call him Voldemort from now on.
 [SPEAKER_03]: I just came up with this weird name.
 [SPEAKER_03]: Let's call him Voldemort.
@@ -832,7 +832,7 @@
 [SPEAKER_05]: I would call him the masked man, but Voldemort works.
 [SPEAKER_05]: The man in the mask.
 [SPEAKER_05]: Look, I understand that it could be dangerous, but I feel like if we were already on some kind of targeted in some way.
-[SPEAKER_06]: Not to this level.
+[SPEAKER_03]: Not to this level.
 [SPEAKER_05]: We don't know if this guy has any reason to find me.
 [SPEAKER_03]: I'm pretty sure now he does.
 [SPEAKER_03]: He saw you outside of the window.
@@ -848,7 +848,7 @@
 [SPEAKER_05]: But then he agrees.
 [SPEAKER_05]: Okay, well, I guess that's fine.
 [SPEAKER_05]: I think we can, we have a spare bed.
-[SPEAKER_06]: And we shouldn't split up so much as a group anymore probably because I feel like things just got more dangerous.
+[SPEAKER_03]: And we shouldn't split up so much as a group anymore probably because I feel like things just got more dangerous.
 [SPEAKER_05]: Yeah.
 [SPEAKER_05]: But I just, I didn't want to, I didn't want to go inside into the crowded place.
 [SPEAKER_05]: Just if
@@ -857,19 +857,19 @@
 [SPEAKER_04]: I turned into a scratcher today and I'm fine.
 [SPEAKER_05]: Well, trust me, it can get really bad.
 [SPEAKER_05]: And I don't want to find out how bad it really can get.
-[SPEAKER_06]: Then we have to just make sure we have your back.
+[SPEAKER_03]: Then we have to just make sure we have your back.
 [SPEAKER_03]: Because you're not the only one who has problems controlling their magic, so...
-[SPEAKER_06]: I'm still kind of new to it.
+[SPEAKER_04]: I'm still kind of new to it.
 [SPEAKER_04]: A couple of years ago I didn't even have magic.
 [SPEAKER_05]: Oh.
 [SPEAKER_05]: Really?
 [SPEAKER_05]: Yes.
 [SPEAKER_05]: How... What happened?
-[SPEAKER_06]: How did you get that?
-[SPEAKER_06]: Yeah, how did you get it?
+[SPEAKER_03]: How did you get that?
+[SPEAKER_03]: Yeah, how did you get it?
 [SPEAKER_04]: About four years ago, my parents took me to a warehouse a bit south of here.
 [SPEAKER_04]: And they delivered me there with some kind of device that's now inside of me.
-[SPEAKER_06]: They put the device inside of you?
+[SPEAKER_03]: They put the device inside of you?
 [SPEAKER_04]: Yeah.
 [SPEAKER_04]: Why?
 [SPEAKER_04]: In place of my heart.
@@ -929,13 +929,13 @@
 [SPEAKER_03]: How old are you?
 [SPEAKER_02]: One, two, three, four.
 [SPEAKER_02]: Let me just remember all the years.
-[SPEAKER_06]: Yeah.
-[SPEAKER_06]: I think it's like 25.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I think it's like 25.
 [SPEAKER_05]: Yeah.
 [SPEAKER_05]: I don't have it on the wiki, actually.
-[SPEAKER_06]: The age.
-[SPEAKER_06]: Oh, we do.
-[SPEAKER_06]: or in the coming hours?
+[SPEAKER_03]: The age.
+[SPEAKER_02]: Oh, we do.
+[SPEAKER_02]: or in the coming hours?
 [SPEAKER_04]: Yeah, 25.
 [SPEAKER_03]: Are you in good terms with your parents still?
 [SPEAKER_03]: This is a therapy session.
@@ -949,14 +949,14 @@
 [SPEAKER_04]: And Theo said that my pens were also gone, missing.
 [SPEAKER_04]: Is that...
 [SPEAKER_04]: I haven't seen them for four years now.
-[SPEAKER_06]: This is so much.
-[SPEAKER_06]: Are you okay?
+[SPEAKER_03]: This is so much.
+[SPEAKER_03]: Are you okay?
 [SPEAKER_04]: I'm okay.
-[SPEAKER_06]: Okay.
-[SPEAKER_06]: Could be worse.
-[SPEAKER_06]: Could still be captured in that warehouse.
-[SPEAKER_06]: I think your magic is awesome.
-[SPEAKER_06]: Thank you.
+[SPEAKER_03]: Okay.
+[SPEAKER_04]: Could be worse.
+[SPEAKER_04]: Could still be captured in that warehouse.
+[SPEAKER_03]: I think your magic is awesome.
+[SPEAKER_04]: Thank you.
 [SPEAKER_03]: I think you will learn to control it.
 [SPEAKER_05]: You did this really cool thing with like a flame blade or something.
 [SPEAKER_04]: Yes.
@@ -981,10 +981,10 @@
 [SPEAKER_03]: I will.
 [SPEAKER_03]: And I keep my scarf over my head.
 [SPEAKER_03]: And I need to use the bathroom.
-[SPEAKER_06]: Okay, quick.
-[SPEAKER_06]: That happens.
-[SPEAKER_06]: Sounds good.
-[SPEAKER_06]: The boy who lived come to die.
+[SPEAKER_02]: Okay, quick.
+[SPEAKER_02]: That happens.
+[SPEAKER_02]: Sounds good.
+[SPEAKER_02]: The boy who lived come to die.
 [SPEAKER_03]: So much character lore, so much character lore.
 [SPEAKER_00]: I wonder if you have told, you probably would have told Calder that you are giving some info to some person.
 [SPEAKER_03]: Yes, I briefed everyone when we met like the day before or this day or morning or day.
@@ -1015,10 +1015,10 @@
 [SPEAKER_02]: What is it even for, et cetera.
 [SPEAKER_02]: You spot inside the back office of Climbing Bones.
 [SPEAKER_02]: And I think as you kind of like are just looking around, kind of taking in the surroundings, Felix, you also sort of notice that there is a large hole in the brick wall at the back of the office.
-[SPEAKER_06]: You're muted.
-[SPEAKER_06]: That's good.
+[SPEAKER_02]: You're muted.
+[SPEAKER_02]: That's good.
 [SPEAKER_01]: I said, Billy, you said that you searched this place, right?
-[SPEAKER_06]: Yeah.
+[SPEAKER_05]: Yeah.
 [SPEAKER_02]: Yeah.
 [SPEAKER_01]: Why?
 [SPEAKER_01]: Well, there's a big hole here.
@@ -1112,8 +1112,8 @@ Yeah.
 [SPEAKER_02]: It'd be Shepard.
 [SPEAKER_02]: Steenbund is on this side.
 [SPEAKER_02]: And yeah, so yeah, if you yeah, if you have the if you have the spells still feel like so heavy to do it.
-[SPEAKER_06]: Yeah.
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Yeah.
 [SPEAKER_05]: Why is [Lark]'s mouth moving?
 [SPEAKER_03]: I'm singing.
 [SPEAKER_05]: It's like maybe she's trying to say something.
@@ -1122,24 +1122,24 @@ Yeah.
 [SPEAKER_01]: Yeah.
 [SPEAKER_01]: So could you ask him if he's seen anybody entering after Billy left?
 [SPEAKER_04]: Yeah, I'll ask him that.
-[SPEAKER_06]: Yes.
-[SPEAKER_06]: Yes.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Yes.
 [SPEAKER_02]: Who?
 [SPEAKER_02]: One intelligence, remember?
 [SPEAKER_02]: Paulus.
 [SPEAKER_02]: Alfie.
-[SPEAKER_06]: That's it?
-[SPEAKER_06]: Yes, yes.
+[SPEAKER_04]: That's it?
+[SPEAKER_02]: Yes, yes.
 [SPEAKER_05]: Okay.
-[SPEAKER_06]: Well, thank you.
-[SPEAKER_06]: I'll tell it to the rest.
+[SPEAKER_04]: Well, thank you.
+[SPEAKER_04]: I'll tell it to the rest.
 [SPEAKER_05]: Wait, can you ask him if
 [SPEAKER_05]: He heard any explosions while Alfie and Hollis were here.
 [SPEAKER_04]: Were there any explosions?
 [SPEAKER_02]: Noise.
 [SPEAKER_02]: Noises.
 [SPEAKER_02]: Yes, yes.
-[SPEAKER_06]: There were noises?
+[SPEAKER_04]: There were noises?
 [SPEAKER_05]: Oh, wait.
 [SPEAKER_01]: Aska says to Billy.
 [SPEAKER_01]: Aska says to Billy.
@@ -1193,7 +1193,7 @@ Yeah.
 [SPEAKER_05]: I mean, at least we know now that they're bad guys.
 [SPEAKER_05]: I never liked them anyway.
 [SPEAKER_05]: Well, Alfie was all right, to be honest, but maybe he got dragged in.
-[SPEAKER_06]: Yeah, well.
+[SPEAKER_01]: Yeah, well.
 [SPEAKER_05]: Well, listen, we should maybe meet up tomorrow again.
 [SPEAKER_05]: I should get to go home and make sure I'm there before Lark is there.
 [SPEAKER_01]: OK. Yeah, let's do that.
@@ -1209,7 +1209,7 @@ Yeah.
 [SPEAKER_01]: It's better if we move around and we don't stay in the same place.
 [SPEAKER_05]: I'm still going to lock the gate then.
 [SPEAKER_01]: Yeah, that's fine.
-[SPEAKER_06]: Not a problem.
+[SPEAKER_04]: Not a problem.
 [SPEAKER_05]: And then I guess I'll just walk out and whisper something to Shepard and close the gate.
 [SPEAKER_02]: Um, leaving then just Felix and ask it, um, back here in the office.
 [SPEAKER_02]: Um, you guys are planning on staying here tonight?
@@ -1257,9 +1257,9 @@ Yeah.
 [SPEAKER_02]: Dexterity for the skill.
 [SPEAKER_02]: Let's see.
 [SPEAKER_02]: Tinker's Tool.
-[SPEAKER_06]: Let's see.
-[SPEAKER_06]: Dex.
-[SPEAKER_06]: OK, done.
+[SPEAKER_04]: Let's see.
+[SPEAKER_04]: Dex.
+[SPEAKER_04]: OK, done.
 [SPEAKER_05]: Did I get the right?
 [SPEAKER_02]: Yeah.
 [SPEAKER_02]: Okay.
@@ -1399,7 +1399,7 @@ Yeah.
 [SPEAKER_02]: You keep turning up at the weirdest times.
 [SPEAKER_03]: Yeah, but this time she actually wants to see me.
 [SPEAKER_05]: Make a persuasion check.
-[SPEAKER_06]: He kind of looks down his nose and goes,
+[SPEAKER_02]: He kind of looks down his nose and goes,
 [SPEAKER_02]: Hmm.
 [SPEAKER_03]: Hey, I'm not bloodied tonight.
 [SPEAKER_03]: I'm clean.
@@ -1569,7 +1569,7 @@ Yeah.
 [SPEAKER_03]: I'll leave and I'll get my stuff from Nell's room because they're still there.
 [SPEAKER_02]: Yeah, sure.
 [SPEAKER_02]: As you head down, make an insight check.
-[SPEAKER_06]: Why?
+[SPEAKER_03]: Why?
 [SPEAKER_02]: Okay.
 [SPEAKER_02]: Yeah, you head over to the room of Nell and open it up.
 [SPEAKER_02]: She's not inside.
@@ -1614,7 +1614,7 @@ Yeah.
 [SPEAKER_02]: Yeah, up to you, really.
 [SPEAKER_02]: Like, yeah, your mother wouldn't have left any kind of lamps or lights on, obviously, but when you got there, you could turn something on, like a candle, whatever, yeah.
 [SPEAKER_05]: Yeah, I'd probably have something.
-[SPEAKER_06]: OK. Hi, Billy.
+[SPEAKER_03]: OK. Hi, Billy.
 [SPEAKER_03]: Thanks for letting me in.
 [SPEAKER_03]: I have all my stuff now.
 [SPEAKER_03]: It went really well, but I just didn't want to push it and stay there.
@@ -1623,8 +1623,8 @@ Yeah.
 [SPEAKER_05]: Yeah, I think so.
 [SPEAKER_05]: I didn't check if, but she's either sleeping or she's not home.
 [SPEAKER_05]: So it should be fine.
-[SPEAKER_06]: Okay, thanks.
-[SPEAKER_06]: Where do I sleep?
+[SPEAKER_03]: Okay, thanks.
+[SPEAKER_03]: Where do I sleep?
 [SPEAKER_05]: Well, I wasn't quite sure.
 [SPEAKER_05]: I made a bed in my room.
 [SPEAKER_05]: But if you don't like that, I made a place for you to sleep on the sofa, if that's better.
@@ -1669,8 +1669,8 @@ Yeah.
 [SPEAKER_01]: Not like me with a home.
 [SPEAKER_01]: I still have a mother and a father.
 [SPEAKER_03]: My dad has something in mind I forgot.
-[SPEAKER_06]: So, the guy, the masked guy, are you scared?
-[SPEAKER_06]: I'm also getting ready for bed at the same time.
+[SPEAKER_03]: So, the guy, the masked guy, are you scared?
+[SPEAKER_03]: I'm also getting ready for bed at the same time.
 [SPEAKER_05]: It's definitely a bit scary what he did.
 [SPEAKER_05]: He walked through the wall and then he disappeared.
 [SPEAKER_05]: I don't know if it's some kind of magic, but he did it with such ease that
@@ -1686,9 +1686,9 @@ Yeah.
 [SPEAKER_05]: Yeah, definitely.
 [SPEAKER_03]: You know, I've never done anything like this before, like have a big group like this trying to solve something together.
 [SPEAKER_03]: Even though this is so dangerous, I think this is pretty cool.
-[SPEAKER_06]: Hmm.
-[SPEAKER_06]: I...
-[SPEAKER_06]: It's cool, but...
+[SPEAKER_05]: Hmm.
+[SPEAKER_05]: I...
+[SPEAKER_05]: It's cool, but...
 [SPEAKER_05]: I also wouldn't mind just going back to normal.
 [SPEAKER_03]: I understand.
 [SPEAKER_03]: Like you just want to get back to work and forget all of this?
@@ -1716,10 +1716,10 @@ Yeah.
 [SPEAKER_05]: Okay?
 [SPEAKER_05]: I'll still only use it if I really have to, but... Yeah.
 [SPEAKER_05]: I guess...
-[SPEAKER_06]: I can try a bit more.
+[SPEAKER_05]: I can try a bit more.
 [SPEAKER_03]: Yeah.
-[SPEAKER_06]: I'll be there for you.
-[SPEAKER_06]: Thank you.
+[SPEAKER_03]: I'll be there for you.
+[SPEAKER_05]: Thank you.
 [SPEAKER_03]: Okay, should we go to sleep, do you think?
 [SPEAKER_05]: Yeah, probably.
 [SPEAKER_05]: You look quite tired.
@@ -1733,14 +1733,14 @@ Yeah.
 [SPEAKER_05]: Like, well, it's not that I think last time she already, like made a bet for people when when I said they were staying over.
 [SPEAKER_05]: So I think it's fine.
 [SPEAKER_05]: It's just that this time, some things are different.
-[SPEAKER_06]: Okay.
+[SPEAKER_03]: Okay.
 [SPEAKER_03]: All right, I'll, let's just, yeah.
 [SPEAKER_03]: That's okay.
 [SPEAKER_03]: You can.
 [SPEAKER_05]: Also, if something, if it does happen that you see her, maybe just pretend like you also work at the scrapyard now.
 [SPEAKER_05]: She doesn't know that the scrapyard is not
 [SPEAKER_05]: not uh working okay yeah okay and my father probably thinks that i'm gonna turn myself in so i hope i don't see him soon so then i have a lot of explaining to do yeah what's up with that well let's not talk about that now let maybe some other time but yeah you shouldn't do that anyway let's try to sleep
-[SPEAKER_06]: Right.
+[SPEAKER_03]: Right.
 [SPEAKER_05]: Good night, I guess.
 [SPEAKER_03]: Good night.
 [SPEAKER_02]: And Kolder, as you sleep, you suddenly hear nothing at all.
@@ -1760,7 +1760,7 @@ Yeah.
 [SPEAKER_02]: Finally.
 [SPEAKER_02]: Wow.
 [SPEAKER_02]: And you actually get a good night's sleep because you're in someone's house.
-[SPEAKER_06]: Yeah.
+[SPEAKER_03]: Yeah.
 [SPEAKER_01]: Oh, so it rolls the hit point automatically.
 [SPEAKER_01]: Okay.
 [SPEAKER_02]: Yeah.
@@ -1782,10 +1782,10 @@ Yeah.
 [SPEAKER_01]: So.
 [SPEAKER_05]: Yeah.
 [SPEAKER_05]: And you can also instead dig a feet there.
-[SPEAKER_06]: Yeah.
-[SPEAKER_06]: I have four feet.
-[SPEAKER_06]: Let me have a look.
-[SPEAKER_06]: Do you plan to include your level up to the story?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I have four feet.
+[SPEAKER_01]: Let me have a look.
+[SPEAKER_00]: Do you plan to include your level up to the story?
 [SPEAKER_02]: It depends what you get for leveling up and how that might work.
 [SPEAKER_01]: I think level four for me is not that interesting because I just get an ability improvement and then I get a spell level.
 [SPEAKER_01]: I get a spell slot and a cantrip slot, but that's it.
@@ -1795,8 +1795,8 @@ Yeah.
 [SPEAKER_02]: So whether there is an omen there or not, who knows.
 [SPEAKER_02]: But you guys all wake up in your various places.
 [SPEAKER_02]: And yeah, I mean, you can you guys can let me know where you want to head immediately and what you want to do.
-[SPEAKER_06]: Are we going to work?
-[SPEAKER_06]: Ah yeah, sure.
+[SPEAKER_04]: Are we going to work?
+[SPEAKER_04]: Ah yeah, sure.
 [SPEAKER_02]: Makes sense.
 [SPEAKER_02]: So yes, it is.
 [SPEAKER_03]: It's not jobless anymore.
@@ -1879,12 +1879,12 @@ Yeah.
 [SPEAKER_02]: So the four of you guys arrived back at the scrap yard.
 [SPEAKER_02]: Felix, you arrive at, uh, Fexfield Scrappers, uh, where Lucille and, um, well, her, uh, person who was indicated to you as her brother, although you didn't actually get the name of him, um, opens the door up to you.
 [SPEAKER_02]: And he goes, are you all right?
-[SPEAKER_06]: Yeah.
+[SPEAKER_04]: Yeah.
 [SPEAKER_02]: Well, fair, fair.
 [SPEAKER_02]: What you doing here?
 [SPEAKER_04]: I'm here for work.
-[SPEAKER_06]: Oh, is it?
-[SPEAKER_06]: Yeah.
+[SPEAKER_02]: Oh, is it?
+[SPEAKER_04]: Yeah.
 [SPEAKER_02]: Whoa.
 [SPEAKER_02]: Lucy didn't say anything to me about that.
 [SPEAKER_02]: All right, you better go in.
@@ -1923,9 +1923,9 @@ Yeah.
 [SPEAKER_02]: Yeah.
 [SPEAKER_02]: So make an intelligence check and also make a persuasion check for me.
 [SPEAKER_02]: Just a straight intelligence and then persuasion.
-[SPEAKER_06]: Yikes.
-[SPEAKER_06]: Yikes.
-[SPEAKER_06]: Doom doom.
+[SPEAKER_04]: Yikes.
+[SPEAKER_04]: Yikes.
+[SPEAKER_04]: Doom doom.
 [SPEAKER_04]: Doom doom.
 [SPEAKER_04]: Yeah, this guy is as smart as a hunter do so.
 [SPEAKER_02]: And yeah, perception.
@@ -1948,8 +1948,8 @@ Yeah.
 [SPEAKER_02]: It's written in your player brief to find that because it's different for each of you.
 [SPEAKER_02]: Now I will say that if you choose you can kind of change your lifestyle costs.
 [SPEAKER_02]: They're related to like in the wiki as well lifestyle expenses specifically.
-[SPEAKER_06]: I can just put that
-[SPEAKER_06]: I'll put the link in general.
+[SPEAKER_02]: I can just put that
+[SPEAKER_02]: I'll put the link in general.
 [SPEAKER_02]: You guys have chose based on your character backgrounds and we discussed it a little bit in your one-on-ones and stuff, but you can drop down or even increase if you think that it makes sense for the situation and you wish to either spend less or spend more on your lifestyle costs, given that now some of your...
 [SPEAKER_03]: I've done it by day, like what I do in the day, if I know if I'm spending for eating or if I'm spending it for sleeping as well.
 [SPEAKER_02]: Yeah, exactly.
@@ -1967,14 +1967,14 @@ Yeah.
 [SPEAKER_02]: So you realize, you know, if you get to work on time, you've had to like climb over the gate, but it's relatively easy to do so.
 [SPEAKER_02]: You do that, and then Billy, you arrive to unlock the gate, and then Lark, with Lark, and then Calder also arrives at roughly the same time.
 [SPEAKER_02]: So you guys group up together then back at Claring Bones, whilst Felix is at work.
-[SPEAKER_06]: So it's the morning.
-[SPEAKER_06]: Right away.
+[SPEAKER_00]: So it's the morning.
+[SPEAKER_00]: Right away.
 [SPEAKER_03]: Calder, were your parents OK?
-[SPEAKER_06]: Yeah, yeah, yeah.
+[SPEAKER_00]: Yeah, yeah, yeah.
 [SPEAKER_00]: How are you looking?
 [SPEAKER_03]: Are you still looking very nervous?
-[SPEAKER_06]: I think not so nervous but still uncomfortable.
-[SPEAKER_06]: So looking over the shoulders a little bit etc.
+[SPEAKER_00]: I think not so nervous but still uncomfortable.
+[SPEAKER_00]: So looking over the shoulders a little bit etc.
 [SPEAKER_03]: I'm just sort of looking at everyone like holding my hands like, mm.
 [SPEAKER_01]: Yeah, well, do you care to give us more information on what's happening?
 [SPEAKER_01]: Or are you still on that level where you don't want to say that yet?
@@ -1989,10 +1989,10 @@ Yeah.
 [SPEAKER_00]: Listen, I needed some money.
 [SPEAKER_00]: Institute or college was not...
 [SPEAKER_00]: cheap so say i had to get some information to him yeah so he he have he have he have ways to get information well i guess it's better than uh than nothing but uh yeah
-[SPEAKER_06]: I draw inside tech.
+[SPEAKER_03]: I draw inside tech.
 [SPEAKER_01]: Like I said, we're, we're probably over the face of not trusting each other right now, but are you away for now?
-[SPEAKER_06]: Yeah.
-[SPEAKER_06]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
 [SPEAKER_00]: Yeah.
 [SPEAKER_00]: I mean, yeah, sure.
 [SPEAKER_00]: Maybe I can, I can, I can, I can say the chop.
@@ -2054,12 +2054,12 @@ Yeah.
 [SPEAKER_02]: It's probably something more magically linked to your family in some way, but it doesn't ring a specific bell to you about something that you would know your family having.
 [SPEAKER_00]: The point being is that it's so weird that he wanted some information from your father apparently or your family.
 [SPEAKER_00]: I don't know if, yeah, your family.
-[SPEAKER_06]: And now they are working, maybe related together.
+[SPEAKER_00]: And now they are working, maybe related together.
 [SPEAKER_01]: Well, he was definitely there at the
 [SPEAKER_01]: at the table.
 [SPEAKER_01]: So he definitely must be involved in some way.
-[SPEAKER_06]: I guess we can only find out.
-[SPEAKER_06]: We have to find out that.
+[SPEAKER_00]: I guess we can only find out.
+[SPEAKER_00]: We have to find out that.
 [SPEAKER_00]: Yeah, before he finds out us.
 [SPEAKER_00]: And I'm looking at William while.
 [SPEAKER_05]: Yeah.
@@ -2100,7 +2100,7 @@ Yeah.
 [SPEAKER_05]: Not particularly, but I can forgive it.
 [SPEAKER_01]: Well, you seem to be the untrusting to have yourself, William.
 [SPEAKER_01]: So I would hope that you would understand.
-[SPEAKER_06]: Me?
+[SPEAKER_05]: Me?
 [SPEAKER_01]: Me?
 [SPEAKER_01]: You know which meme?
 [SPEAKER_01]: This is the Spider-Man meme where all of us are pointing at each other like, you're untrusting.
@@ -2147,7 +2147,7 @@ Well.
 [SPEAKER_03]: And after that, I can go to back to Madam Rook to hear what she has for me, because she was planning.
 [SPEAKER_03]: She was planning to test me today.
 [SPEAKER_03]: So I'm just going to go hear what that's about.
-[SPEAKER_06]: Okay.
+[SPEAKER_00]: Okay.
 [SPEAKER_02]: Okay.
 [SPEAKER_02]: Um, as you four are discussing, uh, this, I mean, you guys wanting to head out straight away to do stuff.
 [SPEAKER_02]: Are you waiting for Felix to come back from his shift?
@@ -2217,14 +2217,14 @@ Well.
 [SPEAKER_02]: And it's being driven by a younger kind of ailer guy who has like dust cloth kind of covering his face on the seat of the cart.
 [SPEAKER_02]: And he and the older man says to you, Claring Bones, is it?
 [SPEAKER_05]: Yes, this is Claring Bones.
-[SPEAKER_06]: Yeah, got a delivery for you, mate.
+[SPEAKER_02]: Yeah, got a delivery for you, mate.
 [SPEAKER_05]: Delivery from who?
-[SPEAKER_06]: Uh, I don't know.
-[SPEAKER_06]: I just deliver him.
-[SPEAKER_06]: Okay.
+[SPEAKER_02]: Uh, I don't know.
+[SPEAKER_02]: I just deliver him.
+[SPEAKER_02]: Okay.
 [SPEAKER_05]: Um, and who's that with you?
-[SPEAKER_06]: Well, him.
-[SPEAKER_06]: He's the driver.
+[SPEAKER_02]: Well, him.
+[SPEAKER_02]: He's the driver.
 [SPEAKER_05]: All right.
 [SPEAKER_02]: But why is he all covered up?
 [SPEAKER_02]: Well, you ever been on the furlong, mate?
@@ -2279,8 +2279,8 @@ Well.
 [SPEAKER_05]: OK. And I'm just thinking, oh, how can I get rid of this guy?
 [SPEAKER_05]: And I guess what would happen is that I would cast Thunder Wave.
 [SPEAKER_05]: Oh, shit.
-[SPEAKER_06]: Yeah.
-[SPEAKER_06]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
 [SPEAKER_05]: It's from the Magic Initiate feed.
 [SPEAKER_05]: Nice.
 [SPEAKER_05]: Yeah.
@@ -2338,9 +2338,9 @@ Well.
 [SPEAKER_02]: The driver yeah, the the older The older guy not the driver.
 Yeah
 [SPEAKER_01]: Well, we don't know who hit him because we don't we didn't see it.
-[SPEAKER_06]: Oh, you guys don't.
+[SPEAKER_02]: Oh, you guys don't.
 [SPEAKER_01]: But I mean, yeah, generally.
-[SPEAKER_06]: Why am I so unable to find this?
+[SPEAKER_02]: Why am I so unable to find this?
 [SPEAKER_05]: Try.
 [SPEAKER_01]: You really need to sort the NPCs, Sir Quimson.
 [SPEAKER_02]: They are so sorted, but...
@@ -2416,10 +2416,10 @@ Yeah
 [SPEAKER_01]: How's next week?
 [SPEAKER_03]: Next week, everything except Wednesday works for me.
 [SPEAKER_05]: Yeah, everything except Thursday.
-[SPEAKER_06]: Yeah, Saturday won't work for me.
+[SPEAKER_04]: Yeah, Saturday won't work for me.
 [SPEAKER_00]: Actually, Saturday evening time would work, maybe.
-[SPEAKER_06]: Yeah, that's possible.
-[SPEAKER_06]: Can we play earlier?
+[SPEAKER_04]: Yeah, that's possible.
+[SPEAKER_04]: Can we play earlier?
 [SPEAKER_00]: No, there is open day and I need to be in the Institute for... No, I mean like earlier in the week.
 [SPEAKER_00]: Ah, yeah.
 [SPEAKER_00]: Monday?

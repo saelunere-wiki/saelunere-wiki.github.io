@@ -162,7 +162,8 @@ under his sleeve**, which feeds it back into his casting. He told Aeska his
 performance was great. At the yard he told the others he had not wanted to go into
 the crowded pub in case something went wrong: when he casts, something takes hold of
 him, *"it's like magic coming out of me but it's not mine,"* and he is worried things
-will go bad again. *"Trust me, it can get really bad."* On Hollis and Alfie: *"I never
+will go bad again. *"Trust me, it can get really bad."* Lark told him they would just
+have to make sure they had his back. On Hollis and Alfie: *"I never
 liked them anyway. Well, Alfie was all right, to be honest, but maybe he got dragged
 in."* Lark told him he could not go alone any more, and asked to stay at his house;
 he hesitated, then agreed.
@@ -180,7 +181,8 @@ should help him with it. He said he had tried, and that at the College the other
 could learn spells from books and he never could. *"Billy, you need to have more
 courage,"* she told him: *"You have to keep trying. And we're gonna be here for
 you."* He said he would still only use it if he really had to, but he could try a bit
-more. He asked her, if she met his mother, to say she worked at the yard too, because
+more. *"I'll be there for you,"* she said, and he thanked her. He asked her, if she
+met his mother, to say she worked at the yard too, because
 his mother does not know it has stopped; and his father, he said, probably thinks he
 is going to turn himself in.
 

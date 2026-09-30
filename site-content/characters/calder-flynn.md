@@ -148,7 +148,10 @@ information for [[Mister K]]. The fire at the Volan house was that job - *"some 
 over there went crazy"* - and the target was a purple pouch. He did not know then
 that it was Aeska's family. Mister K already knew his parents, by name and by their
 schedule. As far as the others could tell, he was telling the truth. *"I hope nobody
-of us meet that guy again."*
+of us meet that guy again."* He said it was strange that Mister K had wanted
+information on Aeska's family, and wondered whether it was tied up with what he was
+doing now; Aeska pointed out that Mister K had been at Evan's table. *"We have to find
+out that,"* Calder said, *"before he finds out us."*
 
 When Lark asked him to be open with them, he said he does not hide anything that
 could put them in danger, and that now one of their faces had been seen he was

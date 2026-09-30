@@ -147,12 +147,19 @@ and caught Billiam as he came down. She pulled his hood up over his head and kep
 hold of his arm all the way back to the street. Outside the pub a scratcher started
 behaving oddly at their feet; she looked in its message cavity, found it empty, and
 carried it to the yard inside her jacket. It was Felix. When he changed back she
-knelt by him and touched his arm: *"Are you okay? Are you hurt?"* She stopped Calder
-at the door until he said something about the masked man.
+knelt by him and touched his arm: *"Are you okay? Are you hurt?"* He was not hurt:
+*"Wow. That's amazing that you can do this."* She stopped Calder at the door until he
+said something about the masked man.
 
 She told Billiam he could not go alone any more, that they had to protect each
 other, and asked to stay at his house that night: *"I just don't feel like you should
-be alone."* To Aeska, on her way to Rooke, she said, *"I would rather die than give
+be alone."* *"And we shouldn't split up so much as a group anymore, probably, because
+I feel like things just got more dangerous."* When Billiam said his magic could get
+really bad, she told him, *"Then we have to just make sure we have your back. Because
+you're not the only one who has problems controlling their magic."* When Felix told
+them what had been done to him she asked, *"They put the device inside of you?"*, and
+afterwards, *"This is so much. Are you okay?"* She told him, *"I think your magic is
+awesome,"* and that he would learn to control it. To Aeska, on her way to Rooke, she said, *"I would rather die than give
 your information to her."*
 
 At eleven that night she **paid her debt to [[Madame Rooke]]**: that there are new,
@@ -177,7 +184,8 @@ that even though it was dangerous she thought it was pretty cool. Billiam said h
 would not mind things going back to normal. Lark told him he had great magic and they
 should help him with it. *"Billy, you need to have more courage,"* she told him. He
 had already done a brave thing on that wall, even if the magic did not work the way
-he meant: *"You have to keep trying. And we're gonna be here for you."* He asked her,
+he meant: *"You have to keep trying. And we're gonna be here for you."* When he said
+he could try a bit more, she told him, *"I'll be there for you."* He asked her,
 if she met his mother, to say she worked at the yard too.
 
 At the yard the next morning she said it would be useful to have Madame Rooke on
