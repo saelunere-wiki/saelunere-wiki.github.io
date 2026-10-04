@@ -37,8 +37,15 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 
 ### What was on the bodies
 
-- **A pocket watch**, modified, with a faint green glow. Identified that evening: **it tracks a spellcasting rather than a person**, and only for an hour. It was pointing at Felix, and stopped once the hour was up.
-- **A note** on the carter.
+- **The Seeking Watch.** A pocketwatch modified with a fragment of an essence core, with a faint green glow. Identified that evening: attuned to a caster, it lets them **name a spell and be shown the direction of the nearest casting of it**, at any range, for up to an hour. It keeps pointing even when handed to someone else.
+  - It was pointing at Felix and stopped when the hour ran out. **Somebody named a spell of his and walked the carter to him.**
+- **The delivery note**, on the carter, which he had been told to burn:
+  > *Take this and deliver the crate nearby. See that it is delivered. Do not be seen doing it, do not linger, and do not stay to watch.*
+  > *This piece comes back with you. It cannot be replaced in good order, and it is worth a great deal more than you are. If you lose it, do not come back at all.*
+  > *Burn this note.*
+  - **So the watch was to be returned**, it cannot easily be replaced, and the party have it.
+  - The crate was to be delivered **nearby**, not to the yard by name.
+- **The housing the core came out of**, bucket-sized, which boosted it. Too big for a chest, so it is still theirs.
 - The bodies and the wrecked cart were dragged out of the street. For a while, passers-by will read it as a breakdown.
 
 ### What they put together
@@ -78,15 +85,17 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 ## Loot, contacts, consequences
 
 - **Billiam has an essence core where his heart was**, and Calder has the heart.
-- **A pocket watch that tracks spellcasting for an hour.** It is how they found Felix.
-- **A note off the carter**, and a drop location in the Bellows.
+- **The Seeking Watch**, which points to the nearest casting of a named spell at any range. It is how they found Felix, and **its owner expects it back.**
+- **The delivery note**, which the carter was told to burn and did not.
+- **The core housing** from the creature's chest, bucket-sized, which boosted the core.
 - **Two bodies and a wrecked cart** badly hidden outside [[Claringbold's Yard]].
 - **A warehouse somewhere in Parvo**, abandoned, where Felix was held three years.
 
 ## Threads to follow
 
 - **Who sent the creature**, and how they knew Felix would be at that yard.
-- **What the watch was tracking**, and whether more of them exist.
+- **Which of Felix's spells was named** to the watch, and who knew it well enough to name it.
+- **Who wants the watch back**, and what they do when it does not come.
 - **Where the warehouse is**, and what is left in it.
 - **What a core does to a living person over time.** Two of them have one now.
 - **Who the woman in Billiam's dream is.**
