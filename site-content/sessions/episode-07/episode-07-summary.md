@@ -19,7 +19,7 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 
 ### The fight at the gate
 
-- **It killed Billiam in one hit.** A critical for **52 damage** that snapped his neck, then it stepped over him and kept walking. **It was never after him.**
+- **The thing in the crate got out and killed Billiam in one hit.** Eight feet of flesh and metal with a core glowing in its chest. A critical for **52 damage** snapped his neck, and then it stepped over him and kept walking. **It was never after him.**
 - **It was hunting Felix**, and ran past Lark to reach him. Nobody worked out why during the fight.
 - **Aeska's Heat Metal** on the housing around its core did most of the work, giving it disadvantage for the rest of the fight.
 - **Calder finished it** with a magic missile through the ear, after chromatic orbs through the window.
@@ -29,8 +29,8 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 ### Bringing him back
 
 - **The creature was a reanimated corpse.** Felix's medicine check: a dead body fitted with **an essence core much like his own**, its deficiencies corrected, by a process that was plainly not kind. Neither he nor Aeska has heard of it being done.
-- **Billiam had been dead ten or fifteen seconds**, so they tried it.
-- **Aeska operated.** They took out Billiam's heart and put the creature's core in its place.
+- **He had not been dead long**, so they tried it.
+- **Three of them operated at once.** **Calder** opened Billiam's chest, making himself treat it as an academic problem. **Felix** cut the core out of the creature, which he described as looking like a worse version of himself. **Aeska** installed it, on the understanding that it is engineering and that Billiam being dead may be the only reason it could work.
 - **The core met Billiam's wild magic** and set off surge after surge: the life pulled out of everyone round the table, then all four of them flickering in and out of existence, then resistance to all damage. It lasted about thirty seconds.
 - **They healed the chest closed.** Billiam took a breath, put his own neck back, and woke to find **Calder holding his heart**.
 - **The core had been modified**, and sat inside a bucket-sized housing that boosted it. That part would not fit in a chest, so they used the core alone.
