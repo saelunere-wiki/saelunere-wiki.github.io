@@ -49,7 +49,7 @@ she will be particularly diligent**. She expects Lark back tomorrow at the lates
 
 - **Runs** [[Salador's Slip]]
 - **Employs** [[Delia]], [[Nell]] and [[Emory]]
-- **Has set** [[Lark]] a job, with Nell as the price of failing
+- **Gives** [[Lark]] jobs on trial
 
 ## Lark's answer
 
@@ -87,3 +87,18 @@ away. *"I will consider your debt paid."*
 - Lark will get jobs on trial first, and perhaps a permanent place if they go well. The
   house already has *"methods"* for keeping its staff safe; if a large weight falls on
   Lark, there is little Rooke can do.
+
+## Episode 7
+
+Lark came in the afternoon, and Rooke had a job that *"has fallen on our laps"*, for
+two marks. *"Mary, unfortunately, had to put in a complaint about a gentleman that came
+last night."* Lark is to deliver a *"very polite letter"*, under Rooke's seal, to the
+house of Amos Tilbury on the edge of the Core, a couple of blocks from
+[[Oblong Square]], while he is at work at the forges, and to see that **his wife** is
+the one who opens it. He would not take it kindly if he learned what Lark was there
+for. *"I admire your confidence."*
+
+- A girl hurried down from the office as Lark went up, looking embarrassed.
+- By [[Nell]]'s account Rooke has been in an *"on and off mood"*.
+- The people who work for her tell her what they overhear: *"that's how Madame Rook
+  gets all of her information."* She knows they listen. *"That's kind of the point."*

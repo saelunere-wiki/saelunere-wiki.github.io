@@ -38,7 +38,7 @@ episode: 5-6
 text: [[Fexfield Scrappers]] names the buyer. That night Aeska plays for [[Evan Langford]] above [[The Head of Steam]], and a masked man walks out through the wall onto Billiam's ledge.
 ---
 date: Tide 05, 756
-episode: 6
+episode: 6-7
 status: open
-text: Felix starts work at [[Fexfield Scrappers]]. At noon a delivery arrives at [[Claringbold's Yard]], and something steps out of the crate.
+text: A dead man run by an essence core steps out of the crate at [[Claringbold's Yard]] and kills Billiam. The others cut the core out of it and put it where his heart was, and brought him back.
 ```

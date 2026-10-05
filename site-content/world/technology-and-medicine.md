@@ -73,3 +73,11 @@ an ability for a while; this is neither, and it is why prosthetics are left unpo
 
 And yet [[Felix Klaudius|Felix]] told the party in Episode 6 that he has a device in place
 of his heart.
+
+In Episode 7 the party did it themselves. Billiam had been dead for seconds, and a
+dead thing run by an essence core lay in the next room. They cut the core out of it
+and fitted it where his heart had been, and he woke. He has **no heartbeat**, but he
+has a pulse and he bleeds: as far as Calder can tell, the core is now what moves his
+blood. What Felix remembers from his own captivity is that the surprise, to the people
+who did it to him, was that it worked on someone living. Nobody knows what a core does
+to a person over time.

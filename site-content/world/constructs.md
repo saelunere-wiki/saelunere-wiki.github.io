@@ -93,3 +93,19 @@ and plainly more dangerous, with pneumatic jaws that crunch metal on metal, and
 take a book out of a man's hands in its mouth and run with it.
 
 ![A modified howl](_images/modified-howl.webp)
+
+## The creature at Claringbold's Yard
+
+The thing that came out of the crate on Tide 05, 756 was **not a construct**, though
+the party called it one for want of a word. It stood eight feet tall, human flesh and
+metal riveted together, one arm entirely metal, with a core glowing in its chest and a
+hooked chain in its right hand.
+
+Aeska's read, once it was dead: somebody took a dead body and reanimated it with an
+essence core, correcting some of its deficiencies, by a process that was not pleasant.
+Neither he nor Felix had heard of such a thing being done. Constructs are something
+like animals; these are closer to people. Calder said they put him in mind of golems,
+the mindless servants a wizard can build with very high magic.
+
+Felix has met the kind before, in the place he was held: he killed one getting out,
+man-sized and weaker than this.

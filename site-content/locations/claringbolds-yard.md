@@ -91,3 +91,19 @@ The next day at noon a cart brought a crate nobody had ordered. The older of the
 pulled a cudgel on Billiam, and Billiam threw both of them, the cart and the crate across
 the street. The driver lived. Out of the crate came an eight-foot creature of flesh and
 machine, with a greenish essence core in its chest.
+
+## Episode 7
+
+The creature killed Billiam at the gate with its second blow and went straight up the
+yard for Felix, past Lark and Aeska. The others brought it down in the office, where
+Aeska threw it into the wall hard enough to break a hole in it. It was a dead body run
+by an essence core. On the office table, within minutes, Calder opened Billiam's
+chest, Felix cut the core out of the creature and Aeska fitted it where Billiam's
+heart had been, and Billiam woke.
+
+Both of the men who brought the crate are dead: the older one of Billiam's
+Thunderwave, and the driver, who bled out in the road during the fight. Felix found a
+pocket watch and a note by the older man (see [[The Seeking Watch]]), dragged both
+bodies off the street and hid them in the yard. The wrecked cart is still in the road
+outside. The creature's body is in the office, with the bucket-sized housing its core
+sat in.

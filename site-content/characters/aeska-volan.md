@@ -178,3 +178,34 @@ be some trust."*
 
 He means to go back to [[The Head of Steam]], where he is welcome to play, and ask
 the Baron about Evan.
+
+## Episode 7
+
+He opened the office door on the creature coming up the yard, and heated the iron
+ring that held the core in its chest until the metal began to melt. It looked at him
+once and went by. *"I think he's programmed to specifically attack Felix,"* he told
+Calder. *"He just walked past me."* He threw it into the office wall with a
+thunderclap and shouted to Calder to finish it. Then he checked on Felix, and went
+out to Billiam.
+
+His read of the dead creature: somebody took a dead body and reanimated it with an
+essence core, correcting its deficiencies, by a process that was not pleasant. He had
+never heard of such a thing. He took Calder and Felix by the shoulder - *"let's do our
+best to try and help Billy"* - and when the core was out, **he fitted it where
+Billiam's heart had been**, treating him as a machine, and closed the chest with
+healing. *"Welcome back to life, I guess... for one thing, Billy, I'm glad you're here
+with us now."* Then he stood in the rain washing the blood off his hands: *"What did
+I do?"*
+
+Lark urged him to come to [[Salador's Slip]] and meet [[Madame Rooke]]. He told her
+he liked her enthusiasm and her kindness, that Rooke gives nothing away for free, and
+that it was *"a risk that I cannot take at the moment."* He went off alone to rest:
+as his player put it, he plays music for a living and had just brought someone back
+from the dead. He came to [[The Cobbler's Pot]] in disguise. There he asked Lark
+whether Rooke had had anything more from her, and apologised when she promised not.
+He told the others he knows of no powerful friend of Theo's: in his time at the Guild,
+Theo was too junior for him to notice. He paid for a tavern room for Lark that night.
+
+He took charge of the watch found on the dead carter, having seen that it had a core
+in it. That evening he identified it as [[The Seeking Watch]], and was left asking
+which of Felix's spells had been named to it.

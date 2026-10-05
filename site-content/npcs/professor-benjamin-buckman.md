@@ -90,3 +90,11 @@ as weapons, he added, is not something the College likes to delve into.
 [[Valerin Volan]]**, on projects neither of them ever told Aeska about. Billiam has
 been through his father's things and found something marked with a V, and it was
 recent.
+
+## Episode 7
+
+With Billiam's leave, Calder looked through his desk at the house. There was no work
+on it, and little sign that he is often there. Billiam: *"He's for sure hiding
+something... He told me not to get involved. And he would only say that if he knows
+something about all this."* Calder says the Professor is away from the College at
+present, and means to try his office there.

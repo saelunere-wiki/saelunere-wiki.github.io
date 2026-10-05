@@ -30,3 +30,8 @@ she had helped.
 
 - **Works for** [[Madame Rooke]]
 - **Let** [[Lark]] **in**, and answers for it
+
+## Episode 7
+
+By day she keeps the front desk. She was surprised to see Lark so early, took a penny
+from Felix for a bath, and told him not to make any trouble: *"I'm sure you won't."*

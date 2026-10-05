@@ -21,6 +21,9 @@ together.
 
 The Volan house colour is **purple**.
 
+In Episode 7 [[Penn]], watching the Volan house for [[Calder Flynn|Calder]], reported
+that he goes to the Engineers' spire and back every day.
+
 ## Relationships
 
 - **Father of** [[Aeska Volan]]

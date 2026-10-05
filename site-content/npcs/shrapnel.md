@@ -63,3 +63,8 @@ is why nobody else was hurt ([[Hollis]]). According to [[Lucile Fexfield]] he ha
 contracts off the books, with the Porter's Guild as buyers, and he had not delivered
 his part. The supply is limited and they cannot get it elsewhere, so **he may be
 worth more to them alive, and might be traded back.**
+
+## Episode 7
+
+Calder's people report that somebody matching his description was seen taken into the
+[[The Porter's Guild|Porters']] spire at about the time he disappeared.

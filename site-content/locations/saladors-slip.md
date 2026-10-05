@@ -44,3 +44,14 @@ Lark arrived at about half past midnight on Tide 03, 756, still bloody from
 him. Delia let her in on the understanding that she would answer to Madame Rooke
 in the morning, and Lark cleaned the whole house through the small hours, slept in
 Nell's room, and went up to see Madame Rooke at seven.
+
+## Episode 7
+
+By day the house is busy, with people coming and going and the baths in use, and there
+is no doorman: [[Emory]] is only on the door at night. [[Delia]] was at the front
+desk. A bath is a penny, and in the afternoon the men's bath is full of older regulars
+passing the time. Felix took a bath while Lark went upstairs.
+
+[[Madame Rooke]] gave Lark her first job, a letter to deliver. From [[Nell]], Lark
+learned that the workers tell Madame Rooke what they overhear, and that she expects
+them to: it is where her information comes from.

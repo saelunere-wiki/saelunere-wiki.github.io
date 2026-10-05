@@ -199,3 +199,41 @@ the table."*
 
 For the next day she planned to ask [[Mira]] what she knows about Evan, and then go
 back to Rooke for her first job.
+
+## Episode 7
+
+She ran the length of the yard at the creature, and it went straight past her: as she
+read it, Billiam had only been in its way. She reached him with his neck broken and
+his eyes open, tried to heal him, and got nothing back, the same as kneeling over
+[[Theodore Blackwood|Theo]] in [[Oblong Square]]. She pulled him off the roadway and
+ran to the office door: *"Guys, Billy is dead!"* Over his body: *"What are we going to
+tell his family? He has such a nice mom."*
+
+She watched the other three flicker in and out of sight as they worked. When he woke:
+*"You recognize us? You're normal. You're not like monster."* She told him she was
+sorry they had let him go out there alone and could not get to him faster, that she
+was glad they did not have to tell his mother, and *"just don't leave our side ever
+again."*
+
+She urged Aeska to come to [[Salador's Slip]] and meet [[Madame Rooke]], who she
+thought could be useful to them, and he refused. *"I think you're wrong,"* she told
+him, and then: *"Fine... I'll find out her intentions myself."* Rooke had a job for
+her, for two marks: deliver a letter under
+Rooke's seal to the house of Amos Tilbury, on the edge of the Core, while he is at
+work, and see that his wife reads it. One of the workers, Mary, had put in a complaint
+about him. *"This sounds perfect. I am able to do this job and I will do it."* She
+told the others only that it is a delivery, *"a letter of complaint"*, for the morning.
+
+She gave [[Nell]] four names to listen for at the bathhouse: Evan Langford, Sasha
+Langford, Gertrude and Alistar. Nell will tell Madame Rooke what she hears, as she
+always does, and tell Lark too, and not tell Rooke that Lark asked. *"Just don't get
+yourself in trouble."*
+
+At [[The Cobbler's Pot]] she did not drink, and slid her beer to Felix. She said she
+turns nineteen in ninety-five days. She promised Aeska again that Rooke will get
+nothing about them: *"I promise I won't."* She told the others what is worrying her:
+the dangers keep growing and their faces are known, and they are working in the
+shadows with no allies. *"I'm sure there are people who liked Mr. Theodore and would
+help us if they just knew."* She has nowhere to keep her things and carries all of it
+with her; Aeska paid for a room for her that night. She meant to see [[Mira]] that
+evening about Evan, and whether the Brassline carries for him.

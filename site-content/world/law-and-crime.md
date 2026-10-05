@@ -25,3 +25,11 @@ Criminal groups exist, and they survive by being careful. It is squarely in thei
 Within those limits there is a healthy trade: **illegal trading, illicit goods and services, and extortion**. Most citizens have heard of such gangs without being able to name anyone in them.
 
 A visible, low-level example is [[The Below Boys]].
+
+## Being known
+
+There are no pictures to pass round, so **a face alone finds nobody.** To trace
+someone by their face you need a person who knows that face well enough to put a name
+to a description, or a magic user able to make an image of it. What gets people found
+is a **name**, which leads to employment and housing records, and the **places** they
+have been seen, which can be watched.

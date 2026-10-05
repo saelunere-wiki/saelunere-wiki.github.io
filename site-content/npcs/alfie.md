@@ -34,3 +34,8 @@ That night the party found a safe behind a painting in the back office of
 empty. Through [[Felix Klaudius|Felix]], [[Shepherd]] named Hollis and Alfie as the ones
 who had been there after Billiam left, and said there had been noises. The yard's
 employee records give the party both men's addresses.
+
+## Episode 7
+
+His address in the yard's records is midway up [[The Stacks]]. The party means to call
+on him after Hollis.

@@ -35,3 +35,9 @@ Neither Billiam nor Aeska could repair it.
 
 Asked by Felix who had been in the yard after Billiam left: *"Hollis. Alfie."* Were there
 noises? *"Noises. Yes, yes."*
+
+## Episode 7
+
+When the creature came out of the crate, Shepherd fled from it. Then it went to
+Billiam where he lay at the gate, nudged him with its lamp, hooked its lamp head round
+him and dragged him back towards the office.

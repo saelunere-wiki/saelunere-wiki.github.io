@@ -96,3 +96,10 @@ The machine Billiam and Shrapnel stripped at [[Claringbold's Yard]] was a
 to leave the Guild of Engineers, let alone reach an ordinary scrapyard. From what
 the party has found, **Theo is the one who got it there**, to Claringbold's and
 presumably to [[Fexfield Scrappers]] too.
+
+## Episode 7
+
+After he got Felix out of the place he was held, the two of them went back, or sent
+someone, and found it cleared out (see [[The Abandoned Warehouse]]). He was not a man
+who climbed by making friends: he was in the Guild because he was good at the work and
+it paid, and his own interests lay elsewhere.

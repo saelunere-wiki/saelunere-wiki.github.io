@@ -20,6 +20,9 @@ and diminishes again, and night is always very dark, with no moon or other light
 source. Stars are visible in the sky far off in the void, though nothing is known
 of their purpose or origin.
 
+**Rain is relatively rare in [[Parvo]].** It rained hard on the afternoon of Tide 05,
+756.
+
 For how time is reckoned in this world, see [[The Calendar & Seasons]].
 
 ## The compass - a disc, not a globe

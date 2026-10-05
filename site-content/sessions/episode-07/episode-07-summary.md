@@ -9,9 +9,9 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 
 # Episode 7 - A Core Where His Heart Was
 
-- **Date played:** 4 October 2026 / Tide 05, 756
+- **Date played:** 2 October 2026 / Tide 05, 756
 - **In attendance:** Aeska, Billiam, Calder, Felix, Lark
-- **In brief:** The creature kills Billiam with its first swing and walks past him to get at Felix. It turns out to be a corpse run by an essence core, and the party use that core to put Billiam back.
+- **In brief:** The creature kills Billiam at the gate and walks past him to get at Felix. It turns out to be a corpse run by an essence core, and the party use that core to put Billiam back.
 
 ## Key events
 
@@ -19,21 +19,21 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 
 ### The fight at the gate
 
-- **The thing in the crate got out and killed Billiam in one hit.** Eight feet of flesh and metal with a core glowing in its chest. A critical for **52 damage** snapped his neck, and then it stepped over him and kept walking. **It was never after him.**
+- **The thing in the crate got out and killed Billiam.** Eight feet of flesh and metal with a core glowing in its chest. He turned its first blow with a shield, and the second snapped his neck. Then it stepped past him and kept walking. **It was never after him.**
 - **It was hunting Felix**, and ran past Lark to reach him. Nobody worked out why during the fight.
-- **Aeska's Heat Metal** on the housing around its core did most of the work, giving it disadvantage for the rest of the fight.
+- **Aeska heated the iron ring that held its core** until it began to melt. That did most of the work: the creature could barely move for the rest of the fight.
 - **Calder finished it** with a magic missile through the ear, after chromatic orbs through the window.
 - **Both men from the cart are dead.** The carter from Billiam's Thunderwave, the driver bled out during the fight.
 - **Lark tried to heal Billiam and got nothing back** - the same as kneeling over Theo in [[Oblong Square]].
 
 ### Bringing him back
 
-- **The creature was a reanimated corpse.** Felix's medicine check: a dead body fitted with **an essence core much like his own**, its deficiencies corrected, by a process that was plainly not kind. Neither he nor Aeska has heard of it being done.
+- **The creature was a reanimated corpse.** Aeska's read: someone took a dead body and reanimated it with an essence core, correcting its deficiencies, by a process that was not pleasant. Felix saw that the core was **much like his own**. Neither of them has heard of it being done.
 - **He had not been dead long**, so they tried it.
 - **Three of them operated at once.** **Calder** opened Billiam's chest, making himself treat it as an academic problem. **Felix** cut the core out of the creature, which he described as looking like a worse version of himself. **Aeska** installed it, on the understanding that it is engineering and that Billiam being dead may be the only reason it could work.
 - **The core met Billiam's wild magic** and set off surge after surge: the life pulled out of everyone round the table, then all four of them flickering in and out of existence, then resistance to all damage. It lasted about thirty seconds.
 - **They healed the chest closed.** Billiam took a breath, put his own neck back, and woke to find **Calder holding his heart**.
-- **The core had been modified**, and sat inside a bucket-sized housing that boosted it. That part would not fit in a chest, so they used the core alone.
+- **The core had been modified**, and sat inside a bucket-sized housing that boosted it. That part would not fit in a chest, so they used the core alone and left the housing in the office.
 
 ### What was on the bodies
 
@@ -45,26 +45,29 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
   > *Burn this note.*
   - **So the watch was to be returned**, it cannot easily be replaced, and the party have it.
   - The crate was to be delivered **nearby**, not to the yard by name.
-- **The housing the core came out of**, bucket-sized, which boosted it. Too big for a chest, so it is still theirs.
 - The bodies and the wrecked cart were dragged out of the street. For a while, passers-by will read it as a breakdown.
 
 ### What they put together
 
 - **Three attempts now on Theo's circle**: Theo, then Harriet, now Felix. Whoever is behind it knows Felix took the ledger.
-- **Felix has seen one of these creatures before.** He killed a similar one escaping the place he was held. **It was here in Parvo, and the building is abandoned now.**
+- **Felix has seen one of these creatures before.** He killed a similar one, smaller, escaping the place he was held: [[The Abandoned Warehouse]], in the Core on the edge of the Furlong. He and Theo found it cleared out when they went back.
 - **Billiam and Felix both have essence cores where their hearts should be.**
 
 ### Lark at Salador's Slip
 
 - **[[Madame Rooke]] had a job waiting**, worth two marks. A girl hurried out of her office ahead of Lark, looking like she would rather not be seen.
-- **Deliver a letter to Amos Tilbury**, a forge worker in [[The Core|the Core]] - **while he is at work**, and make sure **his wife reads it first**. It is retaliation for a complaint one of the bathhouse workers made about him.
-- **Lark set Nell to listen** for Evan Langford, Sasha Langford, Gertrude and Alistar, and to bring it to her before Rooke.
+- **Deliver a letter to Amos Tilbury**, a forge worker in [[The Core|the Core]] - **while he is at work**, and make sure **his wife reads it first**. Mary, one of the bathhouse workers, had put in a complaint about him.
+- **Lark set Nell to listen** for Evan Langford, Sasha Langford, Gertrude and Alistar. Nell said the workers already tell Madame Rooke what they overhear, and Rooke expects it. They settled that Nell tells Rooke as usual and tells Lark too, without telling Rooke that Lark asked.
 
 ### The evening
 
-- **Calder took Billiam down into [[The Bellows|the Bellows]]** to a drop of his own.
-- **They drank at the tavern.** Billiam, hours dead, ordered a drink and was asked his age.
-- **Tomorrow:** Lark to [[Mira]] about Evan and whether [[Brassline]] carries for him, Calder to try [[Professor Benjamin Buckman|Buckman]]'s office at the College, and all of them to find the warehouse Felix was held in.
+- **Calder took Billiam down into [[The Bellows|the Bellows]]** to a drop of his own. Two [[The Below Boys|Below Boys]] stopped them for a toll, and Calder, masked, gave them the names *"Mr. C, Mr. K"*. They knew neither.
+  - **The reports:** nothing at the Volan house but servants and the family, and **somebody matching [[Shrapnel]]'s description was seen taken into the Porters' spire.**
+- **They drank at [[The Cobbler's Pot]].** Billiam, hours dead, ordered the first drink of his life. He, Lark and Calder turned out to be about nineteen, all three.
+- **Lark said they need allies**: their faces are known, they are working in the shadows, and there must be people who liked Theo and would help.
+- **[[Hollis]]'s address is [[The Firebox]]**, a boxing gym in the Stacks. [[Alfie]] lives midway up the Stacks.
+- **That evening:** Lark to [[Mira]] about Evan and whether [[Brassline]] carries for him, and Calder to look at [[Professor Benjamin Buckman|Buckman]]'s office at the College. Aeska paid for a room for Lark.
+- **Tomorrow:** all five meet at midday and go after Hollis and Alfie together.
 
 ### That night
 
@@ -74,26 +77,25 @@ summary: Billiam is killed by the thing in the crate and brought back with an es
 
 ## NPCs, locations, factions
 
-- **The creature** - eight feet, flesh and metal, a core in the chest and a chain and hook in its right hand. A corpse someone reanimated and improved. **It came addressed to the yard in a crate.**
+- **The creature** - eight feet, flesh and metal, a core in the chest and a chain and hook in its right hand. A corpse someone reanimated and improved. It came in a crate, with a note that said to deliver it *nearby*.
 - **The carter and the driver** - both dead, both unidentified. The carter was carrying the watch and the note.
 - **Amos Tilbury** - a forge worker in the Core, and the subject of Rooke's letter. He has a wife.
 - **Mary** - the bathhouse worker whose complaint started it.
 - **Nell** - now listening for four names on Lark's behalf.
-- [[Madame Rooke]] - paying for errands that ruin people quietly.
+- [[Madame Rooke]] - has given Lark her first job.
 - **Shepherd** - still on three legs, dragged Billiam's body back towards the office.
 
 ## Loot, contacts, consequences
 
-- **Billiam has an essence core where his heart was**, and Calder has the heart.
+- **Billiam has an essence core where his heart was.** Calder was holding the heart when he woke, and handed it to him.
 - **The Seeking Watch**, which points to the nearest casting of a named spell at any range. It is how they found Felix, and **its owner expects it back.**
 - **The delivery note**, which the carter was told to burn and did not.
-- **The core housing** from the creature's chest, bucket-sized, which boosted the core.
-- **Two bodies and a wrecked cart** badly hidden outside [[Claringbold's Yard]].
+- **Two bodies hidden in [[Claringbold's Yard]]**, where Felix dragged them, and a wrecked cart still in the road outside.
 - **A warehouse somewhere in Parvo**, abandoned, where Felix was held three years.
 
 ## Threads to follow
 
-- **Who sent the creature**, and how they knew Felix would be at that yard.
+- **Who sent the creature.**
 - **Which of Felix's spells was named** to the watch, and who knew it well enough to name it.
 - **Who wants the watch back**, and what they do when it does not come.
 - **Where the warehouse is**, and what is left in it.

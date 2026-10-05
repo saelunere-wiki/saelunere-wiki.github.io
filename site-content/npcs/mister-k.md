@@ -39,3 +39,9 @@ knew Calder's parents, by name and by their daily routine.
 
 - **Plays cards with** [[Evan Langford]]
 - **Has employed** [[Calder Flynn]]
+
+## Episode 7
+
+Calder used his name in [[The Bellows]], on two [[The Below Boys|Below Boys]] who had
+stopped him and Billiam for a toll: *"I'm sure that you know the names, Mr. C, Mr. K."*
+They knew neither.

@@ -129,3 +129,40 @@ The next morning he started at [[Fexfield Scrappers]]. [[Hugh Fexfield|Hugh]] le
 in and introduced himself, and [[Lucile Fexfield|Lucile]] set him on a cupboard of
 unlabelled binders: mornings only, two marks a day. He did only the work she gave
 him, to get on her good side, and they got on well.
+
+## Episode 7
+
+He knew the kind of thing it was the moment he saw it: *"Oh god, not another one."* It
+walked past Lark and Aeska to get to him, threw a hooked chain at his leg and then
+tried to lay hold of him, and never touched him. He brought a beam of light down on it
+and drew a blade of fire.
+
+It was his thought that Billiam had been dead only seconds, and that a reanimated
+corpse lay in the office. The core in its chest was much like his own. He remembered
+that the remarkable thing about his own case was that it had worked on a living person,
+and that on a dead one it might be easier, with risk. **He cut the core out of the
+creature**, which looked to him like what he could have been. When Billiam woke:
+*"Welcome back."* The others saw his own scar for the first time: clean, over the
+heart, with a faint green glow under the skin.
+
+He searched the two dead men, found a pocket watch and a note on the older one, and
+dragged both bodies off the street into the yard. When he took the watch out to show
+the others, **its needle was pointing at him**, and it stayed on him when Billiam held
+it. *"I think they were aiming for me... I think they want me back."* And: *"Just hope
+there aren't many more of these, because then I'm definitely not safe."*
+
+**What he told them.** He never learned who held him: he heard a woman's voice, mostly,
+and once a man's, out of his sight. The place was in [[The Core|the Core]] on the edge
+of [[The Furlong]]; he and Theo went back, or sent someone, a few weeks after, and it
+had been cleared out (see [[The Abandoned Warehouse]]). His parents brought him there
+*"with also some kind of essence core"*. He woke three times: once with his chest still
+open; once strapped to a chair, when a scratcher tried to free him; and a third time,
+when he spoke to a scratcher that fetched Theo. He does not know whether his parents
+sold him. He had not been ill, and he had no magic before. Getting out he killed a
+creature like this one with fire, man-sized and weaker, and ran from a second. He has
+lately found that he can heal, and turn into a scratcher.
+
+He went with Lark to [[Salador's Slip]] and took a bath. At [[The Cobbler's Pot]] he
+said that at the Guild he worked closely only with Theo, and that his own superior was
+dismissed as well. To Billiam, of the core: *"Maybe it helps you getting in control of
+your magic."* He took Billiam home drunk.

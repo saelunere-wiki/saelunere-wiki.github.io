@@ -158,3 +158,46 @@ could put them in danger, and that now one of their faces had been seen he was
 afraid, for himself, for them and for his parents. As far as Lark could tell, he
 meant every word. As a sign of good faith, since the others still did not trust him
 much, he offered to get more from a connection of his.
+
+## Episode 7
+
+When the thunder went off at the gate he warded himself and went to the office window,
+and froze there at the sight of the creature. Then he fired on it through the window,
+his eyes and the skin under his sleeves glowing red. His read of it: nothing he had
+seen before, and nearer to engineering than to the study of magic. When it was down on
+one knee he ran in beside Aeska and **killed it with a magic missile through the ear**.
+He checked that Felix was unhurt and ran out to Billiam.
+
+He has no magic that raises the dead. But it was Calder who put it into words: Felix
+had been alive when it was done to him, and Billiam was barely gone. *"He's still
+warm... can we somehow reverse engineer this."* He volunteered to **open Billiam's
+chest**, with a knife, two straight cuts, making himself set the feeling aside and treat
+it as an academic problem. He was holding Billiam's heart when Billiam woke, and gave
+it to him: *"I guess this is yours."* He asked him what it had been like, *"a dream or
+sleep... darkness or light"*. His read afterwards was that the core is now what moves
+Billiam's blood. Then he wrote the whole procedure into his notebook, step by step.
+*"I think we should just not split anymore."*
+
+At Billiam's house he asked leave to go through
+[[Professor Benjamin Buckman|Professor Buckman]]'s things, and found a desk with no
+work on it. *"I don't want to make any accusations to your father, but it feels a
+little bit weird."* He means to try the Professor's office at
+[[The College of Arcanographers|the College]], which he knows; he is on free study
+while the Professor is away.
+
+He took Billiam down into [[The Bellows]] to a drop, and would have left him at a
+distance if Billiam had let him. Stopped by two [[The Below Boys|Below Boys]] for the
+toll, he put on a mask and told them, *"this is my new associate and I'm sure that you
+know the names, Mr. C, Mr. K."* They knew neither. One shouldered him, and he threw
+them a mark, twice what they had asked, and told them to remember next time. He told
+Billiam he would explain afterwards. At the drop was a scroll sealed with a moth
+pressed into grey wax, with reports from [[Penn]] and [[Dunmore]]: nothing at the Volan
+house but servants and the family, with [[Valerin Volan]] going to the Engineers' spire
+and back each day; and somebody matching [[Shrapnel]]'s description seen taken into the
+[[The Porter's Guild|Porters']] spire. He told Billiam about Shrapnel.
+
+At [[The Cobbler's Pot]] he said he is nineteen, laid out the leads they have, and
+said the creatures put him in mind of golems, the mindless servants a wizard can build
+with very high magic. He is uneasy about the College: if the Professor is part of
+this, he does not know who else there is. That evening he went back to his dorm,
+meaning to look at the Professor's office.

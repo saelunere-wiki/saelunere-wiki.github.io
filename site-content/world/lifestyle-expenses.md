@@ -15,3 +15,13 @@ The rough daily cost of keeping yourself fed, housed, and clothed in [[Parvo]] -
 - **Comfortable** (2 ducats/day) - You spend modestly for your necessities and enjoy a few luxuries.
 - **Wealthy** (4 ducats/day) - You're accustomed to the finer things in life and might have servants.
 - **Aristocratic** (10 ducats/day) - You pay for the best and might have a staff that supports your lifestyle. Others notice your wealth and might encourage you to share it, either legally or otherwise.
+
+## What things cost
+
+Prices met in play, for scale:
+
+- **A beer** at a working tavern in the Stacks: 1 penny.
+- **A bath** at [[Salador's Slip]]: 1 penny.
+- **A room for the night** at a decent tavern: 1 mark.
+- **A fare on [[The Circular|the Circular]]**: 2 pennies.
+- **The Below Boys' toll** in [[The Bellows]]: 2 pennies a head.

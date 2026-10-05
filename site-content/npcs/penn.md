@@ -22,3 +22,9 @@ In Episode 5 Calder gave Penn the easier job: **watch the Volan building in
 
 - **Works for** [[Calder Flynn]]
 - **Works with** [[Dunmore]]
+
+## Episode 7
+
+His report reached Calder by the drop after two days: nobody at the Volan house but
+the servants and the family, with [[Valerin Volan]] going to the Engineers' spire and
+back every day.

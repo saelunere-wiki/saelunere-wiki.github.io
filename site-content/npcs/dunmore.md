@@ -30,3 +30,10 @@ clubhouse, which he and [[Penn]] cannot use themselves because they are known fa
 
 - **Works for** [[Calder Flynn]]
 - **Works with** [[Penn]]
+
+## Episode 7
+
+His report came by the same drop. People are held in the
+[[The Porter's Guild|Porters']] spire, as everyone knows, and somebody matching
+[[Shrapnel]]'s description was taken in at about the right time. He had been given no
+names, so he could match nobody else.

@@ -198,3 +198,45 @@ across the head. Billiam answered with a Thunderwave that threw both men, their 
 and the crate across the street. The driver lived. Out of the broken crate came
 **an eight-foot creature of flesh and machine** with a greenish essence core in its
 chest, and it rushed him.
+
+## Episode 7
+
+The creature came down off the wrecked cart at him. He turned its first blow with a
+shield. **The second broke his neck**, and it stepped past him. [[Lark]] reached him
+and could not heal him, and [[Shepherd]] dragged his body back towards the office.
+
+**The others put the creature's core where his heart had been.**
+[[Calder Flynn|Calder]] opened his chest, [[Felix Klaudius|Felix]] cut the core out of
+the dead creature and [[Aeska Volan|Aeska]] fitted it. The core met his own magic:
+the life was pulled out of the three of them and into him, they flickered in and out
+of sight, and magic cracked out of his body for half a minute. Then he drew a breath,
+set his own neck, and woke in great pain to find Calder holding his heart. Calder gave
+it to him: *"I guess this is yours."*
+
+He did not believe it. *"I wasn't dead, I was just knocked out, right?... No, it's not
+possible."* What he remembered was a light coming closer, and warmth, and then it was
+taken away from him and the light moved off. **He has no heartbeat**, though he has a
+pulse and he bleeds. Over his heart is a jagged cross-shaped scar with a green glow
+under the skin. As his player described him afterwards, he was not sure he was awake:
+*"more like he's still in some kind of a dream or a nightmare."* When Lark said she was
+sorry they had let him go out alone, he told her it was not her fault.
+
+At home, with his mother out, he let Calder look through his father's desk. *"He's
+for sure hiding something... He told me not to get involved. And he would only say that
+if he knows something about all this."* He went down into [[The Bellows]] with Calder,
+which he had sworn never to do again; something in him had changed, his player said,
+and the fear was easy to get past. He picked out lowtalk in the tapping of the pipes
+for Calder. When two [[The Below Boys|Below Boys]] stopped them for the toll he stepped
+in front, colder than Calder had seen him, magic crackling round him: *"What is it to
+you? Why do you want to know?"* He would not let Calder go on alone: *"this is not your
+kind of area either."* He heard Calder give the men two names, Mr. C and Mr. K.
+
+At [[The Cobbler's Pot]] he ordered a beer, **the first drink of his life**, drank it
+though he plainly did not like it, and called for another round. He, Lark and Calder
+found they are all about nineteen. He put a question to the table: three attempts now
+on Theo's people, so who gains? He wants to *"kick down some doors"*, starting with
+[[Hollis]]. Felix took him home drunk.
+
+That night he dreamed of a black void, with the figure of a woman very far off in it.
+Each time he looked towards her he woke with a feeling of heartbreak and loss, and when
+he slept again he was back in the same place.

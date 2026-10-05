@@ -32,3 +32,7 @@ he looks.** Then he went and fetched [[Delia]] rather than deal with it himself.
 
 Let Lark in at eleven at night: *"You keep turning up at the weirdest times."* Told she
 was clean this time: *"That is an improvement."*
+
+## Episode 7
+
+He is only on the door at night. By day the house has no doorman.

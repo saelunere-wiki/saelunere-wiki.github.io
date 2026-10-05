@@ -1,7 +1,7 @@
 EPISODE 7 - RAW TRANSCRIPT
 ==========================
 
-Played 4 October 2026. Three hours forty-nine minutes.
+Played 2 October 2026. Three hours forty-nine minutes.
 
 WhisperX output from the session recording, with speaker diarisation.
 

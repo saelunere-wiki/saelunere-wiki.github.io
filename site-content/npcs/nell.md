@@ -37,3 +37,14 @@ exciting. I never get to do anything exciting."*
 
 - **Friend of** [[Lark]]
 - **Works for** [[Madame Rooke]]
+- **Listening for** four names, for [[Lark]]
+
+## Episode 7
+
+Lark found her in her room in the afternoon. She was glad about the job, and said
+rooms at the house are tight. Lark asked her to listen at the bathhouse for four
+names: Evan Langford, Sasha Langford, Gertrude and Alistar. Nell said that listening
+is what they do already: the workers tell [[Madame Rooke]] what they hear, and Rooke
+knows it. They settled that Nell will tell Rooke as usual and tell Lark too, without
+telling Rooke that Lark asked. *"I can be nonchalant."* She asked whether Lark was
+going to beat someone up.

@@ -20,3 +20,10 @@ More recently, a gang of upstarts calling themselves [[The Below Boys]] have
 started charging tolls to those travelling through the underground spaces.
 
 ![The residential tunnels of the Bellows](_images/the-bellows.webp)
+
+## Episode 7
+
+Calder took Billiam down to collect a report left for him at a steam outlet. On the
+way two [[The Below Boys|Below Boys]] stopped them for *"the informal toll system"*:
+two pennies each. Billiam picked out lowtalk in the tapping and whistling of the
+pipes, which Calder had heard for years without knowing it was speech.
