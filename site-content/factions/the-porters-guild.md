@@ -16,6 +16,7 @@ queues. The guild holds a seat on [[The City Council]].
 
 - **Headman:** [[Sasha Langford]]
 - **Sub-faction:** [[The Wainwright's Guild]]
+- **Colours:** green
 
 ## The Spire
 

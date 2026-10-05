@@ -19,6 +19,8 @@ Aeska told [[Billiam Buckman|Billiam]] that his father **worked closely with
 Aeska has not been back in two years and does not know whether the two still work
 together.
 
+The Volan house colour is **purple**.
+
 ## Relationships
 
 - **Father of** [[Aeska Volan]]
