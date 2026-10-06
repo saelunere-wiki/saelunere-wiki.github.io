@@ -15,6 +15,6 @@ summary: Billiam is killed by the thing in the crate, and brought back with an e
 - **In brief:** The creature kills Billiam at the gate. It was a corpse run by an essence core, it was hunting Felix, and the party use what was in its chest to put [[Billiam Buckman|Billiam]] back.
 
 - [[Episode 7 - Summary]] - the scannable list of what happened
-- Episode 7 - Story - the narrative retelling, not written yet
+- [[Episode 7 - Story]] - the narrative retelling (optional, reads like a book)
 
 [Raw transcript of Episode 7](https://github.com/saelunere-wiki/saelunere-wiki.github.io/tree/main/site-content/sessions/episode-07/transcript) - for checking details, or writing your own version.
