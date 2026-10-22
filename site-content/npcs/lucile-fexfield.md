@@ -52,3 +52,9 @@ talked:
 
 Felix's first day: a cupboard of unlabelled binders nobody had touched in years.
 **Mornings only, two marks a day.** They got on well.
+
+## Episode 8
+
+Felix's second morning. She pointed him at the files and left him to it, having plenty
+of her own to do, and seems happy with his work. His pay is **one mark a morning**:
+the two marks of his first shift were a starting bonus.

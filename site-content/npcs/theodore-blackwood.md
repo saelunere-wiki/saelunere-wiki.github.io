@@ -103,3 +103,9 @@ After he got Felix out of the place he was held, the two of them went back, or s
 someone, and found it cleared out (see [[The Abandoned Warehouse]]). He was not a man
 who climbed by making friends: he was in the Guild because he was good at the work and
 it paid, and his own interests lay elsewhere.
+
+## Episode 8
+
+A serial number on [[The Blueprints]] from Professor Buckman's office matches one in
+his ledger. Aeska's reading: Theo must have sent one of those machines to
+[[Claringbold's Yard]] on purpose.

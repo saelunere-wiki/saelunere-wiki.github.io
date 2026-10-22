@@ -1,7 +1,7 @@
 EPISODE 8 - RAW TRANSCRIPT
 ==========================
 
-Played 8 October 2026. Three hours fourteen minutes.
+Played 7 October 2026. Three hours fourteen minutes.
 
 WhisperX output from the session recording, with speaker diarisation.
 

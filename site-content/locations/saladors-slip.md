@@ -55,3 +55,10 @@ passing the time. Felix took a bath while Lark went upstairs.
 [[Madame Rooke]] gave Lark her first job, a letter to deliver. From [[Nell]], Lark
 learned that the workers tell Madame Rooke what they overhear, and that she expects
 them to: it is where her information comes from.
+
+## Episode 8
+
+Lark delivered [[Madame Rooke]]'s letter on Tide 06. Amos Tilbury was at home, and she
+ended by reading it aloud on his doorstep, in front of his wife. She told him he is
+not welcome at the Slip any more, and, with Felix beside her in the shape of a howl,
+that the house has guard howls.

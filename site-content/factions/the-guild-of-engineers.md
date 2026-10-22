@@ -67,3 +67,12 @@ they would deal with someone who became a problem. He did not say who, or how, o
 how permanent it is.
 
 He is the only source for this. Nobody has seen it done.
+
+## Episode 8
+
+[[The Secondment Agreement]], taken from Professor Buckman's office at the College,
+releases him to the Guild for the whole of his time, to live and work inside its
+spire. It is signed for the Guild by *"V.V., Head of Operations"*, which the party
+takes for [[Valerin Volan]]. [[The Blueprints]] from the same office show an engine
+built round a great many prototype cores, with a serial number that matches one in
+[[Theodore Blackwood|Theo]]'s ledger.

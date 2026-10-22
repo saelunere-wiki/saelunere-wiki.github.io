@@ -107,3 +107,14 @@ pocket watch and a note by the older man (see [[The Seeking Watch]]), dragged bo
 bodies off the street and hid them in the yard. The wrecked cart is still in the road
 outside. The creature's body is in the office, with the bucket-sized housing its core
 sat in.
+
+## Episode 8
+
+[[Alfie]] admitted to Billiam that he and [[Hollis]] cut open Shrapnel's safe. It was
+Hollis's idea, since they were owed wages and Shrapnel was not coming back, and Hollis
+knew where the safe was. Inside was a box of cores, which they split. Billiam took
+Alfie's share from his room: ten [[Prototype Cores|prototype cores]].
+
+[[The Blueprints]] that Calder took from Professor Buckman's office show the same kind
+of machine Billiam and [[Shrapnel]] took apart here, and one serial number on them
+matches Theo's ledger.

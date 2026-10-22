@@ -39,3 +39,14 @@ employee records give the party both men's addresses.
 
 The address he gave in the yard's records is [[The Firebox]], a boxing gym in the
 Stacks. Billiam wants to start with him.
+
+## Episode 8
+
+By [[Alfie]]'s account, emptying the safe was Hollis's idea: they were owed wages, and
+Shrapnel was not coming back. Hollis knew where the safe was. They split a box of
+cores from it. **Hollis has not sold his share. He is keeping it at [[The Firebox]]**,
+and looking for a buyer for both of them.
+
+The party did not go to him. Aeska expects Alfie to warn him. Lark and Calder wanted
+to get there first, and Billiam said there was no reason to: what they wanted was
+information, and they had it.

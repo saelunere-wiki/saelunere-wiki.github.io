@@ -7,7 +7,7 @@ status: Porter's Guild agent
 pronouns: he/him
 summary: The silent, scarred half of the pair who came to the Plumb and Bob, and Gertrude's son.
 portrait: _images/the-scarred-man.webp
-aliases: [The scarred man, Alistair]
+aliases: [The scarred man, Alistair, Alistar Marin]
 ---
 
 # Alistar
@@ -67,3 +67,8 @@ without a sound. Felix thought him far more hurt than two punches should leave t
 who took Shrapnel. Gertrude walked him out the back as a drunk.
 
 **His name, and that he is Gertrude's son, were said for the first time here.**
+
+## Episode 8
+
+**His surname is Marin**, like his mother's. [[Mira]] says he is not often seen
+around.

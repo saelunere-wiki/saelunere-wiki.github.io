@@ -31,3 +31,11 @@ poorer parts of the city and the waves of refugees who arrived after
 It was here, among the community he grew up in, that [[Theodore Blackwood]] kept his home.
 
 ![The Stacks](_images/the-stacks.webp)
+
+## Episode 8
+
+Midway up, the houses are built into the sides of one another in rows, each with
+another house on top of it and a wooden catwalk round it. In the rain, people cross
+from balcony to balcony to keep dry. A single person might have one room built into
+the side of a stack, with a stovepipe and a skylight, and beyond the skylight the
+rooftops are smoke and steam.

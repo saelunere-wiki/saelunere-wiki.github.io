@@ -20,6 +20,11 @@ powerful than normal - a new generation, from a prototype that had failed, was
 highly classified, and should never have left the Guild of Engineers. It reached an
 ordinary scrapyard all the same. None of the party had heard of such a thing, Aeska included.
 
+**These are [[Prototype Cores|prototype cores]].** In Episode 8 the party saw
+blueprints for the machine they came out of: an engine that sets a great many of them
+together to make a huge amount of power in a small space, with fewer cores than that
+would normally take. The party now holds ten.
+
 The economics matter: **buying a new essence core costs more than recycling an old one**, so **scrapping essence machines is commonplace**. Salvage, breaking, and recycling are ordinary trades, and a steady supply of dead machinery flows through the city to be picked apart.
 
 ## Medicine

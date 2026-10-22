@@ -98,3 +98,18 @@ on it, and little sign that he is often there. Billiam: *"He's for sure hiding
 something... He told me not to get involved. And he would only say that if he knows
 something about all this."* Calder says the Professor is away from the College at
 present, and means to try his office there.
+
+## Episode 8
+
+On the night of Tide 05 Calder broke into his office at
+[[The College of Arcanographers|the College]]. It was half empty: gaps on the shelves,
+and his chests and instruments gone. There was a ward on the door, which Calder took
+for an alarm. Calder came away with [[The Secondment Agreement]], which releases the
+Professor to [[The Guild of Engineers]] for the whole of his time, to live and work
+inside its spire, and with [[The Blueprints]], drawings of the kind of machine Billiam
+and [[Shrapnel]] took apart at the yard. He left behind a wrapped package and a
+College file.
+
+Calder, to Billiam: *"he's definitely in this."* Billiam agreed that his father is
+hiding something, and said the others have treated him better these last few weeks
+than his father has.

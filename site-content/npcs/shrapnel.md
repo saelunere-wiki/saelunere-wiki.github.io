@@ -68,3 +68,13 @@ worth more to them alive, and might be traded back.**
 
 Calder's people report that somebody matching his description was seen taken into the
 [[The Porter's Guild|Porters']] spire at about the time he disappeared.
+
+## Episode 8
+
+[[The Blueprints]] from Professor Buckman's office show the machine he and Billiam took
+apart. Billiam remembered that Shrapnel had known how to open it, and had told him to
+keep it between the two of them and not tell the others at the yard. Whether that was
+a scrapper's knack, or because he had opened others, Billiam cannot say.
+
+[[Alfie]] admitted that he and [[Hollis]] cut open Shrapnel's safe after he was taken,
+and split a box of cores from it.

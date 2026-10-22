@@ -42,3 +42,12 @@ independent outfits whose membership makes up the guild.
 In practice that means dues, and not much else. People in heavy green coats from
 the guild's own management came by the depot from time to time to collect what
 was owed, and [[Mira]] paid and stayed well clear of guild politics.
+
+## Episode 8
+
+Lark came back at about half past nine on the night of Tide 05. The big cart doors
+were shut, and she knocked at the workers' side door. [[Denton]] opened it, said he had
+had a late run, and let her up to [[Mira]], who was still in her office on the
+mezzanine over the floor. Mira told her what the guild says of [[Evan Langford]], and
+that the Brassline keeps out of it: the crew does no internal guild work, and nothing
+has gone from the depot to him or to his people.

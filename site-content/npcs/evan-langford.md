@@ -54,3 +54,19 @@ of it.
 
 [[Madame Rooke]] calls him *"well known... in certain circles"*, and no surprise in
 *"extracurricular activities"*.
+
+## Episode 8
+
+[[Mira]] of [[The Brassline]] told Lark what the guild says of him. He is mixed up in
+shady work and has a crew of his own, not one of the legitimate crews, doing smuggling
+and jobs off the books. Everyone in the guild knows, and nothing is done, because he
+is the Headman's son. *"Not the kind of person you want to cross."* He lives in the
+family estates at the top of the Porters' spire, and is not short of money.
+
+**What he cares about is his reputation.** His father will not be Headman forever, he
+has ambitions for the guild and for making a splash in the city, and he is very
+particular that there are no black marks on his name. What he gets up to is known in
+the guild and not said in polite company.
+
+The party's first thoughts on that: Lark's, to *"untidy his image"*; Aeska's, to learn
+his operations and interrupt them.

@@ -25,3 +25,5 @@ Prices met in play, for scale:
 - **A room for the night** at a decent tavern: 1 mark.
 - **A fare on [[The Circular|the Circular]]**: 2 pennies.
 - **The Below Boys' toll** in [[The Bellows]]: 2 pennies a head.
+- **An ordinary essence core**, sold on: about 30 ducats.
+- **A morning's bookkeeping** at a scrapyard: 1 mark.

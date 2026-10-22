@@ -240,3 +240,42 @@ on Theo's people, so who gains? He wants to *"kick down some doors"*, starting w
 That night he dreamed of a black void, with the figure of a woman very far off in it.
 Each time he looked towards her he woke with a feeling of heartbreak and loss, and when
 he slept again he was back in the same place.
+
+## Episode 8
+
+He woke in shock at having no heartbeat, and it took him a moment to remember why. He
+had slept badly, and the scar was still red raw. His mother thinks he still has a job
+to go to. He put on extra clothes to hide the scar, ate breakfast, and left as though
+for work. Then he waited out of sight until she went out at eleven, and **searched her
+room**, because Calder had gone through his father's things. He found nothing.
+
+At [[The Cobbler's Pot]], [[The Secondment Agreement]] showed him what his father is
+doing and why he is never at home. When Calder apologised for breaking into the
+office: *"you do not have to apologize. I'm on your side."* And: *"these last few
+weeks, most of you have treated me better than my father had. I'd say if we're talking
+about closeness, I'd still be on your side."* The others could tell he meant it, and
+that he was not clear in his mind after the day before. He knew the drawing in
+[[The Blueprints]] at once: the machine he and [[Shrapnel]] took apart. He remembered
+that Shrapnel had known how to open it, and had told him to keep it between the two of
+them.
+
+He had wanted [[Hollis]] first, calling [[Alfie]] *"more like a sheep following
+Hollis"*. He went to Alfie's door alone, walked him back into his room with magic
+flickering round him, and said it straight: he thought they had stolen from the yard.
+Alfie admitted it and offered to split his share. When Aeska's spell forced the rest
+out of him and Alfie went for the skylight, **Billiam let him go.** Then he turned on
+Aeska and shoved him: *"Why can't you just trust me and just let me handle this for
+once?... He only got away because you started using magic again behind my back."* He
+found a linen sack with **ten prototype cores** in it and took it. He would not go on
+to Hollis: *"It's not about reclaiming all the essence cores. It's about finding
+information, which we have now."* He wanted somewhere private to look at them, and
+offered his own house.
+
+There was somebody in his parents' room. He kicked the door open and found his mother
+in bed with [[Denton]]. *"Oh, Billy, you were supposed to be at work."* He would not
+let her close the door. He shouted *"Sit down!"* at her with a spell in it, and it did
+not take; power surged through him instead. He struck at Denton's mind, and then, in
+something near a blind rage, went at him with his fists, and kept going through
+everything the others shouted. Denton's blows hardly told on him. Reaching over Lark
+and Calder to get at Denton, **he punched Lark in the face.** The episode ends with
+him held by Felix's magic in mid-punch.

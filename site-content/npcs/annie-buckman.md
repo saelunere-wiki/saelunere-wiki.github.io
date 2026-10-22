@@ -32,6 +32,7 @@ at his work on some kind of project, and she is quietly unhappy about it.
 - **Mother of** [[Billiam Buckman]]
 - **Married to** [[Professor Benjamin Buckman]]
 - **Nurse at** [[The Institute of Physikers]]
+- **Is seeing** [[Denton]]
 
 ## The night the party stayed
 
@@ -60,3 +61,18 @@ floor for Felix and Lark, who never came.
 ## A noma
 
 She is a noma, one of the uncommon people who cannot use magic at all *(Episode 6)*.
+
+## Episode 8
+
+In the morning she found Felix asleep in her front room, not having been told he was
+there. She told him not to be a bad influence on her son, offered him sausage and
+eggs, thanked him for bringing Billiam home, and said he is welcome to stay any time.
+She shouted Billiam up for work, and told him she had the late shift and was not
+leaving until eleven.
+
+That afternoon Billiam came home with the others and kicked open her bedroom door.
+She was in bed with [[Denton]], a courier from [[The Brassline]]. *"Oh, Billy, you
+were supposed to be at work... you weren't supposed to see any of this."* She tried to
+shut the door, and then to steer him out. When he went for Denton she held the
+bedsheet round herself and tried to pull him off: *"Billy, stop... nothing good is
+going to come of this."*

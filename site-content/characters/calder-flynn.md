@@ -201,3 +201,39 @@ said the creatures put him in mind of golems, the mindless servants a wizard can
 with very high magic. He is uneasy about the College: if the Professor is part of
 this, he does not know who else there is. That evening he went back to his dorm,
 meaning to look at the Professor's office.
+
+## Episode 8
+
+He left his things in his dorm and went up the spire to
+[[Professor Benjamin Buckman|Professor Buckman]]'s office. He sensed a ward on the
+door and took it for an alarm of the kind he can cast himself. He shouldered the door
+to set it off, heard nothing, and could not tell whether it had gone. He picked the
+lock anyway, went in, and made himself invisible. The office was half empty. He took
+[[The Secondment Agreement]] and [[The Blueprints]], unread, and left a paper-wrapped
+package and a College file. Then he knocked a ladder over.
+
+The College secretary came with her keys and found the door unlocked. He slipped out
+past her, and she felt him go and sensed the magic on him: *"Intruder! Stop!"* She
+tried to hold him with a spell and he shook it off. He stepped up the lift shaft to
+the floor above, which ended the invisibility, took out his notebook, and looked down
+as if he had been reading there all along. *"Intruder? Oh, that is the noise that you
+were yelling."* She believed him, asked whether he had seen where they went, and sent
+him to his room. In the morning the College had gossip, and no leads or suspects that
+he heard of. The blueprints meant nothing to him.
+
+At [[The Cobbler's Pot]] he told the others, and handed the agreement to Aeska: *"I
+think this is your father's signature down there."* Of the break-in: *"In my head, it
+went much smoother than in reality."* Lark, watching him tell it, saw tension and
+surprise and some enjoyment, and thought that he really likes a dangerous situation.
+He apologised to Billiam for going through his father's office: he values the
+Professor as a scholar and a supervisor, *"but he's definitely in this."*
+
+He would not let Lark deliver her letter alone, and watched from down the street with
+Felix. **He saw Felix walk into an alley and turn into a howl**, the first of them to
+see the change itself, and stood with his mouth open. Then he gave Lark a thumbs up.
+
+At Billiam's house he stayed outside at first, in case the Professor was at home. When
+the fighting started he and Felix both shouted *"Stop the fighting!"* with their
+voices made huge by magic, and it did nothing. He got between Billiam and Denton and
+could not hold them apart. Under Aeska's silence he shouted with no sound coming out,
+and his *"Stop!"* landed as the silence dropped, into a room gone still.

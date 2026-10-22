@@ -91,3 +91,16 @@ rather not talk about it at all.
   back.
 - **[[Evan Langford]]**, son of the head of the guild, was playing cards in the best
   room upstairs with the two agents who have been hunting the party.
+
+## Episode 8
+
+- **What the guild says of [[Evan Langford]]**, by [[Mira]]'s account: he is mixed up
+  in shady work, which is not uncommon among the guild's direct workers, and has a crew
+  of his own doing smuggling and jobs off the books. Everyone in the guild knows,
+  nobody says it in polite company, and nothing is done because he is the Headman's
+  son.
+- **He lives in the family estates at the top of the Porters' spire.**
+- **What he cares about is his name.** His father will not be Headman forever, he has
+  ambitions for the guild, and he keeps himself clean in ordinary company.
+- **The two agents are [[Gertrude]] Marin and her son [[Alistar]].** She is a gifted
+  spellcaster, high in the guild, who no longer runs deliveries.

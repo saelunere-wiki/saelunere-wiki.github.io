@@ -28,3 +28,10 @@ that he goes to the Engineers' spire and back every day.
 
 - **Father of** [[Aeska Volan]]
 - **Worked closely with** [[Professor Benjamin Buckman]]
+
+## Episode 8
+
+[[The Secondment Agreement]] that Calder took from Professor Buckman's office is signed
+for the Guild of Engineers by *"V.V., Head of Operations"*. Calder took the signature
+for his, and so did the others: **the Head of Operations at the Guild of Engineers is
+Aeska's father.**

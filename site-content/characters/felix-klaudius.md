@@ -166,3 +166,26 @@ He went with Lark to [[Salador's Slip]] and took a bath. At [[The Cobbler's Pot]
 said that at the Guild he worked closely only with Theo, and that his own superior was
 dismissed as well. To Billiam, of the core: *"Maybe it helps you getting in control of
 your magic."* He took Billiam home drunk.
+
+## Episode 8
+
+He slept in the Buckmans' front room, where [[Annie Buckman|Annie]] found him in the
+morning. She offered him breakfast, which he declined, thanked him for bringing
+Billiam home, and told him he is welcome any time. At [[Fexfield Scrappers]] he again
+did only the job, to stay on [[Lucile Fexfield|Lucile]]'s good side and build some
+trust, and began to get the files into order. She seems happy with his work. **His pay
+is one mark a morning**: the two marks of his first shift were a starting bonus.
+
+He went with Calder to watch Lark deliver her letter. When the man at the door lunged
+for it, Felix walked into an alley and **became a howl**, the sleek kind he had seen
+in the Bellows. Calder watched him do it. He walked up beside Lark and growled, and
+the man backed away. He stayed a howl until the five met up again, drawing a few odd
+looks in the street, and changed back in an alley before they went on.
+
+At Billiam's house he was the one who heard somebody in the parents' room. He looked
+over Billiam's shoulder, saw, and walked straight back out to tell the others: he was
+not dealing with this. When the fighting started he and Calder both shouted *"Stop the
+fighting!"* with their voices made huge, and it did nothing. He saw Aeska pick up the
+sack of cores and put it away. He told Aeska to hold Denton while he held Billiam, and
+when Aeska said Billiam would not thank them for it: *"I don't care."* At the end he
+held Billiam in mid-punch.

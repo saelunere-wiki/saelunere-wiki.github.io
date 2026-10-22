@@ -7,7 +7,7 @@ status: Porter's Guild agent
 pronouns: she/her
 summary: A Porter's Guild agent looking for whoever did business with Theo.
 portrait: _images/the-woman-in-green.webp
-aliases: [The woman in green]
+aliases: [The woman in green, Gertrude Marin]
 ---
 
 # Gertrude
@@ -77,3 +77,9 @@ to sort this out for us."* She walked him down the stairs and out the back as a 
 Felix, as a scratcher on the floor, saw and heard all of it.
 
 **Her name was said for the first time here, and Alistar is her son.**
+
+## Episode 8
+
+**Her surname is Marin.** [[Mira]] knew her from Lark's description: a big woman, a
+spellcaster high up in [[The Porter's Guild]], gifted with magic, who does not do
+deliveries much any more. Her son is [[Alistar]].

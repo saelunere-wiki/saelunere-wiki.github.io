@@ -18,3 +18,10 @@ of house that pays much for a musician. A beer is a penny.
 The five met here in the afternoon of Tide 05, after the fight at
 [[Claringbold's Yard]], and talked over what to do next.
 [[Billiam Buckman|Billiam]] ordered the first drink of his life.
+
+## Episode 8
+
+The five met here again at about half past twelve on Tide 06, after Felix's shift.
+[[Calder Flynn|Calder]] told the others about breaking into Professor Buckman's office,
+and handed Aeska [[The Secondment Agreement]]. The blueprints they kept for somewhere
+less public.

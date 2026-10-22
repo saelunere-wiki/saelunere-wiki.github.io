@@ -38,7 +38,11 @@ episode: 5-6
 text: [[Fexfield Scrappers]] names the buyer. That night Aeska plays for [[Evan Langford]] above [[The Head of Steam]], and a masked man walks out through the wall onto Billiam's ledge.
 ---
 date: Tide 05, 756
-episode: 6-7
-status: open
+episode: 6-8
 text: A dead man run by an essence core steps out of the crate at [[Claringbold's Yard]] and kills Billiam. The others cut the core out of it and put it where his heart was, and brought him back.
+---
+date: Tide 06, 756
+episode: 8
+status: open
+text: Alfie gives up ten of the cores from [[Shrapnel]]'s safe and runs. Billiam comes home to find his mother with [[Denton]], and it comes to blows.
 ```

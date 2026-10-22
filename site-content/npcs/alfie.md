@@ -3,7 +3,8 @@ type: npc
 name: Alfie
 faction: Claringbold's Yard
 group: Work & Crew
-status: Left Claringbold's Yard
+status: On the run
+portrait: _images/alfie.webp
 pronouns: he/him
 summary: A young hand at Claringbold's Yard who hid in a bucket through the raid.
 ---
@@ -39,3 +40,25 @@ employee records give the party both men's addresses.
 
 His address in the yard's records is midway up [[The Stacks]]. The party means to call
 on him after Hollis.
+
+## Episode 8
+
+He lives in one messy room built into the side of a stack, with a big stovepipe and a
+skylight. Billiam came to the door alone. Alfie was nervous, scratching at his neck:
+no luck finding work, and of Fexfield, *"uptight lot, they are."*
+
+Billiam told him he knew they had stolen from the yard, and Alfie admitted it. *"Hollis
+said we could just, we had to take some stuff because we owed wages... it's not
+stealing because it's kind of our money anyway."* The yard was wrecked and there was
+nothing worth taking, except that [[Hollis]] knew where Shrapnel's safe was. They used
+the yard's tools to get into it. Inside was a box of essence cores, which he took for
+leftovers from other jobs, and they split them. He offered to split his own share with
+Billiam.
+
+Then, under a spell of Aeska's that compelled the truth: *"Hollis hasn't sold his stuff
+yet. He's keeping it in the Firebox. I think he's going to find a seller for us."* He
+realised what he had said, shoved Billiam, failed to get past him, and went out
+through the skylight. Billiam let him go. He ran over the rooftops, clutching his head
+where Aeska's magic had caught him, and was lost in the smoke and steam.
+
+He left behind a linen sack with ten prototype cores in it, which Billiam took.

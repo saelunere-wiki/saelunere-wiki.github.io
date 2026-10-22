@@ -209,3 +209,42 @@ Theo was too junior for him to notice. He paid for a tavern room for Lark that n
 He took charge of the watch found on the dead carter, having seen that it had a core
 in it. That evening he identified it as [[The Seeking Watch]], and was left asking
 which of Felix's spells had been named to it.
+
+## Episode 8
+
+He did not play that night. He had seen Billiam die and brought him back, and he drank
+alone at the bar until Lark came for her key. At his door she apologised for pushing
+him to show himself and to meet Madame Rooke, and asked what had happened with his
+family. He told her there is not much he has not already told them all: being genuine
+with them had seemed the only way to get their help, he has kept away from his family
+for two years, and he surfaced only because Theo died. Would he go on hiding once they
+know what happened to Theo? *"We'll see, won't we?... I can only hope I will be able to
+do the right things when that time comes."* And: *"there are some things that I don't
+share."* His safety is his own concern, he said, and he would prefer that nothing
+happens to the rest of them. He told her he cannot pay for her room forever.
+
+At [[The Cobbler's Pot]] Calder handed him [[The Secondment Agreement]] as his
+father's signature. To Aeska it was one more contract of the kind he used to handle.
+He would not have the blueprints opened in the taproom, and took the others somewhere
+private. He reads Technic, and found on [[The Blueprints]] a serial number that
+matches one in Theo's ledger. His reading: Theo must have sent one of these machines
+to the scrapyard on purpose, and whatever Billiam's father was working on was
+important enough to order a hit on Theo. Of [[Evan Langford]], he suggested learning
+his operations and interrupting them, since word travels fast in the city.
+
+It was his idea that he and Billiam go to [[Alfie]]'s while the others went with Lark,
+and that Billiam knock alone. He waited in the street in disguise, and from there
+**put a compulsion to tell the truth on the room**, which caught Billiam too. Alfie
+gave up Hollis and the Firebox, realised it, and ran. Aeska tried twice to stop him on
+the rooftops, and failed. Inside: *"Billy, did you let him get away? He's gonna go tell
+Hollis now."* Billiam shoved him. *"I didn't use magic against you. I used magic
+because I thought it would help."* *"Well, it didn't. So next time, don't do that."*
+*"Fine."* He left the next decision to Billiam and kept to himself.
+
+At Billiam's house he waited outside, set on not casting at Billiam again: *"at the
+moment, I won't make the situation any better if I appear."* When he did go in, he
+picked up the sack of cores Billiam had dropped at the bedroom door and put it away;
+Felix saw him do it. Felix wanted to hold the two of them by magic. Aeska said Billiam
+would not thank them, and cast Silence over the room instead, hoping the shock would
+stop it. It did not. When Billiam's punch caught Lark, he dropped the silence and held
+Denton.

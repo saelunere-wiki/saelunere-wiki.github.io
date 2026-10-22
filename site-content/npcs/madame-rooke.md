@@ -102,3 +102,13 @@ for. *"I admire your confidence."*
 - By [[Nell]]'s account Rooke has been in an *"on and off mood"*.
 - The people who work for her tell her what they overhear: *"that's how Madame Rook
   gets all of her information."* She knows they listen. *"That's kind of the point."*
+
+## Episode 8
+
+Her letter was delivered on Tide 06, and not as she asked. Amos Tilbury was at home.
+His wife would not open it and handed it to him, and he threw it back. So Lark opened
+it and read it aloud on the doorstep: *"we have received a complaint from one of our
+ladies, Mary, at the bathhouse, who complained that you were very rough in your
+handling of her."* He took it from her and crumpled it. Lark told him he is not
+welcome at [[Salador's Slip]] any more, and that the house has guard howls. Mrs
+Tilbury heard all of it. Lark has not yet been back to report.

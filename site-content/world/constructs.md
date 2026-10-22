@@ -74,6 +74,9 @@ in poorer neighbourhoods.
 
 ![A Howl](_images/howl.webp)
 
+A howl in the street turns heads. They are guild and enforcement animals, uncommon in
+the residential Stacks, and the sleek kind bred for guard work more so. *(Episode 8.)*
+
 ## Repairs
 
 Repairing a construct is specialist work. Constructs are the business of

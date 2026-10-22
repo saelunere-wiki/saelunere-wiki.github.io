@@ -38,3 +38,25 @@ People in heavy green coats from the guild's own management did visit the
 
 Mira paid her dues and stayed well clear of guild politics. She was not working
 her way up and had no ambitions in that direction.
+
+## Episode 8
+
+Lark came back at about half past nine on the night of Tide 05 and found her still in
+her office. She asked about [[Evan Langford]]. Mira knows of him, and keeps away: *"he
+gets involved in a lot of shady shit"*, which is not uncommon among the guild's own
+people. He has a crew of his own doing smuggling and work off the books, and because
+he is the son of the head of the guild there is not much anyone can do about it. He
+lives in the family estates at the top of the Porters' spire.
+
+*"The only thing I can tell you about Evan is that he really cares about his
+reputation."* His father will not be around forever, he has ambitions for the guild,
+and he is very particular that there are no black marks on his name. He is not short
+of money. *"You just want to be careful with him."*
+
+She knew the woman Lark described: a big woman, a spellcaster high up in the guild,
+gifted with magic, who does not do deliveries much any more. *"Marin, that's the
+name."* [[Gertrude]] Marin, with a son called [[Alistar]]. The Brassline does no
+internal guild work, and nothing has gone to any of them from the depot.
+
+When Lark asked her to say hello to Briggs: *"they all miss you, you know, even if they
+didn't show it so much when you worked here. It was nice having you around."*

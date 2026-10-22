@@ -237,3 +237,46 @@ shadows with no allies. *"I'm sure there are people who liked Mr. Theodore and w
 help us if they just knew."* She has nowhere to keep her things and carries all of it
 with her; Aeska paid for a room for her that night. She meant to see [[Mira]] that
 evening about Evan, and whether the Brassline carries for him.
+
+## Episode 8
+
+She knocked at the Brassline's side door at about half past nine, and [[Denton]]
+opened it. *"I thought you got fired?"* *"I didn't get fired. I resigned."* [[Mira]]
+told her what the guild says of [[Evan Langford]]: shady work, a crew of his own, and
+nothing done about it because of who his father is. **What he cares about is his
+name.** Mira gave her a surname for [[Gertrude]], Marin, and the son's name,
+[[Alistar]], and said the Brassline has carried nothing for any of them. At the door:
+*"they all miss you, you know... It was nice having you around."*
+
+That night, at Aeska's door, she apologised for pushing him to show himself and to
+meet Madame Rooke, and asked what had happened with his family. What worries her, she
+told him, is that if his family take him, the five of them are the only ones who would
+know he was gone. *"I feel like we are all standing for each other."* Billiam and
+Calder have families and people to lose. *"Thank you for saving him."*
+
+At [[The Cobbler's Pot]] she called Calder's break-in really risky. She passed on
+Mira's news and said Evan's good name is the thing to go after: *"If we can untidy his
+image, you know?"* Of [[Shrapnel]]: *"Either way, we have to get him back."*
+
+She would have delivered [[Madame Rooke]]'s letter alone, and told Calder so. The
+house was midway up the Stacks. Mrs Tilbury would not open her husband's post and
+called him to the door: **he was at home.** He threw the letter back and called her a
+scammer. She opened it and read it aloud, a complaint from the bathhouse that he had
+been very rough with Mary, until he lunged and took it from her. She told him he is
+not welcome at [[Salador's Slip]] any more, and told his wife she is better off
+without him. A howl came out of an alley and growled at him; she guessed it was Felix,
+and told Tilbury the Slip has guard howls. She bowed to Mrs Tilbury and wished her a
+good evening. Behind the closing door, his wife: *"we're going to be having a talk
+about your nightly activities."* As her player put it, Lark was so nervous of ruining
+a job from Madame Rooke that she fumbled it.
+
+When Alfie ran she wanted to race to Hollis: *"I can run fast? I can go right now?"*
+Billiam said no, and she let it be: *"If you trust that he didn't have anything else
+that we should know, then we trust you."*
+
+At Billiam's house she looked into the bedroom behind him and saw Denton, her old
+crewmate, in his mother's bed. She darted out, and outside dropped to a squat: *"oh,
+it's Denton. I hope he beats him up."* When the fighting started she went in through
+the others: *"Denton, she's married! What are you doing?"* She shoved him, **took
+Billiam's punch in the face** when it missed him, and swept Denton's legs from under
+him with her staff.
